@@ -1,0 +1,367 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007 NEC Corporation
+# All rights reserved.
+#
+
+=head1 NAME
+
+I<symfilter> - ELF symbol table filter
+
+=head1 SYNOPSIS
+
+B<symfilter> [options] I<file>
+
+=head1 DESCRIPTION
+
+I<symfilter> is a utility program to remove symbol information from
+ELF symbol table according to the specified filtering rule.
+
+=head1 OPTIONS
+
+The following options can be specified:
+
+=over 4
+
+=item B<-v>
+
+Verbose mode.
+
+=item B<-o> I<outfile>
+
+Specify path for new ELF image.
+If omitted, input file will be modified.
+
+=item B<-e> I<pattern>
+
+Specify filtering rule.
+
+See B<RULE FORMAT> for more details.
+
+=item B<-f> I<file>
+
+Specify file path that contains filtering rules.
+Each rule must be written in one line.
+Just like shell script, '#' treated as comment mark.
+
+See B<RULE FORMAT> for more details.
+
+=item B<-r> I<tag>:I<symbol>
+
+Set value of the specified symbol as RTLDINFO.
+This option is used to build libc.so.1.
+
+Currently, I<symfilter> can't expand ALLOC'ed section.
+So when B<-r> option is specified, I<symfilter> replaces dynamic entry
+which has I<tag> as d_tag value with DT_SUNW_RTLDINF.
+Fatal error will be caused if the specified tag is not found in .dynamic
+section.
+
+=item B<-C>
+
+Remove CTF data section.
+
+This option can't be specified with B<-X>.
+
+=item B<-E>
+
+Change default rule to "exc".
+
+Without this option, symbols that don't match any rule will remain in the
+symbol table, If B<-E> is specified, they will be eliminated from the
+symbol table.
+
+Note that this option does not affect to B<nohash> and B<sub> rules.
+
+=item B<-R>
+
+Remove source file on error.
+
+=item B<-Z>
+
+This option applies special hack to all symbols that satisfy all of
+the following conditions.
+
+=over 3
+
+=item -
+
+Symbol type is STT_NOTYPE.
+
+=item -
+
+Symbol binding is STB_LOCAL.
+
+=item -
+
+Symbol size is zero.
+
+=item -
+
+Symbol is located at .bss section.
+
+=back
+
+They will be modified as follows:
+
+=over 3
+
+=item -
+
+Symbol type is changed to STT_OBJECT.
+
+=item -
+
+The difference of address from the next symbol is set to symbol size.
+
+=back
+
+This hack may be useful if you use GNU cc, especially for ARM architecture,
+because it may generate such symbols.
+
+=item B<-L> I<pattern>
+
+Remove DT_NEEDED in .dynamic section that matches the specified pattern.
+I<pattern> is a regular expression to match the name of shared library.
+
+=back
+
+=head1 OPTIONS FOR UNIX HACK
+
+The following option is specific to build static-linked kernel image.
+
+=over 4
+
+=item B<-X>
+
+Apply special hack for static-linked unix executable.
+
+This option as follows:
+
+=over 3
+
+=item -
+
+Append ".hash" section, that contains symbol hash for symbols in .symtab.
+Although the size of symbol hash is 4 bytes, I<symfilter> uses 2 bytes
+as the size of hash entry.
+
+=item -
+
+Move .symtab, .strtab, and .hash sections just above .bss.
+Any symbols in .bss will be relocated.
+
+=back
+
+=item B<-D>
+
+Change section type for .symtab.
+
+If the current symbol type of .symtab is SHT_DYNSYM, it will be changed
+to SHT_SYMTAB, and vice versa.
+
+=item B<-H>
+
+Display statistics of symbol hash in .hash section.
+
+Common ELF utility, such as I<elfdump>(1) can't treat .hash section
+created by I<symfilter> because of its entry size. That's why this option
+is provided.
+
+=back
+
+=head1 RULE FORMAT
+
+Filtering rules can be specified by B<-e> option or B<-f> option.
+
+Each rule is evaluated in defined order, and the first matched rule will be
+used. If rules are specified like "-e I<rule1> -e I<rule2>", I<rule1> is
+always evaluated before I<rule2>. If the symbol satisfies I<rule1>,
+I<rule2> is never evaluated. If rules are specified by B<-f> option,
+rule defined in lower line always evaluated before rule defined in higher line.
+
+Note that whitespace character can't be included in rule, even if regular
+exception. It's harmless because it can't be used in symbol name.
+
+I<symfilter> never drops symbol referred by relocation entry
+even if the specified rule tells I<symfilter> to drop it.
+
+=head2 CONDITION
+
+A rule consists of condition and action.
+If a symbol matches the condition in a rule, corresponding action is applied.
+
+Currently, the following conditions are supported:
+
+=over 4
+
+=item B<type>
+
+If B<type:>I<symbol-type> is specified as condition,
+it will match the symbol whose symbol type is I<symbol-type>.
+
+Currently, the following string can be specified as I<symbol-type>:
+
+=over 4
+
+=item B<notype>
+
+STT_NOTYPE
+
+=item B<object>
+
+STT_OBJECT
+
+=item B<func>
+
+STT_FUNC
+
+=item B<section>
+
+STT_SECTION
+
+=item B<file>
+
+STT_FUNC
+
+=item B<common>
+
+STT_COMMON
+
+=item B<tls>
+
+STT_TLS
+
+=back
+
+For example, the following condition matches all function symbols.
+
+  type:func
+
+=item B<bind>
+
+If B<bind:>I<symbol-bind> is specified as condition,
+it will match the symbol whose symbol binding is I<symbol-bind>.
+
+Currently, the following string can be specified as I<symbol-bind>:
+
+=over 4
+
+=item B<local>
+
+STB_LOCAL
+
+=item B<global>
+
+STB_GLOBAL
+
+=item B<weak>
+
+STB_WEAK
+
+=back
+
+For example, the following condition matches all local symbols.
+
+  bind:local
+
+=item B<regexp>
+
+If B<regexp:>I<pattern> is specified as condition,
+it will match the symbol whose name matches regular expression
+specified to I<pattern>.
+
+For example, the following condition matches all symbols whose name
+starts with "_name".
+
+  regexp:^_name
+
+=back
+
+Two or more conditions can be specified at once concatenating with comma.
+In this case, the rule matches only if all conditions are matched.
+
+For example, the following condition matches all local symbols whose name
+starts with "_name.
+
+  type:local,regexp:^_name
+
+=head2 ACTION
+
+If a symbol satisfies condition in a rule, corresponding action will be
+applied. A rule is a string joined action and condition by comma.
+
+Currently, the following actions are supported:
+
+=over 4
+
+=item B<inc>
+
+Put matched symbols into .symtab.
+
+The following rule will leave all global symbols in .symtab.
+
+  inc:type:global
+
+=item B<exc>
+
+Eliminates matched symbols from .symtab.
+
+The following rule will eliminate all file symbols from .symtab.
+
+  exc:type:file
+
+=item B<nohash>
+
+This rule affects only if B<-X> option is specified.
+This rule selects symbols not to be exported into .hash section.
+Node that B<nohash> rules are not applied to eliminated symbols by B<exc>
+rules.
+
+If the following rule is specified, all local symbols will not be exported
+into .hash section.
+
+ nohash:bind:local
+
+
+=item B<sub>
+
+Substitute symbol. This rule is used to change symbol type or binding.
+Node that B<sub> rules are not applied to eliminated symbols by B<exc> rules.
+
+Unlike other rules, this action takes the following form.
+
+B<  sub:>I<condition>B<:>I<new-value>
+
+If B<type=>I<symbol-type> is specified to I<new-value>,
+symbol type for matched symbols will be modified to I<symbol-type>.
+
+If B<bind=>I<symbol-bind> is specified to I<new-value>,
+symbol binding for matched symbols will be modified to I<symbol-bind>.
+
+For example, the following rule will make all local and STT_NOTYPE symbols
+be object symbol.
+
+  sub:type:notype,bind:local:type=object
+
+=back

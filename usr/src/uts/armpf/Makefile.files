@@ -1,0 +1,114 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
+# Use is subject to license terms.
+#
+# ident	"@(#)Makefile.files	1.15	06/03/16 SMI"
+#
+#	This Makefile defines all file modules for the directory uts/sun4
+#	and it's children. These are the source files which are common 
+#	between sun4u and sun4r.
+#
+
+#
+# Copyright (c) 2006-2009 NEC Corporation
+#
+
+
+#
+#	object lists
+#
+CORE_OBJS +=			\
+	armpf_dep.o		\
+	boot_machdep.o		\
+	cbe.o			\
+	confunix.o		\
+	cpuid.o			\
+	ddi_impl.o		\
+	devhalt.o		\
+	dma_subr.o		\
+	dtrace_subr.o		\
+	dvma.o			\
+	hardclk.o		\
+	hat_machdep.o		\
+	intr.o			\
+	mach_kdi.o		\
+	mach_reboot.o		\
+	mach_sysconfig.o	\
+	mdep_timers.o		\
+	memnode.o		\
+	mlsetup.o		\
+	mp_call.o		\
+	mp_machdep.o		\
+	mp_startup.o		\
+	memscrub.o		\
+	ppage.o			\
+	startup.o		\
+	timer_prdc.o		\
+	timestamp.o		\
+	trap.o
+
+SPECIAL_OBJS_32 +=		\
+	irqtrap.o
+
+#
+#			driver modules
+#
+ROOTNEX_OBJS	+= rootnex.o
+
+INC_PATH	+= -I$(UTSBASE)/armpf
+INC_PATH	+= -I$(SRC)/common
+
+AS_INC_PATH	+= -I$(DSF_DIR)/$(OBJS_DIR)
+
+#
+# Since assym.h is a derived file, the dependency must be explicit for
+# all files including this file. (This is only actually required in the
+# instance when the .nse_depinfo file does not exist.) It may seem that
+# the lint targets should also have a similar dependency, but they don't
+# since only C headers are included when #defined(__lint) is true.
+#
+ASSYM_DEPS      += 		\
+	arm_spl.o		\
+	arm_string.o		\
+	arm_subr.o		\
+	copy.o			\
+	ddi_arm_asm.o		\
+	exception.o		\
+	fast_trap.o		\
+	interrupt.o		\
+	lock_prim.o		\
+	locore.o		\
+	modstubs.o		\
+	swtch.o			\
+	sys_trap.o
+
+#
+#	Platform dependent OHCI module
+#
+OHCI_OBJS	+= ohci_impl.o
+
+#
+#	Platform dependent EHCI module
+#
+EHCI_OBJS	+= ehci_impl.o

@@ -1,0 +1,146 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008-2009 NEC Corporation
+# All rights reserved.
+#
+
+#
+# Global symbols imported from libgcc.
+#
+
+#
+# Helper functions
+#
+SUNWprivate_1.1 {
+    global:
+	__adddf3;
+	__addsf3;
+	__ashldi3;
+	__ashrdi3;
+	__cmpdi2;
+	__divdf3;
+	__divdi3;
+	__divsf3;
+	__divsi3;
+	__eqdf2;
+	__eqsf2;
+	__extendsfdf2;
+	__fixdfdi;
+	__fixdfsi;
+	__fixsfdi;
+	__fixsfsi;
+	__fixunsdfdi;
+	__fixunsdfsi;
+	__fixunssfdi;
+	__fixunssfsi;
+	__floatdidf;
+	__floatdisf;
+	__floatsidf;
+	__floatsisf;
+	__gedf2;
+	__gesf2;
+	__gtdf2;
+	__gtsf2;
+	__ledf2;
+	__lesf2;
+	__lshrdi3;
+	__ltdf2;
+	__ltsf2;
+	__moddi3;
+	__modsi3;
+	__muldf3;
+	__muldi3;
+	__mulsf3;
+	__nedf2;
+	__nesf2;
+	__subdf3;
+	__subsf3;
+	__truncdfsf2;
+	__ucmpdi2;
+	__udivdi3;
+	__udivsi3;
+	__umoddi3;
+	__umodsi3;
+	__unorddf2;
+	__unordsf2;
+};
+
+#
+# ABI for the ARM architecture release 2
+#
+AEABI_2.1 {
+    global:
+	__aeabi_cdcmpeq;
+	__aeabi_cdcmple;
+	__aeabi_cdrcmple;
+	__aeabi_cfcmpeq;
+	__aeabi_cfcmple;
+	__aeabi_cfrcmple;
+	__aeabi_d2f;
+	__aeabi_d2iz;
+	__aeabi_d2uiz;
+	__aeabi_dadd;
+	__aeabi_dcmpeq;
+	__aeabi_dcmpge;
+	__aeabi_dcmpgt;
+	__aeabi_dcmple;
+	__aeabi_dcmplt;
+	__aeabi_dcmpun;
+	__aeabi_ddiv;
+	__aeabi_dmul;
+	__aeabi_dneg;
+	__aeabi_drsub;
+	__aeabi_dsub;
+	__aeabi_f2d;
+	__aeabi_f2iz;
+	__aeabi_f2uiz;
+	__aeabi_fadd;
+	__aeabi_fcmpeq;
+	__aeabi_fcmpge;
+	__aeabi_fcmpgt;
+	__aeabi_fcmple;
+	__aeabi_fcmplt;
+	__aeabi_fcmpun;
+	__aeabi_fdiv;
+	__aeabi_fmul;
+	__aeabi_fneg;
+	__aeabi_frsub;
+	__aeabi_fsub;
+	__aeabi_i2d;
+	__aeabi_i2f;
+	__aeabi_idiv;
+	__aeabi_idiv0;
+	__aeabi_idivmod;
+	__aeabi_l2d;
+	__aeabi_l2f;
+	__aeabi_lasr;
+	__aeabi_ldiv0;
+	__aeabi_llsl;
+	__aeabi_llsr;
+	__aeabi_ui2d;
+	__aeabi_ui2f;
+	__aeabi_uidiv;
+	__aeabi_uidivmod;
+	__aeabi_ul2d;
+	__aeabi_ul2f;
+};

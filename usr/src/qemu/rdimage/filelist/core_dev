@@ -1,0 +1,173 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008-2009 NEC Corporation
+# All rights reserved.
+#
+
+d none etc 755 root sys
+f none etc/driver_aliases 644 root sys
+f none etc/driver_classes 644 root sys
+f none etc/iu.ap 644 root sys
+f none etc/minor_perm 644 root sys
+f none etc/name_to_major 644 root sys
+d none etc/security 755 root sys
+f none etc/security/device_policy 644 root sys
+f none etc/security/extra_privs 644 root sys
+
+d none devices 755 root sys
+
+d none dev 755 root sys
+d none dev/dsk 755 root sys
+d none dev/fd 555 root sys
+d none dev/pts 755 root sys
+d none dev/rdsk 755 root sys
+d none dev/rmt 755 root sys
+d none dev/sad 755 root sys
+d none dev/swap 755 root sys
+d none dev/term 755 root sys
+d none dev/ramdisk 755 root sys
+d none dev/rramdisk 755 root sys
+
+c none dev/pts/0 24 0 620 root tty
+c none dev/pts/1 24 1 620 root tty
+c none dev/pts/2 24 2 620 root tty
+c none dev/pts/3 24 3 620 root tty
+c none dev/pts/4 24 4 620 root tty
+c none dev/pts/5 24 5 620 root tty
+c none dev/pts/6 24 6 620 root tty
+c none dev/pts/7 24 7 620 root tty
+c none dev/pts/8 24 8 620 root tty
+c none dev/pts/9 24 9 620 root tty
+c none dev/pts/10 24 10 620 root tty
+c none dev/pts/11 24 11 620 root tty
+c none dev/pts/12 24 12 620 root tty
+c none dev/pts/13 24 13 620 root tty
+c none dev/pts/14 24 14 620 root tty
+c none dev/pts/15 24 15 620 root tty
+c none dev/pts/16 24 16 620 root tty
+
+s none ../devices/pseudo/clone@0:ptm dev/ptmx
+s none ../devices/pseudo/clone@0:logindmux dev/logindmux
+s none ../devices/pseudo/cn@0:console dev/console
+s none ../devices/pseudo/cn@0:syscon dev/syscon
+s none ../devices/pseudo/cn@0:systty dev/systty
+s none ../devices/pseudo/czfs@0:czfs dev/czfs
+s none ../devices/pseudo/dump@0:dump dev/dump
+s none ../devices/pseudo/kstat@0:kstat dev/kstat
+s none ../devices/pseudo/ksyms@0:ksyms dev/ksyms
+s none ../devices/pseudo/log@0:conslog dev/conslog
+s none ../devices/pseudo/log@0:log dev/log
+s none ../devices/pseudo/mm@0:allkmem dev/allkmem
+s none ../devices/pseudo/mm@0:kmem dev/kmem
+s none ../devices/pseudo/mm@0:mem dev/mem
+s none ../devices/pseudo/mm@0:null dev/null
+s none ../devices/pseudo/mm@0:zero dev/zero
+s none ../devices/pseudo/openeepr@0:openprom dev/openprom
+s none ../devices/pseudo/random@0:random dev/random
+s none ../devices/pseudo/random@0:urandom dev/urandom
+s none ../devices/pseudo/sy@0:tty dev/tty
+s none ../devices/pseudo/sysmsg@0:msglog dev/msglog
+s none ../devices/pseudo/sysmsg@0:sysmsg dev/sysmsg
+s none ../devices/pseudo/wc@0:wscons dev/wscons
+
+s none ../devices/pseudo/spdsock@0:spdsock dev/spdsock
+#s SCTP_SHRINK==false&&USE_INET6==true ../devices/pseudo/sctp6@0:sctp6 dev/sctp6
+#s SCTP_SHRINK==false&&USE_INET6==true ../devices/pseudo/sctp@0:sctp dev/sctp
+#s USE_INET6==true ../devices/pseudo/udp6@0:udp6 dev/udp6
+s none ../devices/pseudo/udp@0:udp dev/udp
+s none ../devices/pseudo/tl@0:ticotsord dev/ticotsord
+s none ../devices/pseudo/tl@0:ticots dev/ticots
+s none ../devices/pseudo/tl@0:ticlts dev/ticlts
+#s USE_INET6==true ../devices/pseudo/tcp6@0:tcp6 dev/tcp6
+s none ../devices/pseudo/tcp@0:tcp dev/tcp
+s none ../devices/pseudo/rts@0:rts dev/rts
+#s USE_INET6==true ../devices/pseudo/icmp6@0:icmp6 dev/rawip6
+s none ../devices/pseudo/icmp@0:icmp dev/rawip
+s none ../devices/pseudo/keysock@0:keysock dev/keysock
+s none ../devices/pseudo/ipsecesp@0:ipsecesp dev/ipsecesp
+s none ../devices/pseudo/ipsecah@0:ipsecah dev/ipsecah
+#s USE_INET6==true ../devices/pseudo/ip6@0:ip6 dev/ip6
+s none ../devices/pseudo/ip@0:ip dev/ip
+#s USE_INET6==true ../devices/pseudo/icmp6@0:icmp6 dev/icmp6
+s none ../devices/pseudo/icmp@0:icmp dev/icmp
+s none ../devices/pseudo/arp@0:arp dev/arp
+s none ../devices/pseudo/nca@0:nca dev/nca
+s none ../devices/pseudo/ipf@0:ipauth dev/ipauth
+s none ../devices/pseudo/ipf@0:ipf dev/ipf
+s none ../devices/pseudo/ipf@0:ipf dev/ipl
+s none ../devices/pseudo/ipf@0:iplookup dev/iplookup
+s none ../devices/pseudo/ipf@0:ipnat dev/ipnat
+s none ../devices/pseudo/ipf@0:ipscan dev/ipscan
+s none ../devices/pseudo/ipf@0:ipstate dev/ipstate
+s none ../devices/pseudo/ipf@0:ipsync dev/ipsync
+s none ../devices/pseudo/kssl@0:kssl dev/kssl
+
+s none ../../devices/pseudo/sad@0:admin dev/sad/admin
+s none ../../devices/pseudo/sad@0:user dev/sad/user
+
+# ramdisk
+s none ../../devices/ramdisk:a dev/ramdisk/a
+s none ../../devices/ramdisk:a,raw dev/rramdisk/a
+s none ../devices/pseudo/ramdisk@1024:ctl dev/ramdiskctl
+
+# uart
+s none ../../devices/ne_uart@1,18034000:a dev/term/a
+s none ../../devices/ne_uart@1,18034400:b dev/term/b
+s none ../../devices/ne_uart@1,18034800:c dev/term/c
+s none ../../devices/ne_uart@1,18034c00:d dev/term/d
+s none ../../devices/ne_uart@1,18035000:e dev/term/e
+s none ../../devices/ne_uart@1,18035400:f dev/term/f
+s none ../../devices/ne_uart@1,18035800:g dev/term/g
+s none ../../devices/ne_uart@1,18035c00:h dev/term/h
+s none ../devices/ne_uart@1,18034000:a dev/tty00
+s none ../devices/ne_uart@1,18034000:a dev/ttya
+s none ../devices/ne_uart@1,18034000:a,cu dev/ttyd0
+s none ../devices/ne_uart@1,18034000:a,cu dev/cua0
+s none ../devices/ne_uart@1,18034400:b dev/tty01
+s none ../devices/ne_uart@1,18034400:b dev/ttyb
+s none ../devices/ne_uart@1,18034400:b,cu dev/ttyd1
+s none ../devices/ne_uart@1,18034400:b,cu dev/cua1
+s none ../devices/ne_uart@1,18034800:c dev/tty02
+s none ../devices/ne_uart@1,18034800:c dev/ttyc
+s none ../devices/ne_uart@1,18034800:c,cu dev/ttyd2
+s none ../devices/ne_uart@1,18034800:c,cu dev/cua2
+s none ../devices/ne_uart@1,18034c00:d dev/tty03
+s none ../devices/ne_uart@1,18034c00:d dev/ttyd
+s none ../devices/ne_uart@1,18034c00:d,cu dev/ttyd3
+s none ../devices/ne_uart@1,18034c00:d,cu dev/cua3
+s none ../devices/ne_uart@1,18035000:e dev/tty04
+s none ../devices/ne_uart@1,18035000:e dev/ttye
+s none ../devices/ne_uart@1,18035000:e,cu dev/ttyd4
+s none ../devices/ne_uart@1,18035000:e,cu dev/cua4
+s none ../devices/ne_uart@1,18035400:f dev/tty05
+s none ../devices/ne_uart@1,18035400:f dev/ttyf
+s none ../devices/ne_uart@1,18035400:f,cu dev/ttyd5
+s none ../devices/ne_uart@1,18035400:f,cu dev/cua5
+s none ../devices/ne_uart@1,18035800:g dev/tty06
+s none ../devices/ne_uart@1,18035800:g dev/ttyg
+s none ../devices/ne_uart@1,18035800:g,cu dev/ttyd6
+s none ../devices/ne_uart@1,18035800:g,cu dev/cua6
+s none ../devices/ne_uart@1,18035c00:h dev/tty07
+s none ../devices/ne_uart@1,18035c00:h dev/ttyh
+s none ../devices/ne_uart@1,18035c00:h,cu dev/ttyd7
+s none ../devices/ne_uart@1,18035c00:h,cu dev/cua7

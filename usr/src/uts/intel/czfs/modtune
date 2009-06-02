@@ -1,0 +1,210 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008 NEC Corporation
+# All rights reserved.
+#
+
+##
+## Definitions of tunable parameters for CZFS (Compactified ZFS).
+##
+
+
+option boolean CZFS_NO_RAIDZ
+{
+	default:	true;
+	description:	"This option determines whether RAID-Z function "
+			"(function to store data and parity on multiple "
+			"disks) should be removed from CZFS module or not. "
+			"If this value is set to \"true\", this function is "
+			"removed and RAID-Z storage pool cannot be created.";
+}
+
+option boolean CZFS_NO_MIRROR
+{
+	default:	true;
+	description:	"This option determines whether Mirror function "
+			"(function to store identical copy of data on "
+			"multiple disks) should be removed from CZFS module "
+			"or not. If this value is set to \"true\", "
+			"this function is removed and mirror storage pool "
+			"cannot be created.";
+}
+
+option boolean CZFS_NO_UFSFILE
+{
+	default:	true;
+	description:	"This option determines whether Storage Pool function "
+			"of UFS file (function to use UFS file as virtual "
+			"device) should be removed from CZFS module or not. "
+			"If this value is set to \"true\", this function is "
+			"removed and storage pool with UFS file cannot be "
+			"created.";
+}
+
+option boolean CZFS_NO_VDEVCACHE
+{
+	default:	true;
+	description:	"This option determines whether VDEV Cache function "
+			"(read-ahead caching function of virtual device) "
+			"should be removed from CZFS module or not. "
+			"If this value is set to \"true\", this function is "
+			"removed and read-ahead caching of virtual device "
+			"cannot be used.";
+}
+
+option boolean CZFS_NO_ZVOL
+{
+	default:	true;
+	description:	"This option determines whether ZVOL function "
+			"(function to create logical volume on storage pool) "
+			"should be removed from CZFS module or not. "
+			"If this value is set to \"true\", this function is "
+			"removed and ZVOL cannot be created.";
+}
+
+option boolean CZFS_NO_PREFETCH
+{
+	default:	true;
+	description:	"This option determines whether Intelligent Prefetch "
+			"function should be removed from CZFS module or not. "
+			"If this value is set to \"true\", this function is "
+			"removed and read-ahead of data cannot be used.";
+}
+
+option boolean CZFS_NO_L2ARC
+{
+	default:	true;
+	description:	"This option determines whether L2ARC function "
+			"(function to store data and parity on multiple "
+			"disks) should be removed from CZFS module or not. "
+			"If this value is set to \"true\", this function is "
+			"removed and cache devices cannot be used.";
+}
+
+option boolean CZFS_IOCTL_MINIMUMSET
+{
+	default:	false;
+	description:	"This option specifies the minimum set of ioctl(2) "
+			"subcommand for CZFS. If it specifies \"true\", "
+			"only ioctl(2) subcommand for CZFS which is used in "
+			"\"czfs mount/czfs unmount\" is available. If it "
+			"specifies \"false\", ioctl(2) subcommand for all "
+			"CZFS is available.";
+}
+
+option boolean CZFS_ROOTFS_RW
+{
+	default:	false;
+	description:	"If the root filesystem is CZFS, it shall be mounted "
+			"by read/write mode when this parameter is turned "
+			"\"true\". And when it is turned \"false\", it shall "
+			"be mounted by read-only mode. When CZFS root "
+			"filesystem is turned read/write mode in \"false\" "
+			"state, it needs to use the kernel with "
+			"\"CZFS_IOCTL_MINIMUMSET\" parameter being set to "
+			"\"false\" and needs to execute \"czfs set "
+			"readonly=off <filesystem name>\" at \"/etc/init.d"
+			"/mountfs\" on boot.";
+}
+
+option uint CZFS_ARC_MAX
+{
+	default:	32;
+	min:		1;
+	candidates:	0;
+	description:	"CZFS ARC max size in Mbytes. If this value is set to "
+			"zero, ARC max size shall be calculated from memory "
+			"size.";
+}
+
+option uint CZFS_ARC_MIN
+{
+	default:	8;
+	min:		1;
+	candidates:	0;
+	description:	"CZFS ARC min size in Mbytes. If this value is set to "
+			"zero, ARC min size shall be calculated from memory "
+			"size.";
+}
+
+option uint CZFS_DBUF_MUTEXES
+{
+	default:	64;
+	power:		2;
+	description:	"The number of CZFS dbuf hash table mutex entries.";
+}
+
+option uint CZFS_OBJ_MTX_SZ
+{
+	default:	16;
+	power:		2;
+	description:	"The number of znode hold locks in filesystem.";
+}
+
+option uint CZFS_BUF_LOCKS
+{
+	default:	64;
+	power:		2;
+	description:	"The number of ARC buf hash table lock entries.";
+}
+
+option uint64 CZFS_TASKQ_THREADS
+{
+	default:	0x010000040400;
+	max:		0xffffffffffff;
+	description:	"This parameter is used to adjust the number of "
+			"threads CZFS uses for I/O. "
+			"The value for parameter is specified in 6 bytes "
+			"and it indicates the number of each thread "
+			"corresponding to 0-5 for zio_type in 1-byte unit "
+			"(0x00-0xff) from LSB. "
+			"Only 1, 2 and 5 for zio_type are used in the current "
+			"version.";
+}
+
+option uint64 CZFS_TASKQ_MINALLOC
+{
+	default:	0x020000321400;
+	max:		0xffffffffffff;
+	description:	"This parameter is used to adjust the minimum securing "
+			"number for maintaining requests for the threads CZFS "
+			"uses for I/O. "
+			"The value for parameter is specified in 6 bytes "
+			"and it indicates each minimum securing number "
+			"corresponding to 0-5 for zio_type in 1-byte unit "
+			"(0x00-0xff) from LSB. "
+			"Only 1, 2 and 5 for zio_type are used in the current "
+			"version.";
+}
+
+option boolean CZFS_ZIOTASKQ_CREATE_ASNEED
+{
+	default:	true;
+	description:	"CZFS uses a thread when it resumes I/O suspended by "
+			"CZFS due to failure after recovery. This parameter "
+			"determines whether to create the thread only as "
+			"needed or to create the thread beforehand when "
+			"loading CZFS module. If this parameter is true, the "
+			"above thread is created when executing czpool clear "
+			"command and destroyed upon finishing the command.";
+}

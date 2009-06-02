@@ -1,0 +1,76 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2006-2009 NEC Corporation
+# All rights reserved.
+#
+
+## This makefile contains the common definitions to create U-boot image file.
+
+# mkimage command in U-boot distribution.
+MKIMAGE		= $(ONBLD_TOOLS)/bin/$(MACH)/mkimage
+
+# Arguments for mkimage.
+UIMAGE_IMAGE_ARCH	= $(MACH)
+UIMAGE_IMAGE_TYPE	= kernel
+UIMAGE_OS_TYPE		= solaris
+UIMAGE_COMPRESS_TYPE	= none
+UIMAGE_IMAGE_NAME	= "Solaris ($(VERSION))"
+
+# Derive entry point address from ELF header in UIMAGE_KERNEL.
+# The following macors must be defined in Makefile.
+#	KERNELBASE	Virtual address which the kernel mapping starts
+#	KERNELPHYSBASE	Physical address mapped to KERNELBASE
+#
+# Entry point address will be derived as follows:
+#	e_entry - KERNELBASE + KERNELPHYSBASE
+#
+UIMAGE_ENTRY_ADDRESS_COMMAND	= $(ELFDUMP) -e $(UIMAGE_KERNEL) |	\
+	$(PERL) -ane 'if ($$F[0] eq "e_entry:") {			\
+		$$e = oct($$F[1]) - $(KERNELBASE) + $(KERNELPHYSBASE);	\
+		printf("0x%x\n", $$e);					\
+	}'
+UIMAGE_ENTRY_ADDRESS	= $(UIMAGE_ENTRY_ADDRESS_COMMAND:sh)
+
+# Derive physical address where the image is loaded.
+# The following macors must be defined in Makefile.
+#	KERNELBASE	Virtual address which the kernel mapping starts
+#	KERNELPHYSBASE	Physical address mapped to KERNELBASE
+#	KERNELTEXTBASE	Virtual address where the kernel text starts
+UIMAGE_LOAD_ADDRESS_COMMAND	=					\
+	 $(PERL) -e 'printf("0x%x\n",					\
+		$(KERNELTEXTBASE) - $(KERNELBASE) + $(KERNELPHYSBASE));'
+UIMAGE_LOAD_ADDRESS	= $(UIMAGE_LOAD_ADDRESS_COMMAND:sh)
+
+# File offset to be cut from boot image.
+# Chop off from start to the start offset of text section.
+KIMAGE_OFFSET_COMMAND	= $(ELFDATAMOD) -D -p '^.text' $(UIMAGE_KERNEL)
+KIMAGE_OFFSET		= $(KIMAGE_OFFSET_COMMAND:sh)
+
+# Arguments for mkimage.
+MKIMAGE_ARGS	= -A $(UIMAGE_IMAGE_ARCH) -O $(UIMAGE_OS_TYPE)		\
+		  -T $(UIMAGE_IMAGE_TYPE) -C $(UIMAGE_COMPRESS_TYPE)	\
+		  -n $(UIMAGE_IMAGE_NAME) -e $(UIMAGE_ENTRY_ADDRESS)	\
+		  -a $(UIMAGE_LOAD_ADDRESS)
+
+CLOBBERFILES	+= $(UIMAGE)
+CLEANFILES	+= $(KIMAGE)

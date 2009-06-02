@@ -1,0 +1,75 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007-2009 NEC Corporation
+# All rights reserved.
+#
+
+##
+## Definitions of NE1-specific tunable parameters.
+##
+
+# Export all parameters to arm specific build environment.
+export
+{
+	type:	"platform";
+	scope:	"ne1";
+}
+
+# Load static module configuration script.
+static {
+	file:		"modstatic";
+	architectures:	"arm", "ne1";
+}
+
+#
+# Definitions of CPU clock frequency
+#
+option uint FREQ_CPU
+{
+	default:	399960000;
+	min:		100000000;
+	description:	"Determine CPU clock frequency. "
+			"This parameter can't be changed without "
+			"hardware reconfiguration.";
+}
+
+option uint LTIMER_PRESCALER
+{
+	default:	0;
+	max:		255;
+	description:	"Determine prescaler value of MPCore local timer.\n"
+			"Local timer frequency is determined by the "
+			"following formula:\n\n"
+			"  (FREQ_CPU / ((LTIMER_PRESCALER + 1) * 2))";
+}
+
+#
+# Enable CPU halt (using WFI)
+#
+option boolean CPU_HALT_ENABLE
+{
+	default:	false;
+	description:	"Enable cpu_halt() and cpu_wakeup().\n"
+			"If this parameter is true, idle cpus are halted "
+			"when there's no work to do.";
+}

@@ -1,0 +1,52 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007-2009 NEC Corporation
+# All rights reserved.
+#
+
+##
+## Definitions of tunable parameters for genunix(ARM) module.
+##
+
+option long MOD_UNINSTALL_INTERVAL
+{
+	default:	60;
+	min:		10;
+	max:		1800;
+	candidates:	0;
+	description:	"Interval (in seconds) of module uninstall daemon.\n"
+			"Unheld drivers will be uninstalled periodically "
+			"every MOD_UNINSTALL_INTERVAL seconds. If this value "
+			"is set to zero, module uninstall daemon will be "
+			"disabled.";
+}
+
+option boolean DUMP_ALL_CURPROC
+{
+	default:	true;
+	description:	"If this parameter is true, and the system dump "
+			"is configured as \"curproc\", address spaces for "
+			"all current processes will be dumped.\n"
+			"Note that this option may not work correctly "
+			"on live dump.";
+}

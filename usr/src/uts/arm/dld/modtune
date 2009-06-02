@@ -1,0 +1,105 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008 NEC Corporation
+# All rights reserved.
+#
+
+##
+## Definitions of tunable parameters for ARM architecture.
+##
+
+#
+# Use Secure objects ioctl
+#
+option boolean DLD_NOUSE_SEC_OBJ_IOCTL
+{
+	default:	true;
+	description:	"This parameter determines whether secure objects "
+			"ioctl is available or not.\n"	
+			"If this option is false, you can use secure objects "
+			"ioctl messages(DLDIOC_SECOBJ_SET, DLDIOC_SECOBJ_GET, "
+			"and DLDIOC_SECOBJ_UNSET).";
+}
+
+#
+# Use vlan ioctl
+#
+option boolean DLD_NOUSE_VLAN_IOCTL
+{
+	default:	true;
+	description:	"This parameter determines whether vlan management "
+			"ioctl is available or not.\n"	
+			"If this option is false, you can use vlan management "
+			"ioctl messages(DLDIOC_CREATE_VLAN,DLDIOC_DELETE_VLAN,"
+			"and DLDIOC_VLAN_ATTR).";
+}
+
+#
+# Use autopush ioctl
+#
+option boolean DLD_NOUSE_AUTOPUSH_IOCTL
+{
+	default:	true;
+	description:	"This parameter determines whether autopush ioctl "
+			"is available or not.\n"	
+			"If this option is false, you can use autopush ioctl"
+			"messages(DLDIOC_SETAUTOPUSH, DLDIOC_GETAUTOPUSH,"
+			"and DLDIOC_CLRAUTOPUSH).";
+}
+
+#
+# Use door ioctl
+#
+option boolean DLD_NOUSE_DOOR_IOCTL
+{
+	default:	true;
+	description:	"This parameter determines whether door ioctl "
+			"is available or not.\n"	
+			"If this option is false, you can use door ioctl"
+			"message(DLDIOC_DOORSERVER).";
+}
+
+#
+# Use zone ioctl
+#
+option boolean DLD_NOUSE_ZONE_IOCTL
+{
+	default:	true;
+	description:	"This parameter determines whether zone ioctl "
+			"is available or not.\n"	
+			"If this option is false, you can use zone ioctl"
+			"messages(DLDIOC_SETZID, DLDIOC_GETZID,"
+			"and DLDIOC_CLRAUTOPUSH).";
+}
+
+#
+# Use link renaming ioctl
+#
+option boolean DLD_NOUSE_RENAME_IOCTL
+{
+	default:	true;
+	description:	"This parameter determines whether link renaming "
+			"ioctl is available or not.\n"	
+			"If this option is false, you can use link renaming "
+			"ioctl message(DLDIOC_RENAME).";
+}

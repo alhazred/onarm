@@ -1,0 +1,225 @@
+#!/sbin/sh
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007-2009 NEC Corporation
+# All rights reserved.
+#
+
+### filecopy() ###
+#	$1:SOURCE_NAME
+#	$2:TARGET_NAME
+#	$3:MODE
+#	$4:OWNER
+#	$5:GROUP
+filecopy() {
+	cp -p $1 $2
+	if [ $? = 0 ] ; then 
+		chmod $3 $2
+		chown $4':'$5 $2
+
+		# if Nflag="s" & LM file is not stripped  then execute strip
+		# kernel/* usr/kernel/* : 'ELF 32-bit LSB relocatable'
+		if [ $Nflag = "s" ] ; then 
+			file $2 | grep 'executable .* not stripped' > /dev/null
+			if [ $? = 0 ] ; then
+				echo strip $2
+				strip $2
+			fi
+		fi
+	fi
+}
+
+### fileinstall() ###
+fileinstall() {
+case "$TYPE" in
+	'd')	# Directory : d <utstune> <dirname> <mode> <owner> <group>
+		echo TYPE:$TYPE Tunable:$p2 Dir-name:$p3 Mode:$p4 Owner:$p5 Group:$p6
+		DIRNAME=$TARGET_DIR/$p3
+		if [ ! -d $DIRNAME ] ; then
+			mkdir $DIRNAME
+			if [ $? = 0 ] ; then 
+				chmod $p4 $DIRNAME
+				chown $p5':'$p6 $DIRNAME
+			fi
+		else
+			echo Ignore: $DIRNAME Already exist.
+			grep -n " $p3 " $FN_PROTO
+		fi
+		;;
+
+	'f')	# Ordinary file : f <utstune> <filename> <mode> <owner> <group>
+		echo TYPE:$TYPE Tunable:$p2 File-name:$p3 Mode:$p4 Owner:$p5 Group:$p6
+		SOURCE_NAME=$ROOT/$p3
+		TARGET_NAME=$TARGET_DIR/$p3
+		filecopy $SOURCE_NAME $TARGET_NAME $p4 $p5 $p6
+		;;
+
+	'm')	# Move file : m <utstune> <source filename> <target filename> <mode> <owner> <group>
+		echo TYPE:$TYPE Tunable:$p2 Source:$p3 Target:$p4 Mode:$p5 Owner:$p6 Group:$p7
+		SOURCE_NAME=$ROOT/$p3
+		TARGET_NAME=$TARGET_DIR/$p4
+		filecopy $SOURCE_NAME $TARGET_NAME $p5 $p6 $p7
+		;;
+
+	'l')	# Hard link file : l <utstune> <source filename>  <target filename>
+		echo TYPE:$TYPE Tunable:$p2 Source:$p3 Target:$p4
+		SOURCE_NAME=$TARGET_DIR/$p3
+		TARGET_NAME=$TARGET_DIR/$p4
+		ln $SOURCE_NAME $TARGET_NAME
+		;;
+
+	's')	# Symbolic link file : s <utstune> <source filename>  <target filename>
+		echo TYPE:$TYPE Tunable:$p2 Source:$p3 Target:$p4
+		SOURCE_NAME=$p3
+		TARGET_NAME=$TARGET_DIR/$p4
+		ln -s $SOURCE_NAME $TARGET_NAME
+		;;
+
+	'b'|'c')	# Character special : c <utstune> <fn> <major> <minor> <mode> <owner> <group>
+			# Block special     : b <utstune> <fn> <major> <minor> <mode> <owner> <group>
+		echo TYPE:$TYPE Tunable:$p2 Dev-name:$p3 Major:$p4 Minor:$p5 Mode:$p6 Owner:$p7 Group:$p8 
+		DEV_NAME=$TARGET_DIR/$p3
+		mknod $DEV_NAME $TYPE $p4 $p5
+		if [ $? = 0 ] ; then
+			chmod $p6 $DEV_NAME
+			chown $p7':'$p8 $DEV_NAME
+		fi
+		;;
+
+	'#'*)	;;
+
+	*)	if [ x$TYPE != x ] ; then
+			echo Warning: Invalid TYPE:$TYPE F_name:$p3
+		fi
+		;;
+esac
+}
+### End of fileinstall()
+
+
+### usage() ###
+usage() {
+	echo "Usage: $0 [-n] rootdir "
+	echo "    \$ROOT = install directory.    ex. /foo/bar/proto/root_arm"
+	echo "    \$SRC  = source directory.     ex. /foo/bar/usr/src"
+	echo "    \$ARM_PLATFORM = Hardware type.  ex. ne1 "
+	echo "    \$KMODS_INST_USR = Kernel module install to /usr. Value NULL "
+	exit 1
+}
+
+######### main ######################################
+LC_MESSAGES=C ; export LC_MESSAGES
+PATH=/usr/sbin:/usr/bin:/usr/ccs/bin ; export PATH
+
+if [ x$ROOT = x -o x$ROOT = x/ ] ; then
+	echo Error: Invalid '$ROOT'
+	usage 
+fi
+
+if [ x$SRC = x -o x$SRC = x/ ] ; then
+	echo Error: Invalid '$SRC'
+	usage 
+fi
+UTSTUNE=$SRC/tools/proto/opt/onbld/bin/utstune
+
+if [ x$ARM_PLATFORM = x ] ; then
+	echo Error: Invalid '$ARM_PLATFORM'
+	usage 
+fi
+
+if [ x${KMODS_INST_USR+any} != xany ] ; then
+	echo Error: Undefined '$KMODS_INST_USR'
+	usage
+fi
+
+### Process command line args
+Nflag="s"	# strip LM 
+
+while getopts n args
+do
+	case $args in
+	n)	Nflag="n";;	# not strip LM 
+	\?)	usage ;;
+	esac
+done
+
+shift `expr $OPTIND - 1`	# get past the processed args
+
+if [ x$1 = x ] ; then
+	echo Error: rootdir is not specified.
+	usage
+fi
+
+PROTO_DIR=./filelist
+if [ ! -d $PROTO_DIR ] ; then
+	echo Error: $PROTO_DIR No such directory.
+	usage
+fi
+
+FN_PROTO=`ls $PROTO_DIR/co* $PROTO_DIR/c[!o]* $PROTO_DIR/[!c]* 2> /dev/null`
+### protofile check ####
+if [ x"$FN_PROTO" = x ] ; then
+	echo Error: No proto file exists.
+	exit 2
+fi
+
+TARGET_DIR=$1
+
+### Print Configration Infomation ###
+echo "*** Configration Infomation"
+echo "\$ROOT = $ROOT"
+echo "\$SRC  = $SRC"
+echo "\$ARM_PLATFORM = $ARM_PLATFORM"
+
+$UTSTUNE	# Print all tunable parameter.
+
+### File Install ####
+for PROTO in $FN_PROTO
+do
+	echo "*** "$PROTO
+	while  read TYPE p2 p3 p4 p5 p6 p7 p8 
+	do
+	case "$TYPE" in
+		'd'|'f'|'m'|'l'|'s'|'b'|'c')	# Proto Data
+			if [ x$p2 = xnone ] ; then
+				fileinstall
+			elif [ x$p2 != x ] ; then
+				$UTSTUNE -Q "$p2"
+				if [ $? = 0 ] ; then
+					fileinstall
+				fi
+			fi
+			;;
+		'#'*|'')  ;;			# Ignore
+		*)	if [ x$TYPE != x ] ; then
+				echo Warning: Invalid TYPE:$TYPE F_name:$p3
+			fi
+			;;
+	esac
+	done < $PROTO
+
+done
+
+exit 0
+########
+

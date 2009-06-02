@@ -1,0 +1,54 @@
+QEMU NaviEngine system emulation
+
+Overview
+
+    QEMU: http://www.nongnu.org/qemu/
+
+        The codes support
+            qemu 0.9.1 from http://www.nongnu.org/qemu/qemu-0.9.1.tar.gz
+
+    NEC Electronics's NaviEngine 1 (NE1).
+
+        * NEC uPD35001 System-on-chip (ARM11 MPCore x4)
+        * DDR2 SDRAM (256MB)
+        * NOR Flash memory (64MB)
+        * NAND Flash memory (256MB)
+        * Three on-chip UARTs
+        * LAN9118 Ethernet adapter
+        * On-chip LCD controller
+        * USBH2.0, ATA6, PCI, CSI, SPDIF, I2S, etc
+
+    In this release, the patches for QEMU to support the board is provided.
+    In QEMU, the following devices are emulated.
+
+        * DDR2 SDRAM (256MB)
+        * NOR Flash memory (64MB)
+        * Three on-chip UARTs
+
+How to build:
+
+ 1. Build the kernel, commands, libraries.
+
+ 2. Build QEMU.
+
+	$DOWNLOAD is your directory in which downloaded files are stored.
+
+	% tar xzvf $DOWNLOAD/qemu-0.9.1.tar.gz .
+	% cd qemu-0.9.1
+	% patch -p0 < $DOWNLOAD/qemu-0.9.1-arm-ne1-solaris.patch
+	% ./configure --target-list=arm-softmmu
+	% make
+
+ 3. Build ramdisk image as root user.
+	# cd rdimage
+	# make
+
+ 4. Setup image files (kernel, ramdisk, ...) in ne1 directory.
+	% cd ne1
+	% make
+
+How to run:
+
+ * Execute launcher script.
+	% cd ne1
+	% ./ne1.sh

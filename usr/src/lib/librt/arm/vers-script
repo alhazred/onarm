@@ -1,0 +1,122 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007 NEC Corporation
+# All rights reserved.
+#
+
+{
+    global:
+	clock_nanosleep;
+	mq_reltimedreceive_np;
+	mq_reltimedsend_np;
+	mq_timedreceive;
+	mq_timedsend;
+	sem_reltimedwait_np;
+	sem_timedwait;
+	aio_waitn;
+	aio_waitn64;
+	close;
+	aio_cancel64;
+	aio_error64;
+	aio_fsync64;
+	aio_read64;
+	aio_return64;
+	aio_suspend64;
+	aio_write64;
+	fork;
+	lio_listio64;
+	aio_cancel;
+	aio_error;
+	aio_fsync;
+	aio_read;
+	aio_return;
+	aio_suspend;
+	aio_write;
+	clock_getres;
+	clock_gettime;
+	clock_settime;
+	fdatasync;
+	lio_listio;
+	mq_close;
+	mq_getattr;
+	mq_notify;
+	mq_open;
+	mq_receive;
+	mq_send;
+	mq_setattr;
+	mq_unlink;
+	nanosleep;
+	sched_getparam;
+	sched_get_priority_max;
+	sched_get_priority_min;
+	sched_getscheduler;
+	sched_rr_get_interval;
+	sched_setparam;
+	sched_setscheduler;
+	sched_yield;
+	sem_close;
+	sem_destroy;
+	sem_getvalue;
+	sem_init;
+	sem_open;
+	sem_post;
+	sem_trywait;
+	sem_unlink;
+	sem_wait;
+	shm_open;
+	shm_unlink;
+	sigqueue;
+	sigtimedwait;
+	sigwaitinfo;
+	timer_create;
+	timer_delete;
+	timer_getoverrun;
+	timer_gettime;
+	timer_settime;
+	_clock_getres;
+	_clock_gettime;
+	_clock_nanosleep;
+	_clock_settime;
+	_nanosleep;
+	_sem_close;
+	_sem_destroy;
+	_sem_getvalue;
+	_sem_init;
+	_sem_open;
+	_sem_post;
+	_sem_reltimedwait_np;
+	_sem_timedwait;
+	_sem_trywait;
+	_sem_unlink;
+	_sem_wait;
+	_sigqueue;
+	_sigtimedwait;
+	_sigwaitinfo;
+	_timer_create;
+	_timer_delete;
+	_timer_getoverrun;
+	_timer_gettime;
+	_timer_settime;
+     local:
+	*;
+};

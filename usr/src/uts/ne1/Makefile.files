@@ -1,0 +1,164 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
+# Use is subject to license terms.
+#
+
+#
+# Copyright (c) 2006-2009 NEC Corporation
+#
+
+
+#
+#	object lists
+#
+CORE_OBJS +=			\
+	boot_syscalls.o		\
+	boot_args.o		\
+	boot_memlist.o		\
+	dis_trace.o		\
+	machdep.o		\
+	pci_cfgspace.o		\
+	pci_mech1.o		\
+	vm_startup.o
+
+#
+#	locore.o is special. It must be the first file relocated so that it
+#	it is relocated just where its name implies.
+#
+SPECIAL_OBJS_32 +=			\
+	locore.o			\
+	$(EXTRA_SPECIAL_OBJS_32)
+
+SPECIAL_OBJS += $(SPECIAL_OBJS_$(CLASS))
+
+#
+#			driver modules
+#
+#ROOTNEX_OBJS += rootnex.o
+ISANEXUS_OBJS += isa.o dma_engine.o i8237A.o
+PCINEXUS_OBJS += pci.o pci_common.o pci_kstats.o 
+NE1_PCI_PCINEXUS_OBJS += pci_pci.o
+
+TCIC_OBJS +=	tcic.o
+
+FD_OBJS		+= fd.o
+
+PCN_OBJS	+= mii.o
+
+DNET_OBJS	+= dnet.o mii.o
+LOGI_OBJS	+= logi.o
+MSCSI_OBJS	+= mscsi.o
+MSMOUSE_OBJS	+= msm.o
+PCPLUSMP_OBJS	+= apic.o psm_common.o apic_introp.o
+RTLS_OBJS	+= rtls.o
+AGPGART_OBJS	+=	agpgart.o \
+			agp_kstat.o
+AGPTARGET_OBJS	+=	agptarget.o
+AMD64GART_OBJS	+=	amd64_gart.o
+TZMON_OBJS	+= tzmon.o
+
+include $(SRC)/common/mc/mc-amd/Makefile.mcamd
+MCAMD_OBJS	+= \
+	$(MCAMD_CMN_OBJS) \
+	mcamd_drv.o \
+	mcamd_subr.o
+
+#
+#	PCI-Express driver modules
+#
+PCI_E_MISC_OBJS += pcie_error.o
+PCI_E_NEXUS_OBJS += npe.o npe_misc.o
+PCI_E_NEXUS_OBJS += pci_common.o pci_kstats.o
+PCI_E_PCINEXUS_OBJS += pcie_pci.o
+PCIEHPCNEXUS_OBJS += pciehpc_x86.o pciehpc_acpi.o pciehpc_nvidia.o
+
+#
+#	platform specific modules
+#
+UPPC_OBJS += uppc.o psm_common.o
+PCI_AUTOCONFIG_OBJS += \
+	pci_autoconfig.o \
+	pci_boot.o	\
+	pcie_nvidia.o	\
+	pci_memlist.o
+
+ACPICA_OBJS	+= dbcmds.o dbdisply.o \
+		   dbexec.o dbfileio.o dbhistry.o dbinput.o dbstats.o \
+		   dbutils.o dbxface.o evevent.o evgpe.o evgpeblk.o \
+		   evmisc.o evregion.o evrgnini.o evsci.o evxface.o \
+		   evxfevnt.o evxfregn.o hwacpi.o hwgpe.o hwregs.o \
+		   hwsleep.o hwtimer.o dsfield.o dsinit.o dsmethod.o \
+		   dsmthdat.o dsobject.o dsopcode.o dsutils.o dswexec.o \
+		   dswload.o dswscope.o dswstate.o exconfig.o exconvrt.o \
+		   excreate.o exdump.o exfield.o exfldio.o exmisc.o \
+		   exmutex.o exnames.o exoparg1.o exoparg2.o exoparg3.o \
+		   exoparg6.o exprep.o exregion.o exresnte.o exresolv.o \
+		   exresop.o exstore.o exstoren.o exstorob.o exsystem.o \
+		   exutils.o psargs.o psopcode.o psparse.o psscope.o \
+		   pstree.o psutils.o pswalk.o psxface.o nsaccess.o \
+		   nsalloc.o nsdump.o nsdumpdv.o nseval.o nsinit.o \
+		   nsload.o nsnames.o nsobject.o nsparse.o nssearch.o \
+		   nsutils.o nswalk.o nsxfeval.o nsxfname.o nsxfobj.o \
+		   rsaddr.o rscalc.o rscreate.o rsdump.o \
+		   rsinfo.o rsio.o rsirq.o rslist.o rsmemory.o rsmisc.o \
+		   rsutils.o rsxface.o tbconvrt.o tbget.o tbgetall.o \
+		   tbinstal.o tbrsdt.o tbutils.o tbxface.o tbxfroot.o \
+		   utalloc.o utclib.o utcopy.o utdebug.o utdelete.o \
+		   uteval.o utglobal.o utinit.o utmath.o utmisc.o \
+		   utobject.o utresrc.o utxface.o acpica.o acpi_enum.o \
+		   master_ops.o osl.o osl_ml.o acpica_ec.o utcache.o \
+		   utmutex.o utstate.o dmbuffer.o dmnames.o dmobject.o \
+		   dmopcode.o dmresrc.o dmresrcl.o dmresrcs.o dmutils.o \
+		   dmwalk.o psloop.o
+
+POWER_OBJS	+= power.o
+
+GFX_PRIVATE_OBJS	+= gfx_private.o gfxp_pci.o gfxp_segmap.o \
+			   gfxp_devmap.o gfxp_vgatext.o gfxp_vm.o vgasubr.o
+
+#
+#	Build up defines and paths.
+#
+ALL_DEFS	+= -Dne1
+INC_PATH	+= -I$(UTSBASE)/ne1
+
+#
+#	SMSC LAN9118 NIC driver module
+#
+LAN91_OBJS = gem.o lan91_gem.o lan91subr.o
+
+#
+#	Navi Engine uart driver module
+#
+NE_UART_OBJS = ne_uart.o
+
+#
+#	Intel GbE driver
+#
+E1000G_OBJS = gem_org.o em_gem.o if_em_hw.o
+
+#
+#	Platform dependent CZFS module
+#
+CZFS_OBJS	+= spa_config_arch.o

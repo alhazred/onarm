@@ -1,0 +1,84 @@
+# -*- Mode: perl; -*-
+
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007-2009 NEC Corporation
+# All rights reserved.
+#
+
+##
+## Definitions of tunable parameters for ARM architecture.
+##
+
+# Fault Management Architecture (FMA)
+if (eval_option(FMA_ENABLE)) {
+	make_option("GENUNIX_OBJS += ddifm.o fm.o errorq.o");
+	make_option("GENUNIX_OBJS += ndifm.o pcifm.o");
+} else {
+	make_option("GENUNIX_OBJS += ddifm_stub.o fm_stub.o errorq_stub.o");
+	make_option("GENUNIX_OBJS += ndifm_stub.o pcifm_stub.o");
+}
+
+# CPU Performance Counter Subsystem
+if (eval_option(CPCSYS_DISABLE)) {
+	make_option("GENUNIX_OBJS += kcpc_stubs.o");
+} else {
+	make_option("GENUNIX_OBJS += kcpc.o");
+}
+
+# resource pools facility
+if (eval_option(POOL_FACILITY_DISABLE)) {
+	make_option("GENUNIX_OBJS += pool_stubs.o");
+} else {
+	make_option("GENUNIX_OBJS += pool.o");
+	make_option("GENUNIX_OBJS += pool_pset.o");
+}
+
+# Contracts
+if (eval_option(CONTRACT_DISABLE)) {
+	make_option("GENUNIX_OBJS += device_stubs.o");
+} else {
+	make_option("GENUNIX_OBJS += contract.o process.o device.o");
+}
+
+# File Event Monitoring (FEM) or Vnode Specific Data (VSD)
+if (eval_option(FEM_DISABLE) or eval_option(VSD_DISABLE)) {
+	make_option("GENUNIX_OBJS += vnode_stubs.o");
+}
+
+# File Event Monitoring (FEM)
+if (eval_option(FEM_DISABLE)) {
+	make_option("GENUNIX_OBJS += fem_stubs.o");
+} else {
+	make_option("GENUNIX_OBJS += fem.o");
+}
+
+# New Extended Attributes
+if (eval_option(NEA_DISABLE)) {
+	make_option("GENUNIX_OBJS += xattr_stubs.o");
+} else {
+	make_option("GENUNIX_OBJS += xattr.o xattr_common.o");
+}
+
+# Never remove this line, and never put any character after this line.
+1;

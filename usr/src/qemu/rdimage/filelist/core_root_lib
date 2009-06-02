@@ -1,0 +1,82 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008-2009 NEC Corporation
+# All rights reserved.
+#
+
+d none lib 755 root sys
+f none lib/ld.so.1 755 root bin
+f none lib/libadm.so.1 755 root bin
+f none lib/libaio.so.1 755 root bin
+f none lib/libavl.so.1 755 root bin
+f none lib/libbsm.so.1 755 root bin
+f none lib/libc.so.1 755 root bin
+f none lib/unicode.so.1 755 root bin
+f none lib/libc_db.so.1 755 root bin
+f none lib/libcmdutils.so.1 755 root bin
+f none lib/libcontract.so.1 755 root bin
+f none lib/libctf.so.1 755 root bin
+f none lib/libcurses.so.1 755 root bin
+f none lib/libdevid.so.1 755 root bin
+f none lib/libdevinfo.so.1 755 root bin
+f none lib/libdhcpagent.so.1 755 root bin
+f none lib/libdhcputil.so.1 755 root bin
+f none lib/libdladm.so.1 755 root bin
+f none lib/libdlpi.so.1 755 root bin
+f none lib/libelf.so.1 755 root bin
+f none lib/libgen.so.1 755 root bin
+f none lib/libinetcfg.so.1 755 root bin
+f none lib/libinetutil.so.1 755 root bin
+f none lib/libkstat.so.1 755 root bin
+f none lib/libld.so.4 755 root bin
+f none lib/liblddbg.so.4 755 root bin
+f none lib/libm.so.2 755 root bin
+f none lib/libmd.so.1 755 root bin
+f none lib/libmp.so.2 755 root bin
+f none lib/libnsl.so.1 755 root bin
+f none lib/libnvpair.so.1 755 root bin
+f none lib/libpam.so.1 755 root bin
+f none lib/libproc.so.1 755 root bin
+f none lib/libpthread.so.1 755 root bin
+f none lib/librcm.so.1 755 root bin
+f none lib/libresolv.so.1 755 root bin
+f none lib/libresolv.so.2 755 root bin
+f none lib/librpcsvc.so.1 755 root bin
+f none lib/librt.so.1 755 root bin
+f none lib/librtld.so.1 755 root bin
+f none lib/librtld_db.so.1 755 root bin
+f none lib/libscf.so.1 755 root bin
+f none lib/libsec.so.1 755 root bin
+f none lib/libsecdb.so.1 755 root bin
+f none lib/libsendfile.so.1 755 root bin
+f none lib/libsocket.so.1 755 root bin
+f none lib/libsysevent.so.1 755 root bin
+f none lib/libthread.so.1 755 root bin
+f none lib/libtsnet.so.1 755 root bin
+f none lib/libtsol.so.2 755 root bin
+f none lib/libuuid.so.1 755 root bin
+f none lib/libuutil.so.1 755 root bin
+f none lib/libxnet.so.1 755 root bin
+f none lib/nss_dns.so.1 755 root bin
+f none lib/nss_files.so.1 755 root bin
+d none lib/secure 755 root bin

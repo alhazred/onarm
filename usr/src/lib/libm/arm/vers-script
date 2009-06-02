@@ -1,0 +1,709 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+# Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
+# Use is subject to license terms.
+#
+
+#
+# Copyright (c) 2007-2008 NEC Corporation
+#
+
+{
+    global:
+	__acos;
+	__acosf;
+	__acosh;
+	__acoshf;
+	__acoshl;
+	__acosl;
+	__aintf;
+	__aintl;
+	__anintf;
+	__anintl;
+	__asin;
+	__asinf;
+	__asinh;
+	__asinhf;
+	__asinhl;
+	__asinl;
+	__atan;
+	__atan2;
+	__atan2f;
+	__atan2l;
+	__atan2pi;
+	__atan2pif;
+	__atan2pil;
+	__atanf;
+	__atanh;
+	__atanhf;
+	__atanhl;
+	__atanl;
+	__cabs;
+	__cabsf;
+	__cabsl;
+	__cacos;
+	__cacosf;
+	__cacosh;
+	__cacoshf;
+	__cacoshl;
+	__cacosl;
+	__carg;
+	__cargf;
+	__cargl;
+	__casin;
+	__casinf;
+	__casinh;
+	__casinhf;
+	__casinhl;
+	__casinl;
+	__catan;
+	__catanf;
+	__catanh;
+	__catanhf;
+	__catanhl;
+	__catanl;
+	__cbrt;
+	__cbrtf;
+	__cbrtl;
+	__ccos;
+	__ccosf;
+	__ccosh;
+	__ccoshf;
+	__ccoshl;
+	__ccosl;
+	__ceil;
+	__ceilf;
+	__ceill;
+	__cexp;
+	__cexpf;
+	__cexpl;
+	__cimag;
+	__cimagf;
+	__cimagl;
+	__clog;
+	__clogf;
+	__clogl;
+	__conj;
+	__conjf;
+	__conjl;
+	__copysign;
+	__copysignf;
+	__copysignl;
+	__cos;
+	__cosf;
+	__cosh;
+	__coshf;
+	__coshl;
+	__cosl;
+	__cpow;
+	__cpowf;
+	__cpowl;
+	__cproj;
+	__cprojf;
+	__cprojl;
+	__creal;
+	__crealf;
+	__creall;
+	__csin;
+	__csinf;
+	__csinh;
+	__csinhf;
+	__csinhl;
+	__csinl;
+	__csqrt;
+	__csqrtf;
+	__csqrtl;
+	__ctan;
+	__ctanf;
+	__ctanh;
+	__ctanhf;
+	__ctanhl;
+	__ctanl;
+	__erf;
+	__erfc;
+	__erfcf;
+	__erfcl;
+	__erff;
+	__erfl;
+	__exp;
+	__exp10;
+	__exp10f;
+	__exp10l;
+	__exp2;
+	__exp2f;
+	__exp2l;
+	__expf;
+	__expl;
+	__expm1;
+	__expm1f;
+	__expm1l;
+	__fabs;
+	__fabsf;
+	__fabsl;
+	__fdim;
+	__fdimf;
+	__fdiml;
+	__feclearexcept;
+	__fegetenv;
+	__fegetexceptflag;
+	__fegetprec;			#LSARC/1996/175
+	__fegetround;
+	__feholdexcept;
+	__fenv_dfl_env;			#LSARC/1996/175
+	__feraiseexcept;
+	__fesetenv;
+	__fesetexceptflag;
+	__fesetprec;			#LSARC/1996/175
+	__fesetround;
+	__fetestexcept;
+	__feupdateenv;
+	__fex_get_handling;		#LSARC/1996/175
+	__fex_get_log;			#LSARC/1996/175
+	__fex_get_log_depth;		#LSARC/1996/175
+	__fex_getexcepthandler;		#LSARC/1996/175
+	__fex_log_entry;		#LSARC/1996/175
+	__fex_merge_flags;		#LSARC/1996/175
+	__fex_set_handling;		#LSARC/1996/175
+	__fex_set_log;			#LSARC/1996/175
+	__fex_set_log_depth;		#LSARC/1996/175
+	__fex_setexcepthandler;		#LSARC/1996/175
+	__finitel;
+	__floor;
+	__floorf;
+	__floorl;
+	__fma;
+	__fmaf;
+	__fmal;
+	__fmax;
+	__fmaxf;
+	__fmaxl;
+	__fmin;
+	__fminf;
+	__fminl;
+	__fmod;
+	__fmodf;
+	__fmodl;
+	__frexp;
+	__frexpf;
+	__frexpl;
+	__gamma;
+	__gamma_r;
+	__gammaf;			#LSARC/2003/279
+	__gammaf_r;			#LSARC/2003/279
+	__gammal;			#LSARC/2003/279
+	__gammal_r;			#LSARC/2003/279
+	__hypot;
+	__hypotf;
+	__hypotl;
+	__ilogb;
+	__ilogbf;
+	__ilogbl;
+	__irintf;
+	__irintl;
+	__isinf;
+	__isinfl;
+	__isnan;
+	__isnanf;			#LSARC/2003/658
+	__isnanl;			#LSARC/2003/658
+	__isnormall;
+	__issubnormall;
+	__iszerol;
+	__j0;
+	__j0f;				#LSARC/2003/279
+	__j0l;				#LSARC/2003/279
+	__j1;
+	__j1f;				#LSARC/2003/279
+	__j1l;				#LSARC/2003/279
+	__jn;
+	__jnf;				#LSARC/2003/279
+	__jnl;				#LSARC/2003/279
+	__ldexp;
+	__ldexpf;
+	__ldexpl;
+	__lgamma;
+	__lgamma_r;
+	__lgammaf;
+	__lgammaf_r;			#LSARC/2003/279
+	__lgammal;
+	__lgammal_r;			#LSARC/2003/279
+	__libm__rem_pio2;
+	__libm__rem_pio2m;
+	__libm_errno;			# SC3.0.1 -lmopt
+	__libm_mt_fex_sync;		# -lmtsk
+	__llrint;
+	__llrintf;
+	__llrintl;
+	__llround;
+	__llroundf;
+	__llroundl;
+	__log;
+	__log10;
+	__log10f;
+	__log10l;
+	__log1p;
+	__log1pf;
+	__log1pl;
+	__log2;
+	__log2f;
+	__log2l;
+	__logb;
+	__logbf;
+	__logbl;
+	__logf;
+	__logl;
+	__lrint;
+	__lrintf;
+	__lrintl;
+	__lround;
+	__lroundf;
+	__lroundl;
+	__matherr;
+	__modf;
+	__modff;
+	__modfl;
+	__mt_fex_sync;			# -lmtsk
+	__nan;
+	__nanf;
+	__nanl;
+	__nearbyint;
+	__nearbyintf;
+	__nearbyintl;
+	__nextafter;
+	__nextafterf;
+	__nextafterl;
+	__nexttoward;
+	__nexttowardf;
+	__nexttowardl;
+	__nintf;
+	__nintl;
+	__pow;
+	__powf;
+	__powl;
+	__remainder;
+	__remainderf;
+	__remainderl;
+	__remquo;
+	__remquof;
+	__remquol;
+	__rint;
+	__rintf;
+	__rintl;
+	__round;
+	__roundf;
+	__roundl;
+	__scalb;
+	__scalbf;			#LSARC/2003/279
+	__scalbl;			#LSARC/2003/279
+	__scalbln;
+	__scalblnf;
+	__scalblnl;
+	__scalbn;
+	__scalbnf;
+	__scalbnl;
+	__signbit;
+	__signbitl;
+	__signgam;
+	__signgamf;			#LSARC/2003/279
+	__signgaml;			#LSARC/2003/279
+	__significand;
+	__significandf;			#LSARC/2003/279
+	__significandl;			#LSARC/2003/279
+	__sin;
+	__sincos;			#LSARC/2003/279
+	__sincosf;			#LSARC/2003/279
+	__sincosl;			#LSARC/2003/279
+	__sincospi;
+	__sincospif;
+	__sincospil;
+	__sinf;
+	__sinh;
+	__sinhf;
+	__sinhl;
+	__sinl;
+	__sinpil;
+	__sqrt;
+	__sqrtf;
+	__sqrtl;
+	__tan;
+	__tanf;
+	__tanh;
+	__tanhf;
+	__tanhl;
+	__tanl;
+	__tgamma;
+	__tgammaf;
+	__tgammal;
+	__trunc;
+	__truncf;
+	__truncl;
+	__xpg6;				#private contract with libc group
+	__y0;
+	__y0f;				#LSARC/2003/279
+	__y0l;				#LSARC/2003/279
+	__y1;
+	__y1f;				#LSARC/2003/279
+	__y1l;				#LSARC/2003/279
+	__yn;
+	__ynf;				#LSARC/2003/279
+	__ynl;				#LSARC/2003/279
+	_isnan;				#LSARC/2003/658
+	_isnand;			#LSARC/2003/658
+	_isnanf;			#LSARC/2003/658
+	_lib_version;
+	_logb;				#LSARC/2003/658
+	_modf;				#LSARC/2003/658
+	_modff;				#LSARC/2003/658
+	_nextafter;			#LSARC/2003/658
+	_scalb;				#LSARC/2003/658
+	acos;
+	acosf;
+	acosh;
+	acoshf;
+	acoshl;
+	acosl;
+	aintf;
+	aintl;
+	anintf;
+	anintl;
+	asin;
+	asinf;
+	asinh;
+	asinhf;
+	asinhl;
+	asinl;
+	atan;
+	atan2;
+	atan2f;
+	atan2l;
+	atan2pi;
+	atan2pif;
+	atan2pil;
+	atanf;
+	atanh;
+	atanhf;
+	atanhl;
+	atanl;
+	cabs;
+	cabsf;
+	cabsl;
+	cacos;
+	cacosf;
+	cacosh;
+	cacoshf;
+	cacoshl;
+	cacosl;
+	carg;
+	cargf;
+	cargl;
+	casin;
+	casinf;
+	casinh;
+	casinhf;
+	casinhl;
+	casinl;
+	catan;
+	catanf;
+	catanh;
+	catanhf;
+	catanhl;
+	catanl;
+	cbrt;
+	cbrtf;
+	cbrtl;
+	ccos;
+	ccosf;
+	ccosh;
+	ccoshf;
+	ccoshl;
+	ccosl;
+	ceil;
+	ceilf;
+	ceill;
+	cexp;
+	cexpf;
+	cexpl;
+	cimag;
+	cimagf;
+	cimagl;
+	clog;
+	clogf;
+	clogl;
+	conj;
+	conjf;
+	conjl;
+	copysign;
+	copysignf;
+	copysignl;
+	cos;
+	cosf;
+	cosh;
+	coshf;
+	coshl;
+	cosl;
+	cpow;
+	cpowf;
+	cpowl;
+	cproj;
+	cprojf;
+	cprojl;
+	creal;
+	crealf;
+	creall;
+	csin;
+	csinf;
+	csinh;
+	csinhf;
+	csinhl;
+	csinl;
+	csqrt;
+	csqrtf;
+	csqrtl;
+	ctan;
+	ctanf;
+	ctanh;
+	ctanhf;
+	ctanhl;
+	ctanl;
+	erf;
+	erfc;
+	erfcf;
+	erfcl;
+	erff;
+	erfl;
+	exp;
+	exp10;
+	exp10f;
+	exp10l;
+	exp2;
+	exp2f;
+	exp2l;
+	expf;
+	expl;
+	expm1;
+	expm1f;
+	expm1l;
+	fabs;
+	fabsf;
+	fabsl;
+	fdim;
+	fdimf;
+	fdiml;
+	feclearexcept;
+	fegetenv;
+	fegetexceptflag;
+	fegetprec;			#LSARC/1996/175
+	fegetround;
+	feholdexcept;
+	feraiseexcept;
+	fesetenv;
+	fesetexceptflag;
+	fesetprec;			#LSARC/1996/175
+	fesetround;
+	fetestexcept;
+	feupdateenv;
+	fex_get_handling;		#LSARC/1996/175
+	fex_get_log;			#LSARC/1996/175
+	fex_get_log_depth;		#LSARC/1996/175
+	fex_getexcepthandler;		#LSARC/1996/175
+	fex_log_entry;			#LSARC/1996/175
+	fex_merge_flags;		#LSARC/1996/175
+	fex_set_handling;		#LSARC/1996/175
+	fex_set_log;			#LSARC/1996/175
+	fex_set_log_depth;		#LSARC/1996/175
+	fex_setexcepthandler;		#LSARC/1996/175
+	finitel;
+	floor;
+	floorf;
+	floorl;
+	fma;
+	fmaf;
+	fmal;
+	fmax;
+	fmaxf;
+	fmaxl;
+	fmin;
+	fminf;
+	fminl;
+	fmod;
+	fmodf;
+	fmodl;
+	frexp;
+	frexpf;
+	frexpl;
+	gamma;
+	gamma_r;
+	gammaf;				#LSARC/2003/279
+	gammaf_r;			#LSARC/2003/279
+	gammal;				#LSARC/2003/279
+	gammal_r;			#LSARC/2003/279
+	hypot;
+	hypotf;
+	hypotl;
+	ilogb;
+	ilogbf;
+	ilogbl;
+	irintf;
+	irintl;
+	isinf;
+	isinfl;
+	isnan;
+	isnand;				#LSARC/2003/658
+	isnanf;				#LSARC/2003/658
+	isnanl;				#LSARC/2003/658
+	isnormall;
+	issubnormall;
+	iszerol;
+	j0;
+	j0f;				#LSARC/2003/279
+	j0l;				#LSARC/2003/279
+	j1;
+	j1f;				#LSARC/2003/279
+	j1l;				#LSARC/2003/279
+	jn;
+	jnf;				#LSARC/2003/279
+	jnl;				#LSARC/2003/279
+	ldexp;
+	ldexpf;
+	ldexpl;
+	lgamma;
+	lgamma_r;
+	lgammaf;
+	lgammaf_r;			#LSARC/2003/279
+	lgammal;
+	lgammal_r;			#LSARC/2003/279
+	llrint;
+	llrintf;
+	llrintl;
+	llround;
+	llroundf;
+	llroundl;
+	log;
+	log10;
+	log10f;
+	log10l;
+	log1p;
+	log1pf;
+	log1pl;
+	log2;
+	log2f;
+	log2l;
+	logb;
+	logbf;
+	logbl;
+	logf;
+	logl;
+	lrint;
+	lrintf;
+	lrintl;
+	lround;
+	lroundf;
+	lroundl;
+	matherr;
+	modf;
+	modff;
+	modfl;
+	nan;
+	nanf;
+	nanl;
+	nearbyint;
+	nearbyintf;
+	nearbyintl;
+	nextafter;
+	nextafterf;
+	nextafterl;
+	nexttoward;
+	nexttowardf;
+	nexttowardl;
+	nintf;
+	nintl;
+	pow;
+	powf;
+	powl;
+	remainder;
+	remainderf;
+	remainderl;
+	remquo;
+	remquof;
+	remquol;
+	rint;
+	rintf;
+	rintl;
+	round;
+	roundf;
+	roundl;
+	scalb;
+	scalbf;				#LSARC/2003/279
+	scalbl;				#LSARC/2003/279
+	scalbln;
+	scalblnf;
+	scalblnl;
+	scalbn;
+	scalbnf;
+	scalbnl;
+	signbit;
+	signbitl;
+	signgam;
+	signgamf;			#LSARC/2003/279
+	signgaml;			#LSARC/2003/279
+	significand;
+	significandf;			#LSARC/2003/279
+	significandl;			#LSARC/2003/279
+	sin;
+	sincos;				#LSARC/2003/279
+	sincosf;			#LSARC/2003/279
+	sincosl;			#LSARC/2003/279
+	sincospi;
+	sincospif;
+	sincospil;
+	sinf;
+	sinh;
+	sinhf;
+	sinhl;
+	sinl;
+	sinpil;
+	sqrt;
+	sqrtf;
+	sqrtl;
+	tan;
+	tanf;
+	tanh;
+	tanhf;
+	tanhl;
+	tanl;
+	tgamma;
+	tgammaf;
+	tgammal;
+	trunc;
+	truncf;
+	truncl;
+	y0;
+	y0f;				#LSARC/2003/279
+	y0l;				#LSARC/2003/279
+	y1;
+	y1f;				#LSARC/2003/279
+	y1l;				#LSARC/2003/279
+	yn;
+	ynf;				#LSARC/2003/279
+	ynl;				#LSARC/2003/279
+    # anything else is local
+    local:
+	*;	# symbols not mentioned in this file are scoped out
+};

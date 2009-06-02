@@ -1,0 +1,722 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007-2009 NEC Corporation
+# All rights reserved.
+#
+
+##
+## Definitions of tunable parameters for ARM architecture.
+##
+
+# Export all parameters to arm specific build environment.
+export
+{
+	type:	"architecture";
+	scope:	"arm";
+}
+
+#
+# Core definitions
+#
+option boolean ARM_OABI_USER
+{
+	default:	false;
+	description:	"This is tentative parameter for EABI mode testing.\n"
+			"If this parameter is true, the kernel assumes that "
+			"all userland programs are built as OABI mode.";
+}
+
+option ulong SEGKP_SIZE
+{
+	default:	0x4000000;		# 64M
+	min:		0x1000000;		# 16M
+	max:		0x10000000;		# 256M
+	align:		0x1000;
+	candidates:	0;			# use kernel heap
+	description:	"The size of segkp segment, which is used for "
+			"kernel thread allocation.\n"
+			"If SEGKP_SIZE is defined as zero, segkp segment is "
+			"put under kernel heap.\n\n"
+			"If SEGKP_SIZE is defined other than 0, process "
+			"or thread creation may fail for lack of segkp "
+			"segment space. On the other hand, if SEGKP_SIZE "
+			"is defined as zero, the system will use "
+			"more memory to maintain segkp allocation.";
+}
+
+option ulong SEGZIO_SIZE
+{
+	default:	0;			# use kernel heap
+	min:		0x1000000;		# 16M
+	max:		0x10000000;		# 256M
+	align:		0x1000;
+	candidates:	0;			# use kernel heap
+	description:	"The size of segzio segment, which is used for "
+			"ZFS zio buffers.\n"
+			"If SEGZIO_SIZE is defined as zero, zio buffers are "
+			"allocated from kernel heap without creating segzio "
+			"segment.";
+}
+
+#
+# IPC Shared Memory
+#
+option boolean SPT_DISABLE
+{
+	default:	true;
+	description:	"Determine whether SPT feature (Shared Page Table) "
+			"should be disabled or not. "
+			"If this option is set, shmat(2) always ignore "
+			"SHM_SHARE_MMU and SHM_PAGEABLE flag.\n"
+			"This value should be left as true because "
+			"currently ARM architecture doesn't support SPT.";
+}
+
+option ulong SHMMAX
+{
+	default:	0x800000;
+	min:		0x10000;
+	max:		0x80000000;
+	description:	"The maximum size of shared memory segment. "
+			"This value is used to calculate total amount of "
+			"shared memory allowed a project.\n"
+			"Note that it can be changed by prctl(1).";
+}
+
+option int SHMMNI
+{
+	default:	128;
+	min:		128;
+	max:		0x1000000;
+	description:	"The maximum number of shared memory IDs allowed "
+			"a project. "
+			"This value is used to calculate total amount of "
+			"shared memory allowed a project.\n"
+			"Note that this value can be changed by prctl(1).";
+}
+
+#
+# /etc/svc/volatile, /tmp and /var/run size configuration.
+#
+option int VFS_ETC_SVC_VOLATILE_SIZE
+{
+	default:	1024;
+	min:		-1;
+	max:		524288;
+	description:	"Specifies the size limit of /etc/svc/volatile "
+			"in Kbytes. If this value is set to 0, "
+			"/etc/svc/volatile size shall be unlimited. "
+			"If the value is set to -1, /etc/svc/volatile shall "
+			"not be mounted.";
+}
+
+option int VFS_TMP_SIZE
+{
+	default:	2048;
+	min:		-1;
+	max:		524288;
+	description:	"Specifies the size limit of /tmp in Kbytes. "
+			"If this value is set to 0, /tmp size shall be "
+			"unlimited. "
+			"If the value is set to -1, /tmp shall not be mounted.";
+}
+
+option int VFS_VAR_RUN_SIZE
+{
+	default:	1024;
+	min:		-1;
+	max:		524288;
+	description:	"Specifies the size limit of /var/run in Kbytes. "
+			"If this value is set to 0, /var/run size shall be "
+			"unlimited. "
+			"If the value is set to -1, /var/run shall not "
+			"be mounted.";
+}
+ 
+#
+# /etc/svc/volatile, /tmp and /var/run inum configuration.
+#
+option uint VFS_ETC_SVC_VOLATILE_INUM
+{
+	default:	32;
+	min:		0;
+	max:		65535;
+	description:	"Specifies the maximum number to get inode of "
+			"/etc/svc/volatile. "
+			"If this value is set to zero, /etc/svc/volatile "
+			"number of inode shall be unlimited.";
+}
+
+option uint VFS_TMP_INUM
+{
+	default:	128;
+	min:		0;
+	max:		65535;
+	description:	"Specifies the maximum number to get inode of /tmp. "
+			"If this value is set to zero, /tmp number of inode "
+			"shall be unlimited.";
+}
+
+option uint VFS_VAR_RUN_INUM
+{
+	default:	32;
+	min:		0;
+	max:		65535;
+	description:	"Specifies the maximum number to get inode of "
+			"/var/run. "
+			"If this value is set to zero, /var/run number of "
+			"inode shall be unlimited.";
+}
+
+#
+# Amount configuration of kernel memory for tmpfs's data structures (e.g.
+# tmpnodes, directory entries)
+#
+option uint TMPFS_MAXKMEM
+{
+	default:	0;
+	min:		0;
+	max:		20480;
+	description:	"Specifies the amount of kernel kmem_alloc memory for "
+			"tmpfs in Kbyte unit. One file uses about 0.18 Kbytes "
+			"plus bytes of file name length. "
+			"If this value is set to zero, it's determined as "
+			"4 percent of physical memory.";
+}
+
+#
+# Kernel compactification
+#
+
+option uint VNODE_NUM_BUCKETS
+{
+	default:	256;
+	power:		2;
+	description:	"The number of hash entries of vnode as object of "
+			"lock.";
+}
+
+option int DNLC_NCSIZE
+{
+	default:	256;
+	min:		128;
+	candidates:	-1;
+	description:	"The number of DNLC entries reserved statically upon "
+			"system boot.\n"
+			"If this value is set to -1, "
+			"the number of DNLC entries shall be determined "
+			"indirectly based on the memory size.";
+}
+
+option boolean MNTFS_DISABLE
+{
+	default:	false;
+	description:	"This parameter determines whether mntfs should be "
+			"disabled or not.\n"
+			"If this option is true, you can not use mntfs.\n"
+			"This parameter should be false "
+			"if you want to use zone (except global zone).";
+}
+
+option boolean OBJFS_DISABLE
+{
+	default:	true;
+	description:	"This parameter determines whether objfs should be "
+			"disabled or not.\n"
+			"If this option is true, you can not use objfs.";
+}
+
+option boolean SHAREFS_DISABLE
+{
+	default:	true;
+	description:	"This parameter determines whether sharefs should be "
+			"disabled or not.\n"
+			"If this option is true, you can not use sharefs.";
+}
+
+##
+## Root filesystem configuration
+##
+option boolean UFS_RAM_ROOTFS
+{
+	default:	true;
+	description:	"This parameter should be true if you want to use "
+			"UFS on ramdisk as root filesystem.";
+}
+
+option ulong RAMDISK_ROOT_SIZE
+{
+	default:	0x3000000;		# 48M
+	min:		0x1000000;		# 16M
+	max:		0x4000000;		# 64M
+	align:		0x1000;
+	description:	"The size of ramdisk for root filesystem.";
+}
+
+option boolean XRAMFS_ROOTFS
+{
+	default:	false;
+	description:	"This parameter should be true if you want to use "
+			"XRAMFS in the physical xramfs device as root "
+			"filesystem.\n"
+			"If XRAMFS_ROOTFS is configured as true, "
+			"XRAMDEV_CONFIG and BOOT_STRPLUMB_DISABLE will be "
+			"configured as true automatically.";
+
+	# XRAMDEV_CONFIG and BOOT_STRPLUMB_DISABLE must be defined as true
+	# if XRAMFS_ROOTFS is configured as true.
+	also-define:	XRAMDEV_CONFIG, BOOT_STRPLUMB_DISABLE;
+}
+
+option string XRAMFS_ROOTFS_USR_FSTYPE
+{
+	default:	"none";
+	candidates:	"none";
+	description:	"Currently not supported.";
+}
+
+#
+# Disable strplumb
+#
+option boolean BOOT_STRPLUMB_DISABLE
+{
+        default:        true;
+        description:    "This parameter determines whether strplumb() is called"
+                        " at main() or not. If the value is set to false, "
+                        "it is called at main(). ";
+}
+
+#
+# Shrink SCTP
+#
+option boolean SCTP_SHRINK
+{
+	default:	true;
+	description:	"This option determines whether SCTP function "
+			"should be shrunk from IP and SOCKFS modules or not. "
+			"If this value is set to \"true\", this function is "
+			"shrunk and SCTP cannot be used.";
+}
+
+#
+# Shrink SOCKFS
+#
+option boolean SOCKFS_SHRINK
+{
+	default:	true;
+	description:	"This option determines whether SOCKFS function "
+			"should be shrunk or not. ";
+}
+
+#
+# Shrink vfssw
+#
+option boolean VFS_SHRINK_VFSSW
+{
+	default:	true;
+	description:	"This option determines whether vfssw should be "
+			"shrunk or not.";
+}
+
+#
+# Kernel devhalt configuration
+#
+option uint DEVHALT_ENTRY_MAX
+{
+	default:	5;
+	min:		1;
+	max:		256;
+	description:	"Max size of device halt table entries";
+}
+
+##
+## configuration for compact OS
+##
+option boolean NO_TEM_FRAMEWORK
+{
+        default:        true;
+        description:    "This parameter should be true if you want to remove tem.";
+}
+
+option boolean NO_KBD_MS
+{
+        default:        true;
+        description:    "This parameter should be true if you want to remove "
+                        "conskbd, consms and kbtrans.";
+}
+
+option boolean NO_USEDDI
+{
+        default:        false;
+        description:    "This parameter should be true if you want to delete "
+                        "no use ddi function.";
+}
+
+#
+# Shrink USB
+#
+option boolean USB_SHRINK
+{
+	default:	true;
+	description:	"This parameter determine whether to reduce memory in USB driver." 
+			"This parameter should be false if you want to use detailed log and "
+			"all USB devices.";
+}
+
+option boolean USB_UGEN_DISABLE
+{
+	default:	true;
+	description:	"This parameter should be false if you want to use "
+			"ugen(7D) function.";
+}
+
+
+#
+# Disable fem
+#
+option boolean FEM_DISABLE
+{
+        default:        true;
+        description:    "This option determines whether File Event Monitoring "
+                        "(FEM) should be disabled or not.";
+}
+
+#
+# Enable FMA
+#
+option boolean FMA_ENABLE
+{
+	default:	false;
+	description:	"Enable Fault Management Architecture (FMA)";
+}
+
+#
+# Disable TNF
+#
+option boolean NPROBE
+{
+	default:	true;
+	description:	"Disable Trace Normal Form(TNF) kernel probes"
+			" and tracing system.";
+}
+
+#
+# Disable kstat
+#
+option boolean KSTAT_DISABLE
+{
+	default:	false;
+	description:	"Disable Kernel statistics framework and driver. "
+			"If this parameter is true, kstat DDI, kstat(7D) "
+			"and 3KSTAT interfaces are disabled. Also many "
+			"commands depending on kstat cannot be used.";
+}
+
+#
+# Disable the CPC sub-system
+#
+option boolean CPCSYS_DISABLE
+{
+	default:	true;
+	description:	"Disable the CPC sub-system. "
+			"If true is specified, the CPC and PCBE "
+			"modules are not built, and the kcpc functions "
+			"are defined as their stub code. ";
+}
+
+#
+# Configuration for the CPC sub-system
+#
+option boolean KCPC_COUNTS_INCLUDE_IDLE
+{
+	default:	true;
+	description:	"If true is specified, the context operators "
+			"kcpc_idle_save() and kcpc_idle_restore() will be "
+			"added to the idle thread on each CPU. ";
+}
+
+#
+# Page related parameters
+#
+option boolean PAGE_RETIRE_DISABLE
+{
+	default:	true;
+	description:	"Disable Page Retire mechanism.";
+}
+
+option boolean LPG_DISABLE
+{
+	default:	true;
+	description:	"If true, disable all large page related features.";
+}
+
+#
+# Disable brand mechanism
+#
+option boolean BRAND_DISABLE
+{
+	default:	true;
+	description:	"Disable brand mechanism.";
+}
+
+#
+# Disable CMT scheduling
+#
+option boolean CMT_SCHED_DISABLE
+{
+	default:	true;
+	description:	"Disable CMT scheduler support.";
+}
+
+#
+# Disable resource pools facility
+#
+option boolean POOL_FACILITY_DISABLE
+{
+	default:	true;
+	description:	"Disable resource pools facility.";
+}
+
+#
+# Disable contracts
+#
+option boolean CONTRACT_DISABLE
+{
+	default:	true;
+	description:	"Disable contracts framework and ctfs.";
+}
+
+#
+# Locality groups
+#
+option boolean LGROUP_SINGLE
+{
+	default:	true;
+	description:	"Optimize the lgroup functionality for UMA machine "
+			"with a single locality group. "
+			"Don't enable this parameter on NUMA machine "
+			"with multi locality groups.";
+}
+
+#
+# Unicode/Code conversion
+#
+option boolean KICONV_LOADABLE
+{
+	default:	true;
+	description:	"If true, unicode table in kernel and code conversion "
+			"related features, such as kiconv(9F), are "
+			"implemented as loadable module.";
+}
+
+#
+# Physical device for xramfs filesystem.
+#
+option boolean XRAMDEV_CONFIG
+{
+	default:	false;
+	description:	"Determine whether the system configures physical "
+			"memory device for xramfs. If it is true, the system "
+			"reserves physical memory for xramfs device.";
+}
+
+#
+# Disable UART console
+#
+option boolean UART_CONSOLE_DISABLE
+{
+	default:	false;
+	description:	"Determine whether to use the UART console.";
+}
+
+#
+# Definitions of WDT
+#
+option boolean WDT_ENABLE
+{
+	default:	true;
+	description:	"Determine whether to use watchdog timer or not.";
+}
+
+option uint WDT_INTERVAL
+{
+	default:	5000;
+	min:		1;
+	max:		599999;
+	description:	"Determine time interval (in milliseconds) of "
+			"reloading Watchdog Counter Register. Required "
+			"to set a smaller value than WDT_TIMEOUT.";
+}
+
+option uint WDT_TIMEOUT
+{
+	default:	10000;
+	min:		2;
+	max:		600000;
+	description:	"Determine timeout period for watchdog timer in "
+			"milliseconds. Required to set a larger value "
+			"than WDT_INTERVAL.";
+}
+
+option uint WDT_REFRESH_LEVEL
+{
+	default:	10;
+	min:		1;
+	max:		10;
+	description:	"Determine interrupt priority level of the handler "
+			"which refreshes Watchdog Timer service.";
+}
+
+#
+# IPv4 only.
+#
+option boolean USE_INET6
+{
+        default:        false;
+        description:    "This option determines whether some of IPv6 "
+                        "modules/drivers should be deleted. "
+                        "If this value is set to \"false\", they are "
+                        "deleted and IPv6 is unavailable.";
+}
+
+#
+# Definitions of disk access control feature
+#
+option boolean DISK_ACCESS_CTRL
+{
+	default:	false;
+	description:	"Determine whether disk(partition) access control "
+			"feature should be enable or not.\n"
+			"If this option set, application can not access "
+			"the disk(partition) specified with "
+			"DISK_ACCESS_CONFIG.";
+}
+
+option string DISK_ACCESS_CONFIG
+{
+	default:        "0,l0";
+	description:	"Specifies the disk(partition) list that restrict "
+			"access.\n"
+			"Format \n"
+			"    instance,partition[,partition,...].\n"
+			"Set 0 to instance, it means internal SATA disk "
+			"drive. Set pX(primary partition) or "
+			"lX(logical partition) to partition. X is partition "
+			"number.";
+}
+
+#
+# Disable kmem logging
+#
+option boolean KMEM_LOG_DISABLE
+{
+	default:	true;
+	description:	"Disable kmem logging.";
+}
+
+#
+# Disable vm_usage
+#
+option boolean VMUSAGE_DISABLE
+{
+	default:	false;
+	description:	"Disable vm_usage.\n"
+			"If true, _RUSAGESYS_GETVMUSAGE operation of "
+			"rusagesys(2) always return ENOTSUP.";
+}
+
+#
+# taskq parameters for cyclic_timer
+#
+option int TIMER_TASKQ_NUM
+{
+	default:	1;
+	min:		1;
+	description:	"The number of timeout taskq threads (timeout_taskq).\n"
+			"This value should be in the range of"
+			" TIMER_TASKQ_MIN_NUM - TIMER_TASKQ_MAX_NUM.";
+}
+
+option int TIMER_TASKQ_MIN_NUM
+{
+	default:	1;
+	min:		1;
+	description:	"The minimum number of timeout taskq threads.";
+}
+
+option int TIMER_TASKQ_MAX_NUM
+{
+	default:	128;
+	min:		1;
+	description:	"The maximum number of timeout taskq threads.";
+}
+
+#
+# Disable VSD
+#
+option boolean VSD_DISABLE
+{
+        default:        true;
+        description:    "This option determines whether Vnode Specific Data "
+                        "(VSD) should be disabled or not. "
+			"If this value is set to \"true\", NFSv4 server "
+			"function cannot be used.";
+}
+
+#
+# Disable New Extended Attributes
+#
+option boolean NEA_DISABLE
+{
+        default:        true;
+        description:    "This option determines whether New Extended "
+			"Attributes should be disabled or not.";
+}
+
+#
+# I/O related options.
+#
+option boolean IO_FASTBOOT_ENABLE
+{
+	default:	false;
+	description:	"Determines whether module parallel initialization "
+			"should be enabled or not. "
+			"The default is \"disabled\".";
+}
+
+option boolean USB_INIT_ENABLE
+{
+	default:	true;
+	description:	"Determine whether USB device initialization at "
+			"the kernel boot time should be enabled or not. "
+			"The default is \"enabled\".";
+}
+
+option uint USB_INIT_TIMER
+{
+	default:	10;
+	description:	"How long, in seconds, the kernel will delay USB "
+			"device initialization.";
+	min:		3;
+	max:		13;
+}

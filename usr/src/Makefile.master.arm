@@ -1,0 +1,120 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
+# Use is subject to license terms.
+#
+
+#
+# Copyright (c) 2006-2009 NEC Corporation
+#
+
+##
+## ARM dependent definitions for Makefile.master.
+##
+
+SPARC_BLD	= $(POUND_SIGN)
+INTEL_BLD	= $(POUND_SIGN)
+ARM_BLD		=
+
+# We use genconst command to generate header that contains
+# constants for assembler source.
+GENCONST		= $(ONBLD_TOOLS)/bin/genconst
+GENCONST_COMPILER	= $(CC) $(GOFLAGS) $(CFLAGS) $(CPPFLAGS)
+CONSTANTS_CREATE	= $(GENCONST) -n $(NM)
+
+# MACH must be set in the shell environment per uname -p on the build host
+# More specific architecture variables should be set in lower makefiles.
+#
+# MACH64 is derived from MACH, and BUILD64 is set to `#' for
+# architectures on which we do not build 64-bit versions.
+# (There are no such architectures at the moment.)
+MACH64		= None
+MACH32		= arm
+arm_BUILD64	= $(POUND_SIGN)
+
+# Use i386 gcc.
+NATIVE_CPPFLAGS	= $(GCC_ISYSTEM) /usr/include
+NATIVE_CPPFLAGS	+= $(GCC_ISYSTEM) $(NATIVE_GNU_ROOT)/include
+NATIVECC	= $(NATIVE_GNU_ROOT)/bin/gcc
+NATIVECCC	= $(NATIVE_GNU_ROOT)/bin/g++
+NATIVECPP	= $(NATIVECC) -E
+NATIVEAS	= $(NATIVECC) -c
+NATIVELD	= $($(NATIVE_MACH)_LD)
+NATIVELINT	= $($(NATIVE_MACH)_LINT)
+
+# Build static unix.
+STATIC_UNIX	=
+
+# Use build-time tunable parameter.
+USE_UTSTUNE	=
+
+CC		= $(arm_CC)
+CCC		= $(arm_CCC)
+AS		= $(arm_AS)
+LD		= $(arm_LD)
+
+# ELF symbol filter
+SYMFILTER	= $(ONBLD_TOOLS)/bin/$(MACH)/symfilter
+
+# Static link build tool.
+STATICTOOL	= $(ONBLD_TOOLS)/bin/statictool $(STATICTOOL_GFLAGS)
+
+# objcopy is used to edit symbol binding.
+OBJCOPY		= $(GNU_PREFIX)/bin/$(GNU_TOOL_PREFIX)objcopy
+
+# Localize symbols using objcopy.
+# This is required if GNU ld is used.
+LOCALIZE_SYMBOL	= $(STATICTOOL) symbind $(LOCALIZE_SYMBOL_OPT)	\
+		  -O $(OBJCOPY) -n $(NM) -M $(MAPFILE) $@ || $(RM) -f $@
+$(__NON_GNULD)LOCALIZE_SYMBOL	= :
+
+# Use EABI mode if GNUC_ARM_EABI is defined as "".
+# GNUC_ARM_OABI can be used to define macros that will be activated
+# only when old ABI mode is chosen.
+GNUC_ARM_OABI			=
+$(GNUC_ARM_EABI)GNUC_ARM_OABI	= $(POUND_SIGN)
+
+$(GNUC_ARM_EABI)arm_EABI_CFLAGS		= -_gcc=-mabi=aapcs-linux
+$(GNUC_ARM_EABI)arm_EABI_CFLAGS		+= -_gcc=-Wa,-meabi=4
+arm_XARCH	+= $(arm_EABI_CFLAGS)
+
+$(GNUC_ARM_EABI)arm_EABI_ASFLAGS	= -_gas=-meabi=4
+arm_AS_XARCH	+= $(arm_EABI_ASFLAGS)
+
+# We must define __ARM_EABI__ here on EABI mode because GNU as doesn't.
+$(GNUC_ARM_EABI)arm_EABI_AS_CPPFLAGS	= -D__ARM_EABI__=1
+$(GNUC_ARM_OABI)arm_EABI_AS_CPPFLAGS	= -U__ARM_EABI__
+AS_CPPFLAGS	+= $(arm_EABI_AS_CPPFLAGS)
+
+# Do not use VFP instructions on OABI.
+$(GNUC_ARM_OABI)arm_XARCH_FPU		= -xarch=mpcorenovfp
+$(GNUC_ARM_OABI)arm_AS_XARCH_FPU	= -xarch=mpcorenovfp
+
+# lint options.
+ALWAYS_LINT_DEFS	+= -D__arm
+
+# Force gcc to execute GNU ld as linker.
+GNUC_LD_SWITCH	= -_gcc=-Zlinker=$(GNU_ROOT)/bin/ld
+$(__GNULD)CW_CC_OPT1	+= $(GNUC_LD_SWITCH)
+$(__GNULD)CW_CCC_OPT1	+= $(GNUC_LD_SWITCH)
+

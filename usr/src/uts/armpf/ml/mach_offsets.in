@@ -1,0 +1,89 @@
+\
+\ CDDL HEADER START
+\
+\ The contents of this file are subject to the terms of the
+\ Common Development and Distribution License (the "License").
+\ You may not use this file except in compliance with the License.
+\
+\ You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+\ or http://www.opensolaris.org/os/licensing.
+\ See the License for the specific language governing permissions
+\ and limitations under the License.
+\
+\ When distributing Covered Code, include this CDDL HEADER in each
+\ file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+\ If applicable, add the following below this CDDL HEADER, with the
+\ fields enclosed by brackets "[]" replaced with your own identifying
+\ information: Portions Copyright [yyyy] [name of copyright owner]
+\
+\ CDDL HEADER END
+\
+
+\
+\ Copyright (c) 2006-2008 NEC Corporation
+\ All rights reserved.
+\
+
+#pragma ident	"@(#)mach_offsets.in	1.4	05/06/08 SMI"
+
+\
+\ mach_offsets.in: input file to produce assym.h using the ctfstabs program
+\ This file contains ARM platform specific definitions.
+\
+
+#ifndef	_GENASSYM
+#define	_GENASSYM
+#endif
+
+#include <sys/types.h>
+#include <sys/machsystm.h>
+#include <sys/cpuvar.h>
+#include <vm/hat_arm.h>
+
+#define	SIZES	1
+
+panic_trap_info	TRAP_INFO_SIZE
+
+hat
+	hat_link
+	hat_link.hl_next	HAT_NEXT
+	hat_link.hl_prev	HAT_PREV
+	hat_switch_mutex
+	hat_cpus
+	hat_l1paddr
+	hat_context
+	hat_asid_gen
+	hat_flags
+
+cpu
+	cpu_id
+	cpu_flags
+	cpu_self
+	cpu_thread
+	cpu_thread_lock
+	cpu_kprunrun
+	cpu_lwp
+	cpu_fpowner
+	cpu_idle_thread
+	cpu_intr_thread
+	cpu_intr_actv
+	cpu_base_spl
+	cpu_intr_stack
+	cpu_stats.sys.cpumigrate	CPU_STATS_SYS_CPUMIGRATE
+	cpu_stats.sys.intr		CPU_STATS_SYS_INTR
+	cpu_stats.sys.intrblk		CPU_STATS_SYS_INTRBLK
+	cpu_stats.sys.syscall		CPU_STATS_SYS_SYSCALL
+	cpu_profile_pc
+	cpu_profile_upc
+	cpu_profile_pil
+	cpu_ftrace.ftd_state		CPU_FTRACE_STATE
+	cpu_mstate
+	cpu_intracct
+	cpu_m.mcpu_pri			CPU_PRI
+	cpu_m.mcpu_softinfo		CPU_SOFTINFO
+	cpu_m.mcpu_fiq_stack		CPU_FIQ_STACK
+	cpu_m.mcpu_current_hat		CPU_CURRENT_HAT
+	cpu_m.mcpu_asid			CPU_ASID
+	cpu_m.mcpu_asid_gen		CPU_ASID_GEN
+	cpu_m.pil_high_start		CPU_PIL_HIGH_START
+	cpu_m.intrstat			CPU_INTRSTAT

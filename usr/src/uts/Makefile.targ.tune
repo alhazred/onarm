@@ -1,0 +1,120 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007 NEC Corporation
+# All rights reserved.
+#
+
+##
+## This makefile contains the common targets to support build time
+## tunable parameters.
+##
+
+# Create dummy file if makeopt is not present.
+$(MAKEOPT_DUMMY):	$(OBJS_DIR)
+	$(MAKEOPT_REMOVE)
+	$(RM) $(MAKEOPT_STAMP)
+	$(TOUCH) $@
+
+# Create file that keeps timestamp when makeopt is registered.
+$(MAKEOPT_STAMP):	$(OBJS_DIR) $(MAKEOPT)
+	$(MAKEOPT_SET)
+	$(RM) $(MAKEOPT_DUMMY)
+	$(TOUCH) $@
+
+NO_MAKEOPT			=
+$(USE_MAKEOPT)NO_MAKEOPT	= $(POUND_SIGN)
+$(NO_MAKEOPT)MAKEOPT_DEPEND	=
+
+# Create dummy file if modtune is not present.
+$(MODTUNE_DUMMY):	$(OBJS_DIR)
+	$(RM) $(MODTUNE_CUR)
+	$(MODTUNE_REMOVE)
+	$(TOUCH) $@
+
+# Build configuration file from definitions.
+$(MODTUNE_CUR):	$(OBJS_DIR) $(MODTUNE_SRC)
+	$(RM) $(MODTUNE_DUMMY)
+	$(MODTUNE_COMPILE)
+
+# Build header file that keeps current configurations.
+$(MODTUNE_H):	$(MODTUNE_DEPEND)
+	$(MODTUNE_HEADER)
+
+# Currently, build-time tunable parameter requires GNU C compiler.
+$(USE_MODTUNE)CPPFLAGS		+= $(UTSTUNE_CPPFLAGS)
+$(USE_MODTUNE)AS_CPPFLAGS	+= $(UTSTUNE_AS_CPPFLAGS)
+
+# Create MODTUNE_H before compilation.
+$(USE_MODTUNE)$(OBJECTS):	$(MODTUNE_H)
+
+# Disable tune-* target if no modtune is required.
+$(USE_MODTUNE)NO_MODTUNE	= $(POUND_SIGN)
+$(NO_MODTUNE)TUNE_INIT_DEPS	=
+$(NO_MODTUNE)TUNE_CLOBBER_DEPS	=
+
+# Initialize modtune.
+MODTUNE_INIT			=
+$(USE_MODTUNE)MODTUNE_INIT	= $(MODTUNE_H)
+
+tune-init $(TUNE_INIT_DEPS)		:= TARGET = tune-init
+tune-clean $(TUNE_CLEAN_DEPS)		:= TARGET = tune-clean
+tune-clobber $(TUNE_CLOBBER_DEPS)	:= TARGET = tune-clobber
+
+tune-init:		$(TUNE_INIT_DEPS)
+
+tune-init.targ:		$(MODTUNE_INIT)
+
+tune-clean:		$(TUNE_CLEAN_DEPS)
+
+tune-clean.targ:
+	-$(RM) $(TUNE_CLOBBERFILES) Nothing_to_remove
+
+tune-clobber:		$(TUNE_CLOBBER_DEPS)
+
+tune-clobber.targ:	tune-clean.targ
+
+TUNE_TARGS	= tune-init tune-clean tune-clobber
+
+TUNE_OBJ32	= $(TUNE_TARGS:%=%.obj32)
+
+$(TUNE_OBJ32):		FRC
+	@[ -z "$(OBJECTS)" ] ||	\
+		BUILD_TYPE=OBJ32 VERSION='$(VERSION)' $(MAKE) $(TARGET).targ
+
+TUNE_DEBUG32	= $(TUNE_TARGS:%=%.debug32)
+
+$(TUNE_DEBUG32):	FRC
+	@[ -z "$(OBJECTS)" ] ||	\
+		BUILD_TYPE=DBG32 VERSION='$(VERSION)' $(MAKE) $(TARGET).targ
+
+TUNE_OBJ64	= $(TUNE_TARGS:%=%.obj64)
+
+$(TUNE_OBJ64):		FRC
+	@[ -z "$(OBJECTS)" ] ||	\
+		BUILD_TYPE=OBJ64 VERSION='$(VERSION)' $(MAKE) $(TARGET).targ
+
+TUNE_DEBUG64	= $(TUNE_TARGS:%=%.debug64)
+
+$(TUNE_DEBUG64):	FRC
+	@[ -z "$(OBJECTS)" ] ||	\
+		BUILD_TYPE=DBG64 VERSION='$(VERSION)' $(MAKE) $(TARGET).targ

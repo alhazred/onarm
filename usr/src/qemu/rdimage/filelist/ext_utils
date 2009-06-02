@@ -1,0 +1,61 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008-2009 NEC Corporation
+# All rights reserved.
+#
+
+d none usr 755 root sys
+d none usr/bin 755 root sys
+f none usr/bin/compress 555 root bin
+l none usr/bin/compress usr/bin/uncompress
+l none usr/bin/compress usr/bin/zcat
+f none usr/bin/diff 555 root bin
+f none usr/bin/mkfifo 555 root bin
+f none usr/bin/nawk 555 root bin
+l none usr/bin/nawk usr/bin/awk
+f none usr/bin/pargs 555 root bin
+f none usr/bin/pcred 555 root bin
+f none usr/bin/pfiles 555 root bin
+f none usr/bin/pflags 555 root bin
+f none usr/bin/pldd 555 root bin
+f none usr/bin/pmap 555 root bin
+f none usr/bin/ppriv 555 root bin
+f none usr/bin/preap 555 root bin
+f none usr/bin/prun 555 root bin
+f none usr/bin/psig 555 root bin
+f none usr/bin/pstack 555 root bin
+f none usr/bin/pstop 555 root bin
+f none usr/bin/ptime 555 root bin
+f none usr/bin/ptree 555 root bin
+f none usr/bin/pwait 555 root bin
+f none usr/bin/pwdx 555 root bin
+f none usr/bin/sort 555 root bin
+s none ../sbin/strace usr/bin/strace
+f none usr/bin/sum 555 root bin
+f none usr/bin/yes 555 root bin
+d none usr/lib 755 root bin
+d none usr/lib/fs/pcfs 755 root sys
+l none usr/sbin/fstyp usr/lib/fs/pcfs/fstyp
+f none usr/lib/fs/pcfs/fstyp.so.1 555 root bin
+f none usr/lib/fs/pcfs/mkfs 555 root bin
+f none usr/lib/fs/pcfs/mount 555 root bin

@@ -1,0 +1,49 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007 NEC Corporation
+# All rights reserved.
+#
+
+## This makefile defines the common targets to install kernel modules.
+
+SKIP_INSTALL	= $(TEST_STATIC)
+
+# Install regular file only if the build target is not static-linked module.
+INS_FILE_CMD	= $(RM) $@; $(INS) -s -m $(FILEMODE) -f $(@D) $<
+INS.file	=	\
+	@$(SKIP_INSTALL) || (echo "$(INS_FILE_CMD)"; $(INS_FILE_CMD))
+
+# Install driver.conf only if the build target is not static-linked module.
+INS_CONFFILE_CMD	= \
+	$(RM) $@; $(INS) -s -m $(CFILEMODE) -f $(@D) $(SRC_CONFFILE)
+$(CH)INS_CONFFILE_CMD	= \
+	$(INS) -s -m $(CFILEMODE) -u $(OWNER) -g $(GROUP) -f $(@D)	\
+		$(SRC_CONFFILE)
+INS.conffile		=	\
+	@$(SKIP_INSTALL) || (echo "$(INS_CONFFILE_CMD)"; $(INS_CONFFILE_CMD))
+
+# Install hardlink to kernel module only if the build target is not
+# static-linked module.
+INS_ROOTLINK_CMD	= $(RM) $@; $(LN) $(ROOTMODULE) $@
+INS_ROOTLINK		=	\
+	@$(SKIP_INSTALL) || (echo "$($INS_ROOTLINK_CMD)"; $(INS_ROOTLINK_CMD))

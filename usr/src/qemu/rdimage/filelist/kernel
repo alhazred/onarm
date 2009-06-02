@@ -1,0 +1,220 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008-2009 NEC Corporation
+# All rights reserved.
+#
+
+d none usr 755 root sys
+d none usr/kernel 755 root sys
+d none usr/kernel/crypto 755 root sys
+d none usr/kernel/drv 755 root sys
+d none usr/kernel/exec 755 root sys
+d none usr/kernel/fs 755 root sys
+d none usr/kernel/ipp 755 root sys
+d none usr/kernel/mac 755 root sys
+d none usr/kernel/misc 755 root sys
+d none usr/kernel/sched 755 root sys
+d none usr/kernel/strmod 755 root sys
+d none usr/kernel/sys 755 root sys
+d none usr/kernel/kiconv 755 root sys
+d none usr/kernel/dacf 755 root sys
+
+f none usr/kernel/crypto/swrand 755 root sys
+f none usr/kernel/crypto/sha1 755 root sys
+f none usr/kernel/crypto/sha2 755 root sys
+
+f none usr/kernel/dacf/net_dacf 755 root sys
+
+f none usr/kernel/drv/dump 755 root sys
+f none usr/kernel/drv/dump.conf 644 root sys
+f none usr/kernel/drv/fssnap 755 root sys
+f none usr/kernel/drv/fssnap.conf 644 root sys
+f KSTAT_DISABLE==false usr/kernel/drv/kstat 755 root sys
+f KSTAT_DISABLE==false usr/kernel/drv/kstat.conf 644 root sys
+f none usr/kernel/drv/ksyms 755 root sys
+f none usr/kernel/drv/ksyms.conf 644 root sys
+f none usr/kernel/drv/logindmux 755 root sys
+f none usr/kernel/drv/logindmux.conf 644 root sys
+f none usr/kernel/drv/ptm 755 root sys
+f none usr/kernel/drv/ptm.conf 644 root sys
+f none usr/kernel/drv/pts 755 root sys
+f none usr/kernel/drv/pts.conf 644 root sys
+f none usr/kernel/drv/arp 755 root sys
+f none usr/kernel/drv/arp.conf 644 root sys
+f none usr/kernel/drv/cpuid 755 root sys
+f none usr/kernel/drv/cpuid.conf 644 root sys
+f none usr/kernel/drv/crypto 755 root sys
+f none usr/kernel/drv/crypto.conf 644 root sys
+f none usr/kernel/drv/cryptoadm 755 root sys
+f none usr/kernel/drv/cryptoadm.conf 644 root sys
+f none usr/kernel/drv/devinfo 755 root sys
+f none usr/kernel/drv/devinfo.conf 644 root sys
+f none usr/kernel/drv/dld 755 root sys
+f none usr/kernel/drv/dld.conf 644 root sys
+f none usr/kernel/drv/icmp 755 root sys
+f none usr/kernel/drv/icmp.conf 644 root sys
+#f USE_INET6==true usr/kernel/drv/icmp6 755 root sys
+#f USE_INET6==true usr/kernel/drv/icmp6.conf 644 root sys
+f none usr/kernel/drv/ip 755 root sys
+f none usr/kernel/drv/ip.conf 644 root sys
+#f USE_INET6==true usr/kernel/drv/ip6 755 root sys
+#f USE_INET6==true usr/kernel/drv/ip6.conf 644 root sys
+f none usr/kernel/drv/ippctl 755 root sys
+f none usr/kernel/drv/ippctl.conf 644 root sys
+f none usr/kernel/drv/llc1 755 root sys
+f none usr/kernel/drv/llc1.conf 644 root sys
+f none usr/kernel/drv/log 755 root sys
+f none usr/kernel/drv/log.conf 644 root sys
+f none usr/kernel/drv/openeepr 755 root sys
+f none usr/kernel/drv/openeepr.conf 644 root sys
+f none usr/kernel/drv/ptc 755 root sys
+f none usr/kernel/drv/ptc.conf 644 root sys
+f none usr/kernel/drv/ptsl 755 root sys
+f none usr/kernel/drv/ptsl.conf 644 root sys
+f none usr/kernel/drv/random 755 root sys
+f none usr/kernel/drv/random.conf 644 root sys
+f none usr/kernel/drv/rts 755 root sys
+f none usr/kernel/drv/rts.conf 644 root sys
+f none usr/kernel/drv/sad 755 root sys
+f none usr/kernel/drv/sad.conf 644 root sys
+f none usr/kernel/drv/sd 755 root sys
+f none usr/kernel/drv/sd.conf 644 root sys
+f none usr/kernel/drv/sy 755 root sys
+f none usr/kernel/drv/sy.conf 644 root sys
+f none usr/kernel/drv/sysevent 755 root sys
+f none usr/kernel/drv/sysevent.conf 644 root sys
+f none usr/kernel/drv/softmac 755 root sys
+f none usr/kernel/drv/softmac.conf 644 root sys
+f none usr/kernel/drv/tcp 755 root sys
+f none usr/kernel/drv/tcp.conf 644 root sys
+#f USE_INET6==true usr/kernel/drv/tcp6 755 root sys
+#f USE_INET6==true usr/kernel/drv/tcp6.conf 755 root sys
+f none usr/kernel/drv/tl 755 root sys
+f none usr/kernel/drv/tl.conf 644 root sys
+f none usr/kernel/drv/udp 755 root sys
+f none usr/kernel/drv/udp.conf 644 root sys
+#f USE_INET6==true usr/kernel/drv/udp6 755 root sys
+#f USE_INET6==true usr/kernel/drv/udp6.conf 755 root sys
+f none usr/kernel/drv/vni 755 root sys
+f none usr/kernel/drv/vni.conf 644 root sys
+f none usr/kernel/drv/sprun 755 root sys
+f none usr/kernel/drv/sprun.conf 644 root sys
+
+f none usr/kernel/exec/javaexec 755 root sys
+
+f none usr/kernel/fs/pcfs 755 root sys
+f none usr/kernel/fs/namefs 755 root sys
+f none usr/kernel/fs/objfs 755 root sys
+f none usr/kernel/fs/sockfs 755 root sys
+
+f none usr/kernel/ipp/ipgpc 755 root sys
+
+f none usr/kernel/kiconv/kiconv_ja 755 root sys
+f none usr/kernel/kiconv/kiconv_emea 755 root sys
+f none usr/kernel/kiconv/kiconv_ko 755 root sys
+f none usr/kernel/kiconv/kiconv_sc 755 root sys
+f none usr/kernel/kiconv/kiconv_tc 755 root sys
+
+f none usr/kernel/mac/mac_ether 755 root sys
+
+f none usr/kernel/misc/cmlb 755 root sys
+f none usr/kernel/misc/ctf 755 root sys
+f none usr/kernel/misc/dls 755 root sys
+f none usr/kernel/misc/gld 755 root sys
+f none usr/kernel/misc/hook 755 root sys
+f none usr/kernel/misc/ipc 755 root sys
+f none usr/kernel/misc/kcf 755 root sys
+f none usr/kernel/misc/mac 755 root sys
+f none usr/kernel/misc/md5 755 root sys
+f none usr/kernel/misc/neti 755 root sys
+f none usr/kernel/misc/rpcsec 755 root sys
+f none usr/kernel/misc/scsi 755 root sys
+l none usr/kernel/crypto/sha1 usr/kernel/misc/sha1
+l none usr/kernel/crypto/sha2 usr/kernel/misc/sha2
+f none usr/kernel/misc/strplumb 755 root sys
+f none usr/kernel/misc/tlimod 755 root sys
+f KICONV_LOADABLE usr/kernel/misc/kiconv 755 root sys
+f none usr/kernel/misc/zmod 755 root sys
+
+f none usr/kernel/sched/FSS 755 root sys
+f none usr/kernel/sched/FX 755 root sys
+f none usr/kernel/sched/FX_DPTBL 755 root sys
+f none usr/kernel/sched/IA 755 root sys
+f none usr/kernel/sched/RT 755 root sys
+f none usr/kernel/sched/RT_DPTBL 755 root sys
+
+f none usr/kernel/strmod/telmod 755 root sys
+f none usr/kernel/strmod/cryptmod 755 root sys
+f none usr/kernel/strmod/6to4tun 755 root sys
+l none usr/kernel/drv/arp usr/kernel/strmod/arp
+f none usr/kernel/strmod/atun 755 root sys
+f none usr/kernel/strmod/bufmod 755 root sys
+f none usr/kernel/strmod/dedump 755 root sys
+f none usr/kernel/strmod/drcompat 755 root sys
+l none usr/kernel/drv/icmp usr/kernel/strmod/icmp
+l none usr/kernel/drv/ip usr/kernel/strmod/ip
+f none usr/kernel/strmod/pckt 755 root sys
+f none usr/kernel/strmod/pfmod 755 root sys
+f none usr/kernel/strmod/pipemod 755 root sys
+f none usr/kernel/strmod/ptem 755 root sys
+f none usr/kernel/strmod/redirmod 755 root sys
+s none ../sys/rpcmod usr/kernel/strmod/rpcmod
+#l none usr/kernel/drv/rts usr/kernel/strmod/rts
+l none usr/kernel/drv/tcp usr/kernel/strmod/tcp
+f none usr/kernel/strmod/timod 755 root sys
+f none usr/kernel/strmod/tirdwr 755 root sys
+l none usr/kernel/drv/udp usr/kernel/strmod/udp
+
+f none usr/kernel/sys/acctctl 755 root sys
+f none usr/kernel/sys/exacctsys 755 root sys
+f none usr/kernel/sys/sysacct 755 root sys
+f none usr/kernel/sys/doorfs 755 root sys
+f none usr/kernel/sys/inst_sync 755 root sys
+f none usr/kernel/sys/kaio 755 root sys
+f none usr/kernel/sys/msgsys 755 root sys
+f none usr/kernel/sys/portfs 755 root sys
+f none usr/kernel/sys/pset 755 root sys
+f none usr/kernel/sys/rpcmod 755 root sys
+f none usr/kernel/sys/semsys 755 root sys
+f none usr/kernel/sys/shmsys 755 root sys
+
+f none usr/kernel/crypto/dprov 755 root sys
+l none usr/kernel/crypto/dprov usr/kernel/drv/dprov
+f none usr/kernel/drv/dprov.conf 644 root sys
+
+f none usr/kernel/drv/zcons 755 root sys
+
+f none usr/kernel/drv/pm 755 root sys
+f none usr/kernel/drv/pm.conf 644 root sys
+
+f none usr/kernel/drv/pshot 755 root sys
+f none usr/kernel/drv/pshot.conf 644 root sys
+f none usr/kernel/drv/gen_drv 755 root sys
+f none usr/kernel/drv/tvhci 755 root sys
+f none usr/kernel/drv/tphci 755 root sys
+f none usr/kernel/drv/tclient 755 root sys
+f none usr/kernel/drv/emul64 755 root sys
+f none usr/kernel/drv/emul64.conf 644 root sys
+
+f none usr/kernel/drv/winlock 755 root sys
+f none usr/kernel/drv/winlock.conf 644 root sys

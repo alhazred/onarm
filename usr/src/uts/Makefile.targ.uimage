@@ -1,0 +1,40 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2006 NEC Corporation
+# All rights reserved.
+#
+
+## This makefile contains the common target to create U-boot image file.
+
+# Create source image of mkimage from UIMAGE_KERNEL
+$(KIMAGE):	$(UIMAGE_KERNEL)
+	if [ $(KIMAGE_OFFSET) -ne 0 ]; then				\
+	    $(DD) if=$(UIMAGE_KERNEL) of=$@ ibs=$(KIMAGE_OFFSET)	\
+		obs=$(KIMAGE_OFFSET) iseek=1 || ($(RM) $@; exit 1);	\
+	else								\
+	    $(CP) $(UIMAGE_KERNEL) $@;					\
+	fi
+
+# Create KIMAGE from UIMAGE_KERNEL.
+$(UIMAGE):	$(KIMAGE)
+	$(MKIMAGE) $(MKIMAGE_ARGS) -d $(KIMAGE) $@

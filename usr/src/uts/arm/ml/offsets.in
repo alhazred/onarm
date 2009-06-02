@@ -1,0 +1,236 @@
+\
+\ Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
+\ Use is subject to license terms.
+\
+\ CDDL HEADER START
+\
+\ The contents of this file are subject to the terms of the
+\ Common Development and Distribution License (the "License").
+\ You may not use this file except in compliance with the License.
+\
+\ You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+\ or http://www.opensolaris.org/os/licensing.
+\ See the License for the specific language governing permissions
+\ and limitations under the License.
+\
+\ When distributing Covered Code, include this CDDL HEADER in each
+\ file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+\ If applicable, add the following below this CDDL HEADER, with the
+\ fields enclosed by brackets "[]" replaced with your own identifying
+\ information: Portions Copyright [yyyy] [name of copyright owner]
+\
+\ CDDL HEADER END
+\
+
+\
+\ Copyright (c) 2006-2008 NEC Corporation
+\
+
+\
+\ offsets.in: input file to produce assym.h using the ctfstabs program
+\
+
+#ifndef	_GENASSYM
+#define	_GENASSYM
+#endif
+
+#define	SIZES	1
+
+#include <sys/types.h>
+#include <sys/systm.h>
+#include <sys/sysinfo.h>
+#include <sys/user.h>
+#include <sys/thread.h>
+#include <sys/proc.h>
+#include <sys/klwp.h>
+#include <sys/stream.h>
+#include <sys/dtrace.h>
+#include <sys/privregs.h>
+#include <sys/copyops.h>
+#include <sys/ontrap.h>
+#include <sys/cpuvar.h>
+#include <sys/mutex_impl.h>
+#include <sys/avintr.h>
+#include <vm/as.h>
+#include <sys/sunddi.h>
+
+proc		PROCSIZE
+	p_link
+	p_next
+	p_child
+	p_sibling
+	p_sig
+	p_flag
+	p_tlist
+	p_as
+	p_lockp
+	p_user
+	p_model
+	p_pctx
+	p_agenttp
+
+_kthread	THREAD_SIZE
+	t_pcb			T_LABEL
+	t_state
+	t_kpri_req
+	t_lofault
+	t_onfault
+	t_ontrap
+	t_pil
+	t_copyops
+	t_cpu
+	t_lock
+	t_lockstat
+	t_lockp
+	t_ctx
+	t_procp
+	t_lwp
+	t_flag
+	t_intr_start
+	t_stk			T_STACK
+	_tu._ts._t_astflag	T_ASTFLAG
+	_tu._ts._t_post_sys	T_POST_SYS
+	_tu._t_post_sys_ast	T_POST_SYS_AST
+	t_preempt_lk
+	t_lpl
+	t_sysnum
+	t_pre_sys
+	t_schedflag
+
+as
+	a_hat
+
+user	USIZEBYTES
+	u_comm
+	u_signal
+
+_label_t
+	val	LABEL_VAL
+
+\#define	LABEL_PC	(LABEL_VAL + LABEL_VAL_INCR * 10)
+\#define	LABEL_SP	(LABEL_VAL + LABEL_VAL_INCR * 9)
+\#define	T_PC		(T_LABEL + LABEL_PC)
+\#define	T_SP		(T_LABEL + LABEL_SP)
+
+_klwp
+	lwp_thread
+	lwp_procp
+	lwp_eosys
+	lwp_regs
+	lwp_arg
+	lwp_cursig
+	lwp_state
+	lwp_mstate.ms_acct	LWP_MS_ACCT
+	lwp_mstate.ms_prev	LWP_MS_PREV
+	lwp_mstate.ms_start	LWP_MS_START
+	lwp_mstate.ms_state_start LWP_MS_STATE_START
+	lwp_pcb			LWP_PCB
+	lwp_ru.sysc		LWP_RU_SYSC
+	lwp_ap
+
+\#define	LWP_ACCT_USER	(LWP_MS_ACCT + (LMS_USER * LWP_MS_ACCT_INCR))
+\#define	LWP_ACCT_SYSTEM	(LWP_MS_ACCT + (LMS_SYSTEM * LWP_MS_ACCT_INCR))
+
+sysent	SYSENT_SIZE	SYSENT_SIZE_SHIFT
+	sy_callc
+	sy_flags
+	sy_narg
+
+on_trap_data
+	ot_prot
+	ot_trap
+	ot_trampoline
+	ot_jmpbuf
+	ot_prev
+	ot_handle
+	ot_pad1
+
+lgrp_ld
+	lpl_lgrpid
+
+dtrace_id_t	DTRACE_IDSIZE
+
+cpu_core	CPU_CORE_SIZE	CPU_CORE_SHIFT
+	cpuc_dtrace_flags
+	cpuc_dtrace_illval
+
+timespec	TIMESPEC_SIZE
+
+mod_stub_info	MODS_SIZE
+	mods_func_adr	MODS_INSTFCN
+	mods_errfcn	MODS_RETFCN
+	mods_flag
+
+\#define	TRAP_TSIZE		_MUL(TRAP_ENT_SIZE, TRAPTR_NENT)
+
+copyops
+	cp_copyin
+	cp_xcopyin
+	cp_copyout
+	cp_xcopyout
+	cp_copyinstr
+	cp_copyoutstr
+	cp_fuword8
+	cp_fuword16
+	cp_fuword32
+	cp_fuword64
+	cp_suword8
+	cp_suword16
+	cp_suword32
+	cp_suword64
+	cp_physio
+
+regs	REGSIZE
+	r_r0	ROFF_R0
+	r_r1	ROFF_R1
+	r_r2	ROFF_R2
+	r_r3	ROFF_R3
+	r_r4	ROFF_R4
+	r_r5	ROFF_R5
+	r_r6	ROFF_R6
+	r_r7	ROFF_R7
+	r_r8	ROFF_R8
+	r_r9	ROFF_R9
+	r_r10	ROFF_R10
+	r_r11	ROFF_R11
+	r_r12	ROFF_R12
+	r_r13	ROFF_SP
+	r_r14	ROFF_LR
+	r_r15	ROFF_PC
+	r_cpsr	ROFF_CPSR
+	r_r13_svc	ROFF_SP_SVC
+
+pcb	PCBSIZE
+	pcb_usertp		PCB_USERTP
+	pcb_fpu.fpu_flags	PCB_FPU_FLAGS
+	pcb_fpu.fpu_regs.fp_regs	PCB_FPU_FPREGS
+	pcb_fpu.fpu_regs.fp_fpscr	PCB_FPU_FPSCR
+	pcb_fpu.fpu_regs.fp_fpexc	PCB_FPU_FPEXC
+	pcb_fpu.fpu_regs.fp_fpinst	PCB_FPU_FPINST
+	pcb_fpu.fpu_regs.fp_fpinst2	PCB_FPU_FPINST2
+
+ddi_acc_impl
+	ahi_acc_attr	ACC_ATTR
+	ahi_get8	ACC_GETB
+	ahi_get16	ACC_GETW
+	ahi_get32	ACC_GETL
+	ahi_get64	ACC_GETLL
+	ahi_put8	ACC_PUTB
+	ahi_put16	ACC_PUTW
+	ahi_put32	ACC_PUTL
+	ahi_put64	ACC_PUTLL
+	ahi_rep_get8	ACC_REP_GETB
+	ahi_rep_get16	ACC_REP_GETW
+	ahi_rep_get32	ACC_REP_GETL
+	ahi_rep_get64	ACC_REP_GETLL
+	ahi_rep_put8	ACC_REP_PUTB
+	ahi_rep_put16	ACC_REP_PUTW
+	ahi_rep_put32	ACC_REP_PUTL
+	ahi_rep_put64	ACC_REP_PUTLL
+
+mutex_impl
+	m_spin.m_spinlock	SPIN_SPINLOCK
+	m_spin.m_oldspl		SPIN_OLDSPL
+
+av_head		AV_HEAD_SIZE
+	avh_hi_pri

@@ -1,0 +1,100 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008-2009 NEC Corporation
+# All rights reserved.
+#
+
+d none usr 755 root sys
+d none usr/lib 755 root bin
+s none ../../lib/libadm.so.1 usr/lib/libadm.so.1
+s none ../../lib/libaio.so.1 usr/lib/libaio.so.1
+f none usr/lib/libast.so.1 755 root bin
+s none ../../lib/libbsm.so.1 usr/lib/libbsm.so.1
+s none ../../lib/libc.so.1 usr/lib/libc.so.1
+s none ../../lib/unicode.so.1 usr/lib/unicode.so.1
+s none ../../lib/libc_db.so.1 usr/lib/libc_db.so.1
+f none usr/lib/libcmd.so.1 755 root bin
+s none ../../lib/libcmdutils.so.1 usr/lib/libcmdutils.so.1
+s none ../../lib/libcontract.so.1 usr/lib/libcontract.so.1
+f none usr/lib/libcrle.so.1 755 root bin
+f none usr/lib/libcryptoutil.so.1 755 root bin
+f none usr/lib/libcrypt.so.1 755 root bin
+s none ../../lib/libctf.so.1 usr/lib/libctf.so.1
+s none ../../lib/libcurses.so.1 usr/lib/libcurses.so.1
+s none ../../lib/libdhcpagent.so.1 usr/lib/libdhcpagent.so.1
+s none ../../lib/libdhcputil.so.1 usr/lib/libdhcputil.so.1
+s none ../../lib/libdlpi.so.1 usr/lib/libdlpi.so.1
+s none ../../lib/libelf.so.1 usr/lib/libelf.so.1
+f none usr/lib/libfstyp.so.1 755 root bin
+f none usr/lib/libinetsvc.so.1 755 root bin
+s none ../../lib/libinetutil.so.1 usr/lib/libinetutil.so.1
+f none usr/lib/libipp.so.1 0755 root bin
+f none usr/lib/libipsecutil.so.1 0755 root bin
+s none ../../lib/libkstat.so.1 usr/lib/libkstat.so.1
+f none usr/lib/libkvm.so.1 755 root bin
+f none usr/lib/libl.so.1 755 root bin
+s none ../../lib/liblddbg.so.4 usr/lib/liblddbg.so.4
+f none usr/lib/libmapmalloc.so.1 755 root bin
+f none usr/lib/libnls.so.1 755 root bin
+f none usr/lib/libproject.so.1 755 root bin
+f none usr/lib/libpkcs11.so.1 755 root bin
+s none ../../lib/libproc.so.1 usr/lib/libproc.so.1
+s none ../../lib/libpthread.so.1 usr/lib/libpthread.so.1
+s none ../../lib/librcm.so.1 usr/lib/librcm.so.1
+s none ../../lib/libresolv.so.1 usr/lib/libresolv.so.1
+s none ../../lib/libresolv.so.2 usr/lib/libresolv.so.2
+s none ../../lib/librpcsvc.so.1 usr/lib/librpcsvc.so.1
+s none ../../lib/librt.so.1 usr/lib/librt.so.1
+s none ../../lib/librtld.so.1 usr/lib/librtld.so.1
+s none ../../lib/librtld_db.so.1 usr/lib/librtld_db.so.1
+s none ../../lib/libscf.so.1 usr/lib/libscf.so.1
+f none usr/lib/libsched.so.1 755 root bin
+s none ../../lib/libsendfile.so.1 usr/lib/libsendfile.so.1
+s none ../../lib/libsysevent.so.1 usr/lib/libsysevent.so.1
+s none ../../lib/libthread.so.1 usr/lib/libthread.so.1
+s none ../../lib/libuuid.so.1 usr/lib/libuuid.so.1
+f none usr/lib/libvolmgt.so.1 755 root bin
+d none usr/lib/lwp 755 root sys
+s none ../libthread.so.1 usr/lib/lwp/libthread.so.1
+s none ../../lib/nss_dns.so.1 usr/lib/nss_dns.so.1
+s none ../../lib/nss_files.so.1 usr/lib/nss_files.so.1
+f none usr/lib/passwdutil.so.1 755 root bin
+f none usr/lib/straddr.so.2 755 root bin
+s none straddr.so.2 usr/lib/straddr.so
+d none usr/lib/security 755 root bin
+f none usr/lib/security/crypt_bsdmd5.so.1 755 root bin
+f none usr/lib/security/crypt_bsdbf.so.1 755 root bin
+f none usr/lib/security/crypt_sunmd5.so.1 755 root bin
+f none usr/lib/security/pam_authtok_get.so.1 755 root bin
+f none usr/lib/security/pam_authtok_check.so.1 755 root bin
+f none usr/lib/security/pam_authtok_store.so.1 755 root bin
+f none usr/lib/security/pam_unix_auth.so.1 755 root bin
+f none usr/lib/security/pam_unix_cred.so.1 755 root bin
+f none usr/lib/security/pam_unix_session.so.1 755 root bin
+f none usr/lib/security/pam_unix_account.so.1 755 root bin
+f none usr/lib/security/pam_passwd_auth.so.1 755 root bin
+
+d none usr/sfw 755 root bin
+d none usr/sfw/lib 755 root bin
+f none usr/sfw/lib/libwrap.so.1.0 755 root bin
+s none libwrap.so.1.0 usr/sfw/lib/libwrap.so.1

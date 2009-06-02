@@ -1,0 +1,153 @@
+# -*- Mode: perl; -*-
+
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007-2009 NEC Corporation
+# All rights reserved.
+#
+
+##
+## modstatic: Configure static-linke modules according to tunable parameters.
+##
+## This file will be parsed as perl code.
+##
+
+#
+# Functions:
+#
+# eval_option(arg1)
+# eval_option(arg1, op, arg2)
+#	Evaluate tunable parameter.
+#	This function returns true if the specified condition is true.
+#
+#	"arg1" and "arg2" are values to be examined.
+#	Tunable parameter can be specified as value using bare word.
+#	Note that at least one tunable parameter needs to be specified.
+#
+#	"op" should be an string representation of operator.
+#	Available operators are:
+#
+#	"==":	True if arg1 equals arg2.
+#	"!=":	True if arg1 is not equals to arg2.
+#	"<"	True if arg1 less than arg2.
+#	"<="	True if arg1 less than or equals to arg2.
+#	">"	True if arg1 greater than arg2.
+#	">="	True if arg1 greater than or equals to arg2.
+#
+#	If 2nd. and 3rd. arguments are omitted, eval_option(arg) returns true
+#	when "arg1" is true.
+#
+# static_link(arch, module [, flag])
+#	Configure the specified module as static-link module.
+#
+#	"arch" should be an architecture directory name, "arm" or "ne1".
+#
+#	"module" should be module name.
+#
+#	If "flag" is specified, it is considered as cpp(1) macros to be defined
+#	at compile time. See arm/ml/modstubs.s
+#
+# Remarks:
+#	The result of using functions other than the above is undefined.
+#
+
+
+##
+## UFS root filesystem on ramdisk
+##
+if (eval_option(UFS_RAM_ROOTFS)) {
+	static_link("arm", "fssnap_if");
+	static_link("arm", "ramdisk");
+	static_link("arm", "ufs", "UFS_MODULE");
+}
+
+##
+## XRAMFS root filesystem
+##
+if (eval_option(XRAMFS_ROOTFS)) {
+	static_link("arm", "fifofs", "FIFO_MODULE");
+	static_link("arm", "xramdev");
+	static_link("arm", "xramfs");
+	static_link("arm", "nvdram");
+}
+
+
+##
+## MNTFS configuration
+##
+if (eval_option(MNTFS_DISABLE, "==", false)){
+	static_link("arm", "mntfs");
+}
+
+##
+## OBJFS configuration
+##
+if (eval_option(OBJFS_DISABLE, "==", false)){
+	static_link("arm", "objfs");
+}
+
+##
+## SHAREFS configuration
+##
+if (eval_option(SHAREFS_DISABLE, "==", false)){
+	static_link("arm", "sharefs");
+}
+
+##
+## CTFS configuration
+##
+if (eval_option(CONTRACT_DISABLE, "==", false)){
+	static_link("arm", "ctfs");
+}
+
+##
+## Unicode/Code conversion
+##
+if (!eval_option(KICONV_LOADABLE)) {
+	static_link("arm", "kiconv", "KICONV_MODULE");
+}
+
+##
+## The following modules need to be static-linked if there is no kernel module
+## directory in the root filesystem.
+##
+static_link_usrmod("arm", "cn");
+if (eval_option(UART_CONSOLE_DISABLE, "==", false)){
+	static_link_usrmod("arm", "consconfig", "CONSCONFIG_MODULE");
+	static_link_usrmod("arm", "iwscn", "IWSCN_MODULE");
+	static_link_usrmod("arm", "ldterm");
+	static_link_usrmod("arm", "ttcompat");
+	static_link_usrmod("arm", "wc");
+	static_link_usrmod("ne1", "ne_uart");
+	static_link_usrmod("ne1", "consconfig_dacf");
+}
+
+static_link_usrmod("arm", "fifofs", "FIFO_MODULE");
+static_link_usrmod("arm", "intpexec");
+static_link_usrmod("arm", "mm");
+static_link_usrmod("arm", "pipe");
+static_link_usrmod("arm", "sysmsg");
+
+
+# Never remove this line, and never put any character after this line.
+1;

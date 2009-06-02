@@ -1,0 +1,257 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008-2009 NEC Corporation
+# All rights reserved.
+#
+
+d none usr 755 root sys
+d none usr/bin 755 root sys
+f none usr/bin/arch 555 root bin
+f none usr/bin/basename 555 root bin
+f none usr/bin/cat 555 root bin
+f none usr/bin/chgrp 555 root bin
+f none usr/bin/chmod 555 root bin
+f none usr/bin/chown 555 root bin
+f none usr/bin/cksum 555 root bin
+f none usr/bin/clear 555 root bin
+f none usr/bin/coreadm 555 root bin
+f none usr/bin/crle 555 root bin
+f none usr/bin/csh 555 root bin
+f none usr/bin/cut 555 root bin
+f none usr/bin/date 555 root bin
+f none usr/bin/dd 555 root bin
+f none usr/bin/dirname 555 root bin
+f none usr/bin/du 555 root bin
+f none usr/bin/echo 555 root bin
+f none usr/bin/env 555 root bin
+f none usr/bin/ex 555 root bin
+l none usr/bin/ex usr/bin/vi
+f none usr/bin/expr 555 root bin
+f none usr/bin/false 555 root bin
+f none usr/bin/fdetach 555 root bin
+f none usr/bin/file 555 root bin
+f none usr/bin/find 555 root bin
+f none usr/bin/getopt 555 root bin
+f none usr/bin/gettxt 555 root bin
+f none usr/bin/grep 555 root bin
+f none usr/bin/hostid 555 root bin
+f none usr/bin/hostname 555 root bin
+f none usr/bin/id 555 root bin
+f none usr/bin/join 555 root bin
+f none usr/bin/line 555 root bin
+f none usr/bin/logger 555 root bin
+f none usr/bin/login 4555 root bin
+f none usr/bin/ls 555 root bin
+f none usr/bin/mach 555 root bin
+f none usr/bin/mkdir 555 root bin
+f none usr/bin/more 555 root bin
+f none usr/bin/mpstat 555 root bin
+f none usr/bin/mv 555 root bin
+l none usr/bin/mv usr/bin/cp
+l none usr/bin/mv usr/bin/ln
+f none usr/bin/netstat 0555 root bin
+f none usr/bin/nice 555 root bin
+f none usr/bin/passwd 6555 root sys
+f none usr/bin/pgrep 555 root bin
+l none usr/bin/pgrep usr/bin/pkill
+f none usr/bin/priocntl 555 root bin
+f none usr/bin/projects 555 root bin
+f none usr/bin/prstat 555 root bin
+f none usr/bin/ps 555 root bin
+f none usr/bin/pwd 555 root bin
+f none usr/bin/rm 555 root bin
+f none usr/bin/rmdir 555 root bin
+f none usr/bin/rpcinfo 555 root bin
+f none usr/bin/savecore 555 root bin
+f none usr/bin/script 555 root bin
+f none usr/bin/setpgrp 555 root sys
+s none ../../sbin/sh usr/bin/sh
+f none usr/bin/sleep 555 root bin
+f none usr/bin/strchg 555 root root
+s none ../sbin/strclean usr/bin/strclean
+f none usr/bin/strconf 555 root root
+s none ../sbin/strerr usr/bin/strerr
+f none usr/bin/stty 555 root bin
+f none usr/bin/su 4555 root sys
+s none ../../sbin/sync usr/bin/sync
+f none usr/bin/tee 555 root bin
+f none usr/bin/time 555 root bin
+f none usr/bin/touch 555 root bin
+f none usr/bin/tput 555 root bin
+f none usr/bin/true 555 root bin
+s none ../../sbin/uname usr/bin/uname
+f none usr/bin/uptime 555 root bin
+l none usr/bin/uptime usr/bin/w
+f none usr/bin/vmstat 555 root bin
+f none usr/bin/wc 555 root bin
+f none usr/bin/who 555 root bin
+f none usr/bin/xargs 555 root bin
+
+d none usr/lib 755 root bin
+d none usr/lib/class 755 root bin
+d none usr/lib/class/FSS 755 root bin
+f none usr/lib/class/FSS/FSSdispadmin 555 root bin
+f none usr/lib/class/FSS/FSSpriocntl 555 root bin
+d none usr/lib/class/FX 755 root bin
+f none usr/lib/class/FX/FXdispadmin 555 root bin
+f none usr/lib/class/FX/FXpriocntl 555 root bin
+d none usr/lib/class/IA 755 root bin
+f none usr/lib/class/IA/IAdispadmin 555 root bin
+f none usr/lib/class/IA/IApriocntl 555 root bin
+d none usr/lib/class/RT 755 root bin
+f none usr/lib/class/RT/RTdispadmin 555 root bin
+f none usr/lib/class/RT/RTpriocntl 555 root bin
+d none usr/lib/class/TS 755 root bin
+f none usr/lib/class/TS/TSdispadmin 555 root bin
+f none usr/lib/class/TS/TSpriocntl 555 root bin
+f none usr/lib/diffh 555 root bin
+d none usr/lib/fs 755 root sys
+d none usr/lib/fs/fd 755 root sys
+f none usr/lib/fs/fd/mount 555 root bin
+d none usr/lib/fs/mntfs 755 root sys
+f none usr/lib/fs/mntfs/mount 555 root bin
+d none usr/lib/fs/objfs 755 root sys
+f none usr/lib/fs/objfs/mount 555 root bin
+d none usr/lib/fs/proc 755 root sys
+d none usr/lib/fs/tmpfs 755 root sys
+f none usr/lib/fs/tmpfs/mount 555 root bin
+d none usr/lib/fs/ufs 755 root sys
+f none usr/lib/fs/ufs/clri 555 root bin
+l none usr/lib/fs/ufs/clri usr/lib/fs/ufs/dcopy
+f none usr/lib/fs/ufs/df 555 root bin
+f none usr/lib/fs/ufs/edquota 555 root bin
+f none usr/lib/fs/ufs/ff 555 root bin
+f none usr/lib/fs/ufs/fsck 555 root bin
+f none usr/lib/fs/ufs/fsckall 555 root bin
+f none usr/lib/fs/ufs/fsdb 555 root bin
+f none usr/lib/fs/ufs/fsirand 555 root bin
+f none usr/lib/fs/ufs/fssnap 555 root bin
+f none usr/lib/fs/ufs/fstyp.so.1 555 root bin
+f none usr/lib/fs/ufs/fstyp 555 root sys
+f none usr/lib/fs/ufs/labelit 555 root bin
+f none usr/lib/fs/ufs/lockfs 555 root bin
+f none usr/lib/fs/ufs/mkfs 555 root bin
+s none ../../../../etc/fs/ufs/mount usr/lib/fs/ufs/mount
+f none usr/lib/fs/ufs/ncheck 555 root bin
+f none usr/lib/fs/ufs/newfs 555 root bin
+f none usr/lib/fs/ufs/quot 555 root bin
+f none usr/lib/fs/ufs/quota 4555 root bin
+f none usr/lib/fs/ufs/quotacheck 555 root bin
+f none usr/lib/fs/ufs/quotaon 555 root bin
+l none usr/lib/fs/ufs/quotaon usr/lib/fs/ufs/quotaoff
+f none usr/lib/fs/ufs/repquota 555 root bin
+f none usr/lib/fs/ufs/tunefs 555 root bin
+f none usr/lib/fs/ufs/ufsdump 4555 root bin
+f none usr/lib/fs/ufs/ufsrestore 4555 root bin
+f none usr/lib/fs/ufs/volcopy 555 root bin
+f none usr/lib/fs/ufs/mboot 444 root bin
+d none usr/lib/inet 755 root bin
+d none usr/lib/locale 755 root bin
+f none usr/lib/more.help 644 root bin
+d none usr/lib/saf 755 root sys
+f none usr/lib/saf/listen 755 root sys
+f none usr/lib/saf/nlps_server 755 root sys
+f none usr/lib/saf/ttymon 555 root sys
+d none usr/lib/secure 755 root bin
+f none usr/lib/pt_chmod 4511 root bin
+
+d none usr/net 755 root sys
+d none usr/net/nls 755 root sys
+s none ../../lib/saf/listen usr/net/nls/listen
+s none ../../lib/saf/nlps_server usr/net/nls/nlps_server
+
+s none ../var/preserve usr/preserve
+
+d none usr/sbin 755 root bin
+f none usr/sbin/allocate 4555 root bin
+f none usr/sbin/arp 555 root bin
+f none usr/sbin/chroot 555 root bin
+f none usr/sbin/clri 555 root bin
+l none usr/sbin/allocate usr/sbin/deallocate
+f none usr/sbin/df 555 root bin
+f none usr/sbin/dispadmin 555 root bin
+f none usr/sbin/dumpadm 555 root bin
+s none ../../sbin/fdisk usr/sbin/fdisk
+f none usr/sbin/fmthard 555 root sys
+f none usr/sbin/format 555 root bin
+f none usr/sbin/fsck 555 root bin
+s none ./clri usr/sbin/fsdb
+s none ../lib/fs/ufs/fsirand usr/sbin/fsirand
+s none ./clri usr/sbin/fssnap
+l none usr/lib/fs/ufs/fstyp usr/sbin/fstyp
+f none usr/sbin/fuser 555 root bin
+f none usr/sbin/getdevpolicy 555 root sys
+f none usr/sbin/halt 555 root bin
+s none ../../sbin/hostconfig usr/sbin/hostconfig
+s none ../../sbin/ifconfig usr/sbin/ifconfig
+f none usr/sbin/ikeadm 0555 root bin
+f none usr/sbin/ikecert 0555 root bin
+s none ../../sbin/init usr/sbin/init
+f none usr/sbin/ipsecalgs 0555 root bin
+f none usr/sbin/ipsecconf 0555 root bin
+f none usr/sbin/ipseckey 0555 root bin
+f none usr/sbin/killall 555 root bin
+l none usr/sbin/allocate usr/sbin/list_devices
+s none ./clri usr/sbin/mkfs
+f none usr/sbin/mknod 555 root bin
+f none usr/sbin/modinfo 555 root bin
+f none usr/sbin/modload 555 root bin
+f none usr/sbin/modunload 555 root bin
+s none ../../sbin/mount usr/sbin/mount
+f none usr/sbin/mountall 555 root sys
+f none usr/sbin/ndd 0555 root bin
+f none usr/sbin/nlsadmin 755 root adm
+f none usr/sbin/pbind 555 root bin
+l none usr/sbin/halt usr/sbin/poweroff
+f none usr/sbin/prtconf 2555 root sys
+f none usr/sbin/prtvtoc 555 root sys
+f none usr/sbin/psradm 555 root bin
+f none usr/sbin/psrset 555 root bin
+f none usr/sbin/ramdiskadm 555 root bin
+l none usr/sbin/halt usr/sbin/reboot 555 root bin
+f none usr/sbin/rem_drv 555 root bin
+s none ../../sbin/route usr/sbin/route
+f none usr/sbin/rpcbind 555 root bin
+f none usr/sbin/shutdown 755 root sys
+f none usr/sbin/strace 555 root sys
+f none usr/sbin/strclean 555 root sys
+f none usr/sbin/strerr 555 root sys
+f none usr/sbin/swap 555 root bin
+s none ../../sbin/sync usr/sbin/sync
+s none ../../sbin/uadmin usr/sbin/uadmin
+s none ../../sbin/umount usr/sbin/umount
+f none usr/sbin/umountall 555 root sys
+f none usr/sbin/update_drv 555 root bin
+f none usr/sbin/devfspolicy 744 root sys
+
+d none usr/share 755 root sys
+d none usr/share/lib 755 root sys
+d none usr/share/lib/terminfo 755 root bin
+d none usr/share/lib/terminfo/p 755 root bin
+f none usr/share/lib/terminfo/p/pty 644 root bin
+d none usr/share/lib/terminfo/v 755 root bin
+f none usr/share/lib/terminfo/v/vt100 644 root bin
+d none usr/share/lib/terminfo/x 755 root bin
+f none usr/share/lib/terminfo/x/xterm 644 root bin
+d none usr/share/lib/zoneinfo 755 root bin
+f none usr/share/lib/zoneinfo/Japan 644 root bin

@@ -1,0 +1,225 @@
+#!/bin/sh
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2009 NEC Corporation
+# All rights reserved.
+#
+
+PATH=/usr/bin:/usr/sbin
+
+UTSTUNE=$ONBLD_TOOLS/bin/utstune
+
+OPERATION_FLAG=0
+
+NEWFS_BS=4096
+NEWFS_FS=512
+
+readmnttab()
+{
+	while read mnt_special mnt_point mnt_fstype mnt_options mnt_time; do
+		if [ x$mnt_special = x$1 ]
+		then
+			break
+		fi
+	done
+}
+
+makefsimage()
+{
+	mkdir $MOUNT_DIR
+	if [ $? -ne 0 ]
+	then
+		abort "$0: Error: mkdir $MOUNT_DIR command failed."
+	fi
+	mkfile $FS_SIZE $FS_IMAGE
+	if [ $? -ne 0 ]
+	then
+		abort "$0: Error: mkfile $FS_SIZE $FS_IMAGE command failed."
+	fi
+	chmod +r $FS_IMAGE
+	LOFIDEV=`lofiadm -a $FS_IMAGE`
+	if [ $? -ne 0 ]
+	then
+		abort "$0: Error: lofiadm -a $FS_IMAGE command failed."
+	fi
+
+	echo "*** making newfs ..."
+	yes | newfs -b $NEWFS_BS -f $NEWFS_FS $LOFIDEV
+	if [ $? -ne 0 ]
+	then
+		abort "$0: Error: newfs command failed."
+	fi
+	mount -F ufs $LOFIDEV $MOUNT_DIR
+	if [ $? -ne 0 ]
+	then
+		abort "$0: Error: mount $LOFIDEV $MOUNT_DIR command failed."
+	fi
+}
+
+mountfsimage()
+{
+	# create mount point
+	if [ ! -d $MOUNT_DIR ]
+	then
+		mkdir $MOUNT_DIR
+		if [ $? -ne 0 ]
+		then
+			abort "$0: Error: mkdir $MOUNT_DIR command failed."
+		fi
+	fi
+
+	# attach lofi device
+	LOFIDEV=`lofiadm $FS_IMAGE 2> /dev/null`
+	if [ $? -ne 0 ]
+	then
+		LOFIDEV=`lofiadm -a $FS_IMAGE`
+		if [ $? -ne 0 ]
+		then
+			abort "$0: Error: lofiadm -a $FS_IMAGE command failed."
+		fi
+	fi
+
+	# mount
+	mount -F ufs $LOFIDEV $MOUNT_DIR
+	if [ $? -ne 0 ]
+	then
+		abort "$0: Error: mount $LOFIDEV $MOUNT_DIR command failed."
+	fi
+}
+
+cleanfsimage()
+{
+	LOFIDEV=`lofiadm $FS_IMAGE 2> /dev/null`
+	if [ $? -eq 0 ]
+	then
+		readmnttab $LOFIDEV < /etc/mnttab
+		if [ x$mnt_special = x$LOFIDEV ]
+		then
+			# umount
+			umount $mnt_point
+
+			# remove mount point
+			rm -rf $mnt_point
+		fi
+
+		# delete lofi device
+		lofiadm -d $FS_IMAGE
+	fi
+}
+
+abort()
+{
+	echo $1
+	cleanfsimage
+	exit 2
+}
+
+usage()
+{
+	echo "Usage: $0 -c -f ufsimage -s size -p mountpoint"
+	echo "Usage: $0 -m -f ufsimage -p mountpoint"
+	echo "Usage: $0 -d -f ufsimage"
+	### comment about options
+	echo "  -c : Create ufsimage (attach lofi device and mount it)."
+	echo "  -m : Mount the existing ufsimage."
+	echo "  -d : Unmount ufsimage and detach lofi device."
+	echo "  -f : Specify a UFS image file (absolute pathname)."
+	echo "  -s : Specify a UFS image size."
+	echo "  -p : Specify a mount point (absolute pathname)."
+	exit 2
+}
+
+#
+# Main
+#
+while getopts f:s:p:cmd OPT
+do
+	case $OPT in
+		"f" ) 	FS_IMAGE="$OPTARG" ;;
+		"s" ) 	FS_SIZE="$OPTARG" ;;
+		"p" ) 	MOUNT_DIR="$OPTARG" ;;
+		"c" ) 	OPERATION_FLAG=1 ;;
+		"m" ) 	OPERATION_FLAG=2 ;;
+		"d" ) 	OPERATION_FLAG=3 ;;
+		  * ) 	usage ;;
+	esac
+done
+shift `expr $OPTIND - 1`
+if [ $# -ne 0 -o $OPERATION_FLAG -eq 0 ]
+then
+	usage
+fi
+if [ x$FS_IMAGE = x ]
+then
+	usage
+fi
+if [ x$CODEMGR_WS = x -o x$CODEMGR_WS = x/ ]
+then
+	abort "$0: Error: Invalid \$CODEMGR_WS ($CODEMGR_WS)."
+fi
+
+#
+# Mounting an existing rootfs image
+#
+if [ $OPERATION_FLAG -eq 2 ]
+then
+	if [ x$MOUNT_DIR = x ]
+	then
+		usage
+	fi
+	echo "*** mounting $FS_IMAGE..."
+	mountfsimage
+	exit 0
+fi
+
+#
+# Clean-up rootfs image
+#
+if [ $OPERATION_FLAG -eq 3 ]
+then
+	echo "*** clean up..."
+	cleanfsimage
+	exit 0
+fi
+
+#
+# Making rootfs image
+#
+if [ $OPERATION_FLAG -eq 1 ]
+then
+	if [ x$MOUNT_DIR = x -o x$FS_SIZE = x ]
+	then
+		usage
+	fi
+	echo "  UFS image file:      $FS_IMAGE"
+	echo "  UFS image size:      $FS_SIZE"
+	echo "  UFS param bsize:     $NEWFS_BS"
+	echo "            fragsize:  $NEWFS_FS"
+	echo "*** making $FS_IMAGE..."
+	makefsimage
+
+	echo "\n*** Make rootfsimage succeeded."
+	echo $FS_IMAGE
+fi
+
+exit 0

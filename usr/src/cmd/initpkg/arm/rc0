@@ -1,0 +1,64 @@
+#!/sbin/sh
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2006-2007 NEC Corporation
+# All rights reserved.
+#
+
+PATH=/usr/sbin:/usr/bin
+
+RC=`basename $0`
+if [ -d /etc/rc0.d ]; then
+	for f in /etc/rc0.d/K*; do
+		if [ -s $f ]; then
+			$f stop 
+		fi
+	done
+
+	for f in /etc/rc0.d/S*; do
+		if [ -s $f ]; then
+			$f start 
+		fi
+	done
+fi
+
+/usr/sbin/killall
+
+/usr/sbin/umountall
+/sbin/umount /var/run >/dev/null 2>&1
+/sbin/umount /var >/dev/null 2>&1
+/sbin/umount /usr >/dev/null 2>&1
+
+case $RC in
+rc0)	# A_SHUTDOWN, AD_HALT
+	/sbin/uadmin 2 0
+	;;
+rc5)	# A_SHUTDOWN, AD_POWEROFF
+	/sbin/uadmin 2 6
+	;;
+rc6)	# A_SHUTDOWN, AD_BOOT
+	/sbin/uadmin 2 1
+	;;
+esac
+
+# Not return

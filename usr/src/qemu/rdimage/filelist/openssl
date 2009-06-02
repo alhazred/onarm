@@ -1,0 +1,40 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008-2009 NEC Corporation
+# All rights reserved.
+#
+
+d none etc 755 root sys
+d none etc/sfw 755 root sys
+d none etc/sfw/openssl 755 root sys
+d none etc/sfw/openssl/certs 755 root sys
+f none etc/sfw/openssl/openssl.cnf 644 root sys
+d none etc/sfw/openssl/private 700 root sys
+
+d none usr 755 root sys
+d none usr/sfw 755 root bin
+d none usr/sfw/lib 755 root bin
+f none usr/sfw/lib/libcrypto.so.0.9.8 755 root bin
+s none libcrypto.so.0.9.8 usr/sfw/lib/libcrypto.so
+f none usr/sfw/lib/libssl.so.0.9.8 755 root bin
+s none libssl.so.0.9.8 usr/sfw/lib/libssl.so

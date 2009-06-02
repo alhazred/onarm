@@ -1,0 +1,205 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007-2009 NEC Corporation
+# All rights reserved.
+#
+
+##
+## Definitions of tunable parameters for unix(NE1) module.
+##
+
+option uint DEFAULT_MAXUSERS
+{
+	default:	64;
+	max:		4096;
+	min:		8;
+	candidates:	0;
+	description:	"The default value of \"maxusers\", that is "
+			"used to prevent memory overcommit.\n"
+			"If this value is set to zero, the kernel chooses "
+			"\"maxusers\" value as appropriate.\n"
+			"Note that the kernel may change this value "
+			"according to the system configuration.";
+}
+
+option uint PLATFORM_MAX_NPROCS
+{
+	default:	0;
+	max:		0x10000;
+	min:		50;
+	candidates:	0;
+	description:	"The maximum number of processes system wide, "
+			"aka \"max_nprocs\".\n"
+			"If this value is set to zero, the kernel derives "
+			"this value from \"maxusers\".\n"
+			"Note that the value of PLATFORM_MAX_NPROCS is "
+			"used only if this value is less than the default "
+			"value of \"max_nprocs\".";
+}
+
+option uint HMENT_HASH_SHIFT
+{
+	default:	2;
+	max:		16;
+	description:	"This value is used to determine number of hment "
+			"hash entries. It will be determined as follows:\n\n"
+			"    ((number of pages) >> HMENT_HASH_NSHIFT).\n\n"
+			"Note that this option will be ignored when "
+			"HMENT_HASH_SIZE is defined other than zero.";
+}
+
+option uint HMENT_HASH_SIZE
+{
+	default:	0;
+	max:		0x100000;
+	min:		512;
+	candidates:	0;
+	power:		2;
+	description:	"Define number of hment hash entries explicitly. "
+			"HMENT_HASH_SHIFT will be ignored if this option "
+			"is defined other than zero.";
+}
+
+option uint PLATFORM_MIN_PHYSMEM
+{
+	default:	0x4000;
+	candidates:	0x1000,		# 16MB
+			0x2000,		# 32MB
+			0x4000;		# 64MB
+	description:	"The minimum number of physical memory pages.\n"
+			"If you want to reduce physical memory less than "
+			"64MB, change this value to less than 0x4000, "
+			"and set \"physmem\" option to bootargs.";
+}
+
+option uint L1PT_PREALLOC
+{
+	default:	0;
+	max:		128;
+	description:	"Number of level 1 page tables to be allocated at "
+			"system boot. \n"
+			"System will try to keep page tables to the "
+			"number of this value, even if the system is very "
+			"low on memory. Be careful when you want to "
+			"change this value.\n"
+			"See also description of L1PT_CACHE.";
+}
+
+option uint L1PT_CACHE
+{
+	default:	32;
+	max:		128;
+	description:	"Number of level 1 page tables to be cached.\n"
+			"System will try to keep page tables to the "
+			"number of this value, but they will be released "
+			"when the system is low on memory.\n"
+			"If L1PT_PREALLOC is larger than zero, "
+			"system will try to keep page tables to the "
+			"number of (L1PT_PREALLOC + L1PT_CACHE).";
+}
+
+option uint SWAPFS_MINFREE
+{
+	default:	0;
+	min:		0x8;
+	candidates:	0;
+	description:	"Number of memory pages that is unavailable for "
+			"swap space. "
+			"If this value is zero, system will derive it "
+			"from amount of physical memory.\n"
+			"Note that system won't work if this value doesn't "
+			"fit the system.";
+}
+
+option uint SWAPFS_DESFREE
+{
+	default:	0;
+	min:		0x8;
+	candidates:	0;
+	description:	"Number of memory pages that is unavailable for "
+			"swap space. "
+			"If this value is zero, system will derive it "
+			"from amount of physical memory.\n"
+			"This value will be used when physical swap "
+			"device is added. Typically, this value should be "
+			"larger than SWAPFS_MINFREE.\n"
+			"Note that system won't work if this value doesn't "
+			"fit the system.";
+}
+
+option uint SWAPFS_RESERVE
+{
+	default:	0;
+	min:		0x8;
+	candidates:	0;
+	description:	"Number of memory pages that is unavailable for "
+			"swap reservation to non-priv processes. "
+			"If this value is zero, system will derive it "
+			"from amount of physical memory.\n"
+			"If amount available pages is less than "
+			"(SWAPFS_RESERVE + SWAPFS_MINFREE), system "
+			"doesn't allow non-priv processes to reserve "
+			"available memory.\n"
+			"Note that system won't work if this value doesn't "
+			"fit the system.";
+}
+
+option uint PLATFORM_SYSTEM_TASKQ_SIZE
+{
+	default:	64;
+	max:		128;
+	min:		1;
+	description:	"Size of the global system task queue.\n"
+			"This value is multiplied by number of CPUs to "
+			"determine actual size.";
+}
+
+option uint LOTSFREE
+{
+	default:	0;
+	min:		128;
+	candidates:	0;
+	description:	"Number of memory pages that is recognized as "
+			"\"lotsfree\".\n"
+			"If the value of \"freemem\" is less than "
+			"this value, the page scanner daemon starts "
+			"to do page out.\n"
+			"If this value is zero, or it is larger or equal "
+			"to total pages, system will derive it from "
+			"total pages.\n";
+}
+
+option uint DESFREE
+{
+	default:	0;
+	min:		64;
+	candidates:	0;
+	description:	"Number of memory pages that is recognized as "
+			"\"desfree\".\n"
+			"If the value of \"avefree\" is less than "
+			"this value, the memory scheduler daemon starts "
+			"to do swap out.\n"
+			"If this value is zero , or it is larger or equal "
+			"to \"lotsfree\", system will derive it from "
+			"\"lotsfree\".\n";
+}

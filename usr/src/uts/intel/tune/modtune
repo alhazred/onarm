@@ -1,0 +1,89 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007-2008 NEC Corporation
+# All rights reserved.
+#
+
+##
+## Definitions of tunable parameters for Intel architecture.
+##
+
+# Export all parameters to arm specific build environment.
+export
+{
+	type:	"architecture";
+	scope:	"intel";
+}
+
+option boolean SPT_DISABLE
+{
+	default:	false;
+	description:	"Determine whether SPT feature (Shared Page Table) "
+			"should be disabled or not. "
+			"If this option is set, shmat(2) always ignore "
+			"SHM_SHARE_MMU and SHM_PAGEABLE flag.";
+}
+
+#
+# Kernel compactification
+#
+
+option uint VNODE_NUM_BUCKETS
+{
+	default:	256;
+	power:		2;
+	description:	"The number of hash entries of vnode as object "
+			"of lock.";
+}
+
+option int DNLC_NCSIZE
+{
+	default:	256;
+	min:		128;
+	candidates:	-1;
+	description:	"The number of DNLC entries reserved statically upon "
+			"system boot.\n"
+			"If this value is set to -1, "
+			"the number of DNLC entries shall be determined "
+			"indirectly based on the memory size.";
+}
+
+option boolean MNTFS_DISABLE
+{
+	default:	false;
+	description:	"This parameter determines whether mntfs should be "
+			"disabled or not.\n"
+			"If this option is true, you can not use mntfs.\n"
+			"This parameter should be false "
+			"if you want to use zone (except global zone).";
+}
+
+#
+# Shrink vfssw
+#
+option boolean VFS_SHRINK_VFSSW
+{
+        default:        true;
+        description:    "This option determines whether vfssw should be "
+                        "shrunk or not.";
+}

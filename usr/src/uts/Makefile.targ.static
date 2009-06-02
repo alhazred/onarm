@@ -1,0 +1,92 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2006-2008 NEC Corporation
+# All rights reserved.
+#
+
+## This makefile contains the common targets to build statically linked kernel.
+
+$(USE_CPPFLAGS_FILE)NO_CPPFLAGS_FILE	= $(POUND_SIGN)
+
+# Build CPPFLAGS for static linking.
+$(USE_CPPFLAGS_FILE)$(STATIC_CPPFLAGS_FILE):	$(STATIC_CPPFLAGS_DEPEND)
+$(USE_CPPFLAGS_FILE)	$(STATIC_CPPFLAGS_COMMAND) > $@ || ($(RM) $@; exit 1)
+
+# Add CPPFLAGS for static linking.
+$(USE_CPPFLAGS_FILE)CPPFLAGS	+= $(STATIC_CPPFLAGS)
+$(USE_CPPFLAGS_FILE)AS_CPPFLAGS	+= $(STATIC_CPPFLAGS)
+
+$(USE_CPPFLAGS_FILE)CLEANFILES		+= $(STATIC_CPPFLAGS_FILE)
+$(NO_CPPFLAGS_FILE)STATIC_CPPFLAGS_FILE	=
+
+# All objects for static linking depends on static_cppflags.
+$(USE_CPPFLAGS_FILE)$(OBJECTS):	$(STATIC_CPPFLAGS_FILE)
+
+# Create empty modinfo if it doesn't exist.
+$(USE_MODINFO_OBJ)$(MODINFO):
+$(USE_MODINFO_OBJ)	test -f "$@"  || $(TOUCH) $@
+
+# Create module information.
+MODINFO_DEPEND				= $(OBJS_DIR)/$(MODINFO_C)
+$(USE_CPPFLAGS_FILE)MODINFO_DEPEND	+= $(STATIC_CPPFLAGS_FILE)
+
+$(USE_MODINFO_OBJ)OBJECTS	+= $(MODINFO_OBJ)
+$(USE_MODINFO_OBJ)CLOBBERFILES	+= $(OBJS_DIR)/$(MODINFO_C)
+
+$(OBJS_DIR)/$(MODINFO_C):	$(MODINFO_C_DEPEND)
+	$(MODINFO_COMMAND) > $@ || ($(RM) $@; exit 1)
+
+$(MODINFO_OBJ):	$(MODINFO_DEPEND)
+	$(COMPILE.c) -o $@ $(OBJS_DIR)/$(MODINFO_C)
+	$(CTFCONVERT_O)
+
+$(USE_MODINFO_OBJ)$(BINARY):	$(MODINFO_OBJ)
+
+# Create archive file to merge CTF section into unix.
+$(MODULE_CTF_A):	$(MODULE_CTF_OBJECTS)
+	$(RM) $@
+	$(AR) -r $@ $(MODULE_CTF_OBJECTS)
+
+module_ctf:	module_ctf.$(OBJS_DIR)
+
+module_ctf.targ:	$(MODULE_CTF_TARG)
+
+module_ctf.obj32:	FRC
+	@BUILD_TYPE=OBJ32 VERSION='$(VERSION)' $(MAKE) module_ctf.targ
+
+module_ctf.debug32:	FRC
+	@BUILD_TYPE=DBG32 VERSION='$(VERSION)' $(MAKE) module_ctf.targ
+
+module_ctf.obj64:	FRC
+	@BUILD_TYPE=OBJ64 VERSION='$(VERSION)' $(MAKE) module_ctf.targ
+
+module_ctf.debug64:	FRC
+	@BUILD_TYPE=DBG64 VERSION='$(VERSION)' $(MAKE) module_ctf.targ
+
+# Create dtrace stub entries.
+$(STATIC_DTRACESTUBS_O):	$(STATIC_DTRACESTUBS_C)
+	$(COMPILE.c) -o $@ $(STATIC_DTRACESTUBS_C)
+	$(CTFCONVERT_O)
+
+$(STATIC_DTRACESTUBS_C):	$(VMUNIX_O)
+	$(STATIC_DTRACESTUBS_COMMAND) > $@ || ($(RM) $@; exit 1)

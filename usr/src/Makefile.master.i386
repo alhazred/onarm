@@ -1,0 +1,54 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
+# Use is subject to license terms.
+#
+
+#
+# Copyright (c) 2006-2008 NEC Corporation
+#
+
+##
+## i386 dependent definitions for Makefile.master.
+##
+
+SPARC_BLD	= $(POUND_SIGN)
+INTEL_BLD	=
+ARM_BLD		= $(POUND_SIGN)
+
+# MACH must be set in the shell environment per uname -p on the build host
+# More specific architecture variables should be set in lower makefiles.
+#
+# MACH64 is derived from MACH, and BUILD64 is set to `#' for
+# architectures on which we do not build 64-bit versions.
+# (There are no such architectures at the moment.)
+MACH64		= amd64
+MACH32		= i86
+i386_BUILD64=
+
+# Use build-time tunable parameter.
+USE_UTSTUNE	=
+
+# Put system header path before gcc default header search path.
+$(__GNUC)NATIVE_CPPFLAGS	= -_gcc=-isystem /usr/include
+$(__GNUC)NATIVE_CPPFLAGS	+= -_gcc=-isystem $(NATIVE_GNU_ROOT)/include

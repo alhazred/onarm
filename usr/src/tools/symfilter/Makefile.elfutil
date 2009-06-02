@@ -1,0 +1,61 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2009 NEC Corporation
+# All rights reserved.
+#
+
+#ident	"@(#)tools/symfilter/Makefile.elfutil"
+
+## Makefile for program that uses elfutil library.
+## LIBELFUTILDIR must be defined.
+
+ELFUTIL_LIBNAME		= elfutil
+ELFUTIL_LIBRARY		= lib$(ELFUTIL_LIBNAME).a
+ELFUTIL_LIBFILE		= $(LIBELFUTILDIR)/$(ELFUTIL_LIBRARY)
+ELFUTIL_LINTLIB		= llib-l$(ELFUTIL_LIBNAME).ln
+ELFUTIL_LINTLIBFILE	= $(LIBELFUTILDIR)/$(ELFUTIL_LINTLIB)
+
+ELFUTIL_SRCFILES	=	\
+	copy_file.c		\
+	copy_file_fd.c		\
+	elfdie.c		\
+	fatal.c			\
+	move_file.c		\
+	verbose.c		\
+	warning.c		\
+	xfree.c			\
+	xmalloc.c		\
+	xrealloc.c		\
+	xstrdup.c
+
+ELFUTIL_SRCS	= $(ELFUTIL_SRCFILES:%=$(LIBELFUTILDIR)/%)
+ELFUTIL_DEPS	= $(ELFUTIL_SRCS) $(LIBELFUTILDIR)/elfutil.h
+
+CPPFLAGS	+= -I$(LIBELFUTILDIR)
+LDLIBS		+= -L$(LIBELFUTILDIR) -l$(ELFUTIL_LIBNAME)
+
+$(ELFUTIL_LINK)$(ELFUTIL_LIBFILE):	$(ELFUTIL_DEPS)
+$(ELFUTIL_LINK)	@cd $(LIBELFUTILDIR); pwd; $(MAKE)
+
+$(ELFUTIL_LINK)$(ELFUTIL_LINTLIBFILE):	$(ELFUTIL_SRCS)
+$(ELFUTIL_LINK)	@cd $(LIBELFUTILDIR); pwd; $(MAKE) lint

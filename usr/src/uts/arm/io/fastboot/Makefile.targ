@@ -1,0 +1,55 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2009 NEC Corporation
+# All rights reserved.
+#
+
+#
+# This makefile defines common targets to build io_fastboot.o.
+# This makefile should be included from makefile for platform-specific unix.
+#
+
+#
+# Define targets to generate io_module_queue.h.
+#
+$(FABOOT_DEP):	$(OBJS_DIR)
+	$(FABOOT_MKDEP)
+
+$(FABOOT_CRHEAD):	$(FABOOT_CRHEAD_C)
+	$(NATIVECC) -o $@ $(FABOOT_CRHEAD_C)
+
+$(FABOOT_HDR):	$(FABOOT_DEP) $(FABOOT_CRHEAD) $(NAME_TO_MAJOR)
+	$(FABOOT_CRHEAD) -o $@ -m $(NAME_TO_MAJOR) $(FABOOT_DEP)
+
+clean-fastboot:
+	$(RM) $(FABOOT_CLEANFILES)
+
+#
+# Define targets to build io_fastboot.o.
+#
+$(OBJS_DIR)/%.o:		$(UTSBASE)/arm/io/fastboot/%.c $(FABOOT_HDR)
+	$(COMPILE.c) -I$(OBJS_DIR) -o $@ $<
+	$(CTFCONVERT_O)
+
+$(LINTS_DIR)/%.ln:		$(UTSBASE)/arm/io/fastboot/%.c $(FABOOT_HDR)
+	@($(LHEAD) $(LINT.c) -I$(OBJS_DIR) $< $(LTAIL))

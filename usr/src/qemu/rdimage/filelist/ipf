@@ -1,0 +1,54 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008-2009 NEC Corporation
+# All rights reserved.
+#
+
+d none etc 755 root sys
+d none etc/ipf 755 root sys
+f none etc/ipf/ipf.conf 644 root sys
+d none etc/init.d 755 root sys
+f none etc/init.d/ipfilter 744 root sys
+d none etc/rc2.d 755 root sys
+l none etc/init.d/ipfilter etc/rc2.d/S32ipfilter
+d none var 755 root sys
+d none var/db 755 root sys
+d none var/db/ipf 755 root sys
+
+d none usr 755 root sys
+d none usr/lib 755 root bin
+d none usr/lib/ipf 755 root bin
+f none usr/lib/ipf/IPFILTER.LICENCE 644 root bin
+m none usr/lib/ipf/arm/ipftest usr/lib/ipf/ipftest 555 root bin
+d none usr/sbin 755 root bin
+m none usr/sbin/arm/ipf usr/sbin/ipf 555 root bin
+m none usr/sbin/arm/ipfs usr/sbin/ipfs 555 root bin
+m none usr/sbin/arm/ipfstat usr/sbin/ipfstat 555 root bin
+m none usr/sbin/arm/ipmon usr/sbin/ipmon 555 root bin
+m none usr/sbin/arm/ipnat usr/sbin/ipnat 555 root bin
+m none usr/sbin/arm/ippool usr/sbin/ippool 555 root bin
+
+d none usr/kernel 755 root sys
+d none usr/kernel/drv 755 root sys
+f none usr/kernel/drv/ipf 755 root sys
+f none usr/kernel/drv/ipf.conf 644 root sys

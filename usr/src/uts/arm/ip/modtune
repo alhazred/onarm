@@ -1,0 +1,154 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007 NEC Corporation
+# All rights reserved.
+#
+
+##
+## Definitions of tunable parameters for ARM architecture.
+##
+
+#
+# Network Kernel Parameters
+#
+option int SCTP_BIND_FANOUT_SIZE
+{
+	default:	1;
+	description:	"The fanout table size in status \"BIND\" for SCTP.";
+	power:		2; 
+}
+
+option int TCP_BIND_FANOUT_SIZE
+{
+	default:	32;
+	description:	"The fanout table size in status \"BIND\" for TCP.";
+	power:		2; 
+}
+
+option int SCTP_LISTEN_FANOUT_SIZE
+{
+	default:	1;
+	description:	"The fanout table size in status \"LISTEN\" for SCTP.";
+	power:		2; 
+}
+
+option uint IPCL_CONN_HASH_SIZE
+{
+	default:	89;
+	description:	"The connection fanout table size for IP Classifier.";
+}
+
+option uint IPCL_BIND_FANOUT_SIZE
+{
+	default:	2;
+	description:	"The fanout table size in status \"BIND\" for IP "
+			"Classifier.";
+	power:		2; 
+}
+
+option uint IPCL_UDP_FANOUT_SIZE
+{
+	default:	8;
+	description:	"The UDP fanout table size for IP Classifier.";
+	power:		2; 
+}
+
+option uint IPCL_RAW_FANOUT_SIZE
+{
+	default:	1;
+	description:	"The Raw Socket fanout table size for IP Classifier.";
+	power:		2; 
+}
+
+option uint UDP_BIND_FANOUT_SIZE
+{
+	default:	8;
+	description:	"The fanout table size in status \"BIND\" for UDP.";
+	power:		2; 
+}
+
+option uint IP_MAX_CACHE_TABLE_SIZE
+{
+	default:	2;
+	description:	"The Maximum route cache table size for IPv4.";
+	power:		2; 
+}
+
+option uint IP6_MAX_CACHE_TABLE_SIZE
+{
+	default:	1;
+	description:	"The Maximum route cache table size for IPv6.";
+	power:		2; 
+}
+
+option uint SCTP_CONN_HASH_SIZE
+{
+	default:	1;
+	description:	"The connection fanout table size for SCTP.";
+	power:		2; 
+}
+
+option uint IP_IRE_BUCKET_CNT
+{
+	default:	10;
+	description:	"This option specifies the bucket length of each "
+			"IPv4 route cache. "
+			"Exactly, the max/min bucket length are set to the "
+			"specified value. "
+			"This means that the max/min bucket length are the "
+			"same.";
+}
+
+option uint IP6_IRE_BUCKET_CNT
+{
+	default:	10;
+	description:	"This option specifies the bucket length of each "
+			"IPv6 route cache. "
+			"Exactly, the max/min bucket length are set to the "
+			"specified value. "
+			"This means that the max/min bucket length are the "
+			"same.";
+}
+
+option boolean NDD_CUSTOM
+{
+        default:        true;
+        description:    "This option determines whether the default values of "
+                        "ndd(1m) tuning parameters are modified. "
+                        "If this option is set to \"true\", some defaults are "
+                        "changed from the OpenSolaris originals to customer's "
+                        "request values. It is effective to boot the system "
+                        "quickly.";
+}
+
+option boolean IPSEC_LOADER_DISABLE
+{
+        default:        true;
+        description:    "This option determines whether ipsec_loader thread "
+                        "should be created or not. "
+                        "If this value is set to \"true\", this is not created "
+                        "and the function of ipsec_loader is disabled. "
+                        "You must change this option to false if you want "
+                        "to use IPsec.";
+}
+

@@ -1,0 +1,163 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008-2009 NEC Corporation
+# All rights reserved.
+#
+
+s none ./usr/bin bin
+d none dev 755 root sys
+d none etc 755 root sys
+d none export 755 root sys
+s none ../etc/default/init etc/TIMEZONE
+s none ../sbin/autopush etc/autopush
+d none etc/default 755 root sys
+f none etc/default/init 644 root sys
+f none etc/default/login 644 root sys
+f none etc/default/passwd 644 root sys
+f none etc/default/su 644 root sys
+f none etc/format.dat 644 root sys
+d none etc/fs 755 root sys
+d none etc/fs/ufs 755 root sys
+f none etc/fs/ufs/mount 555 root bin
+f none etc/group 644 root sys
+s none ./inet/hosts etc/hosts
+d none etc/inet 755 root sys
+f none etc/inet/hosts 444 root sys
+s none ./hosts etc/inet/ipnodes
+f none etc/inet/netmasks 444 root sys
+f none etc/inet/networks 444 root sys
+f none etc/inet/protocols 444 root sys
+f none etc/inet/services 444 root sys
+d none etc/init.d 755 root sys
+f none etc/inittab 644 root sys
+f none etc/ioctl.syscon 644 root sys
+d none etc/lib 755 root sys
+s none ../../lib/nss_files.so.1 etc/lib/nss_files.so.1
+f none etc/logindevperm 644 root sys
+f none etc/magic 444 root bin
+f none etc/mnttab 444 root root
+d none etc/net 755 root sys
+d none etc/net/ticlts 755 root sys
+f none etc/net/ticlts/hosts 644 root sys
+f none etc/net/ticlts/services 644 root sys
+d none etc/net/ticots 755 root sys
+f none etc/net/ticots/hosts 644 root sys
+f none etc/net/ticots/services 644 root sys
+d none etc/net/ticotsord 755 root sys
+f none etc/net/ticotsord/hosts 644 root sys
+f none etc/net/ticotsord/services 644 root sys
+f none etc/netconfig 644 root sys
+s none ./inet/netmasks etc/netmasks
+s none ./inet/networks etc/networks
+f none etc/nsswitch.conf 644 root sys
+f none etc/passwd 644 root sys
+f none etc/project 644 root sys
+s none ./inet/protocols etc/protocols
+d none etc/rc0.d 755 root sys
+d none etc/rc1.d 755 root sys
+d none etc/rc2.d 755 root sys
+d none etc/rc3.d 755 root sys
+d none etc/rcS.d 755 root sys
+d none etc/security 755 root sys
+f none etc/security/policy.conf 644 root sys
+f none etc/security/crypt.conf 644 root sys
+d none etc/security/dev 755 root sys
+f none etc/security/dev/audio 400 root bin
+f none etc/security/dev/fd0 400 root bin
+f none etc/security/dev/sr0 400 root bin
+f none etc/security/dev/st0 400 root bin
+f none etc/security/dev/st1 400 root bin
+d none etc/security/lib 755 root sys
+f none etc/security/lib/audio_clean 555 root sys
+f none etc/security/lib/fd_clean 555 root sys
+f none etc/security/lib/sr_clean 555 root sys
+f none etc/security/lib/st_clean 555 root sys
+f none etc/user_attr 644 root sys
+f none etc/pam.conf 644 root sys
+s none inet/services etc/services
+f none etc/shadow 400 root sys
+d none etc/svc 755 root sys
+d none etc/svc/volatile 755 root sys
+f none etc/ttydefs 644 root sys
+f none etc/ttysrch 644 root sys
+f none etc/vfstab 644 root sys
+d none etc/rpcsec 755 root sys
+d none etc/zones 755 root sys
+
+f none etc/init.d/remountufs 744 root sys
+l none etc/init.d/remountufs etc/rc1.d/S05remountufs
+l none etc/init.d/remountufs etc/rc2.d/S05remountufs
+f none etc/init.d/initdevfspolicy 744 root sys
+l none etc/init.d/initdevfspolicy etc/rc2.d/S22devfspolicy
+f none etc/init.d/inetinit 744 root sys
+l none etc/init.d/inetinit etc/rc2.d/S34inetinit
+f none etc/init.d/strplumb 744 root sys
+l none etc/init.d/strplumb etc/rc2.d/S30strplumb
+f none etc/init.d/net-physical 744 root sys
+l none etc/init.d/net-physical etc/rc2.d/S35net-physical
+
+d none home 755 root sys
+d none lib 755 root sys
+d none mnt 755 root sys
+d none opt 755 root sys
+d none proc 555 root sys
+
+d none sbin 755 root sys
+f none sbin/autopush 555 root bin
+f none sbin/fdisk 555 root bin
+f none sbin/hostconfig 555 root bin
+f none sbin/ifconfig 555 root bin
+f none sbin/soconfig 555 root bin
+f none sbin/init 555 root sys
+f none sbin/mount 555 root bin
+f none sbin/mountall 555 root sys
+f none sbin/rc1 744 root sys
+f none sbin/rc2 744 root sys
+f none sbin/rc0 744 root sys
+l none sbin/rc0 sbin/rc5
+l none sbin/rc0 sbin/rc6
+f none sbin/route 555 root bin
+f none sbin/sh 555 root bin
+f none sbin/sulogin 555 root bin
+f none sbin/su.static 555 root sys
+f none sbin/sync 555 root bin
+f none sbin/uadmin 555 root sys
+f none sbin/umount 555 root bin
+f none sbin/umountall 555 root sys
+f none sbin/uname 555 root bin
+
+d none system 755 root sys
+d none system/contract 555 root sys
+d none system/object 555 root sys
+d none tmp 1777 root sys
+d none usr 755 root sys
+d none var 755 root sys
+d none var/adm 755 root sys
+d none var/adm/streams 755 root sys
+s none ../../tmp/utmpx var/adm/utmpx
+d none var/inet 0755 root sys
+d none var/ld 755 root bin
+d none var/preserve 1777 root bin
+d none var/run 755 root sys
+d none var/spool 755 root sys
+d none var/tmp 1777 root sys

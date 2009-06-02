@@ -1,0 +1,140 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+#
+# Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
+# Use is subject to license terms.
+#
+# ident	"@(#)Makefile.tools	1.16	07/05/14 SMI"
+
+#
+# Copyright (c) 2006-2009 NEC Corporation
+#
+
+#
+# Definitions common to tool source.
+#
+include $(SRC)/Makefile.master
+
+FILEMODE=	0555
+
+TOOLS=			$(SRC)/tools
+TOOLS_PROTO=		$(TOOLS)/proto
+ROOTONBLD=		$(TOOLS_PROTO)/opt/onbld
+ROOTONBLDBIN=		$(ROOTONBLD)/bin
+ROOTONBLDBINMACH=	$(ROOTONBLD)/bin/$(MACH)
+ROOTONBLDBINNATIVEMACH=	$(ROOTONBLD)/bin/$(NATIVE_MACH)
+ROOTONBLDLIB=		$(ROOTONBLD)/lib
+ROOTONBLDLIBMACH=	$(ROOTONBLD)/lib/$(MACH)
+ROOTONBLDLIBPERL=	$(ROOTONBLD)/lib/perl
+ROOTONBLDLIBPERLMACH=	$(ROOTONBLD)/lib/perl/$(MACH)
+ROOTONBLDENV=		$(ROOTONBLD)/env
+ROOTONBLDGK=		$(ROOTONBLD)/gk
+ROOTONBLDMAN=		$(ROOTONBLD)/man
+ROOTONBLDMAN1=		$(ROOTONBLD)/man/man1
+ROOTONBLDETCABI=	$(ROOTONBLD)/etc/abi
+
+CPPFLAGS=		-D_TS_ERRNO
+ELFSIGN_O=		$(TRUE)
+LDLIBS=
+LDFLAGS=		$(MAPFILE.NES:%=-M%) $(MAPFILE.NED:%=-M%) \
+			    $(MAPFILE.PGA:%=-M%)
+
+ROOTONBLDPROG=		$(PROG:%=$(ROOTONBLDBIN)/%)
+ROOTONBLDMACHPROG=	$(PROG:%=$(ROOTONBLDBINMACH)/%)
+ROOTONBLDNATTIVEMACHPROG=	$(PROG:%=$(ROOTONBLDBINNATIVEMACH)/%)
+ROOTONBLDSHFILES=	$(SHFILES:%=$(ROOTONBLDBIN)/%)
+ROOTONBLDMAKEFILES=	$(MAKEFILES:%=$(ROOTONBLDBIN)/%)
+ROOTONBLDMACHSHFILES=	$(SHFILES:%=$(ROOTONBLDBINMACH)/%)
+ROOTONBLDMACHBINARIES=	$(BINARIES:%=$(ROOTONBLDBINMACH)/%)
+ROOTONBLDENVFILES=	$(ENVFILES:%=$(ROOTONBLDENV)/%)
+ROOTONBLDGKFILES=	$(GKFILES:%=$(ROOTONBLDGK)/.%)
+ROOTONBLDPERLFILES=	$(PERLFILES:%=$(ROOTONBLDBIN)/%)
+ROOTONBLDPYFILES=	$(PYFILES:%=$(ROOTONBLDBIN)/%)
+ROOTONBLDMAN1FILES=	$(MAN1FILES:%=$(ROOTONBLDMAN1)/%)
+ROOTONBLDABIAUDITFILES=	$(ABI_AUDITFILES:%=$(ROOTONBLDETCABI)/%)
+
+# Break a chicken-and-egg dependency cycle for the tools build
+SCCSCHECK=@echo would sccscheck
+
+$(ROOTONBLDETCABI)/%: %
+	$(INS.file)
+
+$(ROOTONBLDBIN)/%: %
+	$(INS.file)
+
+$(ROOTONBLDBINMACH)/%: %
+	$(INS.file)
+
+$(ROOTONBLDBINNATIVEMACH)/%: %
+	$(INS.file)
+
+$(ROOTONBLDMAN1)/%: %
+	$(INS.file)
+
+$(ROOTONBLDENV)/%: %
+	$(INS.file)
+
+$(ROOTONBLDGK)/.%: %
+	$(INS.rename)
+
+# The following lines will be activated if USE_WS_TOOLS is not '#'.
+$(USE_WS_TOOLS)TARGET_MACH	= $(MACH)
+$(USE_WS_TOOLS)MACH		= $(NATIVE_MACH)
+$(USE_WS_TOOLS)CPPFLAGS		+= -DTARGET_$(MACH)=1
+$(USE_WS_TOOLS)CC		= GNU_ROOT=$(NATIVE_GNU_ROOT) \
+				  $($(NATIVE_MACH)_CC)
+$(USE_WS_TOOLS)CCC		= GNU_ROOT=$(NATIVE_GNU_ROOT) \
+				  $($(NATIVE_MACH)_CCC)
+$(USE_WS_TOOLS)CPP		= GNU_ROOT=$(NATIVE_GNU_ROOT) \
+				  $($(NATIVE_MACH)_CPP)
+$(USE_WS_TOOLS)AS		= GNU_ROOT=$(NATIVE_GNU_ROOT) \
+				  $($(NATIVE_MACH)_AS)
+$(USE_WS_TOOLS)LD		= GNU_ROOT=$(NATIVE_GNU_ROOT) \
+				  $($(NATIVE_MACH)_LD)
+$(USE_WS_TOOLS)LINT		= GNU_ROOT=$(NATIVE_GNU_ROOT) \
+				  $($(NATIVE_MACH)_LINT)
+$(USE_WS_TOOLS)CFLAGS		= $(COPTFLAG) $($(NATIVE_MACH)_CFLAGS) \
+				  $(SPACEFLAG) $(CCMODE) $(ILDOFF) \
+				  $(CERRWARN) $(C99MODE) $(CCUNBOUND) \
+				  $(CGLOBALSTATIC)
+$(USE_WS_TOOLS)CCFLAGS		= $(CCOPTFLAG) $($(NATIVE_MACH)_CCFLAGS)
+$(USE_WS_TOOLS)MAPFILE.NED	= $(MAPFILE.NED_$(NATIVE_MACH))
+$(USE_WS_TOOLS)MAPFILE.PGA	= \
+	$(SRC)/common/mapfiles/$(NATIVE_MACH)/map.pagealign
+
+# We should tell gcc to search /usr/include before /usr/local/include.
+$(USE_WS_TOOLS)WS_ROOT		= $(CODEMGR_WS)/proto/root_$(MACH)
+$(USE_WS_TOOLS)$(__GNUC)CPPFLAGS	+= $(GCC_ISYSTEM) /usr/include \
+					   $(GCC_ISYSTEM) /usr/sfw/include
+
+# Convert POD into ROFF.
+POD2MAN		= /usr/perl5/bin/pod2man
+POS2MAN_ARGS	= --center='User Commands' --section=1 \
+		  --release='SunOS $(RELEASE)'
+POD2MAN_BUILD	= \
+	name=`basename $@ .1`; \
+	if test -f $${name}.pl; then \
+	    src=$${name}.pl; \
+	else \
+	    src=$${name}.pod; \
+	fi; \
+	$(POD2MAN) $(POS2MAN_ARGS) --name=$$name $$src > $@ || \
+		($(RM) $@; exit 1)

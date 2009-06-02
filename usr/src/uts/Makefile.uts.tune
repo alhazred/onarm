@@ -1,0 +1,148 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007-2009 NEC Corporation
+# All rights reserved.
+#
+
+##
+## This makefile contains the common definitions to support build time
+## tunable parameters.
+##
+
+# Use GNU cpp as filter for assembly file.
+# Note that we should use cpp in traditional mode.
+MODTUNE_CPP		= $(GNU_ROOT)/bin/cpp
+MODTUNE_AW		= $(ONBLD_TOOLS)/bin/$(MACH)/aw -cpp=$(MODTUNE_CPP)
+MODTUNE_TRAD_CPP	= -_cpp=-traditional-cpp
+$(__GNUC)i386_AS		= $(MODTUNE_AW)
+$(__GNUC)i386_ASFLAGS		+= $(MODTUNE_TRAD_CPP)
+$(__GNUC64)amd64_AS		= $(MODTUNE_AW)
+$(__GNUC64)amd64_ASFLAGS	+= $(MODTUNE_TRAD_CPP)
+
+# Dynamic Makefile macro configuration.
+MAKEOPT		= makeopt
+MAKEOPT_MK	= $(OBJS_DIR)/$(MAKEOPT).mk
+
+# Override this to empty if makeopt is required to build object.
+USE_MAKEOPT	= $(POUND_SIGN)
+
+# File to keep timestamp when makeopt is registered.
+MAKEOPT_STAMP	= $(OBJS_DIR)/$(MAKEOPT).stamp
+
+# Dummy file that will be used when MAKEOPT is not present.
+MAKEOPT_DUMMY	= $(OBJS_DIR)/$(MAKEOPT).dummy
+
+# Define dependencies for $(MAKEOPT_STAMP).
+MAKEOPT_DEPEND_COMMAND	=		\
+	if [ -f $(MAKEOPT) ]; then	\
+	    echo $(MAKEOPT_STAMP);	\
+	else				\
+	    echo $(MAKEOPT_DUMMY);	\
+	fi
+MAKEOPT_DEPEND	= $(MAKEOPT_DEPEND_COMMAND:sh)
+
+# Register or unregister makeopt script.
+MAKEOPT_SET	= $(UTSTUNE) --makeopt-add $(MAKEOPT) $(MODTUNE_SCOPE)
+MAKEOPT_REMOVE	= $(UTSTUNE) --makeopt-remove $(MAKEOPT)
+
+# Command to create $(MAKEOPT_MK) if it is not present.
+#
+# KLUDGE:
+#	MAKEOPT_INIT is defined while parameter initialization.
+#	This command create empty file if it is defined.
+MAKEOPT_DUMP	=						\
+	if [ ! -d $(OBJS_DIR) ]; then				\
+	    $(INS) -s -d -m $(DIRMODE) $(OBJS_DIR);		\
+	fi;							\
+	if [ -z "$(MAKEOPT_INIT)" -a -f $(MAKEOPT) ]; then	\
+	    if [ -f $(MODTUNE) -a ! -f $(MODTUNE_CUR) ]; then	\
+		$(MODTUNE_COMPILE_ARGS) $(MODTUNE_CUR);		\
+	    fi;							\
+	    if [ ! -f $(MAKEOPT_STAMP) ]; then			\
+		$(MAKEOPT_SET);					\
+	    fi;							\
+	    if [ ! -f $(MAKEOPT_MK) ]; then			\
+		$(UTSTUNE) --makeopt $(MAKEOPT) $(OBJS_DIR);	\
+	    fi;							\
+	else							\
+	    $(TOUCH) $(MAKEOPT_MK);				\
+	fi
+
+# This file contains definitions of tunable parameters.
+MODTUNE		= modtune
+
+# This file keeps current configurations.
+MODTUNE_CUR	= $(OBJS_DIR)/$(MODTUNE).cur
+
+# The header file name derived from $(MODTUNE_CUR).
+MODTUNE_H	= $(OBJS_DIR)/$(MODTUNE).h
+
+# Configuration administration tool.
+UTSTUNE		= $(ONBLD_TOOLS)/bin/utstune
+
+# Override this to $(POUND_SIGN) if MODTUNE is not required to build object.
+USE_MODTUNE	=
+
+# Currently, build-time tunable parameter requires GNU C compiler.
+UTSTUNE_CPPFLAGS	= -_gcc=-include -_gcc=$(MODTUNE_H)
+UTSTUNE_AS_CPPFLAGS	= -_cpp=-include -_cpp=$(MODTUNE_H)
+
+# Define dependencies for $(MODTUNE_H).
+MODTUNE_DUMMY	= $(OBJS_DIR)/$(MODTUNE).dummy
+MODTUNE_DEPEND_COMMAND	=		\
+	if [ -f $(MODTUNE) ]; then	\
+	    echo $(MODTUNE_CUR);	\
+	else				\
+	    echo $(MODTUNE_DUMMY);	\
+	fi
+MODTUNE_DEPEND	= $(MAKEOPT_DEPEND) $(MODTUNE_DEPEND_COMMAND:sh)
+
+# Do NOT override this macro in Makefile.
+MODTUNE_SWITCH		=
+$(INTERNAL_RELEASE_BUILD)MODTUNE_SWITCH	= --switch=$(PATCHID)
+$(NOT_RELEASE_BUILD)MODTUNE_SWITCH	+= --switch=DEBUG
+
+MODTUNE_E		= $(OBJS_DIR)/modtune.e
+
+# Source files for MODTUNE_CUR.
+MODTUNE_SRC_CMD	= $(UTSTUNE) $(MODTUNE_SWITCH) --depend=$(MODTUNE) $(OBJS_DIR)
+MODTUNE_SRC	= $(MODTUNE) $(MODTUNE_SRC_CMD:sh)
+
+# Command to generate header file that contains customized parameters.
+MODTUNE_COMPILE_ARGS	= $(UTSTUNE) $(MODTUNE_CFLAGS) --compile \
+			  $(MODTUNE_SWITCH) $(OBJS_DIR) $(MODTUNE)
+MODTUNE_COMPILE	= $(MODTUNE_COMPILE_ARGS) $@
+MODTUNE_HEADER	= $(UTSTUNE) --header $(MODTUNE_CUR) $@
+MODTUNE_REMOVE	= $(UTSTUNE) --remove $(MODTUNE)
+
+# Remove configuration files only tune-clobber target is invoked.
+CLOBBERFILES		+= $(MODTUNE_DUMMY)
+TUNE_CLOBBERFILES	+= $(MODTUNE_DUMMY) $(MODTUNE_H) $(MODTUNE_CUR)
+TUNE_CLOBBERFILES	+= $(MAKEOPT_STAMP) $(MAKEOPT_DUMMY) $(MAKEOPT_MK)
+TUNE_CLOBBERFILES	+= $(MODTUNE_E)
+
+# Multiple builds support
+TUNE_INIT_DEPS		= $(DEF_BUILDS:%=tune-init.%)
+TUNE_CLEAN_DEPS		= $(DEF_BUILDS:%=tune-clean.%)
+TUNE_CLOBBER_DEPS	= $(ALL_BUILDS:%=tune-clobber.%)
+

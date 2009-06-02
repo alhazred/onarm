@@ -1,0 +1,204 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2006-2008 NEC Corporation
+# All rights reserved.
+#
+
+## This makefile contains the common definitions to build statically linked 
+## kernel.
+
+# Currently, GNU linker is required to build static kernel.
+__GNULD		=
+arm_LD		= $(GNU_ROOT)/bin/ld
+CW_CC_SW	= -_gcc_gld
+CW_CCC_SW	= -_g++_gld
+BDIRECT		=
+BLOCAL		=
+BNODIRECT	=
+BREDUCE		=
+__NON_GNULD	= $(POUND_SIGN)
+LOCALIZE_SYMBOL	= $(STATICTOOL) symbind $(LOCALIZE_SYMBOL_OPT)	\
+		  -O $(OBJCOPY) -n $(NM) -M $(MAPFILE) $@ || $(RM) -f $@
+
+# Define STATIC_UNIX.
+CPPFLAGS	+= -DSTATIC_UNIX
+AS_CPPFLAGS	+= -DSTATIC_UNIX
+
+# Override this to "" if you want to strip CTF data.
+NO_UNIX_CTF	= $(POUND_SIGN)
+
+# Force to rebuild when NO_UNIX_CTF is changed.
+$(NO_UNIX_CTF)CPPFLAGS		+= -DNO_UNIX_CTF
+$(NO_UNIX_CTF)AS_CPPFLAGS	+= -DNO_UNIX_CTF
+
+# This file contains module information for static linking.
+MODINFO		= modinfo
+
+# Global flags for statictool.
+STATICTOOL_GFLAGS	= -O "$(OBJS_DIR)"
+
+# Define CPPFLAGS for static link.
+# STATIC_CONF must be defined.
+STATIC_CPPFLAGS_COMMAND	= $(STATICTOOL) cppflags -c "$(STATIC_CONF)"
+STATIC_CPPFLAGS_FILE	= $(OBJS_DIR)/static_cppflags
+STATIC_CPPFLAGS_DEF	= $(CAT) $(STATIC_CPPFLAGS_FILE)
+STATIC_CPPFLAGS		= $(STATIC_CPPFLAGS_DEF:sh)
+
+# Override this to $(POUND_SIGN) if STATIC_CPPFLAGS_FILE is not required
+# to build object.
+USE_CPPFLAGS_FILE	=
+
+# This file will be derived from MODINFO file.
+MODINFO_C	= _modinfo.c
+MODINFO_O	= $(MODINFO_C:.c=.o)
+MODINFO_OBJ	= $(MODINFO_O:%=$(OBJS_DIR)/%)
+
+# MODINFO is used to create STATIC_CPPFLAGS_FILE.
+STATIC_CPPFLAGS_DEPEND	= $(STATIC_CONF) $(MODINFO) $(OBJS_DIR)
+STATIC_CPPFLAGS_DEPEND	+= $(STATIC_CONF_STAMP)
+
+# Command to create _modinfo.c
+MODINFO_COMMAND	= $(STATICTOOL) modinfo -c "$(STATIC_CONF)" -d "$(SRC_CONFILE)"
+MODINFO_C_DEPEND	= $(MODINFO) $(STATIC_CONF)
+MODINFO_C_DEPEND	+= $(STATIC_CONF_STAMP)
+
+MODINFO_DRVCONF_DEPCMD	=					\
+	test ! -z "$(CONF_SRCDIR)" -a -f "$(SRC_CONFILE)" &&	\
+	echo "$(SRC_CONFILE)"; exit 0
+MODINFO_C_DEPEND	+= $(MODINFO_DRVCONF_DEPCMD:sh)
+
+# Override this to $(POUND_SIGN) if MODINFO_O file is not required to
+# build object.
+USE_MODINFO_OBJ	=
+
+# Objects to archive into archive file that is used to merge CTF.
+# Do NOT change these macros in Makefile.
+MODULE_CTF_A		= $(OBJS_DIR)/module_ctf.a
+MODULE_CTF_OBJECTS	= $(OBJECTS)
+CLEANFILES		+= $(MODULE_CTF_A)
+MODULE_CTF_TARG		= $(MODULE_CTF_A)
+
+# Merge all CTF data for static modules into vmunix.
+CTFMERGE_VMUNIX_MERGE	=					\
+	$(CTFMERGE) $(CTFMRGFLAGS) -L VERSION -o $@ $(STATIC_CTF_OBJECTS)
+$(NO_UNIX_CTF)CTFMERGE_VMUNIX_MERGE	= :
+
+# Command to create dtrace stub entries.
+# Unlike dynamic kernel, static kernel create a stub function for
+# probe entries, and create sdt_probedesc_t chain.
+STATIC_DTRACESTUBS_COMMAND	=	\
+	$(STATICTOOL) dtracestubs -n $(NM) $(VMUNIX_O)
+
+STATIC_DTRACESTUBS_C	= $(OBJS_DIR)/static_dtracestubs.c
+STATIC_DTRACESTUBS_O	= $(STATIC_DTRACESTUBS_C:.c=.o)
+
+# Command to construct symbol table for static-linked unix executable.
+# This command does the following procedures:
+#
+#  - Eliminate unused symbols.
+#  - Generate .hash section.
+#  - Move symbol table above .bss.
+#
+# Makefile must define SYMFILTER_RULE macro that represents filename
+# that contains symbol filtering rules. And it also requires to specify
+# kernel file path as an argument.
+#
+STATIC_UNIXSYMS_FLAGS	= -RXZ -f $(SYMFILTER_RULE)
+STATIC_UNIXSYMS	= $(SYMFILTER) $(STATIC_UNIXSYMS_FLAGS)
+
+# Command to fixup static-linked unix executable.
+# This command does the following procedures:
+#
+#  - Build TNF probe list using REL sections.
+#  - Remove REL sections.
+#  - Set start and end offset of .symtab, .strtab, and .hash sections
+#    into kernel symbol.
+#  - Remove CTF data section if NO_UNIX_CTF is set to "".
+#
+# The following macros must be set by Makefile:
+#
+#  TNFPROBE_NEXT_OFFSET
+#	Offset of next member in tnf_probe_control structure.
+#  VMUNIX_SYM
+#	Filename of static-linked unix that contains symbol table and
+#	symbol hash.
+STATIC_UNIX_FIXUP_FLAGS	= -B $(KERNELPHYSBASE) -X -n $(TNFPROBE_NEXT_OFFSET)
+$(NO_UNIX_CTF)STATIC_UNIX_FIXUP_FLAGS	+= -C
+
+STATIC_UNIX_FIXUP	=	\
+	$(RM) $@; \
+	$(ELFDATAMOD) $(STATIC_UNIX_FIXUP_FLAGS) $(VMUNIX_SYM) $@ || \
+		($(RM) $@; exit 1)
+
+CLEANFILES		+= $(STATIC_DTRACESTUBS_O)
+CLOBBERFILES		+= $(STATIC_DTRACESTUBS_C) $(VMUNIX_REL) $(VMUNIX_SYM)
+
+# Determine whether the module in the current directory will be linked to
+# vmunix or not. STATIC_DRIVER macro can be used in Makefile to determine
+# whether the target module will be linked to vmunix or not.
+TEST_STATIC_CMD	= $(STATICTOOL) test -c "$(STATIC_CONF)"
+TEST_STATIC	= test "$(TEST_STATIC_CMD:sh)" = "static"
+STATIC_DRIVER_CMD	= $(TEST_STATIC) || echo \\043
+STATIC_DRIVER	= $(STATIC_DRIVER_CMD:sh)
+
+# Rule file for symfilter.
+# This file is used to eliminate unused symbols from the symbol table.
+MOD_SYMFILTER_RULE	= $(UTSBASE)/$(MACH)/mod_symfilter.rules
+
+# Symbol filter command.
+MOD_SYMFILTER_FLAGS		= -RZ -f $(MOD_SYMFILTER_RULE)
+$(NO_UNIX_CTF)MOD_SYMFILTER_RULE	+= -C
+MOD_SYMFILTER_CMD		= $(SYMFILTER) $(MOD_SYMFILTER_FLAGS) $@
+
+# GNU C compiler dumps static BSS symbol as NOTYPE.
+# We need to convert them into OBJECT symbol before ctfconvert.
+# Do NOT eliminate any symbol here or ctfconvert can't generate CTF data.
+CTFCONVERT_O	= $(SYMFILTER) -RZ $@ && $(CTFCONVERT) $(CTFCVTFLAGS) $@
+
+# Invoke symbol filter if the module is not linked to vmunix statically.
+# Note that symbol filter must be invoked preceded by ctfmerge.
+MOD_SYMFILTER	= $(TEST_STATIC) || $(MOD_SYMFILTER_CMD)
+
+# Symbol filtering must be done after ctfmerge.
+POST_PROCESS_AFTER_CTFMERGE	= $(MOD_SYMFILTER)
+
+# On STATIC_UNIX environment, parent CTF module name for each kernel modules
+# must be "unix", not "genunix".
+CTFMERGE_UNIQFLAG	+= -P unix
+
+# Disable ctfmerge if NO_UNIX_CTF is defined as "", or module is linked to
+# vmunix statically.
+$(NO_UNIX_CTF)CTFMERGE_UNIQUIFY_AGAINST_GENUNIX		=
+$(STATIC_DRIVER)CTFMERGE_UNIQUIFY_AGAINST_GENUNIX	=
+
+# Install all kernel modules under /usr directory if environment variable
+# KMODS_INST_USR is empty string.
+KMODS_INST_ROOT		=
+$(KMODS_INST_USR)KMODS_INST_ROOT	= $(POUND_SIGN)
+$(KMODS_INST_USR)ROOT_MOD_DIR		= $(USR_MOD_DIR)
+$(KMODS_INST_USR)ROOT_PSM_MOD_DIR	= $(USR_PSM_MOD_DIR)
+$(KMODS_INST_USR)CPPFLAGS		+= -DKMODS_INST_USR
+$(KMODS_INST_USR)STATICTOOL_GFLAGS	+= --switch=USR
+
+# STATIC_UNIX environment doesn't support `all' target.
+ALL_DEPS	= $(DEF_DEPS)

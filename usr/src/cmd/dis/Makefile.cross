@@ -1,0 +1,63 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008 NEC Corporation
+# All rights reserved.
+#
+
+# Rules to create cross disassembler.
+# ARM specific.
+
+XPROG	= xdis
+
+include ../Makefile.cmd.cross
+
+LIBCROSSDISASM	= $(SRC)/lib/libdisasm/$(MACH)/libcrossdisasm.o
+XPROG_OBJS	= $(OBJS:%=cross-objs/%)
+
+CLEANFILES	+= $(XPROG_OBJS)
+CLOBBERFILES	+= $(XPROG) $(XPROG_OBJS)
+
+XCC		= GNU_ROOT=$(NATIVE_GNU_ROOT) $($(NATIVE_MACH)_CC)
+XCPPFLAGS	= -I$(ROOT)/usr/include -I. $(CCOPTFLAG) -D__arm
+XLDLIBS		= $(LIBCROSSDISASM) -lelf /usr/lib/libuutil.so.1
+
+.PARALLEL:	$(XPROG_OBJS)
+
+cross:	cross-objs .WAIT $(XPROG)
+
+all:		cross
+
+install:	$(CROSSROOTPROG)
+
+$(CROSSROOTPROG):	cross
+
+$(XPROG):	$(XPROG_OBJS) $(LIBCROSSDISASM)
+	$(XCC) -o $@ $(XPROG_OBJS) $(XLDLIBS)
+	$(POST_PROCESS)
+
+cross-objs:
+	-@mkdir -p $@
+
+cross-objs/%.o:	%.c
+	$(XCC) -c -o $@ $(XCPPFLAGS) $<
+	$(POST_PROCESS_O)

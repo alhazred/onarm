@@ -1,0 +1,246 @@
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2006-2008 NEC Corporation
+# All rights reserved.
+#
+
+=head1 NAME
+
+I<elfdatamod> - Modify data in ELF executable
+
+=head1 SYNOPSIS
+
+B<elfdatamod> [options] -p I<SRC[/SIZE]> -m I<SRC:DST[/SIZE]> I<file>
+
+B<elfdatamod> [-v] -T -n offset vmunix outfile
+
+=head1 DESCRIPTION
+
+I<elfdatamod> is a utility program to update program data in ELF executable
+data section.
+
+I<elfdatamod> prints or modifies program data in ELF data section,
+not ELF header. Needless to say, it can't print or modify data that
+the content of it is not located in ELF executable, such as BSS.
+
+=head1 OPTIONS
+
+The following options can be specified:
+
+=over 4
+
+=item B<-v>
+
+Verbose mode.
+
+=item B<-q>
+
+Quiet mode.
+
+If this option is specified with B<-m>, no notice of modification will
+be printed. This option doesn't affect to B<-p>.
+
+=item B<-B> I<addr>
+
+Specify base offset of executable file offset.
+The specified value will be added to section offset.
+
+=item B<-S>
+
+Ignore error if the section name specified to B<-p> or B<-m> doesn't exist
+in ELF file. If this option is specified, I<elfdatamod> will interpret
+section offset for invalid section as 0.
+
+=item B<-D>
+
+Print value in decimal. In addition, specified parameter doen't print
+if this option is specified. This option only affects behaviour of B<-p>.
+
+=item B<-p> I<SRC>[/I<SIZE>]
+
+Print data at I<SRC> in ELF executable.
+I<SIZE> is optional parameter that specifies access type.
+
+See B<PARAMETER FORMAT> section for more details of I<SRC> parameter.
+
+=item B<-m> I<SRC>:I<DST>[/I<SIZE>]
+
+Write value of I<SRC> into I<DST> in ELF executable.
+
+I<SIZE> is optional parameter that specifies access type.
+
+See B<PARAMETER FORMAT> section for more details of I<SRC> parameter.
+
+=item B<-C>
+
+Remove CTF data section.
+
+This option will be ignored if B<-X> option is not specified.
+
+=item B<-X>
+
+This is special hack for static-linked unix executable.
+Other executable can't use this option.
+
+This option acts as follows:
+
+=over 3
+
+=item -
+
+Construct TNF probe list from .rel.data.
+
+=item -
+
+Remvoe REL sections after TNF processing.
+
+=item -
+
+Set start and end file offset of .hash section into kernel symbol.
+
+=back
+
+=item B<-n> offset
+
+This option is used by B<-X>. Otherwise it will be ignored.
+
+This option specifies next pointer offset in tnf_probe_control structure.
+
+=back
+
+=head1 PARAMETER FORMAT
+
+The following the format of I<SRC> argument for B<-p> and B<-m> option,
+and I<DST> parameter for B<-m> option:
+
+=head2 IMMEDIATE
+
+If decimal or hexadecimal value is specified, it will be considered as
+immediate value.
+
+If an immediate value is specified to I<SRC> parameter for B<-p> or
+I<DST> parameter for B<-m>, it will be considered as virtual address.
+For instance, "-p 0x8002000" option will print value at the virtual
+address 0x8002000 in ELF executable.
+
+If an immediate value is specified to I<SRC> parameter for B<-m>,
+it will be considered as immediate value. For instance,
+"-m 0x1234:0x130024" option will write 0x1234 to the virtual address
+0x130024 in ELF executable.
+
+If '*' is preceding immediate, I<elfdatamod> will try to dereference.
+For instance, "-p *0x8002000" will read data at virtual address 0x8002000.
+Note that '-m' option never allows dereference.
+
+=head2 SECTION OFFSET
+
+If the first character of I<SRC> is '^', it will be converted to
+start offset of the ELF section.
+
+If the first character of I<SRC> is '$', it will be converted to
+end offset of the ELF section. "End offset" means "start offset +
+section size". If B<-B> option is specified, its value will be added to
+offset value.
+
+For instance, "-p ^.text" will print start offset of text section.
+And "-B 0x10000 -p ^.text" will print (start offset of text section + 0x10000).
+
+This format can't be specified to I<DST> parameter for B<-m>.
+
+=head2 SYMBOL ADDRESS
+
+If the first charactet of I<SRC> or I<DST> is '&', it will be converted
+to address of the specified symbol.
+
+For instance, "-m ^.text:&text_start" will write start address of
+text section info "text_start" variable.
+
+=head2 FILE OFFSET
+
+If the first character of I<SRC> is '%', it will be converted to
+file offset associated with the specified symbol or address.
+
+For instance, '-p %_start' will print file offset associated with the
+symbol "_start".
+
+=head2 SYMBOL
+
+Otherwise, the parameter will be considered as symbol name, it will be
+converted to value of symbol.
+
+For instance, "-p text_start" will print value of "text_start" variable.
+
+This format can't be specified to I<DST> parameter for B<-m>.
+
+If '*' is preceding symbol, I<elfdatamod> will try to dereference.
+For instance, "-p *data1" will read data of "data1" variable, and then
+read data at value of "data1" variable.
+Note that '-m' option never allows dereference.
+
+=head2 ACCESS SIZE
+
+I<SIZE> parameter specifies access size.
+If omitted, word (4 bytes) access will be chosen.
+
+=over 4
+
+=item B<b>
+
+Byte (1 byte) access
+
+=item B<h>
+
+Halfword (2 bytes) access
+
+=item B<w>
+
+Word (4 bytes) access
+
+=item B<d>
+
+Doubleword (8 bytes) access
+
+=back
+
+If host endianess differs from ELF file endianess, the input or output data
+will be byte-swapped.
+
+For instance, "-p 0x12400/b" read 1 byte from virtual address 0x12400 and
+print it. "-m src_value:&dst_value/d" read 8 bytes from "src_value" variable,
+and write as value of "dst_value" variable.
+
+=head1 NOTES
+
+=over 3
+
+=item -
+
+If both B<-p> and B<-m> are specified, all B<-p> options will be processed
+prior to B<-m>.
+
+=item -
+
+If an error occurs, I<elfdatamod> will be aborted immediately without
+any recovery.
+
+=back

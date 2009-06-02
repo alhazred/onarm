@@ -1,0 +1,83 @@
+# -*- Mode: perl; -*-
+
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2007-2009 NEC Corporation
+# All rights reserved.
+#
+
+##
+## makeopt: Configure Makefile macros according to tunable parameters.
+##
+## This file will be parsed as perl code.
+##
+
+# Kernel statistics framework
+if (eval_option(KSTAT_DISABLE)) {
+	make_option("CORE_OBJS += kstat_fr_stubs.o");
+} else {
+	make_option("CORE_OBJS += kstat_fr.o");
+}
+
+# Page retire mechanism
+if (eval_option(PAGE_RETIRE_DISABLE)) {
+	make_option("CORE_OBJS += page_retire_stubs.o");
+} else {
+	make_option("CORE_OBJS += page_retire.o");
+}
+
+# Brand
+if (!eval_option(BRAND_DISABLE)) {
+	make_option("CORE_OBJS += brand.o");
+}
+
+# CMT scheduler support
+if (!eval_option(CMT_SCHED_DISABLE)) {
+	make_option("CORE_OBJS += bitset.o");
+	make_option("CORE_OBJS += cmt.o");
+	make_option("CORE_OBJS += group.o");
+	make_option("CORE_OBJS += pg.o");
+	make_option("CORE_OBJS += pghw.o");
+}
+
+# Locality group
+if (eval_option(LGROUP_SINGLE)) {
+	make_option("CORE_OBJS += lgrp_single.o");
+} else {
+	make_option("CORE_OBJS += lgrp.o");
+	make_option("CORE_OBJS += lgrp_topo.o");
+	make_option("CORE_OBJS += lgrpplat.o");
+}
+
+# Link xramfs device configuration if XRAMDEV_CONFIG is true.
+if (eval_option(XRAMDEV_CONFIG)) {
+	make_option("CORE_OBJS	+= xramdev_conf.o");
+}
+
+# Watchdog Timer (WDT)
+if (eval_option(WDT_ENABLE)) {
+	make_option("CORE_OBJS += wdt.o");
+}
+
+# Never remove this line, and never put any character after this line.
+1;

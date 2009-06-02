@@ -1,0 +1,177 @@
+#!/sbin/sh
+#
+# CDDL HEADER START
+#
+# The contents of this file are subject to the terms of the
+# Common Development and Distribution License (the "License").
+# You may not use this file except in compliance with the License.
+#
+# You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
+# or http://www.opensolaris.org/os/licensing.
+# See the License for the specific language governing permissions
+# and limitations under the License.
+#
+# When distributing Covered Code, include this CDDL HEADER in each
+# file and include the License file at usr/src/OPENSOLARIS.LICENSE.
+# If applicable, add the following below this CDDL HEADER, with the
+# fields enclosed by brackets "[]" replaced with your own identifying
+# information: Portions Copyright [yyyy] [name of copyright owner]
+#
+# CDDL HEADER END
+#
+
+#
+# Copyright (c) 2008 NEC Corporation
+# All rights reserved.
+#
+
+PATH=/sbin:$PATH
+
+USRVAR="mountfsusrvar"
+DATA="mountfsdata"
+VFSTAB="/etc/vfstab"
+
+#
+# Read from /etc/vfstab
+#
+# /etc/vfstab
+# device to mount : devmnt
+# device to fsck  : devfsck
+# mount point     : mntpoint
+# FS type         : FStype
+# fsck pass       : fsckps
+# mount at boot   : mntboot
+# mount options   : mntopt
+#
+rdvfstab()
+{
+	while read devmnt devfsck mntpoint FStype fsckps mntboot mntopt
+	do
+		case "$devmnt" in
+		''|'#'*|'-' ) continue
+			;;
+		esac
+		if [ "fs$mntpoint" = "fs$1" ]
+		then
+			break
+		fi
+	done
+}
+
+#
+# Check and mount the file system
+#
+mountfs()
+{
+	rdvfstab $1 < $VFSTAB
+	if [ "fs$mntpoint" != "fs$1" ]
+	then
+		return 1
+	fi
+
+	# When UFS is used, it is necessary to copy "/usr/lib/fs/ufs/fsck" to
+	# "/etc/fs/ufs/fsck".
+	# "/var/run" doesn't execute fsck for UFS because it is set not to
+	# execute fsck in "/etc/vfstab".
+	if [ $devfsck != "-" ] && [ $fsckps -gt 0 ]
+	then
+		if [ ! -x /etc/fs/ufs/fsck ]
+		then
+			echo "ERROR: /etc/fs/ufs/fsck is not found" >& 2
+			return 2
+		fi
+
+		err=0
+		/etc/fs/ufs/fsck -m $devfsck > /dev/null 2>&1
+		case $? in
+		32|36)	# 32 fsck -m: unmounted, needs checking
+			# 36 uncorrectable errors detected - terminate normally
+			cmd="/etc/fs/ufs/fsck -y $devfsck"
+			$cmd > /dev/null 2>&1
+			err=$?
+			;;
+		39)	# 39 uncorrectable errors detected - terminate rightaway
+			cmd="/etc/fs/ufs/fsck -y -o b=32 $devfsck"
+			$cmd > /dev/null 2>&1
+			err=$?
+			;;
+		esac
+		if [ $err -ne 0 ]
+		then
+			echo "ERROR: $cmd failed" >& 2
+			return 2
+		fi
+	fi
+
+	cmd="mount -F $FStype $devmnt $mntpoint"
+	$cmd > /dev/null 2>&1
+	if [ $? -ne 0 ]
+	then
+		echo "ERROR: $cmd failed" >& 2
+		return 3
+	fi
+	return 0
+}
+
+#
+# Deliver portions of path names
+#
+bname()
+{
+	pathname="fs$1"
+	SAVEIFS=$IFS
+	IFS="/"
+	for cnt in $pathname
+	do
+		fname=$cnt
+	done
+	IFS=$SAVEIFS
+}
+
+case "$1" in
+'start')
+	bname $0
+	case "$fname" in
+	S*$USRVAR)
+		mountfs /usr
+		if [ $? -gt 1 ]
+		then
+			exit 1
+		fi
+		mountfs /var
+		if [ $? -gt 1 ]
+		then
+			exit 1
+		fi
+		mountfs /var/run
+		;;
+	S*$DATA)
+		mountfs /data
+		if [ $? -gt 1 ]
+		then
+			exit 1
+		fi
+		;;
+	esac
+	;;
+
+'stop')
+	bname $0
+	case "$fname" in
+	K*$DATA)
+		umount /data > /dev/null 2>&1
+		;;
+	K*$USRVAR)
+		umount /var/run > /dev/null 2>&1
+		umount /var > /dev/null 2>&1
+		umount /usr > /dev/null 2>&1
+		;;
+	esac
+	;;
+
+*)
+	echo "Usage: $0 { start | stop }"
+	exit 1
+	;;
+esac
+exit 0
