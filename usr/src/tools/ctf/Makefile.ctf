@@ -41,7 +41,7 @@ HDRDIRS= \
 	-_gcc=-nostdinc \
 	-I../../common \
 	-I$(SRC) \
-	-I/usr/include \
+	-I$(ROOT)/usr/include \
 	-I$(SRC)/uts/common
 
 CPPFLAGS += $(HDRDIRS)
