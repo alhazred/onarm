@@ -34,7 +34,7 @@
  *   http_copy_decode() - Copy and decode a URI.
  */
 
-#pragma ident	"@(#)http-support.c	1.1	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Include necessary headers...

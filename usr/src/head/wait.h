@@ -26,7 +26,7 @@
 #ifndef _WAIT_H
 #define	_WAIT_H
 
-#pragma ident	"@(#)wait.h	1.9	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 #include <sys/types.h>
 #include <sys/siginfo.h>

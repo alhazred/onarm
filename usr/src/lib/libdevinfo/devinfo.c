@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)devinfo.c	1.37	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Interfaces for getting device configuration data from kernel

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tst.uid.d	1.1	06/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ASSERTION:

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nscd_seqnum.c	1.2	06/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "nscd_db.h"
 

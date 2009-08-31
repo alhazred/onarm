@@ -6,7 +6,7 @@
 #ifndef _KPROP_H
 #define	_KPROP_H
 
-#pragma ident	"@(#)kprop.h	1.4	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

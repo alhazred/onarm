@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)vni.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "vni_impl.h"
 #include <sys/conf.h>
@@ -87,7 +87,7 @@ DDI_DEFINE_STREAM_OPS(vni_ops, nulldev, nulldev, vniattach, \
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"Virtual network interface 1.2",
+	"Virtual network interface %I%",
 	&vni_ops,
 };
 

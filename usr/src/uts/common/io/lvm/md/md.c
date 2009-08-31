@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)md.c	2.51	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Md - is the meta-disk driver.   It sits below the UFS file system

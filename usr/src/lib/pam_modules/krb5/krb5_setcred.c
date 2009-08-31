@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)krb5_setcred.c	1.16	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libintl.h>
 #include <security/pam_appl.h>

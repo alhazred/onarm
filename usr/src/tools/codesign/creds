@@ -21,7 +21,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)creds	1.1	07/03/11 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # The following is a list of regular expressions that are matched against
 # the (temporary) signature on a crypto module created during the build

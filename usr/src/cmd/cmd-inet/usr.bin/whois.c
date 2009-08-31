@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)whois.c	1.12	05/09/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/socket.h>

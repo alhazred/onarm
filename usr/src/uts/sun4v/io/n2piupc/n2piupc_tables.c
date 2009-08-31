@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)n2piupc_tables.c	1.1	06/12/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Tables to drive the N2 PIU performance counter driver.

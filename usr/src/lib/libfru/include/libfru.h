@@ -27,7 +27,7 @@
 #ifndef	_LIBFRU_H
 #define	_LIBFRU_H
 
-#pragma ident	"@(#)libfru.h	1.6	05/12/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

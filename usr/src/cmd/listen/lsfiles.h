@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)lsfiles.h	1.4	05/06/08 SMI"	/* SVr4.0 1.3	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 
 /*
  *	lsfiles.h:	listener files stuff

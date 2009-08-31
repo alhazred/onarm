@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smq.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * smq.c: to provide a message queue system for scadm functions (used in the

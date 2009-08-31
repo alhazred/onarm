@@ -23,7 +23,7 @@
     CDDL HEADER END
 -->
 <!-- SCCS keyword
-#pragma ident	"@(#)ati-graph.gml	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 -->
 <!-- ArborText graphic entity set. Typical invocation:
      <!ENTITY % ATIgrph PUBLIC

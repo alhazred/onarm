@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)consadm.c	1.6	05/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "utils.h"
 #include <locale.h>

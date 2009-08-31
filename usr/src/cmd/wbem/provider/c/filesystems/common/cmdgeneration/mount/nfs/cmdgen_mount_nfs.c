@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cmdgen_mount_nfs.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "cmdgen_include.h"
 #include "nfs_keys.h"

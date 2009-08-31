@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sdpddi.c	1.2	07/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -75,7 +75,7 @@
  */
 
 #define	SDP_NAME	"sdp"
-#define	SDP_DEVDESC	"SDP STREAMS driver 1.2"
+#define	SDP_DEVDESC	"SDP STREAMS driver %I%"
 #define	SDP_DEVMINOR	0
 
 static dev_info_t *sdp_dev_info;

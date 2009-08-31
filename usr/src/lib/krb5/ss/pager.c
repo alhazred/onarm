@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pager.c	1.4	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Pager: Routines to create a "more" running out of a particular file

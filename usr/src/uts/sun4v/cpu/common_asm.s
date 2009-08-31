@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-# ident	"@(#)common_asm.s	1.13	07/10/25 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint)
 #include "assym.h"

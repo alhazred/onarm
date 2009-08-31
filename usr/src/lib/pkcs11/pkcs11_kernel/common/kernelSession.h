@@ -26,7 +26,7 @@
 #ifndef _KERNELSESSION_H
 #define	_KERNELSESSION_H
 
-#pragma ident	"@(#)kernelSession.h	1.13	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

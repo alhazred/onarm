@@ -37,7 +37,7 @@
  */
 
 
-#pragma ident	"@(#)quota_ufs.c	2.57	07/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines used in checking limits on file system usage.

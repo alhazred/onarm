@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)sysclass.c	1.48	07/02/23 SMI"	/* from SVr4.0 1.12 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVr4.0 1.12 */
 
 #include <sys/types.h>
 #include <sys/param.h>

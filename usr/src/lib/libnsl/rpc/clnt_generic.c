@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)clnt_generic.c	1.54	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include "rpc_mt.h"

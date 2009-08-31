@@ -105,4 +105,4 @@ rresvport_af(int *alport, sa_family_t af)
 
 #endif /* HAVE_RRESVPORT_AF */
 
-#pragma ident	"@(#)rresvport.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

@@ -29,7 +29,7 @@
 #ifndef	_ESC_COMMON_IO_H
 #define	_ESC_COMMON_IO_H
 
-#pragma ident	"@(#)io.h	1.3	06/03/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

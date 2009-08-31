@@ -24,7 +24,7 @@
 #ifndef _SYS_ZIO_CHECKSUM_H
 #define	_SYS_ZIO_CHECKSUM_H
 
-#pragma ident	"@(#)zio_checksum.h	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Signature for checksum functions.

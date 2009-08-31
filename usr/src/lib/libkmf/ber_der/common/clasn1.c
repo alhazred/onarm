@@ -6,7 +6,7 @@
  * Copyright (c) 1995-1999 Intel Corporation. All rights reserved.
  */
 
-#pragma ident	"@(#)clasn1.c	1.5	07/10/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <strings.h>
 #include <kmftypes.h>

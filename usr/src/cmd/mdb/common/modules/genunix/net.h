@@ -26,7 +26,7 @@
 #ifndef	_NET_H
 #define	_NET_H
 
-#pragma ident	"@(#)net.h	1.5	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

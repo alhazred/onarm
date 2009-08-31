@@ -27,7 +27,7 @@
  * FPGA specific definitions
  */
 
-#pragma ident	"@(#)fpga_defs.h	1.3	07/03/15 SMI"	/* fpga_defs.h */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* fpga_defs.h */
 
 #ifndef __CHELSIO_FPGA_DEFS_H__
 #define __CHELSIO_FPGA_DEFS_H__

@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-%#pragma ident	"@(#)db_item_c.x	1.7	05/10/11 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 %
 % /* A 'counted' string. */

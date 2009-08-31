@@ -28,7 +28,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)__flt_decim.c	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Short cut for conversion from double precision to decimal

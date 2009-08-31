@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)llib-lsmbfs	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 /*PROTOLIB1*/

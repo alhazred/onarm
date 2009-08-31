@@ -61,7 +61,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)eng_cnf.c	1.3	06/02/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "eng_int.h"
 #include <openssl/conf.h>

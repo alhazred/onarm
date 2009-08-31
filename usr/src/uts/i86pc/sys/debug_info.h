@@ -26,7 +26,7 @@
 #ifndef _SYS_DEBUG_INFO_H
 #define	_SYS_DEBUG_INFO_H
 
-#pragma ident	"@(#)debug_info.h	1.2	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

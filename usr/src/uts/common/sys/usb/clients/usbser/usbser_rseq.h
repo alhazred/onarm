@@ -27,7 +27,7 @@
 #ifndef _SYS_USB_USBSER_USBSER_RSEQ_H
 #define	_SYS_USB_USBSER_USBSER_RSEQ_H
 
-#pragma ident	"@(#)usbser_rseq.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Reversible sequence (rseq) is a data-driven mechanism to execute several

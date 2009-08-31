@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)px_err.c	1.27	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sun4u Fire Error Handling

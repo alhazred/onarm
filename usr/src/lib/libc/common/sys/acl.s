@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)acl.s	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"acl.s"
+	.file	"%M%"
 
 /* C library -- acl						*/
 /* int acl(const char *path, int cmd, int cnt, struct aclent *buf)	*/

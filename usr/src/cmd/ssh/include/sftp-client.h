@@ -19,7 +19,7 @@
 
 /* $OpenBSD: sftp-client.h,v 1.14 2005/04/26 12:59:02 jmc Exp $ */
 
-#pragma ident	"@(#)sftp-client.h	1.5	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

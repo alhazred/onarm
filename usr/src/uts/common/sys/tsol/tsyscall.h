@@ -26,7 +26,7 @@
 #ifndef	_SYS_TSOL_TSYSCALL_H
 #define	_SYS_TSOL_TSYSCALL_H
 
-#pragma ident	"@(#)tsyscall.h	1.1	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

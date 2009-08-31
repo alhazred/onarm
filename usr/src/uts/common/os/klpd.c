@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)klpd.c	1.1	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/atomic.h>
 #include <sys/door.h>

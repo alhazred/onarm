@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cachemgr.c	1.18	07/11/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Simple doors ldap cache daemon

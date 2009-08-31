@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)svr_principal.c	1.11	08/01/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING 

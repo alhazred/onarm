@@ -29,7 +29,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)logname.c	1.10	05/09/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <unistd.h>
 #include <libintl.h>

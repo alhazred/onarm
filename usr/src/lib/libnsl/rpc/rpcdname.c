@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)rpcdname.c	1.20	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rpcdname.c

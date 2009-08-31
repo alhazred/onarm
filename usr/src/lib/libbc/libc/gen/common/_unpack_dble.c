@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_unpack_dble.c	1.4	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "base_conversion.h"
 

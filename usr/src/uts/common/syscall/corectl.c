@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)corectl.c	1.10	06/06/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/proc.h>
 #include <sys/systm.h>

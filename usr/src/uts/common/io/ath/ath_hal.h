@@ -40,7 +40,7 @@
 #ifndef _ATH_HAL_H
 #define	_ATH_HAL_H
 
-#pragma ident	"@(#)ath_hal.h	1.2	06/11/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ath_hal.h is released by Atheros and used to describe the Atheros

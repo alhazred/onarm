@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)sm_statd.c	1.55	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sm_statd.c consists of routines used for the intermediate

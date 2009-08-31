@@ -39,7 +39,7 @@
 #ifndef	_VM_ANON_H
 #define	_VM_ANON_H
 
-#pragma ident	"@(#)anon.h	1.94	07/10/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cred.h>
 #include <sys/zone.h>

@@ -1,4 +1,4 @@
-#pragma ident	"@(#)free_krbhs.c	1.3	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/os/free_krbhs.c
  *

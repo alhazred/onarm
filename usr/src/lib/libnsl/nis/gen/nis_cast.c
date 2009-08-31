@@ -37,7 +37,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)nis_cast.c	1.43	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * nis_cast: multicast to a specific group of hosts.

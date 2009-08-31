@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)plgrp.c	1.1	06/09/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The plgrp utility allows a user to display and modify the home lgroup and

@@ -31,7 +31,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)pid.c	1.56	07/12/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

@@ -1,4 +1,4 @@
-#pragma ident	"@(#)copy_ccache.c	1.3	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "gssapiP_krb5.h"
 

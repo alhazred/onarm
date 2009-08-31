@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dup.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"dup.s"
+	.file	"%M%"
 
 /* C library -- dup						*/
 /* int dup(int fildes)						*/

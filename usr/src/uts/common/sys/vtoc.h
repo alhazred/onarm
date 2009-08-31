@@ -32,7 +32,7 @@
 #ifndef _SYS_VTOC_H
 #define	_SYS_VTOC_H
 
-#pragma ident	"@(#)vtoc.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dklabel.h>
 

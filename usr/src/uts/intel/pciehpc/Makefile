@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.4	07/01/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the kernel/misc/pciehpc module
 #	for PCI-E hotplug controller support in PCI-E nexus drivers.

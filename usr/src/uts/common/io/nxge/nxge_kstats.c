@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nxge_kstats.c	1.7	08/02/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/nxge/nxge_impl.h>
 #include <inet/mi.h>

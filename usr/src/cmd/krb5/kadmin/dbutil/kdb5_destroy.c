@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kdb5_destroy.c	1.9	07/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING

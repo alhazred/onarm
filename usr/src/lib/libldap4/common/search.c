@@ -5,7 +5,7 @@
  *
  */
 
-#pragma ident	"@(#)search.c	1.9	01/04/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  Copyright (c) 1990 Regents of the University of Michigan.

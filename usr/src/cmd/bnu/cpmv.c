@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)cpmv.c	1.11	05/06/08 SMI"	/* from SVR4 bnu:cpmv.c	2.13 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:cpmv.c	2.13 */
 
 #include "uucp.h"
 

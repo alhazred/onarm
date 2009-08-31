@@ -27,7 +27,7 @@
 #ifndef	_INET_IP_LISTUTILS_H
 #define	_INET_IP_LISTUTILS_H
 
-#pragma ident	"@(#)ip_listutils.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

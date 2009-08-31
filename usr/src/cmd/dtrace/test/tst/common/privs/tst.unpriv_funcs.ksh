@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)tst.unpriv_funcs.ksh	1.1	06/10/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Affirmative test of less privileged user operation.  We do so by running

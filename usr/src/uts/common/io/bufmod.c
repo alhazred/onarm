@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)bufmod.c	1.36	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * STREAMS Buffering module

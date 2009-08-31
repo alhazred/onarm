@@ -7,7 +7,7 @@
 # All rights reserved.  The Berkeley Software License Agreement
 # specifies the terms and conditions for redistribution.
 #
-#ident	"@(#)which.csh	1.10	05/06/12 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #       which : tells you which program you get
 #

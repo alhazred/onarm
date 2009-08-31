@@ -26,7 +26,7 @@
 #ifndef	_MANIFEST_HASH_H
 #define	_MANIFEST_HASH_H
 
-#pragma ident	"@(#)manifest_hash.h	1.6	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <libscf.h>

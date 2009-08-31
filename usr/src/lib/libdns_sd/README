@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)README	1.1	07/08/13 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 Multicast DNS and Service Discovery support in Solaris using the

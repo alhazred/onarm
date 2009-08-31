@@ -26,7 +26,7 @@
 #ifndef	_NDPD_DEFS_H
 #define	_NDPD_DEFS_H
 
-#pragma ident	"@(#)defs.h	1.13	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

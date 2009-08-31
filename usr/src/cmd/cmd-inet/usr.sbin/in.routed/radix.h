@@ -41,7 +41,7 @@
 #ifndef ROUTED_RADIX_H
 #define	ROUTED_RADIX_H
 
-#pragma ident	"@(#)radix.h	2.1	02/02/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

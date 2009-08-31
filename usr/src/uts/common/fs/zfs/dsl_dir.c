@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)dsl_dir.c	1.23	08/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dmu.h>
 #include <sys/dmu_objset.h>

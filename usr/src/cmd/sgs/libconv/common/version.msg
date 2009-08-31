@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)version.msg	1.5	07/07/22 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Message file for cmd/sgs/libconv/common/versions.c
 

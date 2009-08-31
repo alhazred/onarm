@@ -33,7 +33,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)nis_misc.c	1.36	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * nis_misc.c

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nismatch.c	1.18	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * nismatch.c

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)main.c	1.34	06/03/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * This file contains the main entry point of the program and other
  * routines relating to the general flow.

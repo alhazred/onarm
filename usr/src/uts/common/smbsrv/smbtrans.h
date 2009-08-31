@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_SMBTRANS_H
 #define	_SMBSRV_SMBTRANS_H
 
-#pragma ident	"@(#)smbtrans.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 

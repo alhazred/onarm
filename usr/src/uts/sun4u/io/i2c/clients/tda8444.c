@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tda8444.c	1.7	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>
 #include <sys/file.h>
@@ -94,7 +94,7 @@ static struct dev_ops tda8444_ops = {
 
 static struct modldrv tda8444_modldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"tda8444 device driver v1.7",
+	"tda8444 device driver v%I%",
 	&tda8444_ops,
 };
 

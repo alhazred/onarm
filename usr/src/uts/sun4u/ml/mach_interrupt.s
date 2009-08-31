@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mach_interrupt.s	1.129	07/11/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(lint)
 #include <sys/types.h>

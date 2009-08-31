@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)rpc_generic.c	1.44	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Miscl routines for RPC.

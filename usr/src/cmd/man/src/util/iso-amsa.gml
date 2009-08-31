@@ -1,5 +1,5 @@
 <!-- SCCS keyword
-#pragma ident	"@(#)iso-amsa.gml	1.4	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 -->
 <!-- (C) International Organization for Standardization 1986
      Permission to copy in any form is granted for use with

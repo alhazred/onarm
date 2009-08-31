@@ -3,7 +3,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)a_md5decrypt.c	1.4	99/10/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  md5crypt - MD5 based authentication routines

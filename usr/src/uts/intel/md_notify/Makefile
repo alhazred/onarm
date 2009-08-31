@@ -24,7 +24,7 @@
 # Copyright (c) 1999, 2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the lvm notify module
 #

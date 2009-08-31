@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)delete_sec_context.c	1.7	07/08/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 1993 by OpenVision Technologies, Inc.

@@ -30,7 +30,7 @@
 #ifndef _DIS_TABLES_H
 #define	_DIS_TABLES_H
 
-#pragma ident	"@(#)dis_tables.h	1.10	07/07/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Constants and prototypes for the IA32 disassembler backend.  See dis_tables.c

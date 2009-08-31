@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)net-svc	1.48	07/06/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # This is third phase of TCP/IP startup/configuration.  This script

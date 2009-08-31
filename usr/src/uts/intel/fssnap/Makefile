@@ -24,7 +24,7 @@
 #
 #	intel architecture dependent
 #
-#ident	"@(#)Makefile	1.6	06/11/02 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	Path to the base of the uts directory tree (usually /usr/src/uts).

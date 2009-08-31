@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)clnt_privs.c	1.2	02/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING 

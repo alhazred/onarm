@@ -23,7 +23,7 @@
 # Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.35	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Makefile to support tools used for linker development.  GEXECS are those
 # tools that the installed for distribution in the SUNWonld package.

@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)mon.c	1.22	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Environment variable PROFDIR added such that:

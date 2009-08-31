@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)analyze.c	1.24	07/11/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains routines to analyze the surface of a disk.

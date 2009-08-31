@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ioctl.c	1.7	07/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <assert.h>
 #include <fcntl.h>

@@ -27,7 +27,7 @@
 #ifndef	_ZONE_H
 #define	_ZONE_H
 
-#pragma ident	"@(#)zone.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

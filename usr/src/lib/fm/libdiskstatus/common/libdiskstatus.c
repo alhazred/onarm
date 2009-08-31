@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)libdiskstatus.c	1.1	07/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Disk status library

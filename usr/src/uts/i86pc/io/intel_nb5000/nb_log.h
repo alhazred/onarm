@@ -27,7 +27,7 @@
 #ifndef _NB_LOG_H
 #define	_NB_LOG_H
 
-#pragma ident	"@(#)nb_log.h	1.2	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

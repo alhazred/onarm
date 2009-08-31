@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)metarename.c	2.10	06/03/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rename or exchange metadevice identity

@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Parser.java	1.5	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2001,2003 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
  */
 
-//  SCCS Status:      @(#)Parser.java	1.5	06/08/05
+//  SCCS Status:      %W%	%G%
 //  Parser.java:      LDAP Parser for those service stores that need it.
 //  Author:           James Kempf
 //  Created On:       Mon Apr 27 08:11:08 1998
@@ -46,7 +46,7 @@ import java.io.*;
  * It is an internal class because it must know about the internal
  * structure of the hashtables.
  *
- * @version 1.5 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 
@@ -72,7 +72,7 @@ abstract class Parser extends Object {
     /**
      * Record for returning stuff to the service store.
      *
-     * @version 1.5 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 
@@ -91,7 +91,7 @@ abstract class Parser extends Object {
      * ServiceStore implemenations that want to use the Parser
      * class to perform query parsing must provide this.
      *
-     * @version 1.5 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 

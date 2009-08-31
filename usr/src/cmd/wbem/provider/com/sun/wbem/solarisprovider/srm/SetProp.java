@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SetProp.java	1.2	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -37,7 +37,7 @@ import javax.wbem.cim.*;
  * This is the base class for set property classes. Each
  * derived class can format a string into one CIM data format.
  * @author Sun Microsystems
- * @version 1.2 06/08/05
+ * @version %I% %G%
  */
 abstract class SetProp implements PropertyAccessInterface {
 

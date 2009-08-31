@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#ident	"@(#)float.s	1.30	06/03/13 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 #include <sys/trap.h>

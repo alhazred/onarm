@@ -27,7 +27,7 @@
 #ifndef _SYS_UNIX_BB_INFO_H
 #define	_SYS_UNIX_BB_INFO_H
 
-#pragma ident	"@(#)unix_bb_info.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

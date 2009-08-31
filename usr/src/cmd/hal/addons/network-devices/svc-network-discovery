@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 
 #
-# ident	"@(#)svc-network-discovery	1.1	07/10/23 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 . /lib/svc/share/smf_include.sh
 

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gptwo_pci.c	1.14	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Schizo/PCI Functions to the Safari Configurator
@@ -88,7 +88,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops, /* Type of module */
-	"gptwo->pci configurator 1.14",
+	"gptwo->pci configurator %I%",
 };
 
 static struct modlinkage modlinkage = {

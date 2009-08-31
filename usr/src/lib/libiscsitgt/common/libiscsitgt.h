@@ -27,7 +27,7 @@
 #ifndef _LIBISCSITGT_H
 #define	_LIBISCSITGT_H
 
-#pragma ident	"@(#)libiscsitgt.h	1.2	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Management API for the iSCSI Target.

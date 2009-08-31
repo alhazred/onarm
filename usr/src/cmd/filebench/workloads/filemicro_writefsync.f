@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)filemicro_writefsync.f	1.1	07/10/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #  3- open() and allocation of a 1GB file with write()
 #     of size picked uniformly in [1K,8K] range and issuing

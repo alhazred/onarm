@@ -27,7 +27,7 @@
 #ifndef	_SYS_DADA_IMPL_IDENTIFY_H
 #define	_SYS_DADA_IMPL_IDENTIFY_H
 
-#pragma ident	"@(#)identify.h	1.10	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

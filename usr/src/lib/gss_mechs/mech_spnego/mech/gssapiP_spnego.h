@@ -26,7 +26,7 @@
 #ifndef	_GSSAPIP_SPNEGO_H_
 #define	_GSSAPIP_SPNEGO_H_
 
-#pragma ident	"@(#)gssapiP_spnego.h	1.7	07/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nxge_zcp.c	1.6	07/09/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <nxge_impl.h>
 #include <nxge_zcp.h>

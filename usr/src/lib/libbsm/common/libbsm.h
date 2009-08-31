@@ -26,7 +26,7 @@
 #ifndef _BSM_LIBBSM_H
 #define	_BSM_LIBBSM_H
 
-#pragma ident	"@(#)libbsm.h	1.48	08/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <secdb.h>
 #include <stdio.h>

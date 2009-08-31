@@ -31,7 +31,7 @@
 #ifndef _ISO_STDARG_C99_H
 #define	_ISO_STDARG_C99_H
 
-#pragma ident	"@(#)stdarg_c99.h	1.4	05/06/08 SMI" /* SVr4.0 1.8 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* SVr4.0 1.8 */
 
 /*
  * An application should not include this header directly.  Instead it

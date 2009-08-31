@@ -23,7 +23,7 @@
  * Copyright 2000, 2003 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)sf880drd.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sunddi.h>

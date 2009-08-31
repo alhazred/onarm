@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)process.c	1.12	07/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

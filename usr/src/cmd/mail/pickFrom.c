@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)pickFrom.c	1.6	05/06/08 SMI" 	/* SVr4.0 2.	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 2.	*/
 #include "mail.h"
 /*
  * pickFrom (line) - scans line, ASSUMED TO BE of the form

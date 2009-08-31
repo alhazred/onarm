@@ -3,7 +3,7 @@
  * All rights reserved. Use is subject to license terms.
  */
 
-#pragma ident	"@(#)i2c_svc.c	1.5	06/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -20,7 +20,7 @@ kmutex_t i2c_svc_mutex;
 
 static struct modldrv i2c_modldrv = {
 	&mod_miscops,		/* type of module - misc */
-	"I2C module ver 1.5",
+	"I2C module ver %I%",
 	NULL,
 };
 

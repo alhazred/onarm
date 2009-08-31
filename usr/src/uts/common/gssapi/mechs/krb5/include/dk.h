@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)dk.h	1.4	04/02/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (C) 1998 by the FundsXpress, INC.

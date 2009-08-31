@@ -13,7 +13,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)wait.h	1.7	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file holds definitions relevant to the wait system call.

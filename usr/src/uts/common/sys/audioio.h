@@ -26,7 +26,7 @@
 #ifndef	_SYS_AUDIOIO_H
 #define	_SYS_AUDIOIO_H
 
-#pragma ident	"@(#)audioio.h	1.32	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/types32.h>

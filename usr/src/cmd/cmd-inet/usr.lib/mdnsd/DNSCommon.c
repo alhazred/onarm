@@ -350,7 +350,7 @@ Revision 1.1  2003/12/13 03:05:27  ksekar
 
  */
 
-#pragma ident	"@(#)DNSCommon.c	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 // Set mDNS_InstantiateInlines to tell mDNSEmbeddedAPI.h to instantiate inline functions, if necessary
 #define mDNS_InstantiateInlines 1

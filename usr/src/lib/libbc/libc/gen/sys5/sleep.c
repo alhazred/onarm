@@ -9,7 +9,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)sleep.c	1.9	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/time.h>
 #include <signal.h>

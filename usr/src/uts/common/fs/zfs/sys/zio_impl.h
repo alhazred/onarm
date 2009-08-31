@@ -26,7 +26,7 @@
 #ifndef _ZIO_IMPL_H
 #define	_ZIO_IMPL_H
 
-#pragma ident	"@(#)zio_impl.h	1.6	07/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zfs_context.h>
 #include <sys/zio.h>

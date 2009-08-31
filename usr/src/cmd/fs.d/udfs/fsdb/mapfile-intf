@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)mapfile-intf	1.1	07/08/23 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # fsdb uses the -e option of lex, which generates additional lex interfaces

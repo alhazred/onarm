@@ -23,7 +23,7 @@
 # uts/sun4u/darwin/Makefile.darwin
 # Copyright (c) 1999 by Sun Microsystems, Inc.
 #
-#ident	"@(#)Makefile.darwin	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	Global definitions for sun4u implementation specific modules.
 #

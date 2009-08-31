@@ -30,7 +30,7 @@
 /*       Copyright (c) 1987, 1988 Microsoft Corporation			*/
 /*         All Rights Reserved						*/
 
-#pragma ident	"@(#)copy.s	1.47	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errno.h>
 #include <sys/asm_linkage.h>

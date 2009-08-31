@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)crypto.c	1.49	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The ioctl interface for cryptographic commands.

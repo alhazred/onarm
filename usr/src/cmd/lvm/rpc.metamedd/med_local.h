@@ -28,7 +28,7 @@
 #ifndef	_MED_LOCAL_H
 #define	_MED_LOCAL_H
 
-#pragma ident	"@(#)med_local.h	2.3	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

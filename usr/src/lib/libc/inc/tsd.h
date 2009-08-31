@@ -27,7 +27,7 @@
 #ifndef	_LIBC_INC_TSD_H
 #define	_LIBC_INC_TSD_H
 
-#pragma ident	"@(#)tsd.h	1.7	06/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

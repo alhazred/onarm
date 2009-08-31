@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma	ident	"@(#)decimal_bin.c	1.4	05/06/08 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Conversion between binary and decimal floating point. */
 

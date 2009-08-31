@@ -9,7 +9,7 @@
  * been made.
  */
 
-#pragma ident	"@(#)blowfish.c	1.3	05/07/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* $OpenBSD: blowfish.c,v 1.16 2002/02/19 19:39:36 millert Exp $ */
 /*

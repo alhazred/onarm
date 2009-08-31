@@ -27,7 +27,7 @@
 #ifndef	_SYS_DADA_IMPL_UDCD_H
 #define	_SYS_DADA_IMPL_UDCD_H
 
-#pragma ident	"@(#)udcd.h	1.13	05/10/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

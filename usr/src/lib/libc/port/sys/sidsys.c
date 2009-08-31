@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sidsys.c	1.1	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * UID/SID mapping system call entries.

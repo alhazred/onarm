@@ -27,7 +27,7 @@
 #ifndef _VGEN_STATS_H
 #define	_VGEN_STATS_H
 
-#pragma ident	"@(#)vgen_stats.h	1.2	08/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

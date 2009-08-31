@@ -19,7 +19,7 @@
 
 /*	$OpenBSD: misc.h,v 1.12 2002/03/19 10:49:35 markus Exp $	*/
 
-#pragma ident	"@(#)misc.h	1.11	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)meta_init.c	2.14	06/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * initialize metadevices

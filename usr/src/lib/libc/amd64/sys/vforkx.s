@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)vforkx.s	1.6	06/11/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"vforkx.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

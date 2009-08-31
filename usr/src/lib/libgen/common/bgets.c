@@ -27,7 +27,7 @@
 /*	Copyright (c) 1988 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)bgets.c	1.19	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Read no more than <count> characters into <buf> from stream <fp>,

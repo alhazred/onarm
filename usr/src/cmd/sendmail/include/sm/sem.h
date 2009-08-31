@@ -9,7 +9,7 @@
  *	$Id: sem.h,v 1.9 2005/02/17 22:08:58 ca Exp $
  */
 
-#pragma ident	"@(#)sem.h	1.1	05/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef SM_SEM_H
 # define SM_SEM_H 1

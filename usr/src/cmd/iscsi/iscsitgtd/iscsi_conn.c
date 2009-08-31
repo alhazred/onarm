@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)iscsi_conn.c	1.9	07/07/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <signal.h>
 #include <pthread.h>

@@ -27,7 +27,7 @@
 #ifndef _CNEX_H
 #define	_CNEX_H
 
-#pragma ident	"@(#)cnex.h	1.3	07/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

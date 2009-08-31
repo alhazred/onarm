@@ -40,7 +40,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)vfs.c	1.168	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/t_lock.h>

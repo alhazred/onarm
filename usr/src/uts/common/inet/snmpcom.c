@@ -24,7 +24,7 @@
  */
 /* Copyright (c) 1990 Mentat Inc. */
 
-#pragma ident	"@(#)snmpcom.c	1.24	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains common code for handling Options Management requests

@@ -25,7 +25,7 @@
 # 
 
 #
-#ident	"@(#)capacity.notes.txt	1.4	06/03/28 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 Dan Mick, 2/16/1999

@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)setjmp.c	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/setjmp.h>

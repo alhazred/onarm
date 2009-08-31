@@ -40,7 +40,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)mount.c	1.88	06/03/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * mount

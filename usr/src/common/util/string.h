@@ -27,7 +27,7 @@
 #ifndef	_COMMON_UTIL_STRING_H
 #define	_COMMON_UTIL_STRING_H
 
-#pragma ident	"@(#)string.h	1.2	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

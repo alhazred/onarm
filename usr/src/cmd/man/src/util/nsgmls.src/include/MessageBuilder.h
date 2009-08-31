@@ -1,6 +1,6 @@
 // Copyright (c) 1994 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)MessageBuilder.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef MessageBuilder_INCLUDED
 #define MessageBuilder_INCLUDED 1

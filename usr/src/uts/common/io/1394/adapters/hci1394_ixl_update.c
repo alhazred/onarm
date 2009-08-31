@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)hci1394_ixl_update.c	1.6	06/06/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * hci1394_ixl_update.c

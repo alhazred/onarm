@@ -40,7 +40,7 @@
 #ifndef	_SM_STATD_H
 #define	_SM_STATD_H
 
-#pragma ident	"@(#)sm_statd.h	1.39	05/06/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

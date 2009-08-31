@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)log.c	1.18	07/12/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * log.c - debugging and logging functions

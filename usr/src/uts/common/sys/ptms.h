@@ -29,7 +29,7 @@
 #ifndef _SYS_PTMS_H
 #define	_SYS_PTMS_H
 
-#pragma ident	"@(#)ptms.h	1.21	07/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

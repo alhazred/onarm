@@ -27,7 +27,7 @@
 #ifndef	_SYS_NDIFM_H
 #define	_SYS_NDIFM_H
 
-#pragma ident	"@(#)ndifm.h	1.5	06/11/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

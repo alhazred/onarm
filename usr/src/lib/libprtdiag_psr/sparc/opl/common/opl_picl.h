@@ -31,7 +31,7 @@
 #ifndef	_OPL_PICL_H
 #define	_OPL_PICL_H
 
-#pragma ident	"@(#)opl_picl.h	1.1	07/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

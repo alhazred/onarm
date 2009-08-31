@@ -27,7 +27,7 @@
 /*      Copyright (c) 1984 AT&T */
 /*        All Rights Reserved   */
 
-#pragma ident	"@(#)limits.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*	from S5R2 1.1	*/
 
 #ifndef	__sys_limits_h

@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)zone.c	1.56	08/02/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Zones

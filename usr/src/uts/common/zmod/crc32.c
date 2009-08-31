@@ -14,7 +14,7 @@
  * factor of two increase in speed on a Power PC G4 (PPC7455) using gcc -O3.
  */
 
-#pragma ident	"@(#)crc32.c	1.1	07/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
   Note on the use of DYNAMIC_CRC_TABLE: there is no mutex or semaphore

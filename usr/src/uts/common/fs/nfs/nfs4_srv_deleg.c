@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nfs4_srv_deleg.c	1.24	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/systm.h>
 #include <rpc/auth.h>

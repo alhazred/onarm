@@ -25,7 +25,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)req.flg	1.7	07/05/14 SMI" 
+#ident	"%Z%%M%	%I%	%E% SMI" 
 
 echo_file usr/src/ucbcmd/Makefile.ucbcmd
 echo_file usr/src/ucbcmd/Makefile.ucbcmd.64

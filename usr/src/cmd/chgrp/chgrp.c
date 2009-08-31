@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)chgrp.c	1.25	06/07/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * chgrp [-fhR] gid file ...

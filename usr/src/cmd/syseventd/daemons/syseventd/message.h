@@ -27,7 +27,7 @@
 #ifndef	_MESSAGE_H
 #define	_MESSAGE_H
 
-#pragma ident	"@(#)message.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

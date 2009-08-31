@@ -26,7 +26,7 @@
 #ifndef _KDI_IMPL_H
 #define	_KDI_IMPL_H
 
-#pragma ident	"@(#)kdi_impl.h	1.6	07/07/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/kdi.h>
 #include <sys/kdi_machimpl.h>

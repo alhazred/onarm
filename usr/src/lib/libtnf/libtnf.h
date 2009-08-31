@@ -28,7 +28,7 @@
 #ifndef _LIBTNF_H
 #define	_LIBTNF_H
 
-#pragma ident	"@(#)libtnf.h	1.22	05/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

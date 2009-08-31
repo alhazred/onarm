@@ -35,7 +35,7 @@
 #ifndef _ARPA_NAMESER_H
 #define	_ARPA_NAMESER_H
 
-#pragma ident	"@(#)nameser.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 

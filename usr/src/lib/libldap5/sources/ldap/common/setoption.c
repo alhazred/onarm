@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)setoption.c	1.7	03/10/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The contents of this file are subject to the Netscape Public

@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)postio.h	1.10	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 /*
  *
  * Definitions used by the program that sends jobs to PostScript printers.

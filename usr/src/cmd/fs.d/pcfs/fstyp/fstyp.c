@@ -31,7 +31,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)fstyp.c	1.12	06/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * libfstyp module for pcfs

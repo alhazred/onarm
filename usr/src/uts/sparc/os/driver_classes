@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)driver_classes	1.36	07/12/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 esp	scsi
 isp	scsi

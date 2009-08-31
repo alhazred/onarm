@@ -38,7 +38,7 @@
 #ifndef	_SYS_QUEUE_H
 #define	_SYS_QUEUE_H
 
-#pragma ident	"@(#)queue.h	1.1	06/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 

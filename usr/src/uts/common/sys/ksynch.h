@@ -30,7 +30,7 @@
 #ifndef _SYS_KSYNCH_H
 #define	_SYS_KSYNCH_H
 
-#pragma ident	"@(#)ksynch.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The presence of this file is specified by the DKI/DDI.

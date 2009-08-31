@@ -29,7 +29,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)errstrtok.c	6.7	05/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	This is exactly strtok(3C).

@@ -9,7 +9,7 @@
  *
  **************************************************************************/
 
-#pragma ident	"@(#)probe-volume.c	1.6	08/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef HAVE_CONFIG_H
 #  include <config.h>

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)download.c	1.4	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * download.c: support to the scadm download option (download service

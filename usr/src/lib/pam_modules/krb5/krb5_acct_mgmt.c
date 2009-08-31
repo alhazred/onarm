@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)krb5_acct_mgmt.c	1.16	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <kadm5/admin.h>

@@ -26,7 +26,7 @@
  *
  * Taken from the on81 usr/src/lib/libbsm/common/audit_login.c
  */
-#pragma ident	"@(#)bsmaudit.c	1.12	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "includes.h"
 

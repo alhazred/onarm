@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cpucaps.c	1.3	07/08/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/disp.h>
 #include <sys/param.h>

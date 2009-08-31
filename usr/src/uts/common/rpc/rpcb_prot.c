@@ -37,7 +37,7 @@
  * XDR routines for the rpcbinder version 3.
  */
 
-#pragma ident	"@(#)rpcb_prot.c	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint) && defined(SCCSIDS)
 static char sccsid[] = "@(#)rpcb_prot.c 1.9 89/04/21 Copyr 1984 Sun Micro";

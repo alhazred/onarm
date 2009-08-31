@@ -28,7 +28,7 @@
 
 /* IntelVersion: 1.61 v2007-12-10_dragonlake5 */
 
-#pragma ident	"@(#)igb_82575.c	1.2	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * e1000_82575

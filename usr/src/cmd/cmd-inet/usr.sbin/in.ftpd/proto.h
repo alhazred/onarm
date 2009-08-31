@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)proto.h	1.8	04/12/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /****************************************************************************    
   Copyright (c) 1999,2000 WU-FTPD Development Group.  

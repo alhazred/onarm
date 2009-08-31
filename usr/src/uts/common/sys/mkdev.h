@@ -30,7 +30,7 @@
 #ifndef _SYS_MKDEV_H
 #define	_SYS_MKDEV_H
 
-#pragma ident	"@(#)mkdev.h	1.19	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

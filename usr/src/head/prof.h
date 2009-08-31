@@ -35,7 +35,7 @@
 #ifndef	_PROF_H
 #define	_PROF_H
 
-#pragma ident	"@(#)prof.h	1.13	05/06/08 SMI"	/* SVr4.0 1.10.1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.10.1.4 */
 
 #ifdef	__cplusplus
 extern "C" {

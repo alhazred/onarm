@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)etypes.c	1.6	07/05/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (C) 1998 by the FundsXpress, INC.

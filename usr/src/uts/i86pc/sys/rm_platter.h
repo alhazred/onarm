@@ -26,7 +26,7 @@
 #ifndef	_SYS_RM_PLATTER_H
 #define	_SYS_RM_PLATTER_H
 
-#pragma ident	"@(#)rm_platter.h	1.17	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/tss.h>

@@ -41,7 +41,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: serverloop.c,v 1.104 2002/09/19 16:03:15 stevesk Exp $");
 
-#pragma ident	"@(#)serverloop.c	1.10	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "xmalloc.h"
 #include "packet.h"

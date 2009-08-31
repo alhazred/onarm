@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)symintOpen.c	6.9	07/02/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <fcntl.h>

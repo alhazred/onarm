@@ -22,7 +22,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)csrcrlop.c	1.5	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <link.h>

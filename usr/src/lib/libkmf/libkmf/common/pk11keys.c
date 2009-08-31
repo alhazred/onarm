@@ -6,7 +6,7 @@
  * Copyright (c) 1995-2000 Intel Corporation. All rights reserved.
  */
 
-#pragma ident	"@(#)pk11keys.c	1.5	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kmfapiP.h>
 #include <sha1.h>

@@ -26,7 +26,7 @@
 #ifndef _SYS_PX_LIB4U_H
 #define	_SYS_PX_LIB4U_H
 
-#pragma ident	"@(#)px_lib4u.h	1.23	07/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

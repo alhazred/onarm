@@ -53,7 +53,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)irpmarshall.c	1.3	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(LIBC_SCCS) && !defined(lint)
 static const char rcsid[] = "$Id: irpmarshall.c,v 8.7 2001/05/29 05:49:01 marka Exp $";

@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-	ident	"@(#)inetd.xml	1.9	07/07/30 SMI"
+	ident	"%Z%%M%	%I%	%E% SMI"
 
 	NOTE:  This service manifest is not editable; its contents will
 	be overwritten by package or patch operations, including

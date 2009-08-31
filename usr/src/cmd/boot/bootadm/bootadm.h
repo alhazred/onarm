@@ -26,7 +26,7 @@
 #ifndef _BOOTADM_H
 #define	_BOOTADM_H
 
-#pragma ident	"@(#)bootadm.h	1.3	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
 # Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)validate_paths.pl	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # Given either a list of files containing paths on the command line or
 # a set of paths on standard input, validate that the paths actually

@@ -26,7 +26,7 @@
 #ifndef	_PKGINFO_H
 #define	_PKGINFO_H
 
-#pragma ident	"@(#)pkginfo.h	1.11	05/06/08 SMI"	/* SVr4.0 1.5.1.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5.1.2 */
 
 #ifdef	__cplusplus
 extern "C" {

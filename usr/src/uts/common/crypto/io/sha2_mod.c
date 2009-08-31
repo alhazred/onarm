@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)sha2_mod.c	1.4	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/modctl.h>
 #include <sys/cmn_err.h>

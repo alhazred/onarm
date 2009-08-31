@@ -61,7 +61,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)v3_utl.c	1.4	06/02/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* X509 v3 extension utilities */
 

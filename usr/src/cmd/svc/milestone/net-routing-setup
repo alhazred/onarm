@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)net-routing-setup	1.7	07/06/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # This script configures IP routing.
 

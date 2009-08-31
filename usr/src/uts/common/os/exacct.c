@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)exacct.c	1.21	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/exacct.h>
 #include <sys/exacct_catalog.h>

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nvpair_alloc_fixed.c	1.3	06/10/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stropts.h>
 #include <sys/isa_defs.h>

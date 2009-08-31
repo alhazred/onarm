@@ -31,7 +31,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)dlfcns.c	1.175	08/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Programmatic interface to the run_time linker.

@@ -26,7 +26,7 @@
 #ifndef _SYS_SCSI_ADAPTERS_MPAPI_SCSI_VHCI_H
 #define	_SYS_SCSI_ADAPTERS_MPAPI_SCSI_VHCI_H
 
-#pragma ident	"@(#)mpapi_scsi_vhci.h	1.4	07/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

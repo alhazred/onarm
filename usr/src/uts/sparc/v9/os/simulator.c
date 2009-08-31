@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)simulator.c	1.51	07/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* common code with bug fixes from original version in trap.c */
 

@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nice.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"nice.s"
+	.file	"%M%"
 
 /* C library -- nice						*/
 /* int nice (int incr);						*/

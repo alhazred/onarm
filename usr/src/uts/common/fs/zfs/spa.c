@@ -28,7 +28,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)spa.c	1.50	08/01/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains all the routines used when modifying on-disk SPA state.

@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.48	06/03/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 L_MACHOBJS32 =	machrel.sparc32.o	machsym.sparc32.o

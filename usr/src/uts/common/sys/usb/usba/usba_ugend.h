@@ -25,7 +25,7 @@
 #ifndef _SYS_USBA_UGEND_H
 #define	_SYS_USBA_UGEND_H
 
-#pragma ident	"@(#)usba_ugend.h	1.3	07/11/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * UGEN - USB Generic Driver Support

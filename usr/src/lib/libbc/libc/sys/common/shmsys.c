@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984 AT&T */
 /*	  All Rights Reserved   */
 
-#pragma ident	"@(#)shmsys.c	1.19	06/11/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/syscall.h>
 #include <stdarg.h>

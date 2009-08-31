@@ -22,6 +22,6 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)mapfile	1.1	05/10/12 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 hwcap_1 = asi_blk_init;

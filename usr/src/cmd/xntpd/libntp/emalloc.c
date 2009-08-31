@@ -3,7 +3,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)emalloc.c	1.2	99/08/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * emalloc - return new memory obtained from the system.  Belch if none.

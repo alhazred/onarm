@@ -11,7 +11,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)ipmon.c	1.5	06/07/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef SOLARIS
 #define SOLARIS (defined(__SVR4) || defined(__svr4__)) && defined(sun)

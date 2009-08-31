@@ -28,7 +28,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-# ident	"@(#)Makefile	1.73	07/05/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/sendmail/src/Makefile
 #

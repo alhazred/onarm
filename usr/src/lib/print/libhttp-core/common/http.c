@@ -73,7 +73,7 @@
  *   CDSAWriteFunc()      - Write function for CDSA encryption code.
  */
  
-#pragma ident	"@(#)http.c	1.2	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Include necessary headers...

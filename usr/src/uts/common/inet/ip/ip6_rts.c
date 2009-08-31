@@ -38,7 +38,7 @@
  *	@(#)rtsock.c	8.6 (Berkeley) 2/11/95
  */
 
-#pragma ident	"@(#)ip6_rts.c	1.9	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains routines that processes routing socket requests.

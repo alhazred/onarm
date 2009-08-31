@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)prvnops.c	1.162	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

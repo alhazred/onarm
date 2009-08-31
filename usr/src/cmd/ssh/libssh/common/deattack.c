@@ -20,7 +20,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: deattack.c,v 1.18 2002/03/04 17:27:39 stevesk Exp $");
 
-#pragma ident	"@(#)deattack.c	1.5	06/11/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "deattack.h"
 #include "log.h"

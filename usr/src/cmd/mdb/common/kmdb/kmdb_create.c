@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kmdb_create.c	1.4	06/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_module.h>
 

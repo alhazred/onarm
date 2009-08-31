@@ -18,7 +18,7 @@
  * is provided ``as is'' without express or implied warranty.
  */
 
-#pragma ident	"@(#)etheraddr.c	1.11	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sysmacros.h>

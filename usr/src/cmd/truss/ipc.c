@@ -31,7 +31,7 @@
  * Copyright (c) 2006-2007 NEC Corporation
  */
 
-#pragma ident	"@(#)ipc.c	1.35	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

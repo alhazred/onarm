@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)tst.tailcall.ksh	1.1	07/07/19 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # ASSERTION: Make sure USDT probes work as tail-calls on SPARC.

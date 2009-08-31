@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sbp2_driver.c	1.7	06/05/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * 1394 mass storage SBP-2 driver routines

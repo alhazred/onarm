@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile	1.3	08/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 SUBDIRS =		\
 	disk		\

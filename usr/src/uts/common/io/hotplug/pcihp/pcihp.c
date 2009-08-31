@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)pcihp.c	1.69	07/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * **********************************************************************
@@ -316,7 +316,7 @@ static int	pci_devlink_flags = 0;
 extern struct mod_ops mod_miscops;
 static struct modlmisc modlmisc = {
 	&mod_miscops,
-	"PCI nexus hotplug support v1.69",
+	"PCI nexus hotplug support v%I%",
 };
 
 static struct modlinkage modlinkage = {

@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)ctype_.c	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 	  /* from UCB 4.2 83/07/08 */
 
 #include	<ctype.h>

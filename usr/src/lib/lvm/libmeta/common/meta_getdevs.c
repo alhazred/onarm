@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)meta_getdevs.c	2.15	07/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * get dev_t list

@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIODEBUG_H
 #define	_MULTIMEDIA_AUDIODEBUG_H
 
-#pragma ident	"@(#)AudioDebug.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <audio_types.h>
 #include <Audio.h>

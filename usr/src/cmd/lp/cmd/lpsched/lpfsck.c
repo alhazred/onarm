@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)lpfsck.c	1.19	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "stdarg.h"
 #include "stdlib.h"

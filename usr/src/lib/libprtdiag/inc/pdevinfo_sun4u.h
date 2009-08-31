@@ -27,7 +27,7 @@
 #ifndef	_PDEVINFO_SUN4U_H
 #define	_PDEVINFO_SUN4U_H
 
-#pragma ident	"@(#)pdevinfo_sun4u.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/obpdefs.h>
 #include <sys/fhc.h>

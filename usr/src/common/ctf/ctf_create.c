@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ctf_create.c	1.6	06/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sysmacros.h>
 #include <sys/param.h>

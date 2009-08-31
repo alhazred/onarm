@@ -30,7 +30,7 @@
  * where it will be picked up by gcc, along with crti.o and crtn.o
  */
 
-	.ident	"@(#)crt1.s	1.4	07/05/14 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
 	.file	"crt1.s"
 

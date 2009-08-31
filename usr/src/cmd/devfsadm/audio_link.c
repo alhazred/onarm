@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)audio_link.c	1.12	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <regex.h>
 #include <devfsadm.h>

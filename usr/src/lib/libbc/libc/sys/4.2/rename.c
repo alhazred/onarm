@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rename.c	1.5	06/12/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "chkpath.h"
 #include <sys/syscall.h>

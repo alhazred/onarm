@@ -35,7 +35,7 @@
 #ifndef	_SYS_DLPI_H
 #define	_SYS_DLPI_H
 
-#pragma ident	"@(#)dlpi.h	1.51	08/01/22 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 #include <sys/types.h>
 #include <sys/stream.h>

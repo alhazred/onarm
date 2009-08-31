@@ -25,7 +25,7 @@
 
 /*	Copyright (c) 1989 by Sun Microsystems, Inc.		*/
 
-.ident	"@(#)fpgetsticky.s	1.8	05/06/08 SMI"	/* SVr4.0 1.11	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.11	*/
 
 	.file	"fpgetsticky.s"
 

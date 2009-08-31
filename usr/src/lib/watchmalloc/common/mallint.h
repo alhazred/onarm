@@ -27,7 +27,7 @@
 /*	Copyright (c) 1988 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)mallint.h	1.12	07/03/15 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 #include <stdlib.h>
 #include <unistd.h>

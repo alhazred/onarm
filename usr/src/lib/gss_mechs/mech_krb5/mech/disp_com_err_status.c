@@ -1,4 +1,4 @@
-#pragma ident	"@(#)disp_com_err_status.c	1.6	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 1993 by OpenVision Technologies, Inc.

@@ -165,4 +165,4 @@ err2:	errno = serrno;
 }
 #endif /* !defined(HAVE_REALPATH) || defined(BROKEN_REALPATH) */
 
-#pragma ident	"@(#)realpath.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

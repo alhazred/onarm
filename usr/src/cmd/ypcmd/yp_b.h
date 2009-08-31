@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#ident	"@(#)yp_b.h	1.11	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/types.h>
 #include "netconfig.h"

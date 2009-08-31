@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)i386.il	1.10	07/05/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 	.inline	_curthread, 0
 	movl	%gs:0, %eax

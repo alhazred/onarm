@@ -13,7 +13,7 @@
  *	$Id: mailstats.h,v 8.19 2002/06/27 22:47:22 gshapiro Exp $
  */
 
-#pragma ident	"@(#)mailstats.h	1.17	04/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define STAT_VERSION	4
 #define STAT_MAGIC	0x1B1DE

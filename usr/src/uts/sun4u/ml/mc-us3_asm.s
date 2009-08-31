@@ -26,7 +26,7 @@
  * Assembly code support for Memory Control driver
  */
 
-#pragma ident	"@(#)mc-us3_asm.s	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint)
 #include "assym.h"

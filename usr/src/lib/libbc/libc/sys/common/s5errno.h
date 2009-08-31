@@ -35,7 +35,7 @@
 #ifndef _SYS_ERRNO_H
 #define _SYS_ERRNO_H
 
-#ident	"@(#)s5errno.h	1.5	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Error codes

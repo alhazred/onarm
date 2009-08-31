@@ -27,7 +27,7 @@
 #ifndef _DIMM_ADDR_H
 #define	_DIMM_ADDR_H
 
-#pragma ident	"@(#)dimm_addr.h	1.1	07/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef	_SOBJ_H
 #define	_SOBJ_H
 
-#pragma ident	"@(#)sobj.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

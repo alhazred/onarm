@@ -41,7 +41,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)ttcompat.c	1.57	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Module to intercept old V7 and 4BSD "ioctl" calls.

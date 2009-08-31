@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smb_xlate.c	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <smbsrv/smb_incl.h>
 

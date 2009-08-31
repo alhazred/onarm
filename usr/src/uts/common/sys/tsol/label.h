@@ -26,7 +26,7 @@
 #ifndef	_SYS_TSOL_LABEL_H
 #define	_SYS_TSOL_LABEL_H
 
-#pragma ident	"@(#)label.h	1.3	07/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #ifdef _KERNEL

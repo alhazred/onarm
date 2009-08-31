@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)files.c	1.7	05/06/08 SMI"	/* SVr4.0 1.10	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.10	*/
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "errno.h"

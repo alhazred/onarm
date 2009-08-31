@@ -9,7 +9,7 @@
  *	$Id: map.h,v 8.3 2006/12/19 19:49:51 ca Exp $
  */
 
-#pragma ident	"@(#)map.h	1.1	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _MAP_H
 # define _MAP_H 1

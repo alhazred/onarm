@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tst.br.d	1.1	07/04/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ASSERTION: Trace all instructions in the function 'test' to verify that

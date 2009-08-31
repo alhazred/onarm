@@ -28,7 +28,7 @@
  * and regsub.  The way to time an operation individually is to do something
  * like "timer 1 50 1".
  */
-#pragma ident	"@(#)timer.c	1.2	00/05/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include <stdio.h>
 
 struct try {

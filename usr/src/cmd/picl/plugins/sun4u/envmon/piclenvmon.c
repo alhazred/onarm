@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)piclenvmon.c	1.10	05/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This plugin creates PICL nodes and properties for objects handled through

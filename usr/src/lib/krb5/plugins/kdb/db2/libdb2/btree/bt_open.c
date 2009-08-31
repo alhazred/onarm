@@ -1,4 +1,4 @@
-#pragma ident	"@(#)bt_open.c	1.3	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*-
  * Copyright (c) 1990, 1993, 1994

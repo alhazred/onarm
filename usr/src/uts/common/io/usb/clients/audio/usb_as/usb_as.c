@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)usb_as.c	1.35	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Audio Streams Driver: This driver is responsible for
@@ -255,7 +255,7 @@ static struct dev_ops usb_as_dev_ops = {
 /* Linkage structure for loadable drivers */
 static struct modldrv usb_as_modldrv = {
 	&mod_driverops,			/* drv_modops */
-	"USB Audio Streaming Driver 1.35",	/* drv_linkinfo */
+	"USB Audio Streaming Driver %I%",	/* drv_linkinfo */
 	&usb_as_dev_ops			/* drv_dev_ops */
 };
 

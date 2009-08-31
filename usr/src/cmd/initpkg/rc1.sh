@@ -28,7 +28,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)rc1.sh	1.19	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # "Run Commands" executed when the system is changing to init state 1
 

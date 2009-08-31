@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ramdisk.c	1.21	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Ramdisk device driver.

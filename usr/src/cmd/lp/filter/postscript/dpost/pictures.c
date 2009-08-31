@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)pictures.c	1.8	05/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

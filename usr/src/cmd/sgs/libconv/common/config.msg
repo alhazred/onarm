@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)config.msg	1.9	06/06/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Message file for cmd/sgs/libconv/common/config.c
 

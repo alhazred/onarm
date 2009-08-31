@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-%#pragma ident	"@(#)fmd_rpc_adm.x	1.7	06/01/18 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 %#include <fm/fmd_api.h>
 

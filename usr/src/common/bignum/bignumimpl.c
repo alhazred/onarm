@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bignumimpl.c	1.8	05/12/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	big_div_pos_fast big_div_pos
 

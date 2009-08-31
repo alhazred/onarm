@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ns_nis.c	1.36	06/06/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

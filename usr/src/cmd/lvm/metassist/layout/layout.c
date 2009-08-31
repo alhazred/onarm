@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)layout.c	1.4	05/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <assert.h>
 #include <string.h>

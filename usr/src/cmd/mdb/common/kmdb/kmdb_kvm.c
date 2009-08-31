@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kmdb_kvm.c	1.16	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kmdb/kmdb_kvm.h>
 #include <kmdb/kvm.h>

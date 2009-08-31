@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)bindresvport.c	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * XXX This routine should be changed to use

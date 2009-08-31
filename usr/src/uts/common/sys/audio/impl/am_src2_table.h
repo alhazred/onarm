@@ -29,7 +29,7 @@
 #ifndef	_SYS_AM_SRC2_TABLE_H
 #define	_SYS_AM_SRC2_TABLE_H
 
-#pragma ident	"@(#)am_src2_table.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

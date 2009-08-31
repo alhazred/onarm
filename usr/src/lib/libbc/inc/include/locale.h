@@ -27,7 +27,7 @@
 #ifndef	__locale_h
 #define	__locale_h
 
-#pragma ident	"@(#)locale.h	1.16	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Locale indices.

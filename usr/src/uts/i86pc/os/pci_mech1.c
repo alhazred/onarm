@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pci_mech1.c	1.9	05/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * PCI Mechanism 1 low-level routines

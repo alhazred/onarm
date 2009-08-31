@@ -27,7 +27,7 @@
 #ifndef _OPL_TOPO_H
 #define	_OPL_TOPO_H
 
-#pragma ident	"@(#)opl_topo.h	1.4	07/03/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/topo_hc.h>
 #include <fm/topo_mod.h>

@@ -26,7 +26,7 @@
 #ifndef _SYS_SOCALVAR_H
 #define	_SYS_SOCALVAR_H
 
-#pragma ident	"@(#)socalvar.h	1.16	05/10/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

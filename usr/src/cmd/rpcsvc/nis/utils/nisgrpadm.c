@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nisgrpadm.c	1.20	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * nisgrpadm.c

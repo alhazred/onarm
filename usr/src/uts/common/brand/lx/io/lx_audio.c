@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lx_audio.c	1.3	07/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/audio.h>
 #include <sys/conf.h>

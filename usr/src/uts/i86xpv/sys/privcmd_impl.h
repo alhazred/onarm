@@ -26,7 +26,7 @@
 #ifndef	_SYS_PRIVCMD_IMPL_H
 #define	_SYS_PRIVCMD_IMPL_H
 
-#pragma ident	"@(#)privcmd_impl.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

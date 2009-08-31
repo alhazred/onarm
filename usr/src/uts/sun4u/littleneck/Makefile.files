@@ -24,7 +24,7 @@
 # Copyright (c) 1994, 1995, 1996 - 2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile.files	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This Makefile defines all file modules for the directory
 #	ust/sun4u/littleneck and it's children. These are the source files

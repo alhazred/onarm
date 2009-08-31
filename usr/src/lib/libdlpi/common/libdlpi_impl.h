@@ -26,7 +26,7 @@
 #ifndef	_LIBDLPI_IMPL_H
 #define	_LIBDLPI_IMPL_H
 
-#pragma ident	"@(#)libdlpi_impl.h	1.2	07/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libdlpi.h>
 #include <sys/sysmacros.h>

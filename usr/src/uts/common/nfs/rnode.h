@@ -29,7 +29,7 @@
 #ifndef	_NFS_RNODE_H
 #define	_NFS_RNODE_H
 
-#pragma ident	"@(#)rnode.h	1.106	07/11/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/avl.h>
 #include <sys/list.h>

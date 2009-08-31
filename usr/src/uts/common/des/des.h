@@ -34,7 +34,7 @@
 #ifndef _SYS_DES_H
 #define	_SYS_DES_H
 
-#pragma ident	"@(#)des.h	1.14	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Generic DES driver interface

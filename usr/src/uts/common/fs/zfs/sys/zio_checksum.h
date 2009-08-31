@@ -26,7 +26,7 @@
 #ifndef _SYS_ZIO_CHECKSUM_H
 #define	_SYS_ZIO_CHECKSUM_H
 
-#pragma ident	"@(#)zio_checksum.h	1.2	06/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zio.h>
 

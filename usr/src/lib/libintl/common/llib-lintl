@@ -26,7 +26,7 @@
  * Copyright (c) 1997 by Sun Microsystems, Inc. 
  * All rights reserved. 
  */ 
-#pragma ident	"@(#)llib-lintl	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * usr/src/lib/libintl

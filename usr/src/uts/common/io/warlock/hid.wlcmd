@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)hid.wlcmd	1.11	06/11/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 one hid_state
 

@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.com	1.6	06/03/22 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/librsc/sparc/Makefile.com
 #

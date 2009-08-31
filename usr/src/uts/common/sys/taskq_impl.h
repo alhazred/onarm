@@ -27,7 +27,7 @@
 #ifndef	_SYS_TASKQ_IMPL_H
 #define	_SYS_TASKQ_IMPL_H
 
-#pragma ident	"@(#)taskq_impl.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/taskq.h>
 #include <sys/vmem.h>

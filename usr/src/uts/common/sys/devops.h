@@ -27,7 +27,7 @@
 #ifndef	_SYS_DEVOPS_H
 #define	_SYS_DEVOPS_H
 
-#pragma ident	"@(#)devops.h	1.51	05/06/08 SMI"	/* SVr4.0 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 */
 
 #include <sys/types.h>
 #include <sys/cred.h>

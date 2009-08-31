@@ -3,7 +3,7 @@
 #ifndef	_BUFFER_H
 #define	_BUFFER_H
 
-#pragma ident	"@(#)buffer.h	1.6	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

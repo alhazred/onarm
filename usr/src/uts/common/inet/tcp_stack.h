@@ -27,7 +27,7 @@
 #ifndef	_INET_TCP_STACK_H
 #define	_INET_TCP_STACK_H
 
-#pragma ident	"@(#)tcp_stack.h	1.1	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/netstack.h>
 #include <inet/ip.h>

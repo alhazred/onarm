@@ -27,7 +27,7 @@
 #ifndef	_SYS_IB_IBTL_IBVTI_H
 #define	_SYS_IB_IBTL_IBVTI_H
 
-#pragma ident	"@(#)ibvti.h	1.9	05/06/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ibvti.h

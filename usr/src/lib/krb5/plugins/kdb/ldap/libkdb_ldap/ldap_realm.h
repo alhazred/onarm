@@ -31,7 +31,7 @@
 #ifndef _LDAP_REALM_H
 #define _LDAP_REALM_H 1
 
-#pragma ident	"@(#)ldap_realm.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* realm specific mask */
 #define LDAP_REALM_SUBTREE            0x0001

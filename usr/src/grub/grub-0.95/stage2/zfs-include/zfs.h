@@ -24,7 +24,7 @@
 #ifndef	_SYS_FS_ZFS_H
 #define	_SYS_FS_ZFS_H
 
-#pragma ident	"@(#)zfs.h	1.6	07/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * On-disk version number.

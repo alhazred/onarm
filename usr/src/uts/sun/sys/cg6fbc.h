@@ -26,7 +26,7 @@
 #ifndef _SYS_CG6FBC_H
 #define	_SYS_CG6FBC_H
 
-#pragma ident	"@(#)cg6fbc.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ghd_gcmd.c	1.6	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ghd.h"
 

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cfga_configfile.c	1.7	05/11/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "cfga_usb.h"
 

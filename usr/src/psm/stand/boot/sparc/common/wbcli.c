@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)wbcli.c	1.8	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* EXPORT DELETE START */
 #include <sys/types.h>

@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile	1.1	07/07/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 # NOTE: The name of the xml file we are building is 'platform'
 # specific, but its build is structured as 'arch' specific since

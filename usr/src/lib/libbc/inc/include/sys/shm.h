@@ -30,7 +30,7 @@
 #ifndef _sys_shm_h
 #define	_sys_shm_h
 
-#pragma ident	"@(#)shm.h	1.19	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	IPC Shared Memory Facility.

@@ -27,7 +27,7 @@
 #ifndef	_SYS_ESUNDDI_H
 #define	_SYS_ESUNDDI_H
 
-#pragma ident	"@(#)esunddi.h	1.26	05/10/30 SMI"	/* SVr4.0 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 */
 
 #include <sys/sunddi.h>
 #include <sys/proc.h>

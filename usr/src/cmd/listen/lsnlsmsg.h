@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)lsnlsmsg.h	1.4	05/06/08 SMI"	/* SVr4.0 1.4.1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4.1.1	*/
 
 /*
  * The Network Listener Process Service (NLPS) 

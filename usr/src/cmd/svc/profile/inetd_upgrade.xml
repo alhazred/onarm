@@ -24,7 +24,7 @@
 
  CDDL HEADER END
 
-    ident	"@(#)inetd_upgrade.xml	1.2	05/06/08 SMI"
+    ident	"%Z%%M%	%I%	%E% SMI"
 
     Service profile to enable inetd services following upgrade.
 

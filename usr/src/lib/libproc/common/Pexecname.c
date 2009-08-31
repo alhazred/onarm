@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)Pexecname.c	1.7	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	__EXTENSIONS__
 #include <string.h>

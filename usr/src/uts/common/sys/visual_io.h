@@ -27,7 +27,7 @@
 #ifndef _SYS_VISUAL_IO_H
 #define	_SYS_VISUAL_IO_H
 
-#pragma ident	"@(#)visual_io.h	1.32	06/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

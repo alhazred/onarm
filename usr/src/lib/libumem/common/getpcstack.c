@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getpcstack.c	1.6	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "c_synonyms.h"
 #include "misc.h"

@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)uhci.c	1.59	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Universal Host Controller Driver (UHCI)
@@ -94,7 +94,7 @@ static struct dev_ops uhci_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module. This one is a driver */
-	"USB UHCI Controller Driver 1.59",	/* Name of the module. */
+	"USB UHCI Controller Driver %I%",	/* Name of the module. */
 	&uhci_ops,		/* Driver ops */
 };
 

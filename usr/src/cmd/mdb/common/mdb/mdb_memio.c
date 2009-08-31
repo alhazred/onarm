@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mdb_memio.c	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Memory I/O backend.

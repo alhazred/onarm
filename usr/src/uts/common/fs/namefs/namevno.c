@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)namevno.c	1.84	07/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines the vnode operations for mounted file descriptors.

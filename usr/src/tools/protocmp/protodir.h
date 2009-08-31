@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)protodir.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern int read_in_protodir(const char *, elem_list *, int);
 extern int process_dependencies(const char *pkgname, const char *parentdir,

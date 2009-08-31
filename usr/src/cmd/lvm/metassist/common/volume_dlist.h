@@ -27,7 +27,7 @@
 #ifndef _VOLUME_DLIST_H
 #define	_VOLUME_DLIST_H
 
-#pragma ident	"@(#)volume_dlist.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

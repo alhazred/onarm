@@ -30,7 +30,7 @@
 /*	Copyright (c) 1987, 1988 Microsoft Corporation	*/
 /*	  All Rights Reserved	*/
 
-#pragma ident	"@(#)deflt.c	1.23	06/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak defopen = _defopen
 #pragma weak defread = _defread

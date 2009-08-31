@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)serengeti.c	1.68	08/01/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/time.h>
 #include <sys/cpuvar.h>

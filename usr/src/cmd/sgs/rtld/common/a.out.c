@@ -23,7 +23,7 @@
  * Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)a.out.c	1.80	06/03/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Object file dependent support for a.out format objects.

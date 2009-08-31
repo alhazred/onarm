@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)truncate.c	1.6	06/11/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "chkpath.h"
 #include <sys/syscall.h>

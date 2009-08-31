@@ -27,7 +27,7 @@
 #ifndef _ISCSITGT_IMPL_H
 #define	_ISCSITGT_IMPL_H
 
-#pragma ident	"@(#)iscsitgt_impl.h	1.8	08/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Block comment which describes the contents of this file.

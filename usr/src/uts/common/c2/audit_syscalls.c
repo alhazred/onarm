@@ -32,7 +32,7 @@
  *
  */
 
-#pragma ident	"@(#)audit_syscalls.c	1.85	08/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/systm.h>

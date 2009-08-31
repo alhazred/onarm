@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getnode.c	1.11	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines to handle getipnode* calls in nscd. Note that the

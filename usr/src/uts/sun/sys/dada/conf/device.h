@@ -36,7 +36,7 @@
 #ifndef	_SYS_DCD_CONF_DEVICE_H
 #define	_SYS_DCD_CONF_DEVICE_H
 
-#pragma ident	"@(#)device.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dada/dada_types.h>
 

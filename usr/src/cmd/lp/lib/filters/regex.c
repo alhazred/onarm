@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)regex.c	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 

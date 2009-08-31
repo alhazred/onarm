@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_OHCI_H
 #define	_SYS_USB_OHCI_H
 
-#pragma ident	"@(#)ohci.h	1.19	06/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smediad_err.c	1.5	05/11/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include	<stdio.h>

@@ -2,7 +2,7 @@
  * Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)memcache.c	1.2	04/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The contents of this file are subject to the Netscape Public

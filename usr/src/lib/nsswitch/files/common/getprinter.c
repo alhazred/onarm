@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getprinter.c	1.10	06/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 static const char *printers = "/etc/printers.conf";
 

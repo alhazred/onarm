@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fmd_log.c	1.8	06/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * FMD Log File Subsystem

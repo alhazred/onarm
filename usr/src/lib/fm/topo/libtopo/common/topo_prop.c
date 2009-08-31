@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)topo_prop.c	1.8	08/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <strings.h>
 #include <assert.h>

@@ -13,7 +13,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)basename.c	1.6	05/08/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

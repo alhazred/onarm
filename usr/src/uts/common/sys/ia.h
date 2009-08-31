@@ -31,7 +31,7 @@
 #ifndef _SYS_IA_H
 #define	_SYS_IA_H
 
-#pragma ident	"@(#)ia.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/thread.h>

@@ -26,7 +26,7 @@
 #ifndef	_SYS_SYSEVENT_DEV_H
 #define	_SYS_SYSEVENT_DEV_H
 
-#pragma ident	"@(#)dev.h	1.3	06/07/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sysevent/eventdefs.h>
 

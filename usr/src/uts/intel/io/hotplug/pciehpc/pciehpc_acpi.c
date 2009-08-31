@@ -24,7 +24,7 @@
  *  Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pciehpc_acpi.c	1.9	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ACPI interface related functions used in PCIEHPC driver module.

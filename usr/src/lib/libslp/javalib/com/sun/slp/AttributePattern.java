@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)AttributePattern.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -49,7 +49,7 @@ import java.io.*;
  * string pattern. A PatternPart may be lacking the
  * any of these, but will always have at least one. 
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 
@@ -65,7 +65,7 @@ class AttributePattern extends AttributeString {
      * pattern in the middle. Any of the parts may be missing, but it will 
      * always have at least one. 
      *
-     * @version 1.3 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 

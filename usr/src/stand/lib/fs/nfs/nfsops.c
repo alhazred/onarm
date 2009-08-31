@@ -25,7 +25,7 @@
  * Simple nfs ops - open, close, read, and lseek.
  */
 
-#pragma ident	"@(#)nfsops.c	1.56	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/types.h>
 #include <rpc/auth.h>

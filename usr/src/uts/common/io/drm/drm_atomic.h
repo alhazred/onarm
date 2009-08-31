@@ -40,7 +40,7 @@
 #ifndef	_SYS_DRM_ATOMIC_H_
 #define	_SYS_DRM_ATOMIC_H_
 
-#pragma ident	"@(#)drm_atomic.h	1.2	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

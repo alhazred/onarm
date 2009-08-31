@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)fssnap_if.c	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains interface definitions and wrappers for file

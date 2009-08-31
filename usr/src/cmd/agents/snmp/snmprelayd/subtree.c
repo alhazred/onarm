@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)subtree.c	1.14	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * HISTORY

@@ -33,7 +33,7 @@
 #ifndef _SYS_TIUSER_H
 #define	_SYS_TIUSER_H
 
-#pragma ident	"@(#)tiuser.h	1.30	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 /*

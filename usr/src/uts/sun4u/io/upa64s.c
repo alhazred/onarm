@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)upa64s.c	1.14	06/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -131,7 +131,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops, 		/* type of module */
-	"UPA64S nexus driver 1.14",	/* name of module */
+	"UPA64S nexus driver %I%",	/* name of module */
 	&upa64s_ops,			/* driver ops */
 };
 

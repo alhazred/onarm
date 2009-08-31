@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)etm.c	1.5	06/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * FMA Event Transport Module

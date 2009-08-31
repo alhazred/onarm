@@ -27,7 +27,7 @@
 #ifndef	_SYS_RMC_COMM_H
 #define	_SYS_RMC_COMM_H
 
-#pragma ident	"@(#)rmc_comm.h	1.5	07/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

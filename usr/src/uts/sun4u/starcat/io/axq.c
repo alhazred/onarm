@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)axq.c	1.16	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/types.h>
@@ -127,7 +127,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"AXQ driver v1.16",	/* name of module */
+	"AXQ driver v%I%",	/* name of module */
 	&axq_ops,		/* driver ops */
 };
 

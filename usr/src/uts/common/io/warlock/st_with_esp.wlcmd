@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)st_with_esp.wlcmd	1.13	07/11/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 add scsi_watch_request::swr_callback targets \
 	st.c:st_media_watch_cb

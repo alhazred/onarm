@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)hat_refmod.c	1.38	06/11/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The following routines implement the hat layer's

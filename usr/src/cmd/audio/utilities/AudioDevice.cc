@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)AudioDevice.cc	1.5	05/12/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <errno.h>
 #include <string.h>

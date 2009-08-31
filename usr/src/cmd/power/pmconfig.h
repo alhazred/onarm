@@ -26,7 +26,7 @@
 #ifndef _PMCONFIG_H
 #define	_PMCONFIG_H
 
-#pragma ident	"@(#)pmconfig.h	1.6	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

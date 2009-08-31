@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)todds1337.c	1.9	07/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -136,7 +136,7 @@ static struct dev_ops ds1337_ops = {
 
 static struct modldrv todds1337_modldrv = {
 	&mod_driverops,		/* Type of module. This one is a driver */
-	"tod driver for DS1337 1.9",   /* Name of the module. */
+	"tod driver for DS1337 %I%",   /* Name of the module. */
 	&ds1337_ops,			/* Pointer to dev_ops */
 };
 

@@ -26,7 +26,7 @@
 #ifndef	_IPC_IMPL_H
 #define	_IPC_IMPL_H
 
-#pragma ident	"@(#)ipc_impl.h	1.10	06/09/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/ipc.h>

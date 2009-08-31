@@ -1,6 +1,6 @@
 #!/usr/bin/ksh
 #
-# ident	"@(#)ftpconfig.sh	1.4	04/03/24 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nis_groups.c	1.32	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * 	nis_groups.c

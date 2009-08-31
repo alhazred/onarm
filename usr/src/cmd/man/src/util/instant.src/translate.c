@@ -3,7 +3,7 @@
  *  All rights reserved.
  */
 /*
-#pragma ident	"@(#)translate.c	1.7	01/05/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
  * Copyright (c) 1994  
  * Open Software Foundation, Inc. 
  *  

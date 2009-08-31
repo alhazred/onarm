@@ -26,7 +26,7 @@
 #ifndef	_KGREP_H
 #define	_KGREP_H
 
-#pragma ident	"@(#)kgrep.h	1.3	06/03/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

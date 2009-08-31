@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)libdlpi.c	1.12	08/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Data-Link Provider Interface (Version 2)

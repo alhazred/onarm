@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)tlabel.c	1.7	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

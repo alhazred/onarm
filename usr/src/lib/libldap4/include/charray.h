@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)charray.h	1.4	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern void charray_add(char ***a, char *s);
 extern void charray_add_uniq(char ***a, char *s);

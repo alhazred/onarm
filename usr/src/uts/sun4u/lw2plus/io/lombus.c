@@ -32,7 +32,7 @@
  * registers signify - only the clients need this information.
  */
 
-#pragma ident	"@(#)lombus.c	1.6	07/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  Header files
@@ -2241,7 +2241,7 @@ static struct dev_ops lombus_dev_ops =
 static struct modldrv modldrv =
 {
 	&mod_driverops,
-	"lombus driver, v1.6",
+	"lombus driver, v%I%",
 	&lombus_dev_ops
 };
 

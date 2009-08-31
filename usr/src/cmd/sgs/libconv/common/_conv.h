@@ -27,7 +27,7 @@
 #ifndef	__CONV_DOT_H
 #define	__CONV_DOT_H
 
-#pragma ident	"@(#)_conv.h	1.13	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Local include file for conversion library.

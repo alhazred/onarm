@@ -23,7 +23,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)fake_shdr.c	1.2	07/11/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Generate a cache of section header information for an ELF

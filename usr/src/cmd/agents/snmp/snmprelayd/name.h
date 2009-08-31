@@ -25,7 +25,7 @@
 #ifndef	_SNMPDX_NAME_H
 #define	_SNMPDX_NAME_H
 
-#pragma ident	"@(#)name.h	1.6	07/08/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	yyact mydbyyact
 #define	yypact mydbyypact

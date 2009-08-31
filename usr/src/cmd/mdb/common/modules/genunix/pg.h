@@ -27,7 +27,7 @@
 #ifndef _MDB_PG_H
 #define	_MDB_PG_H
 
-#pragma ident	"@(#)pg.h	1.1	07/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Block comment that describes the contents of this file.

@@ -26,7 +26,7 @@
 #ifndef	_SCTP_ADDR_H
 #define	_SCTP_ADDR_H
 
-#pragma ident	"@(#)sctp_addr.h	1.10	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/list.h>
 #include <sys/zone.h>

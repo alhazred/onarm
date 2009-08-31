@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)baddof.c	1.3	07/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>
 #include <stdio.h>

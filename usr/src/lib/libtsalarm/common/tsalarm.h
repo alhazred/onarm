@@ -26,7 +26,7 @@
 #ifndef	_TSALARM_H
 #define	_TSALARM_H
 
-#pragma ident	"@(#)tsalarm.h	1.1	07/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

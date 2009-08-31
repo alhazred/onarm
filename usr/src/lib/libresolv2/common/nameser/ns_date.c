@@ -24,7 +24,7 @@
 static const char rcsid[] = "$Id: ns_date.c,v 1.3 2001/05/29 05:49:34 marka Exp $";
 #endif
 
-#pragma ident	"@(#)ns_date.c	1.2	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Import. */
 

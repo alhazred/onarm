@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)des_encrypt.c	1.12	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*LINTLIBRARY*/
 
 #pragma weak des_encrypt1 = _des_encrypt1

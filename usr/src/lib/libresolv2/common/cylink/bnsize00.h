@@ -50,7 +50,7 @@
  * For licensing and other legal details, see the file legal.c.
  */
 
-#pragma ident	"@(#)bnsize00.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "lbn.h"	/* Get basic information */
 

@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)directio.c	1.7	06/01/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "synonyms.h"
 #include <sys/types.h>

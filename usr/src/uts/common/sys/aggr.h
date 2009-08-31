@@ -26,7 +26,7 @@
 #ifndef	_SYS_AGGR_H
 #define	_SYS_AGGR_H
 
-#pragma ident	"@(#)aggr.h	1.5	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/ethernet.h>

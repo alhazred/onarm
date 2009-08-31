@@ -27,7 +27,7 @@
 # Copyright (c) 2007 NEC Corporation
 #
 
-# ident	"@(#)Makefile.com	1.13	06/08/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY=	libcurses.a

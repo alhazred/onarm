@@ -47,7 +47,7 @@
 #ifndef	_ISO_LOCALE_ISO_H
 #define	_ISO_LOCALE_ISO_H
 
-#pragma ident	"@(#)locale_iso.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(_AEABI_PORTABILITY_LEVEL)
 #error "not supported AEABI."

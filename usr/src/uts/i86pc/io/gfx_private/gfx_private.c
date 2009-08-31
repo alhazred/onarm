@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gfx_private.c	1.1	05/11/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Private interfaces for graphics drivers for which there
@@ -43,7 +43,7 @@
 #include "gfx_private.h"
 
 static struct modlmisc modlmisc = {
-	&mod_miscops, "gfx private interfaces 1.1"
+	&mod_miscops, "gfx private interfaces %I%"
 };
 
 static struct modlinkage modlinkage = {

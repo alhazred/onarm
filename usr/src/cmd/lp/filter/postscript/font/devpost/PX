@@ -27,7 +27,7 @@
 # software developed by the University of California, Berkeley, and its
 # contributors.
 #
-#ident	"@(#)PX	1.5	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 # Palatino-BoldItalic
 name PX
 internalname 16

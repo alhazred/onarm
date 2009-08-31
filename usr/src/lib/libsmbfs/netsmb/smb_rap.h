@@ -35,7 +35,7 @@
 #ifndef _NETSMB_SMB_RAP_H_
 #define	_NETSMB_SMB_RAP_H_
 
-#pragma ident	"@(#)smb_rap.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 struct smb_rap {
 	char		*r_sparam;

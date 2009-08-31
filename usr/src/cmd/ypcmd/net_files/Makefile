@@ -28,7 +28,7 @@
 # under license from the Regents of the University of  
 # California.
 #
-# ident	"@(#)Makefile	1.34	07/03/27 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #----
 # It is somewhat confusing to note that Solaris 2.x uses /etc/auto_master

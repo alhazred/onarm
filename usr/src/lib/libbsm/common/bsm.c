@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bsm.c	1.27	08/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/syscall.h>
 #include <sys/types.h>

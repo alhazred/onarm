@@ -31,7 +31,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)analyze.c	1.203	08/03/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	"_synonyms.h"
 

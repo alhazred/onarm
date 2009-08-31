@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)cut.c	1.25	07/05/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 /* cut : cut and paste columns of a table (projection of a relation) */
 /* Release 1.5; handles single backspaces as produced by nroff    */

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)vmem.c	1.25	08/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Big Theory Statement for the virtual memory allocator.

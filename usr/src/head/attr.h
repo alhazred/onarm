@@ -26,7 +26,7 @@
 #ifndef	_ATTR_H
 #define	_ATTR_H
 
-#pragma ident	"@(#)attr.h	1.1	07/10/25 SMI"	/* SVr4.0 1.6.1.7 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6.1.7 */
 
 #include <sys/types.h>
 #include <sys/nvpair.h>

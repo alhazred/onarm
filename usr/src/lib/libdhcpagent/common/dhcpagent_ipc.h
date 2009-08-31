@@ -26,7 +26,7 @@
 #ifndef	_DHCPAGENT_IPC_H
 #define	_DHCPAGENT_IPC_H
 
-#pragma ident	"@(#)dhcpagent_ipc.h	1.18	07/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/socket.h>
 #include <net/if.h>		/* IFNAMSIZ */

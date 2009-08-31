@@ -31,7 +31,7 @@
  * California.
  */
 
-#pragma ident	"@(#)svc_rdma.c	1.8	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Server side of RPC over RDMA in the kernel.

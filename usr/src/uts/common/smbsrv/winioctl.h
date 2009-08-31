@@ -25,7 +25,7 @@
 #ifndef _SMBSRV_WINIOCTL_H
 #define	_SMBSRV_WINIOCTL_H
 
-#pragma ident	"@(#)winioctl.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Standard Windows NT IOCTL/FSCTL definitions (derived from the VC++

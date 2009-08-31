@@ -26,7 +26,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)walkstack.c	1.9	07/04/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file provides a general purpose mechanism

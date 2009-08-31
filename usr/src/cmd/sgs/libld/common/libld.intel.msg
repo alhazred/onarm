@@ -24,7 +24,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)libld.intel.msg	1.8	05/12/21 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 @ _START_

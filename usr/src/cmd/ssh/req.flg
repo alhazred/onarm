@@ -3,7 +3,7 @@
 # Copyright (c) 2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)req.flg	1.1	01/09/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 echo_file usr/src/lib/Makefile.lib
 echo_file usr/src/lib/Makefile.targ

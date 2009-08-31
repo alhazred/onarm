@@ -27,7 +27,7 @@
 #ifndef	_SORT_UTILITY_H
 #define	_SORT_UTILITY_H
 
-#pragma ident	"@(#)utility.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

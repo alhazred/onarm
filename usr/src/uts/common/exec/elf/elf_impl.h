@@ -26,7 +26,7 @@
 #ifndef _ELF_ELF_IMPL_H
 #define	_ELF_ELF_IMPL_H
 
-#pragma ident	"@(#)elf_impl.h	1.11	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

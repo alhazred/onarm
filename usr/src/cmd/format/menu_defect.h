@@ -27,7 +27,7 @@
 #ifndef	_MENU_DEFECT_H
 #define	_MENU_DEFECT_H
 
-#pragma ident	"@(#)menu_defect.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

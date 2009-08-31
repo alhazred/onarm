@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ri_init.c	1.12	06/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Implementation of ri_init routine for obtaining mapping

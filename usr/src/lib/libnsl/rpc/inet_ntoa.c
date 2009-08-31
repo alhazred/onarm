@@ -102,7 +102,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)inet_ntoa.c	1.28	07/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Convert network-format internet address

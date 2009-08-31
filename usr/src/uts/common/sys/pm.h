@@ -26,7 +26,7 @@
 #ifndef	_SYS_PM_H
 #define	_SYS_PM_H
 
-#pragma ident	"@(#)pm.h	1.25	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

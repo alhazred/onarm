@@ -38,7 +38,7 @@
 #ifndef	_NOTE_H
 #define	_NOTE_H
 
-#pragma ident	"@(#)note.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 

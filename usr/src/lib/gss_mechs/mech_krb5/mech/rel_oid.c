@@ -1,4 +1,4 @@
-#pragma ident	"@(#)rel_oid.c	1.4	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lib/gssapi/krb5/rel_oid.c

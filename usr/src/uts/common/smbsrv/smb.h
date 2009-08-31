@@ -30,7 +30,7 @@
  * SMB definitions and interfaces, mostly defined in the CIFS spec.
  */
 
-#pragma ident	"@(#)smb.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SMB definitions and interfaces, mostly defined in the CIFS spec.

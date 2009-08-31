@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fchdir.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"fchdir.s"
+	.file	"%M%"
 
 /* C library -- fchdir						*/
 /* int fchdir(int fildes)					*/

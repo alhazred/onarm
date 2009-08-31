@@ -27,7 +27,7 @@
 #ifndef _KSSLADM_H
 #define	_KSSLADM_H
 
-#pragma ident	"@(#)kssladm.h	1.4	07/11/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Common routines and variables used by kssladm files.

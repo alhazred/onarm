@@ -32,7 +32,7 @@
  * $Id: smb_iod.c,v 1.32 2005/02/12 00:17:09 lindak Exp $
  */
 
-#pragma ident	"@(#)smb_iod.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef DEBUG
 /* See sys/queue.h */

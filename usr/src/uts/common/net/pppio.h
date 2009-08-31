@@ -33,7 +33,7 @@
 #ifndef __PPPIO_H
 #define	__PPPIO_H
 
-#pragma ident	"@(#)pppio.h	1.5	05/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

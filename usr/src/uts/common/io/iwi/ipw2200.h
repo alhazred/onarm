@@ -33,7 +33,7 @@
 #ifndef _SYS_IPW2200_H
 #define	_SYS_IPW2200_H
 
-#pragma ident	"@(#)ipw2200.h	1.2	07/11/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)ndrgen.sh	1.2	07/10/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # This is a wrapper script around the ndrgen compiler (ndrgen1).

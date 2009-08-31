@@ -26,7 +26,7 @@
 #ifndef _SYS_CPR_H
 #define	_SYS_CPR_H
 
-#pragma ident	"@(#)cpr.h	1.90	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

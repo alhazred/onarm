@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dlmgmt_main.c	1.2	08/03/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The dlmgmtd daemon is started by the datalink-management SMF service.

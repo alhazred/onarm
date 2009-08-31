@@ -27,7 +27,7 @@
 #ifndef	_NSCD_DOOR_H
 #define	_NSCD_DOOR_H
 
-#pragma ident	"@(#)nscd_door.h	1.3	07/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Definitions for nscd to nscd door interfaces

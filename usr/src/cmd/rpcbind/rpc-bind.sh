@@ -24,7 +24,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)rpc-bind.sh	1.5	05/08/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # rpcbind method
 #

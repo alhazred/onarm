@@ -25,7 +25,7 @@
 # All rights reserved.
 #
 
-# ident	"@(#)get_depend_info	1.2	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # check for perl5 -- we use things unavailable in perl4

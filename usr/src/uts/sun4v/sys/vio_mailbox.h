@@ -27,7 +27,7 @@
 #ifndef _SYS_VIO_MAILBOX_H
 #define	_SYS_VIO_MAILBOX_H
 
-#pragma ident	"@(#)vio_mailbox.h	1.6	08/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

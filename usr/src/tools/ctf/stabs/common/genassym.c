@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)genassym.c	1.10	06/08/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * In this mode, we generate header files containg various #defines which can

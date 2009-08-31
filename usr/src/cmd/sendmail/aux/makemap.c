@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)makemap.c	1.17	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sm/gen.h>
 

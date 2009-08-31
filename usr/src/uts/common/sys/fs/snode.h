@@ -30,7 +30,7 @@
 #ifndef	_SYS_FS_SNODE_H
 #define	_SYS_FS_SNODE_H
 
-#pragma ident	"@(#)snode.h	1.61	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/t_lock.h>

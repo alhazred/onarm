@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_NETBIOS_H
 #define	_SMBSRV_NETBIOS_H
 
-#pragma ident	"@(#)netbios.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * NetBIOS over TCP/IP interface definitions. NetBIOS over TCP/IP is

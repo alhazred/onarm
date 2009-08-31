@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)topo_method.c	1.5	07/09/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pthread.h>
 #include <assert.h>

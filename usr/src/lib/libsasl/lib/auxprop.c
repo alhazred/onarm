@@ -2,7 +2,7 @@
  * Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)auxprop.c	1.1	03/07/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* auxprop.c - auxilliary property support
  * Rob Siemborski

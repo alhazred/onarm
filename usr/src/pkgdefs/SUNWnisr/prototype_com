@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 
 #
-#ident	"@(#)prototype_com	1.36	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # The 'pkgmk' command uses this file to identify the contents of a package
 #

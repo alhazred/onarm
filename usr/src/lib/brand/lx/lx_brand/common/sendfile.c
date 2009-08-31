@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sendfile.c	1.1	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lx_sendfile() and lx_sendfile64() are just branded versions of the

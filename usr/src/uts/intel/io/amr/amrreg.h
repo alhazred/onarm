@@ -68,7 +68,7 @@
 #ifndef _AMRREG_H
 #define	_AMRREG_H
 
-#pragma ident	"@(#)amrreg.h	1.2	04/06/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

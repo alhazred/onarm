@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_LMSHARE_DOOR_H
 #define	_SMBSRV_LMSHARE_DOOR_H
 
-#pragma ident	"@(#)lmshare_door.h	1.2	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <smbsrv/smbinfo.h>
 #include <smbsrv/smb_common_door.h>

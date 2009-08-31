@@ -26,7 +26,7 @@
 #ifndef _KVM_H
 #define	_KVM_H
 
-#pragma ident	"@(#)kvm.h	1.8	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The kmdb target

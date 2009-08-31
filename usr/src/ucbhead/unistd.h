@@ -40,7 +40,7 @@
 #ifndef _UNISTD_H
 #define	_UNISTD_H
 
-#pragma ident	"@(#)unistd.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/fcntl.h>
 

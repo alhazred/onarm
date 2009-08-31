@@ -61,7 +61,7 @@
  * in this library.  None of these are exposed.
  */
 
-#pragma ident	"@(#)auxutil.c	1.1	03/04/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

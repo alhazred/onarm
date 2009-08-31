@@ -8,7 +8,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)ifparse.c	1.6	08/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Ifparse splits up an ifconfig command line, and was written for use

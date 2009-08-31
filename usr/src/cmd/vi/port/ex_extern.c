@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)ex_extern.c	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * University Copyright- Copyright (c) 1982, 1986, 1988

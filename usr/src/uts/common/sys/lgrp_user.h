@@ -27,7 +27,7 @@
 #ifndef	_LGRP_USER_H
 #define	_LGRP_USER_H
 
-#pragma ident	"@(#)lgrp_user.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * latency group definitions for user

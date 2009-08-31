@@ -9,7 +9,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)load_pool.c	1.3	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fcntl.h>
 #include <sys/ioctl.h>

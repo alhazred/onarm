@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)option.c	1.8	01/08/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

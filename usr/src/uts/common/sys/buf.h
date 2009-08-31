@@ -39,7 +39,7 @@
 #ifndef _SYS_BUF_H
 #define	_SYS_BUF_H
 
-#pragma ident	"@(#)buf.h	1.59	07/10/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types32.h>
 #include <sys/t_lock.h>

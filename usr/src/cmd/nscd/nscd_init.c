@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nscd_init.c	1.4	07/10/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <locale.h>
 #include <unistd.h>

@@ -24,7 +24,7 @@
 
  CDDL HEADER END
 
-	ident	"@(#)ident	"@(#)network.xml	1.2	05/06/08 SMI"
+	ident	"@(#)ident	"%Z%%M%	%I%	%E% SMI"
 -->
 
 <service_bundle type='manifest' name='SUNWcsr:network'>

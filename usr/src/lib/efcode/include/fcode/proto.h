@@ -27,7 +27,7 @@
 #ifndef	_FCODE_PROTO_H
 #define	_FCODE_PROTO_H
 
-#pragma ident	"@(#)proto.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -34,7 +34,7 @@
 #ifndef _SYS_KMEM_H
 #define	_SYS_KMEM_H
 
-#pragma ident	"@(#)kmem.h	1.39	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/vmem.h>

@@ -34,7 +34,7 @@
 #ifndef	_VM_SEG_ENUM_H
 #define	_VM_SEG_ENUM_H
 
-#pragma ident	"@(#)seg_enum.h	1.11	05/10/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

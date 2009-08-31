@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)topo_module.c	1.5	07/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <signal.h>
 #include <dirent.h>

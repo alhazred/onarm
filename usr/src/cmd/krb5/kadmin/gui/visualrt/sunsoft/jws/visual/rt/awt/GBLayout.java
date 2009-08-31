@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)GBLayout.java	1.2	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * @(#)GBLayout.java	1.23 97/09/03 Doug Stein
  *

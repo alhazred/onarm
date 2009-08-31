@@ -31,7 +31,7 @@
 #ifndef	_GETWIDTH_H
 #define	_GETWIDTH_H
 
-#pragma ident	"@(#)getwidth.h	1.7	05/07/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <euc.h>
 

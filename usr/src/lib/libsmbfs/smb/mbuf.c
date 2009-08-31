@@ -32,7 +32,7 @@
  * $Id: mbuf.c,v 1.3 2004/12/13 00:25:22 lindak Exp $
  */
 
-#pragma ident	"@(#)mbuf.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <ctype.h>

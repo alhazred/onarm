@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cachemgr_getldap.c	1.24	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <assert.h>
 #include <errno.h>

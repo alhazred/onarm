@@ -27,7 +27,7 @@
 #ifndef _SYS_USB_MIXER_H
 #define	_SYS_USB_MIXER_H
 
-#pragma ident	"@(#)usb_mixer.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef __cplusplus

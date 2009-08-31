@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)audit_io.c	1.70	08/03/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/door.h>
 #include <sys/param.h>
@@ -537,8 +537,7 @@ au_door_upcall(au_kcontext_t *kctx, au_dbuf_t *aubuf)
 
 		retry = 0;
 		mutex_enter(&(kctx->auk_svc_lock));
-		rc = door_upcall(kctx->auk_current_vp, &darg, NULL);
-		if (rc != 0) {
+		if ((rc = door_upcall(kctx->auk_current_vp, &darg)) != 0) {
 			mutex_exit(&(kctx->auk_svc_lock));
 			if (rc == EAGAIN)
 				ticks_to_wait = AGAIN_TICKS;

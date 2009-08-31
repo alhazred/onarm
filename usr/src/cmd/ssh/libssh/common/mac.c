@@ -29,7 +29,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: mac.c,v 1.5 2002/05/16 22:02:50 markus Exp $");
 
-#pragma ident	"@(#)mac.c	1.5	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <openssl/hmac.h>
 

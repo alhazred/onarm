@@ -27,7 +27,7 @@
 #ifndef	_SYS_FPRAS_H
 #define	_SYS_FPRAS_H
 
-#pragma ident	"@(#)fpras.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

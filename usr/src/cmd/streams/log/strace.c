@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)strace.c	1.12	05/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <fcntl.h>

@@ -30,7 +30,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)in.rarpd.c	1.39	07/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rarpd.c  Reverse-ARP server.

@@ -26,7 +26,7 @@
 #ifndef _SYS_MUTEX_IMPL_H
 #define	_SYS_MUTEX_IMPL_H
 
-#pragma ident	"@(#)mutex_impl.h	1.19	08/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_ASM
 #include <sys/types.h>

@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_CP_UNICODE_H
 #define	_SMBSRV_CP_UNICODE_H
 
-#pragma ident	"@(#)cp_unicode.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <smbsrv/smb_i18n.h>
 

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mdb_fdio.c	1.9	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * File Descriptor I/O Backend

@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)objfs_vfs.c	1.3	07/03/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/atomic.h>
 #include <sys/cmn_err.h>

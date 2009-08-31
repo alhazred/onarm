@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)utilities.c	1.37	05/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "restore.h"
 #include <ctype.h>

@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#ident	"@(#)output.c	1.5	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /*
  * Routing Table Management Daemon

@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)account.c	1.4	05/06/08 SMI"	/* from SVR4 bnu:account.c 1.3 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:account.c 1.3 */
 /*
 */
 

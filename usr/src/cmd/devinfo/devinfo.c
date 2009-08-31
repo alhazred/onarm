@@ -30,7 +30,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)devinfo.c	1.16	06/04/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Two output fields under the -i option will always be

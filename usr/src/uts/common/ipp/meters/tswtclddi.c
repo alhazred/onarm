@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)tswtclddi.c	1.5	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/atomic.h>
@@ -75,7 +75,7 @@ extern struct mod_ops mod_ippops;
  */
 static struct modlipp modlipp = {
 	&mod_ippops,
-	D_SM_COMMENT " 1.5",
+	D_SM_COMMENT " %I%",
 	&tswtcl_ops
 };
 

@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)md5.c	1.1	04/07/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 ** SQLite uses this code for testing only.  It is not a part of

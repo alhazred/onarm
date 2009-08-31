@@ -26,7 +26,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)logins.c	1.20	07/05/23 SMI"	/* SVr4.0 1.15.1.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.15.1.2 */
 
 /*
  * logins.c

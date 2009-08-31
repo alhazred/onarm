@@ -8,7 +8,7 @@
 #ifndef _PRAND_CMD_H_
 #define _PRAND_CMD_H_
 
-#pragma ident	"@(#)prand_conf.h	1.2	01/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 static const char *cmds[] = {
 	"/bin/ps -ef 2>&1",

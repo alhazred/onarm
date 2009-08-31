@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tlx.c	1.7	07/07/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Contains routines that deal with TLI/XTI endpoints and rpc services.

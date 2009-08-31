@@ -27,7 +27,7 @@
 #ifndef _SYS_STABS_H
 #define	_SYS_STABS_H
 
-#pragma ident	"@(#)stabs.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <setjmp.h>

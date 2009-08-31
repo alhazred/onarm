@@ -29,7 +29,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)offscreen.c	1.7	05/09/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<curses.h>
 #include	<term.h>

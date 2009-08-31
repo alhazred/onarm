@@ -9,7 +9,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)dn11.c	1.12	05/09/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines for dialing up on DN-11

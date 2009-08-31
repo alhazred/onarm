@@ -53,7 +53,7 @@
 #ifndef LBN_H
 #define LBN_H
 
-#pragma ident	"@(#)lbn.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef HAVE_CONFIG_H
 #define HAVE_CONFIG_H 0

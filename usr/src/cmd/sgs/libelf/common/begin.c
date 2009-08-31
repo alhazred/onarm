@@ -30,7 +30,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)begin.c	1.17	05/06/08 SMI" 	/* SVr4.0 1.13	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.13	*/
 
 #pragma weak	elf_begin = _elf_begin
 #pragma weak	elf_memory = _elf_memory

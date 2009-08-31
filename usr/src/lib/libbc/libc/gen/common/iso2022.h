@@ -28,9 +28,9 @@
  * ISO2022 generic escape sequence handler for graphical characters
  */
 
-#pragma ident	"@(#)iso2022.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-/* static  char *sccsid = "@(#)iso2022.h	1.4	05/06/08 SMI"; */
+/* static  char *sccsid = "%Z%%M%	%I%	%E% SMI"; */
 
 /*
  * single control characters

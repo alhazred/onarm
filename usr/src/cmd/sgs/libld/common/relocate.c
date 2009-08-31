@@ -31,7 +31,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)relocate.c	1.147	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * set-up for relocations

@@ -3,7 +3,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)machines.c	1.3	99/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* machines.c - provide special support for peculiar architectures
  *

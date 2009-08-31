@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kssladm_create.c	1.6	07/11/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <errno.h>
 #include <sys/sysmacros.h>

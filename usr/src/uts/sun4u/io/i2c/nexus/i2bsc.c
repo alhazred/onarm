@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)i2bsc.c	1.8	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * i2bsc.c is the nexus driver i2c traffic against devices hidden behind the
@@ -156,9 +156,9 @@ static struct dev_ops i2bsc_ops = {
 };
 
 #ifdef DEBUG
-#define	I2BSC_VERSION_STRING "i2bsc driver - Debug v1.8"
+#define	I2BSC_VERSION_STRING "i2bsc driver - Debug v%I%"
 #else
-#define	I2BSC_VERSION_STRING "i2bsc driver v1.8"
+#define	I2BSC_VERSION_STRING "i2bsc driver v%I%"
 #endif
 
 static struct modldrv modldrv = {

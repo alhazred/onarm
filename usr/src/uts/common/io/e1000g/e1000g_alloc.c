@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)e1000g_alloc.c	1.22	07/10/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * **********************************************************************

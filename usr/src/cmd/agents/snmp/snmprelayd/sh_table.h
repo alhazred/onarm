@@ -26,7 +26,7 @@
 #ifndef _SH_TABLE_H_
 #define _SH_TABLE_H_
 
-#pragma ident	"@(#)sh_table.h	1.6	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <unistd.h>
 #include <stdio.h>

@@ -27,7 +27,7 @@
 #ifndef	_SYS_MC_US3I_H
 #define	_SYS_MC_US3I_H
 
-#pragma ident	"@(#)mc-us3i.h	1.4	05/12/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -32,7 +32,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)clone.c	1.57	05/06/08 SMI" /* from S5R4 1.10 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* from S5R4 1.10 */
 
 /*
  * Clone Driver.

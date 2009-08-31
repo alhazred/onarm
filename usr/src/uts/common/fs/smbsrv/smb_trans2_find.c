@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smb_trans2_find.c	1.5	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This module provides functions for TRANS2_FIND_FIRST2 and

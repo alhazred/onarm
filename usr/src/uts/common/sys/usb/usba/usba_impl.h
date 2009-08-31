@@ -30,7 +30,7 @@
 #ifndef	_SYS_USB_USBA_USBA_IMPL_H
 #define	_SYS_USB_USBA_USBA_IMPL_H
 
-#pragma ident	"@(#)usba_impl.h	1.28	06/12/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/usb/usba.h>
 #include <sys/usb/usba/hcdi.h>

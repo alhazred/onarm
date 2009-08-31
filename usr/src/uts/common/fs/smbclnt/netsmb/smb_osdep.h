@@ -1,4 +1,4 @@
-#pragma ident	"@(#)smb_osdep.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Code corresponding to smb_apple.h

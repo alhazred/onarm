@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)preremove	1.13	06/12/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
  
 PATH="/usr/bin:/usr/sbin:${PATH}"

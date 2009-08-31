@@ -27,7 +27,7 @@
 #
 
 #
-# ident	"@(#)Makefile	1.36	08/01/16 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of all implementation architecture
 #	dependent modules for the i86pc architecture.

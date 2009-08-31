@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_pset.s	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_pset.s"
+	.file	"%M%"
 
 #include "SYS.h"
 

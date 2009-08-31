@@ -21,7 +21,7 @@
 # CDDL HEADER END
 #
 #
-#ident	"@(#)uudemon.hour	1.5	05/06/08 SMI"	/* from SVR4 bnu:uudemon.hour 2.2 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:uudemon.hour 2.2 */
 #
 /usr/lib/uucp/uusched &
 /usr/lib/uucp/uuxqt &

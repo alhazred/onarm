@@ -26,7 +26,7 @@
 
 /*
  *	.seg	"data"
- *	.asciz ident	"@(#)alloca.s	1.14	05/06/08 SMI"
+ *	.asciz ident	"%Z%%M%	%I%	%E% SMI"
  */
 !	.seg	"text"
 	

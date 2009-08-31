@@ -28,7 +28,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: kex.c,v 1.51 2002/06/24 14:55:38 markus Exp $");
 
-#pragma ident	"@(#)kex.c	1.9	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <locale.h>
 

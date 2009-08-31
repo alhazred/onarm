@@ -28,7 +28,7 @@
  *	All Rights Reserved
  */
 
-#ident	"@(#)detab.c	1.6	05/06/08 SMI"       /* SVr4.0 1.3 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.3 */
 
 #include <stdio.h>
 #include <sys/types.h>		/* EFT abs k16 */

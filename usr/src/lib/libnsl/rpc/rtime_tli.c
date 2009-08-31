@@ -33,7 +33,7 @@
  * California.
  */
 
-#pragma ident	"@(#)rtime_tli.c	1.19	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * get time from remote machine

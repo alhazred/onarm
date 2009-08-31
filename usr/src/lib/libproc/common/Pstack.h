@@ -27,7 +27,7 @@
 #ifndef	_PSTACK_H
 #define	_PSTACK_H
 
-#pragma ident	"@(#)Pstack.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

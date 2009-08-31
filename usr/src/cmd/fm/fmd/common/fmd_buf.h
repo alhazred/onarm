@@ -28,7 +28,7 @@
 #ifndef	_FMD_BUF_H
 #define	_FMD_BUF_H
 
-#pragma ident	"@(#)fmd_buf.h	1.3	06/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

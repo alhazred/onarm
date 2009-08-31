@@ -22,7 +22,7 @@
 # Copyright 1994, Sun Microsystems, Inc.
 # All rights reserved.
 
-#ident	"@(#)README.common	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 This directory contains the "common" (machine and platform-independent)
 implementations of the promif interfaces for machines compliant with

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dis_i386.c	1.5	07/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libdisasm.h>
 #include <stdlib.h>

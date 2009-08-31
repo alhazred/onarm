@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)speedstep.c	1.5	08/03/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/x86_archext.h>
 #include <sys/machsystm.h>

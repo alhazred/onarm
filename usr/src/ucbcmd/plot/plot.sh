@@ -14,7 +14,7 @@
 # software developed by the University of California, Berkeley, and its
 # contributors.
 
-#ident	"@(#)plot.sh	1.3	05/05/02 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 
 PATH=/bin:/usr/bin:/usr/ucb

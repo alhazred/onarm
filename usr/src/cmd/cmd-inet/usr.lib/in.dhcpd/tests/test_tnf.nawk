@@ -23,7 +23,7 @@
 	#
 	# CDDL HEADER END
 	#
-	#ident	"@(#)test_tnf.nawk	1.2	05/06/08 SMI"
+	#ident	"%Z%%M%	%I%	%E% SMI"
 
 	if (first_time == 0 && ($1 == "probe" || match($1, "---")))
 		next;

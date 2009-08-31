@@ -26,7 +26,7 @@
 #ifndef	_NDPD_H
 #define	_NDPD_H
 
-#pragma ident	"@(#)ndpd.h	1.2	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -32,7 +32,7 @@
 #ifndef _SYS_KD_H
 #define	_SYS_KD_H
 
-#pragma ident	"@(#)kd.h	1.23	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Minimal compatibility support for "kd" ioctls.

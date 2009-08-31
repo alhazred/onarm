@@ -40,7 +40,7 @@
 #ifndef	_VM_RM_H
 #define	_VM_RM_H
 
-#pragma ident	"@(#)rm.h	1.28	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

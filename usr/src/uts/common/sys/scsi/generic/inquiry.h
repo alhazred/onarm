@@ -26,7 +26,7 @@
 #ifndef	_SYS_SCSI_GENERIC_INQUIRY_H
 #define	_SYS_SCSI_GENERIC_INQUIRY_H
 
-#pragma ident	"@(#)inquiry.h	1.25	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

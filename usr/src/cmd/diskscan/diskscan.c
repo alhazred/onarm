@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)diskscan.c	1.11	05/08/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *   diskscan:

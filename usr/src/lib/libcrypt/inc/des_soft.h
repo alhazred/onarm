@@ -27,7 +27,7 @@
 #ifndef _DES_SOFT_H
 #define	_DES_SOFT_H
 
-#pragma ident	"@(#)des_soft.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/des.h>
 

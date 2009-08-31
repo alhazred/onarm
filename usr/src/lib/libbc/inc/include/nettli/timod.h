@@ -21,7 +21,7 @@
  */
 /*	from S5R3 sys/timod.h	10.3.1.1" */
 
-#pragma ident	"@(#)timod.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*	Copyright (c) 1984 AT&T	*/
 /*	  All Rights Reserved  	*/

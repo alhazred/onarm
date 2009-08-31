@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rpc.rexd.c	1.46	05/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <errno.h>
 #include <netdb.h>

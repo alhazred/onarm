@@ -30,7 +30,7 @@
 /*	Copyright (c) 1987, 1988 Microsoft Corporation		*/
 /*		All Rights Reserved				*/
 
-#pragma ident	"@(#)fpu.c	1.51	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

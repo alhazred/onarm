@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)port_before.h	1.8	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef SUNW_OPTIONS
 #include "conf/sunoptions.h"

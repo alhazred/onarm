@@ -26,7 +26,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)du.c	1.43	07/07/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * du -- summarize disk usage

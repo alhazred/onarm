@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)dogethost.c	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1994-2000 by Sun Microsystems, Inc.

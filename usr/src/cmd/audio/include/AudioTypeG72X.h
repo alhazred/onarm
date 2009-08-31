@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIOTYPEG72X_H
 #define	_MULTIMEDIA_AUDIOTYPEG72X_H
 
-#pragma ident	"@(#)AudioTypeG72X.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <AudioTypeConvert.h>
 #include <audio_encode.h>

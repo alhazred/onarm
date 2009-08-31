@@ -27,7 +27,7 @@
 #ifndef	_SYS_PSM_DEFS_H
 #define	_SYS_PSM_DEFS_H
 
-#pragma ident	"@(#)psm_defs.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Platform Specific Module Definitions

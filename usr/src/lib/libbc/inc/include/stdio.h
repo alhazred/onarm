@@ -27,7 +27,7 @@
 #ifndef	__include_stdio_h
 #define	__include_stdio_h
 
-#pragma ident	"@(#)stdio.h	1.22	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	BUFSIZ	1024
 #define _SBFSIZ	8

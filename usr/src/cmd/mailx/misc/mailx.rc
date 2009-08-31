@@ -21,7 +21,7 @@
 # Copyright 2000 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)mailx.rc	1.9	05/06/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # The following 3 settings produce the familiar Solaris behavior.
 set appenddeadletter

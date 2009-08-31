@@ -25,7 +25,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)meta_stat.c	2.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Caching stat function

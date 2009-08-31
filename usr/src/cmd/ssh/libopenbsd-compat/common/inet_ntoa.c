@@ -63,4 +63,4 @@ char *inet_ntoa(struct in_addr in)
 
 #endif /* defined(BROKEN_INET_NTOA) || !defined(HAVE_INET_NTOA) */
 
-#pragma ident	"@(#)inet_ntoa.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

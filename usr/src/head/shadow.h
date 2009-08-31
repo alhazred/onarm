@@ -31,7 +31,7 @@
 #ifndef	_SHADOW_H
 #define	_SHADOW_H
 
-#pragma ident	"@(#)shadow.h	1.20	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 #ifdef	__cplusplus
 extern "C" {

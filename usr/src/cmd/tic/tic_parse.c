@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)tic_parse.c	1.14	05/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  *******************************************************************

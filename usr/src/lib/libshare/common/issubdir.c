@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)issubdir.c	1.8	05/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Subdirectory detection: needed by exportfs and rpc.mountd.

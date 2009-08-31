@@ -39,7 +39,7 @@
 #ifndef _PROTOCOLS_TIMED_H
 #define	_PROTOCOLS_TIMED_H
 
-#pragma ident	"@(#)timed.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
 # Copyright (c) 1989,1997,1999 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)Makefile	1.22	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # uts/common/gssd/Makefile
 #

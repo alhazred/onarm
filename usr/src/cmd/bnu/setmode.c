@@ -9,7 +9,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)setmode.c	1.8	05/10/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Stolen from ucb/lpr/printjob.c

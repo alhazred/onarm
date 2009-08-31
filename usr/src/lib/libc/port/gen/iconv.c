@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)iconv.c	1.22	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak iconv_open = _iconv_open
 #pragma weak iconv_close = _iconv_close

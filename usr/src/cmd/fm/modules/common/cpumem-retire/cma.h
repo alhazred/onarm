@@ -26,7 +26,7 @@
 #ifndef _CMA_H
 #define	_CMA_H
 
-#pragma ident	"@(#)cma.h	1.6	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/fmd_api.h>
 #include <sys/types.h>

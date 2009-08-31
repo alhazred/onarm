@@ -34,7 +34,7 @@
  * This code in this files assumes a single thread of execution
  * for each IscsiAuthClient structure, and does no locking.
  */
-#pragma ident	"@(#)iscsi_authclient.c	1.1	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef _KERNEL
 

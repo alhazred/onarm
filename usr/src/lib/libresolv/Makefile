@@ -27,7 +27,7 @@
 # Copyright (c) 2007 NEC Corporation
 #
 
-# ident	"@(#)Makefile	1.27	06/08/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY= libresolv.a

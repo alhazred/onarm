@@ -26,7 +26,7 @@
 #ifndef	_VM_HAT_PTE_H
 #define	_VM_HAT_PTE_H
 
-#pragma ident	"@(#)hat_pte.h	1.11	07/10/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

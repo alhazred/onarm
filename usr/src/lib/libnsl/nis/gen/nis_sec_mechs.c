@@ -28,7 +28,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)nis_sec_mechs.c	1.11	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This module contains the interfaces for the NIS+ security mechanisms.

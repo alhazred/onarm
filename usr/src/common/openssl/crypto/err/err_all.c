@@ -61,7 +61,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)err_all.c	1.4	06/02/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <openssl/asn1.h>

@@ -25,7 +25,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)sun_solaris_getconf.sh	1.1	07/07/17 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #

@@ -27,7 +27,7 @@
 #ifndef	_DOOR_H
 #define	_DOOR_H
 
-#pragma ident	"@(#)door.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/door.h>

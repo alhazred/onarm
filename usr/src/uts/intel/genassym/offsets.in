@@ -23,7 +23,7 @@
 \ Use is subject to license terms.
 \
 
-#pragma ident	"@(#)offsets.in	1.2	07/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 \
 \ offsets.in: input file to produce the architecture-dependent genassym.h

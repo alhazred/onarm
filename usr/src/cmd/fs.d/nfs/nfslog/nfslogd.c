@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)nfslogd.c	1.71	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Postprocessor for NFS server logging.

@@ -22,7 +22,7 @@
  *	Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
  *	Use is subject to license terms.
  */
-#pragma ident	"@(#)inspect.c	1.13	06/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines to add file and directory entries into the internal configuration

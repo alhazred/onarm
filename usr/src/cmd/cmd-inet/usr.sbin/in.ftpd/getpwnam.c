@@ -1,4 +1,4 @@
-#pragma ident	"@(#)getpwnam.c	1.1	01/06/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Replacement for getpwnam - we need it to handle files other than

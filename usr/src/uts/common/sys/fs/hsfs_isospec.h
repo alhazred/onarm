@@ -30,7 +30,7 @@
 #ifndef	_SYS_FS_HSFS_ISOSPEC_H
 #define	_SYS_FS_HSFS_ISOSPEC_H
 
-#pragma ident	"@(#)hsfs_isospec.h	1.17	06/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ISO 9660 filesystem specification

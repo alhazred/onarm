@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)wrap_size_limit.c	1.6	07/08/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 2000 by the Massachusetts Institute of Technology.

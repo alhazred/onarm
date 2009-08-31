@@ -26,7 +26,7 @@
 #ifndef	_SYS_DLS_IMPL_H
 #define	_SYS_DLS_IMPL_H
 
-#pragma ident	"@(#)dls_impl.h	1.13	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stream.h>
 #include <sys/dls.h>

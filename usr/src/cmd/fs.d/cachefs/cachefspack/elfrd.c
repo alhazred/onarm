@@ -24,7 +24,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)elfrd.c	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <locale.h>
 #include <sys/types.h>

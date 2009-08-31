@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rex.c	1.8	05/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* XXX - Bad, Bad, Bad.... Fix this. This isn't allowed in the base */
 #define	BSD_COMP

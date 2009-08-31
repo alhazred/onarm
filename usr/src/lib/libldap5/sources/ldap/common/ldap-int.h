@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ldap-int.h	1.7	04/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The contents of this file are subject to the Netscape Public

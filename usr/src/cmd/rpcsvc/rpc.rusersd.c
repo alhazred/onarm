@@ -34,7 +34,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rpc.rusersd.c	1.21	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <signal.h>

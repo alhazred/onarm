@@ -26,7 +26,7 @@
 #ifndef	_POLL_H
 #define	_POLL_H
 
-#pragma ident	"@(#)poll.h	1.9	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 /*
  * Poll system call interface definitions.

@@ -34,7 +34,7 @@
  * contents will be displayed on stdout.
  */
 
-#pragma ident	"@(#)pcom.c	1.7	05/06/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <libelf.h>

@@ -50,7 +50,7 @@
  * (The order of bytes within words is irrelevant.)
  */
 
-#pragma ident	"@(#)lbn68020.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define BN_LITTLE_ENDIAN 1
 

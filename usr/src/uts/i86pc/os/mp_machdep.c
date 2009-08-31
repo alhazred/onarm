@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mp_machdep.c	1.80	08/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	PSMI_1_6
 #include <sys/smp_impldefs.h>

@@ -27,7 +27,7 @@
 #ifndef _SYS_SCSI_ADAPTERS_ESPREG_H
 #define	_SYS_SCSI_ADAPTERS_ESPREG_H
 
-#pragma ident	"@(#)espreg.h	1.27	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Hardware definitions for ESP (Enhanced SCSI Processor) generation chips.

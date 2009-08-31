@@ -27,7 +27,7 @@
 #ifndef _INJ_HASH_H
 #define	_INJ_HASH_H
 
-#pragma ident	"@(#)inj_hash.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

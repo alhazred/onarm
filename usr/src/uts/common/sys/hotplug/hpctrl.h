@@ -27,7 +27,7 @@
 #ifndef	_SYS_HOTPLUG_HPCTRL_H
 #define	_SYS_HOTPLUG_HPCTRL_H
 
-#pragma ident	"@(#)hpctrl.h	1.17	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ****************************************************************

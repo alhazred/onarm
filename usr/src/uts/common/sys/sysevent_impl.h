@@ -27,7 +27,7 @@
 #ifndef	_SYS_SYSEVENT_IMPL_H
 #define	_SYS_SYSEVENT_IMPL_H
 
-#pragma ident	"@(#)sysevent_impl.h	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/nvpair.h>
 #include <sys/id_space.h>

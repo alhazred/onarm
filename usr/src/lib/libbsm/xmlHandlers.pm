@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)xmlHandlers.pm	1.1	07/02/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # <t> xmlHandlers -- package for generating a tree from an XML doc

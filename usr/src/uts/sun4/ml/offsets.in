@@ -68,7 +68,7 @@
 \ and all of the nested structures/unions together.  See the many
 \ examples already in this file.
 
-#pragma ident	"@(#)offsets.in	1.26	07/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_GENASSYM
 #define	_GENASSYM

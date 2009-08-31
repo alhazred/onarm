@@ -23,7 +23,7 @@
  * Copyright (c) 1987 by Sun Microsystems, Inc.
  */
 
-#ident	"@(#)tty_ptyconf.c	1.9	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 		/* SunOS-4.1 1.2	*/
 
 /*

@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)ypxfr.c	1.21	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is a user command which gets a NIS data base from some running

@@ -27,7 +27,7 @@
 #ifndef	_CPU_SGNBLK_DEFS_H
 #define	_CPU_SGNBLK_DEFS_H
 
-#pragma ident	"@(#)cpu_sgnblk_defs.h	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

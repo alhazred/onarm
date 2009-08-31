@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_SAMLIB_H
 #define	_SMBSRV_SAMLIB_H
 
-#pragma ident	"@(#)samlib.h	1.3	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Prototypes for the SAM library and RPC client side library interface.

@@ -21,7 +21,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.sparcv7	1.11	05/09/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 MACHDIR=sparc

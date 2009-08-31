@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cladm.s	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"cladm.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

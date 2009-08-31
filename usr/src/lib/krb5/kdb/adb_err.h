@@ -1,4 +1,4 @@
-#pragma ident	"@(#)adb_err.h	1.2	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING 

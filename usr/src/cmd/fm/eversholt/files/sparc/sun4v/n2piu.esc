@@ -23,7 +23,7 @@
  * Use is subject to license terms. 
  */ 
  
-#pragma ident	"@(#)n2piu.esc	1.5	07/11/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma dictionary "SUN4V" 
 

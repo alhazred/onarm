@@ -29,7 +29,7 @@
  * of the protocol.
  */
 
-#pragma ident	"@(#)iscsi_ffp.c	1.10	08/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <unistd.h>
 #include <poll.h>

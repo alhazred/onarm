@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)umem.c	1.15	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * based on usr/src/uts/common/os/kmem.c r1.64 from 2001/12/18

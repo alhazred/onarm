@@ -29,7 +29,7 @@
 #ifndef	_EFT_ITREE_H
 #define	_EFT_ITREE_H
 
-#pragma ident	"@(#)itree.h	1.9	07/05/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

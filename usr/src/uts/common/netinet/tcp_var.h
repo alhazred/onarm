@@ -16,7 +16,7 @@
 #ifndef	_NETINET_TCP_VAR_H
 #define	_NETINET_TCP_VAR_H
 
-#pragma ident	"@(#)tcp_var.h	1.4	98/01/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* tcp_var.h 1.11 88/08/19 SMI; from UCB 7.3 6/30/87	*/
 
 #ifdef	__cplusplus

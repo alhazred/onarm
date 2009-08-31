@@ -24,7 +24,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: msg.c,v 1.4 2002/07/01 16:15:25 deraadt Exp $");
 
-#pragma ident	"@(#)msg.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "buffer.h"
 #include "getput.h"

@@ -26,7 +26,7 @@
 #ifndef	_LIBSMB_H
 #define	_LIBSMB_H
 
-#pragma ident	"@(#)libsmb.h	1.5	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

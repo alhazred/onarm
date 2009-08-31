@@ -29,7 +29,7 @@
 #ifndef	_PGHW_H
 #define	_PGHW_H
 
-#pragma ident	"@(#)pghw.h	1.2	07/07/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

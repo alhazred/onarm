@@ -27,7 +27,7 @@
 #ifndef	_SYS_X_CALL_H
 #define	_SYS_X_CALL_H
 
-#pragma ident	"@(#)x_call.h	1.17	07/05/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * For x86, we only have three cross call levels:

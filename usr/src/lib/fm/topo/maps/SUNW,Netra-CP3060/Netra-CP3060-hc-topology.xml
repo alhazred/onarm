@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-    ident	"@(#)Netra-CP3060-hc-topology.xml	1.1	08/02/26 SMI"
+    ident	"%Z%%M%	%I%	%E% SMI"
 -->
 
 <topology name='SUNW,Netra-CP3060' scheme='hc'>

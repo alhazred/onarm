@@ -27,7 +27,7 @@
 #ifndef	_DATAQ_H
 #define	_DATAQ_H
 
-#pragma ident	"@(#)dataq.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "llt.h"
 

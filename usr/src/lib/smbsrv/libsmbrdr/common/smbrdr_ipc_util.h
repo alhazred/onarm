@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_IPC_UTIL_H
 #define	_SMBSRV_IPC_UTIL_H
 
-#pragma ident	"@(#)smbrdr_ipc_util.h	1.2	07/11/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines the data structure for the IPC connection and utility

@@ -49,7 +49,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: ttymodes.c,v 1.18 2002/06/19 00:27:55 deraadt Exp $");
 
-#pragma ident	"@(#)ttymodes.c	1.5	04/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "packet.h"
 #include "log.h"

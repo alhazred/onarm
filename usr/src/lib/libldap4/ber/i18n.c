@@ -5,7 +5,7 @@
  *
  */
 
-#pragma ident	"@(#)i18n.c	1.4	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <nl_types.h>
 /* #include <lthread.h> */

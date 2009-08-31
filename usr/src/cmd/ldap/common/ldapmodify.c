@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ldapmodify.c	1.11	03/10/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* 
  * The contents of this file are subject to the Netscape Public

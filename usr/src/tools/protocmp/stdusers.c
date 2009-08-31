@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)stdusers.c	1.6	08/02/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include "stdusers.h"

@@ -23,7 +23,7 @@
  * Use is subject to license terms of the CDDLv1.
  */
 
-#pragma ident	"@(#)e1000g_ndd.c	1.11	07/10/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "e1000g_sw.h"
 #include "e1000g_debug.h"

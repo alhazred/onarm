@@ -29,7 +29,7 @@
 #ifndef _IPV4_IMPL_H
 #define	_IPV4_IMPL_H
 
-#pragma ident	"@(#)ipv4_impl.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

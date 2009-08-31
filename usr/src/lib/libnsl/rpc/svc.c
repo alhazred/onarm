@@ -34,7 +34,7 @@
  * California.
  */
 
-#pragma ident	"@(#)svc.c	1.61	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * svc.c, Server-side remote procedure call interface.

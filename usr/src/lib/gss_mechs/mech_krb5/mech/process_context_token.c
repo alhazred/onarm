@@ -1,4 +1,4 @@
-#pragma ident	"@(#)process_context_token.c	1.5	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 1993 by OpenVision Technologies, Inc.

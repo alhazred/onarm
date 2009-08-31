@@ -27,7 +27,7 @@
 #ifndef	_SYS_CALLB_H
 #define	_SYS_CALLB_H
 
-#pragma ident	"@(#)callb.h	1.29	05/06/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/t_lock.h>
 #include <sys/thread.h>

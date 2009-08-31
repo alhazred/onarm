@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 #
-#ident	"@(#)Makefile	1.2	07/07/09 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the n2rng driver kernel module.
 #

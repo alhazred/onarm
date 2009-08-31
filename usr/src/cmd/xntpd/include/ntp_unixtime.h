@@ -3,7 +3,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)ntp_unixtime.h	1.2	99/08/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ntp_unixtime.h - contains constants and macros for converting between

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cmd_dperr.c	1.2	07/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Ereport-handling routines for Datapath errors

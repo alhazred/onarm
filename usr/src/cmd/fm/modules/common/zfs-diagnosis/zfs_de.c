@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)zfs_de.c	1.4	07/09/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <assert.h>
 #include <stddef.h>

@@ -25,7 +25,7 @@
 #
 
 #
-#pragma ident	"@(#)Makefile	1.1	07/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This makefile drives the production of misc/scsi_vhci/scsi_vhci_f_tpgs
 # sparc architecture dependent

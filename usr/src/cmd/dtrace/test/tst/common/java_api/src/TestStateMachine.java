@@ -23,7 +23,7 @@
  * Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
- * ident	"@(#)TestStateMachine.java	1.1	06/09/26 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  */
 
 import org.opensolaris.os.dtrace.*;

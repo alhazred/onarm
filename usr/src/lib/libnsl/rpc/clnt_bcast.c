@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)clnt_bcast.c	1.37	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Client interface to broadcast service.

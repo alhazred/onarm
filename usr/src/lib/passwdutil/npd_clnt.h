@@ -27,7 +27,7 @@
 #ifndef _NPD_CLNT_H
 #define	_NPD_CLNT_H
 
-#pragma ident	"@(#)npd_clnt.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

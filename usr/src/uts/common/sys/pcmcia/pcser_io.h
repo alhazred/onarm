@@ -27,7 +27,7 @@
 #ifndef _PCSER_IO_H
 #define	_PCSER_IO_H
 
-#pragma ident	"@(#)pcser_io.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

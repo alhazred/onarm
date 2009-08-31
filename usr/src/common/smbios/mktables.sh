@@ -24,7 +24,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)mktables.sh	1.1	05/08/26 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # The SMBIOS interfaces defined in <sys/smbios.h> include a set of integer-to-
@@ -108,7 +108,7 @@ echo "\
  * Use is subject to license terms.\n\
  */\n\
 \n\
-#pragma ident\t\"@(#)mktables.sh\t1.1\t05/08/26 SMI\"\n\
+#pragma ident\t\"%Z%%M%\t%I%\t%E% SMI\"\n\
 \n\
 #include <smbios.h>"
 

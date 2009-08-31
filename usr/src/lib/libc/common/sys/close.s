@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)close.s	1.14	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"close.s"
+	.file	"%M%"
 
 /* C library -- close					*/
 /* int __close(int fildes)				*/

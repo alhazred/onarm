@@ -26,7 +26,7 @@
 #ifndef _FB_IPC_H
 #define	_FB_IPC_H
 
-#pragma ident	"@(#)ipc.h	1.3	08/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "config.h"
 #include <pthread.h>

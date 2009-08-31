@@ -36,7 +36,7 @@
  *	contributors.
  */
 
-#pragma ident	"@(#)main.c	1.34	06/07/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * FTP User Program -- Command Interface.

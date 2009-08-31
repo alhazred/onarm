@@ -27,7 +27,7 @@
 #ifndef	_SYS_PX_TOOLS_EXT_H
 #define	_SYS_PX_TOOLS_EXT_H
 
-#pragma ident	"@(#)px_tools_ext.h	1.4	05/10/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -28,7 +28,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)getaddrinfo.c	1.20	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <netdb.h>

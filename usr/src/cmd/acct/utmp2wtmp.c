@@ -26,7 +26,7 @@
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)utmp2wtmp.c	1.12	05/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  *	create entries for users who are still logged on when accounting
  *	is being run. Look at utmpx, and update the time stamp. New info

@@ -43,7 +43,7 @@
 #ifndef _SYS_SIGNAL_ISO_H
 #define	_SYS_SIGNAL_ISO_H
 
-#pragma ident	"@(#)signal_iso.h	1.8	05/06/08 SMI" /* SVr4.0 11.44 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* SVr4.0 11.44 */
 
 #include <sys/unistd.h>		/* needed for _SC_SIGRT_MIN/MAX */
 

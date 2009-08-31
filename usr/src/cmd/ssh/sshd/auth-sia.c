@@ -123,4 +123,4 @@ session_setup_sia(char *user, char *tty)
 
 #endif /* HAVE_OSF_SIA */
 
-#pragma ident	"@(#)auth-sia.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

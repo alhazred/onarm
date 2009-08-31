@@ -30,7 +30,7 @@
 #ifndef	_INET_KSSL_KSSLIMPL_H
 #define	_INET_KSSL_KSSLIMPL_H
 
-#pragma ident	"@(#)ksslimpl.h	1.5	08/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

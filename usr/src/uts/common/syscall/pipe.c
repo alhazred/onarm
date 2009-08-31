@@ -30,7 +30,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)pipe.c	1.29	07/10/25 SMI"	/* from SVr4.0 1.11 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVr4.0 1.11 */
 
 #include <sys/types.h>
 #include <sys/sysmacros.h>

@@ -36,7 +36,7 @@
  * $FreeBSD: src/sbin/routed/rdisc.c,v 1.8 2000/08/11 08:24:38 sheldonh Exp $
  */
 
-#pragma ident	"@(#)rdisc.c	2.17	07/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "defs.h"
 #include <netinet/in_systm.h>

@@ -27,7 +27,7 @@
 #ifndef _SYS_DKTP_CONTROLLER_H
 #define	_SYS_DKTP_CONTROLLER_H
 
-#pragma ident	"@(#)controller.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

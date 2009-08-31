@@ -26,7 +26,7 @@
 #ifndef	_SYS_BSCBUS_H
 #define	_SYS_BSCBUS_H
 
-#pragma ident	"@(#)bscbus.h	1.4	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

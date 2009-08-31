@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SrvLocMsg.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)SrvLocMsg.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SrvLocMsg.java:   Abstract class for all SLP message objects.
 //  Author:           James Kempf
 //  Created On:       Mon Sep 14 13:03:22 1998
@@ -46,7 +46,7 @@ import java.io.*;
  * SrvLocMsg is an interface supported by all SLP message objects,
  * regardless of type.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

@@ -33,7 +33,7 @@
  * California.
  */
 
-#pragma ident	"@(#)rpcb_prot.c	1.19	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * XDR routines for the rpcbinder version 3.

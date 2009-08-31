@@ -33,7 +33,7 @@
 #ifndef	_SYS_XENBUS_COMMS_H
 #define	_SYS_XENBUS_COMMS_H
 
-#pragma ident	"@(#)xenbus_comms.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sunddi.h>
 

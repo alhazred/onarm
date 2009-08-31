@@ -26,7 +26,7 @@
  *	All Rights Reserved.
  */
 
-%#pragma ident	"@(#)nis_callback.x	1.5	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * "@(#)zns_cback.x 1.2 90/09/10 Copyr 1990 Sun Micro" 

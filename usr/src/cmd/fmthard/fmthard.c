@@ -32,7 +32,7 @@
  *	Computers Limited (ICL) under a development agreement with AT&T.
  */
 
-#pragma ident	"@(#)fmthard.c	1.24	07/05/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.

@@ -27,7 +27,7 @@
 #ifndef	_SYS_SGSBBC_IOSRAM_H
 #define	_SYS_SGSBBC_IOSRAM_H
 
-#pragma ident	"@(#)sgsbbc_iosram.h	1.6	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

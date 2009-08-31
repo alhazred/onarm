@@ -27,7 +27,7 @@
 #ifndef	_LIBPCP_H
 #define	_LIBPCP_H
 
-#pragma ident	"@(#)libpcp.h	1.4	05/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

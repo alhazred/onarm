@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sasl.c	1.3	03/10/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef LDAP_SASLIO_HOOKS
 #include <assert.h>

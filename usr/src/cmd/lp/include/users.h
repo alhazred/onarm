@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)users.h	1.6	05/06/08 SMI"	/* SVr4.0 1.6	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 
 #if	!defined(_LP_USERS_H)
 #define	_LP_USERS_H

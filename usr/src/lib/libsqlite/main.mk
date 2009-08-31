@@ -1,4 +1,4 @@
-#ident	"@(#)main.mk	1.2	04/11/12 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 ###############################################################################
 # The following macros should be defined before this script is

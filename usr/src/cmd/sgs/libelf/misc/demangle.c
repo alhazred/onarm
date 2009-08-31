@@ -27,7 +27,7 @@
  *	Copyright (c) 1998 by Sun Microsystems, Inc.
  *	All rights reserved.
  */
-#pragma ident	"@(#)demangle.c	1.10	05/06/08 SMI" 	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.2	*/
 
 #include <ctype.h>
 #include <setjmp.h>

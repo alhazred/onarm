@@ -27,7 +27,7 @@
 #ifndef _SYS_SLEEPQ_H
 #define	_SYS_SLEEPQ_H
 
-#pragma ident	"@(#)sleepq.h	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/machlock.h>
 

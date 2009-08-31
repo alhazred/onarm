@@ -26,7 +26,7 @@
 #ifndef	_DACF_H
 #define	_DACF_H
 
-#pragma ident	"@(#)dacf.h	1.4	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Device autoconfiguration framework (dacf)

@@ -28,7 +28,7 @@
 /*	  All Rights Reserved	*/
 
 
-#pragma ident	"@(#)lwp_info.c	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

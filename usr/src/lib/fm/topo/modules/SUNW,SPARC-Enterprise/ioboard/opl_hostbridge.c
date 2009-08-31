@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)opl_hostbridge.c	1.6	07/09/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include <strings.h>

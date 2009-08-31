@@ -31,7 +31,7 @@
 #ifndef _DAT_PLATFORM_SPECIFIC_H_
 #define	_DAT_PLATFORM_SPECIFIC_H_
 
-#pragma ident	"@(#)dat_platform_specific.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

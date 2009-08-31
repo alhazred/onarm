@@ -28,7 +28,7 @@
  * All rights reserved.
  */
 
-#ident	"@(#)setbrk.c	1.10	05/06/08 SMI"	/* SVr4.0 1.8.1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8.1.1	*/
 /*
  *	UNIX shell
  */

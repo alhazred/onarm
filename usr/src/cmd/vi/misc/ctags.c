@@ -43,7 +43,7 @@ char copyright[] = "@(#) Copyright (c) 1980 Regents of the University of "
 			"California.\nAll rights reserved.\n";
 #endif
 
-#pragma ident	"@(#)ctags.c	1.23	06/08/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 		/* from UCB 5.1 5/31/85 */
 
 #include <stdio.h>

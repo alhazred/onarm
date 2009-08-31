@@ -27,7 +27,7 @@
  * This file contains support required for IB cfgadm plugin.
  */
 
-#pragma ident	"@(#)ibnex_ioctl.c	1.17	07/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/conf.h>

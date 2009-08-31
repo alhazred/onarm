@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smb_autohome.c	1.3	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include <stdlib.h>

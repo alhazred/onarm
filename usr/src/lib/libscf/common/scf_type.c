@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)scf_type.c	1.4	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef NATIVE_BUILD
 #include "c_synonyms.h"

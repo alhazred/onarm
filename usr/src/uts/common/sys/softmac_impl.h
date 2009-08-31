@@ -26,7 +26,7 @@
 #ifndef	_SYS_SOFTMAC_IMPL_H
 #define	_SYS_SOFTMAC_IMPL_H
 
-#pragma ident	"@(#)softmac_impl.h	1.2	08/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/ethernet.h>

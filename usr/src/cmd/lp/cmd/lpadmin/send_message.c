@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)send_message.c	1.5	05/06/08 SMI"	/* SVr4.0 1.9	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9	*/
 
 #include "stdio.h"
 

@@ -19,7 +19,7 @@
 # CDDL HEADER END
 #
 #
-#pragma ident	"@(#)Makefile	1.15	07/08/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.

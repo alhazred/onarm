@@ -34,7 +34,7 @@
 #ifndef _HURON_H
 #define	_HURON_H
 
-#pragma ident	"@(#)huron.h	1.4	07/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

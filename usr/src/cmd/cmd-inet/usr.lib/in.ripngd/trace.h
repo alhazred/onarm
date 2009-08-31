@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)trace.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routing table management daemon.

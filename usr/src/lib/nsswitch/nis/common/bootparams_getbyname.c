@@ -27,7 +27,7 @@
  *	All Rights Reserved.
  */
 
-#pragma ident	"@(#)bootparams_getbyname.c	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <nss_dbdefs.h>
 #include "nis_common.h"

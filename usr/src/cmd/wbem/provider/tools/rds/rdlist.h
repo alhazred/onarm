@@ -27,7 +27,7 @@
 #ifndef	_RDLIST_H
 #define	_RDLIST_H
 
-#pragma ident	"@(#)rdlist.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/processor.h>
 #include <sys/types.h>

@@ -27,7 +27,7 @@
 #ifndef _IDMAP_ENGINE_H
 #define	_IDMAP_ENGINE_H
 
-#pragma ident	"@(#)idmap_engine.h	1.2	07/09/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Debug macros */
 #define	DPTR(a) printf("%s::%d  %s = %p\n", __FILE__, __LINE__, #a, a);

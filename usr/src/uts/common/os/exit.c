@@ -26,7 +26,7 @@
 
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 
-#pragma ident	"@(#)exit.c	1.163	08/01/03 SMI"	/* from SVr4.0 1.74 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVr4.0 1.74 */
 
 #include <sys/types.h>
 #include <sys/param.h>

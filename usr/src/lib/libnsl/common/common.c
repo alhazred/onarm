@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)common.c	1.9	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <stdlib.h>

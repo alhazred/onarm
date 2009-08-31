@@ -3,7 +3,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)version.c	1.2	99/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * version file for ntptrace

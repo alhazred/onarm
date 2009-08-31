@@ -27,7 +27,7 @@
  *
  */
 
-#pragma ident	"@(#)mount.c	1.30	05/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <unistd.h>

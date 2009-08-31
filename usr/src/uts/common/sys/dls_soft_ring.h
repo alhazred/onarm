@@ -6,7 +6,7 @@
 #ifndef	_SYS_DLS_SOFT_RING_H
 #define	_SYS_DLS_SOFT_RING_H
 
-#pragma ident	"@(#)dls_soft_ring.h	1.6	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

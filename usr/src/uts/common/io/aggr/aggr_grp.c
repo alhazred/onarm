@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)aggr_grp.c	1.20	08/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * IEEE 802.3ad Link Aggregation -- Link Aggregation Groups.

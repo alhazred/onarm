@@ -27,7 +27,7 @@
 #ifndef	_MISC_H
 #define	_MISC_H
 
-#pragma ident	"@(#)misc.h	1.7	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/time.h>

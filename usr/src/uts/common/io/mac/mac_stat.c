@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mac_stat.c	1.8	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * MAC Services Module

@@ -23,7 +23,7 @@
 # Copyright (c) 1998, 2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)devlink.tab.sh	1.73	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This is the script that generates the devlink.tab file. It is
 # architecture-aware, and dumps different stuff for x86 and sparc.
@@ -34,7 +34,7 @@
 #
 
 cat <<EOM
-#ident   "@(#)devlink.tab.sh 1.73     05/06/08 SMI"
+#ident   "%Z%%M% %I%     %E% SMI"
 #
 # Copyright (c) 1998 by Sun Microsystems, Inc.
 #

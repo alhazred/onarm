@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dsr.c	1.22	06/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>
 #include <sys/types.h>

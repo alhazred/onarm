@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIOUNIXFILE_H
 #define	_MULTIMEDIA_AUDIOUNIXFILE_H
 
-#pragma ident	"@(#)AudioUnixfile.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <AudioStream.h>
 

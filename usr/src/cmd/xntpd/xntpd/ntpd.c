@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)ntpd.c	1.5	01/04/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	HAVE_POSIX_MMAN
 /*

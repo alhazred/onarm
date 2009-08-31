@@ -30,7 +30,7 @@
 #ifndef _E1000G_SW_H
 #define	_E1000G_SW_H
 
-#pragma ident	"@(#)e1000g_sw.h	1.37	08/02/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

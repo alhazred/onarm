@@ -30,7 +30,7 @@
  * Implements routines to create a cache resource file.
  */
 
-#pragma ident	"@(#)res.c	1.28	05/09/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <assert.h>
 #include <stdio.h>

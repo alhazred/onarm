@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sdp_parse.c	1.1	07/10/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Parses the SDP description as per the SDP grammar defined in Section 9 of

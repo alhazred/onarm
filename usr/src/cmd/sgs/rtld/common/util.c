@@ -31,7 +31,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)util.c	1.198	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Utility routines for run-time linker.  some are duplicated here from libc

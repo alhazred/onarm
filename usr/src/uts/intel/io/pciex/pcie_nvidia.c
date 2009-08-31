@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pcie_nvidia.c	1.7	07/05/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Library file that has code for PCIe booting

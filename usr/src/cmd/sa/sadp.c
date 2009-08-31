@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)sadp.c	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*	sadp.c 1.14.1.12 of 8/9/89	*/
 /*	sadp.c - For VAX and PDP11 machines,

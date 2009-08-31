@@ -27,7 +27,7 @@
 #ifndef _SYS_HYPERVISOR_API_H
 #define	_SYS_HYPERVISOR_API_H
 
-#pragma ident	"@(#)hypervisor_api.h	1.20	06/12/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sun4v Hypervisor API

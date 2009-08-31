@@ -26,7 +26,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: kexgex.c,v 1.22 2002/03/24 17:27:03 stevesk Exp $");
 
-#pragma ident	"@(#)kexgex.c	1.3	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <openssl/bn.h>
 

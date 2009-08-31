@@ -27,7 +27,7 @@
 #ifndef	_SOLARIS_REALIZESEXTENT_H_
 #define	_SOLARIS_REALIZESEXTENT_H_
 
-#pragma ident	"@(#)Solaris_RealizesExtent.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

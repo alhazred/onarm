@@ -23,7 +23,7 @@
 # Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.rootfs	1.2	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # To install libraries in the root filesystem (/lib),
 # include this Makefile right after Makefile.lib

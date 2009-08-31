@@ -34,7 +34,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)spray_subr.c	1.7	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/rpc.h>
 #include <rpcsvc/spray.h>

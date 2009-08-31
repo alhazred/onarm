@@ -26,7 +26,7 @@
 #ifndef _NBMLOCK_H
 #define	_NBMLOCK_H
 
-#pragma ident	"@(#)nbmlock.h	1.3	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Non-blocking mandatory locking support.

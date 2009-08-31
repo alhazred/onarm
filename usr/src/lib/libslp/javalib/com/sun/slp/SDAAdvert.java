@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SDAAdvert.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)SDAAdvert.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SDAAdvert.java:   Server Side DAAdvert Message.
 //  Author:           James Kempf
 //  Created On:       Tue Feb 10 15:00:39 1998

@@ -36,7 +36,7 @@
 #ifndef LDAP_MAIN_H
 #define LDAP_MAIN_H 1
 
-#pragma ident	"@(#)ldap_main.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "kdb_ldap.h"
 #include "ldap_misc.h"

@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)Devices	1.8	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # Some sample entries:
 # NOTE - all lines must have at least 5 fields 

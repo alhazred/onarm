@@ -28,7 +28,7 @@
  * For SUNWnskit - version 1.1
  *
  * Based on:
- *	#pragma ident	"@(#)revnetgroup.c	1.9	05/06/08 SMI"	(SMI4.1 1.6)
+ *	#pragma ident	"%Z%%M%	%I%	%E% SMI"	(SMI4.1 1.6)
  */
 
 #include <stdlib.h>

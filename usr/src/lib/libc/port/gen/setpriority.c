@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)setpriority.c	1.12	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "synonyms.h"
 

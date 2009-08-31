@@ -25,7 +25,7 @@
  * INIT_REBOOT state of the DHCP client state machine.
  */
 
-#pragma ident	"@(#)init_reboot.c	1.11	07/04/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <stdio.h>

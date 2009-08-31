@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)ps.c	1.38	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ps -- print things about processes.

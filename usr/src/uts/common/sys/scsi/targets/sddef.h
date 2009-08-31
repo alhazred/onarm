@@ -30,7 +30,7 @@
 #ifndef	_SYS_SCSI_TARGETS_SDDEF_H
 #define	_SYS_SCSI_TARGETS_SDDEF_H
 
-#pragma ident	"@(#)sddef.h	1.171	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/dktp/fdisk.h>

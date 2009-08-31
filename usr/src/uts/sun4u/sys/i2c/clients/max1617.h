@@ -27,7 +27,7 @@
 #ifndef	_MAX1617_H
 #define	_MAX1617_H
 
-#pragma ident	"@(#)max1617.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

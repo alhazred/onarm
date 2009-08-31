@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)scsi_subr.c	1.97	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/scsi/scsi.h>
 #include <sys/file.h>

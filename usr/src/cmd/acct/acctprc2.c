@@ -26,7 +26,7 @@
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)acctprc2.c	1.11	05/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  *	acctprc2 <ptmp1 >ptacct
  *	reads std. input (in ptmp.h/ascii format)

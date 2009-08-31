@@ -27,7 +27,7 @@
 #ifndef	_MDESC_IMPL_H_
 #define	_MDESC_IMPL_H_
 
-#pragma ident	"@(#)mdesc_impl.h	1.5	06/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

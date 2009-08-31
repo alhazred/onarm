@@ -26,7 +26,7 @@
 #ifndef	_NSCD_SELFCRED_H
 #define	_NSCD_SELFCRED_H
 
-#pragma ident	"@(#)nscd_selfcred.h	1.1	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

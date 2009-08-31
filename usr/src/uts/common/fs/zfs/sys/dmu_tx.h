@@ -30,7 +30,7 @@
 #ifndef	_SYS_DMU_TX_H
 #define	_SYS_DMU_TX_H
 
-#pragma ident	"@(#)dmu_tx.h	1.6	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/inttypes.h>
 #include <sys/dmu.h>

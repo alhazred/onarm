@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)poplist.c	1.6	05/06/08 SMI" 	/* SVr4.0 2.	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 2.	*/
 #include "mail.h"
 /*
  * Remove an entry from its linked list and free any malloc'd memory..

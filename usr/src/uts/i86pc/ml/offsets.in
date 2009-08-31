@@ -22,7 +22,7 @@
 \ CDDL HEADER END
 \
 
-#pragma ident	"@(#)offsets.in	1.17	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 \
 \ offsets.in: input file to produce assym.h using the ctfstabs program

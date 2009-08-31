@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SLPV1SSrvReg.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -45,7 +45,7 @@ import java.io.*;
 /**
  * The SLPV1SSrvReg class models the server side SLPv1 service registration.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

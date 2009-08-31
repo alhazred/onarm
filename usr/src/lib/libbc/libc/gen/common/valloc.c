@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)valloc.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 	  /* from UCB 4.3 83/07/01 */
 
 extern	unsigned getpagesize();

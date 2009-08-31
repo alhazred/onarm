@@ -41,7 +41,7 @@
 #ifndef _PATHNAMES_H
 #define	_PATHNAMES_H
 
-#pragma ident	"@(#)pathnames.h	2.2	03/07/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * All remotely requested trace files must either start with this prefix

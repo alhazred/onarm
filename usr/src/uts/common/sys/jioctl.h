@@ -26,7 +26,7 @@
 #ifndef _SYS_JIOCTL_H
 #define	_SYS_JIOCTL_H
 
-#pragma ident	"@(#)jioctl.h	1.13	05/06/08 SMI"	/* SVr4.0 11.5	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.5	*/
 
 #ifdef	__cplusplus
 extern "C" {

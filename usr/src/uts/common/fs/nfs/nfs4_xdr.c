@@ -23,7 +23,7 @@
  *	All rights reserved.  Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nfs4_xdr.c	1.26	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * A handcoded version based on the original rpcgen code.

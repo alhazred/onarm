@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)p123_pcbe.c	1.14	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Performance Counter Back-End for Pentiums I, II, and III.
@@ -912,7 +912,7 @@ trunc3931(uint64_t value)
 
 static struct modlpcbe modlpcbe = {
 	&mod_pcbeops,
-	"Pentium Performance Counters v1.14",
+	"Pentium Performance Counters v%I%",
 	&ptm_pcbe_ops
 };
 

@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)_range.h	1.9	05/06/08 SMI"	/* SVr4.0 1.1.2.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1.2.1 */
 
 #define	valid_range(c1, c2) \
 	(((c1) & WCHAR_CSMASK) == ((c2) & WCHAR_CSMASK) && \

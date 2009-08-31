@@ -37,7 +37,7 @@
  */
 
 
-#pragma ident	"@(#)quota.c	1.64	07/05/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Code pertaining to management of the in-core data structures.

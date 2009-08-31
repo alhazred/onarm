@@ -27,7 +27,7 @@
 #ifndef	__sys_ttycom_h
 #define	__sys_ttycom_h
 
-#pragma ident	"@(#)ttycom.h	1.15	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_POSIX_SOURCE
 

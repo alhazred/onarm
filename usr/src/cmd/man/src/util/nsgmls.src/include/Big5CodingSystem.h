@@ -1,6 +1,6 @@
 // Copyright (c) 1997 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)Big5CodingSystem.h	1.3	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef Big5CodingSystem_INCLUDED
 #define Big5CodingSystem_INCLUDED 1

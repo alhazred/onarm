@@ -24,7 +24,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)signproto.sh	1.2	07/05/04 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # signproto cred_file
 #

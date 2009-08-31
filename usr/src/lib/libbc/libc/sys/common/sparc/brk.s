@@ -19,7 +19,7 @@
 !
 ! CDDL HEADER END
 !
-!	"@(#)brk.s	1.16	05/06/10 SMI"
+!	"%Z%%M%	%I%	%E% SMI"
 !	Copyright (c) 1986 by Sun Microsystems, Inc.
 !
 	.seg	".text"

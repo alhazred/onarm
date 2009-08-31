@@ -28,7 +28,7 @@
 /* Copyright (c) 1988 AT&T */
 /* All Rights Reserved */
 
-#pragma ident	"@(#)rpc_sel2poll.c	1.15	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <sys/select.h>

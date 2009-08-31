@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)inittab	1.9	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This file provides information about all supported DHCP options, for
 # use by DHCP-related programs.  This file should only be modified to

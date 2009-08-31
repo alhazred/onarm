@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)picllibdevinfo.c	1.3	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Implementation to interact with libdevinfo to find port nodes,

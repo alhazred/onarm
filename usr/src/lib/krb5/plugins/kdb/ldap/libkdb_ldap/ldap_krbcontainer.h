@@ -31,7 +31,7 @@
 #ifndef _LDAP_KRBCONTAINER_H_
 #define _LDAP_KRBCONTAINER_H_ 1
 
-#pragma ident	"@(#)ldap_krbcontainer.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define MAX_KRB_CONTAINER_LEN	256
 

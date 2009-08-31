@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 #From: "@(#)Install	1.56	96/10/11 SMI"
-#ident	"@(#)Install.sh	1.32	07/11/29 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Author:  Jeff Bonwick
 #

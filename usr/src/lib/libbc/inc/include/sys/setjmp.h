@@ -21,7 +21,7 @@
  */
 /*	from UCB 4.1 83/05/03	*/
 
-#pragma ident	"@(#)setjmp.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	__sparc_setjmp_h
 #define	__sparc_setjmp_h

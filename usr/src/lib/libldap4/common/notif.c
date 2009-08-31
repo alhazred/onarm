@@ -4,7 +4,7 @@
  * Comments:   
  *
  */
-#pragma ident	"@(#)notif.c	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>

@@ -36,7 +36,7 @@
  *	contributors.
  */
 
-#pragma ident	"@(#)cmds.c	1.46	06/07/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

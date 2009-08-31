@@ -34,7 +34,7 @@
  * California.
  */
 
-#pragma ident	"@(#)yp_enum.c	1.21	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <stdlib.h>

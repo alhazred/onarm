@@ -26,7 +26,7 @@
 #ifndef	_SYS_SUNNDI_H
 #define	_SYS_SUNNDI_H
 
-#pragma ident	"@(#)sunndi.h	1.53	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Sun Specific NDI definitions

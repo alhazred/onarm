@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)symbols.msg	1.14	07/10/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 @ MSG_STT_NOTYPE		"NOTY"

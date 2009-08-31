@@ -27,7 +27,7 @@
 #ifndef _SYS_MACH_INTR_H
 #define	_SYS_MACH_INTR_H
 
-#pragma ident	"@(#)mach_intr.h	1.1	05/11/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Platform-dependent interrupt data structures

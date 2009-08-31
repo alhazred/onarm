@@ -25,7 +25,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)tst.ProbeData.ksh	1.2	07/01/24 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 ############################################################################
 # ASSERTION:

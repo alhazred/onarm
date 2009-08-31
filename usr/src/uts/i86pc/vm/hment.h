@@ -27,7 +27,7 @@
 #ifndef	_VM_HMENT_H
 #define	_VM_HMENT_H
 
-#pragma ident	"@(#)hment.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

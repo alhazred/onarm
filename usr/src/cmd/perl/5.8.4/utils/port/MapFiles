@@ -3,7 +3,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)MapFiles	1.1	04/06/09 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This script works out which files from a stock Perl 5.8.3 distribution need
 # to be integrated into ON.  It MUST be run inside a stock perl distribution

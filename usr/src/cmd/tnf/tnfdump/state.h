@@ -26,7 +26,7 @@
 #ifndef	_STATE_H
 #define	_STATE_H
 
-#pragma ident	"@(#)state.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/time.h>
 #include <tnf/tnf.h>

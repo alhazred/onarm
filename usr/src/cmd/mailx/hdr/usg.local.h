@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)usg.local.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Declarations and constants specific to an installation.

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mem.c	1.15	07/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mem.h>
 #include <fm/fmd_fmri.h>

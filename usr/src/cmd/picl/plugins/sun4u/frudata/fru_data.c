@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fru_data.c	1.9	05/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <picl.h>
 #include <syslog.h>

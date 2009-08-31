@@ -38,7 +38,7 @@
 # contributors.
 #
 
-#ident	"@(#)cc.sh	1.18	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # cc command for BSD compatibility package:
 #

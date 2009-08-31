@@ -26,7 +26,7 @@
 #ifndef	_TERMIO_H
 #define	_TERMIO_H
 
-#pragma ident	"@(#)termio.h	1.10	05/06/08 SMI"	/* SVr4.0 1.3.1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3.1.4 */
 
 #include <sys/termio.h>
 

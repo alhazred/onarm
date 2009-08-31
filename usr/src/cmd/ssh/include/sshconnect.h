@@ -7,7 +7,7 @@
 #ifndef	_SSHCONNECT_H
 #define	_SSHCONNECT_H
 
-#pragma ident	"@(#)sshconnect.h	1.5	04/03/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

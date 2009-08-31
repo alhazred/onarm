@@ -37,7 +37,7 @@
  *	contributors.
  */
 
-#pragma ident	"@(#)glob.c	1.16	05/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * C-shell glob for random programs.

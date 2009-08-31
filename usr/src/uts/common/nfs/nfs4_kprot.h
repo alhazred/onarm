@@ -27,7 +27,7 @@
 #ifndef _NFS4_KPROT_H
 #define	_NFS4_KPROT_H
 
-#pragma ident	"@(#)nfs4_kprot.h	1.11	06/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Kernel specific version.

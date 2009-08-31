@@ -31,7 +31,7 @@
 #ifndef	_PRINT_H
 #define	_PRINT_H
 
-#pragma ident	"@(#)print.h	1.21	06/01/26 SMI"	/* SVr4.0 1.9	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9	*/
 
 #include "file64.h"
 #include <floatingpoint.h>

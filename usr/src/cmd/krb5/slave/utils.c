@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)utils.c	1.1	04/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <k5-int.h>
 #include <socket-utils.h>

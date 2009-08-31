@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rpcsec_gss.c	1.33	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

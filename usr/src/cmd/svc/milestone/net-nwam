@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)net-nwam	1.3	08/01/22 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 . /lib/svc/share/smf_include.sh
 . /lib/svc/share/net_include.sh

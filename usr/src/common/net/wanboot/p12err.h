@@ -27,7 +27,7 @@
 #ifndef	_P12ERR_H
 #define	_P12ERR_H
 
-#pragma ident	"@(#)p12err.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

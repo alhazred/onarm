@@ -9,7 +9,7 @@
  * $Id: example.c,v 8.3 2006/12/20 21:22:34 ca Exp $
  */
 
-#pragma ident	"@(#)example.c	1.1	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  A trivial example filter that logs all email to a file.

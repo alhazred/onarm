@@ -26,7 +26,7 @@
 #ifndef	_SYS_PX_LIB_H
 #define	_SYS_PX_LIB_H
 
-#pragma ident	"@(#)px_lib.h	1.21	07/03/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

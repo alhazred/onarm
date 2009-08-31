@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCSI_SCSI_WATCH_H
 #define	_SYS_SCSI_SCSI_WATCH_H
 
-#pragma ident	"@(#)scsi_watch.h	1.10	05/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

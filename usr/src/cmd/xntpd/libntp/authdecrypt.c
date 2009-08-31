@@ -3,7 +3,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)authdecrypt.c	1.2	99/08/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * authdecrypt - routine to decrypt a packet to see if this guy knows our key.

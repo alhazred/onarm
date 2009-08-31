@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)snoop_rip6.c	1.4	05/08/23 SMI"	/* SunOS */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS */
 
 #include <ctype.h>
 #include <fcntl.h>

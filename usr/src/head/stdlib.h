@@ -30,7 +30,7 @@
 #ifndef _STDLIB_H
 #define	_STDLIB_H
 
-#pragma ident	"@(#)stdlib.h	1.56	07/05/23 SMI"	/* SVr4.0 1.22	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.22	*/
 
 #include <iso/stdlib_iso.h>
 #include <iso/stdlib_c99.h>

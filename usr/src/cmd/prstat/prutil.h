@@ -27,7 +27,7 @@
 #ifndef	_PRUTIL_H
 #define	_PRUTIL_H
 
-#pragma ident	"@(#)prutil.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/processor.h>
 #include <sys/types.h>

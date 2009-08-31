@@ -26,7 +26,7 @@
 #ifndef _CPIO_H
 #define	_CPIO_H
 
-#pragma ident	"@(#)cpio.h	1.9	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 #ifdef	__cplusplus
 extern "C" {

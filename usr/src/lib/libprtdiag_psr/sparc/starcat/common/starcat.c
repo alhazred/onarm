@@ -28,7 +28,7 @@
  *	machine_type == MTYPE_STARCAT
  */
 
-#pragma ident	"@(#)starcat.c	1.19	08/01/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -32,7 +32,7 @@
 #ifndef _DAT_REDIRECTION_H_
 #define	_DAT_REDIRECTION_H_
 
-#pragma ident	"@(#)dat_redirection.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

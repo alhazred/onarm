@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)files.c	1.13	05/09/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "stdio.h"

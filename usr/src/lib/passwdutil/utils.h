@@ -27,7 +27,7 @@
 #ifndef _UTILS_H
 #define	_UTILS_H
 
-#pragma ident	"@(#)utils.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Prototypes for utility functions

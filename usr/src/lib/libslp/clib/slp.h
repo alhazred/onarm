@@ -27,7 +27,7 @@
 #ifndef	_SLP_H
 #define	_SLP_H
 
-#pragma ident	"@(#)slp.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains definitions for the Service Location Protocol

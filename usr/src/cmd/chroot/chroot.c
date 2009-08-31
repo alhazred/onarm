@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)chroot.c	1.8	05/06/08 SMI"	/* SVr4.0 1.8	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8	*/
 
 #include <stdio.h>
 #include <string.h>

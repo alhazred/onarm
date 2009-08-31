@@ -22,7 +22,7 @@
 # Copyright (c) 1995-1998 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-# ident	"@(#)mkkey.awk	1.5	05/06/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # mkkey.awk
 #
@@ -42,7 +42,7 @@ print " * Copyright (c) 1998 by Sun Microsystems, Inc."
 print " * All rights reserved."
 print " */"
 print
-print "#pragma ident	\"@(#)keyindex.c\t1.5\t05/06/10 SMI\""
+print "#pragma ident	\"@(#)keyindex.c\t%I%\t%E% SMI\""
 print
 print "/*"
 print " * keyindex.c"

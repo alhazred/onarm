@@ -45,9 +45,9 @@
  * regulations applicable in licensee's jurisdiction.
  */
 
-	.ident	"@(#)memcmp.s	1.3	05/07/18 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"memcmp.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

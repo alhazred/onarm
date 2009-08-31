@@ -30,7 +30,7 @@
  * Copyright (c) 2006-2007 NEC Corporation
  */
 
-#pragma ident	"@(#)namevfs.c	1.81	07/12/12 SMI" /* from S5R4 1.28 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* from S5R4 1.28 */
 
 /*
  * This file supports the vfs operations for the NAMEFS file system.

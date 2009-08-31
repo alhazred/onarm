@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)metad_svc_stubs.c	2.12	06/05/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <meta.h>
 #include <metad.h>

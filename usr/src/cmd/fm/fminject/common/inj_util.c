@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)inj_util.c	1.3	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <inj.h>
 #include <inj_err.h>

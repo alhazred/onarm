@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gethostent.c	1.18	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netdb.h>
 #include <arpa/inet.h>

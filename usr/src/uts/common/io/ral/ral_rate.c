@@ -33,7 +33,7 @@
  * OF SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)ral_rate.c	1.1	07/07/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/byteorder.h>

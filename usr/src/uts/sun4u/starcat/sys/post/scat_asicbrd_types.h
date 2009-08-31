@@ -27,7 +27,7 @@
 #ifndef	_SCAT_ASICBRD_TYPES_H
 #define	_SCAT_ASICBRD_TYPES_H
 
-#pragma ident	"@(#)scat_asicbrd_types.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains enumerations of the board and asic types used

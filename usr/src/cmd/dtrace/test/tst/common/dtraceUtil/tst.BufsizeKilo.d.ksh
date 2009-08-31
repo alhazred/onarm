@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 
-# ident	"@(#)tst.BufsizeKilo.d.ksh	1.3	07/04/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # ASSERTION:

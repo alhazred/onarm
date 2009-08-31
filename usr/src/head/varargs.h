@@ -31,7 +31,7 @@
 #ifndef _VARARGS_H
 #define	_VARARGS_H
 
-#pragma ident	"@(#)varargs.h	1.45	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header defines the pre-standard variable argument definitions.

@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)slk_label.c	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

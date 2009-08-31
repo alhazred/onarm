@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rdsib_sc.c	1.3	07/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ib/clients/rds/rdsib_sc.h>
 #include <sys/ib/clients/rds/rdsib_debug.h>

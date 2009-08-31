@@ -23,7 +23,7 @@
 # Copyright (c) 1997-2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)Makefile	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 # include global definitions
 include ../../../../Makefile.master

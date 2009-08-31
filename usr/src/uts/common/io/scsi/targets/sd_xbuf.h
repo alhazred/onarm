@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCSI_TARGETS_SD_XBUF_H
 #define	_SYS_SCSI_TARGETS_SD_XBUF_H
 
-#pragma ident	"@(#)sd_xbuf.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

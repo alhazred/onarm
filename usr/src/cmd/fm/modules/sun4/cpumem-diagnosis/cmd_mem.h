@@ -26,7 +26,7 @@
 #ifndef _CMD_MEM_H
 #define	_CMD_MEM_H
 
-#pragma ident	"@(#)cmd_mem.h	1.14	07/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Support routines for managing state related to memory modules.

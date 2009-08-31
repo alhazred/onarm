@@ -28,7 +28,7 @@
 /*	  All Rights Reserved	*/
 
 
-#ident	"@(#)profil.c	1.8	05/06/08 SMI"	/* from SVr4.0 1.78 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVr4.0 1.78 */
 
 #include <sys/param.h>
 #include <sys/types.h>

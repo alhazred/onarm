@@ -26,7 +26,7 @@
 #ifndef	_SYS_USB_USB_MIDVAR_H
 #define	_SYS_USB_USB_MIDVAR_H
 
-#pragma ident	"@(#)usb_midvar.h	1.15	06/12/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

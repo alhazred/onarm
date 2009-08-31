@@ -18,7 +18,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)audit_event.c	1.32	07/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.

@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)lptest.c	1.5	05/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lptest -- line printer test program (and other devices).

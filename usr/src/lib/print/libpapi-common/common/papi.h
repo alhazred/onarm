@@ -30,7 +30,7 @@
 
 /* $Id: papi.h 161 2006-05-03 04:32:59Z njacobs $ */
 
-#pragma ident	"@(#)papi.h	1.2	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <time.h>

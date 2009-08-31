@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)__time.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"__time.s"
+	.file	"%M%"
 
 /*
  * raw system calls:

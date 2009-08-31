@@ -36,7 +36,7 @@
 #ifndef _SYS_DKTP_ALTSCTR_H
 #define	_SYS_DKTP_ALTSCTR_H
 
-#pragma ident	"@(#)altsctr.h	1.8	05/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

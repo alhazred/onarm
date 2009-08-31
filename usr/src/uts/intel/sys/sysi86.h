@@ -30,7 +30,7 @@
 #ifndef _SYS_SYSI86_H
 #define	_SYS_SYSI86_H
 
-#pragma ident	"@(#)sysi86.h	1.14	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

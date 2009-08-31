@@ -27,7 +27,7 @@
 #ifndef	_DISK_DESCRIPTORS_H
 #define	_DISK_DESCRIPTORS_H
 
-#pragma ident	"@(#)disk_descriptors.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

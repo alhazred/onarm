@@ -30,7 +30,7 @@
  * Include file for test.c 
  */
 
-#ident	"@(#)test.h	1.6	05/06/08 SMI"       /* SVr4.0 1.4 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.4 */
 
 /* error exits from various parts of shell */
 #define 	ERROR		1

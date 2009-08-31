@@ -29,7 +29,7 @@
 #ifndef	_EFT_EVAL_H
 #define	_EFT_EVAL_H
 
-#pragma ident	"@(#)eval.h	1.6	07/05/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

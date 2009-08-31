@@ -25,7 +25,7 @@
  * Copyright (c) 1994, 1997 by Sun Microsystems Inc
  * All Rights Reserved.
  *
- * ident	"@(#)nispasswd.x	1.5	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  */
 
 /*

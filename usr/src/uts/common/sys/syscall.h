@@ -34,7 +34,7 @@
 #ifndef	_SYS_SYSCALL_H
 #define	_SYS_SYSCALL_H
 
-#pragma ident	"@(#)syscall.h	1.120	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

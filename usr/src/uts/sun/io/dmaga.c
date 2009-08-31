@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dmaga.c	1.38	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* from 4.1.1 sbusdev/dmaga.c 1.14 */
 
@@ -128,7 +128,7 @@ static struct dev_ops dma_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,	/* Type of module. This one is a driver */
-	"Direct Memory Access driver 1.38",	/* Name and version */
+	"Direct Memory Access driver %I%",	/* Name and version */
 	&dma_ops,	/* driver ops */
 };
 

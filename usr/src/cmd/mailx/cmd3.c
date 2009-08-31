@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)cmd3.c	1.36	05/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "rcv.h"
 #include <locale.h>

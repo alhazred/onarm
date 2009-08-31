@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)dca.c	1.4	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Deimos - cryptographic acceleration based upon Broadcom 582x.

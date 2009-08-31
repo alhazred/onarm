@@ -8,7 +8,7 @@
 #ifndef	_SPPPTUN_IMPL_H
 #define	_SPPPTUN_IMPL_H
 
-#pragma ident	"@(#)sppptun_impl.h	1.3	07/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

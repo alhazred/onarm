@@ -27,7 +27,7 @@
 #ifndef	_FCODE_PUBLIC_H
 #define	_FCODE_PUBLIC_H
 
-#pragma ident	"@(#)public.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

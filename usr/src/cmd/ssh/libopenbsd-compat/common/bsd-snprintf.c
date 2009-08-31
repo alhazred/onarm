@@ -53,7 +53,7 @@
 
 RCSID("$Id: bsd-snprintf.c,v 1.5 2001/02/25 23:20:41 mouring Exp $");
 
-#pragma ident	"@(#)bsd-snprintf.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(BROKEN_SNPRINTF)		/* For those with broken snprintf() */
 # undef HAVE_SNPRINTF

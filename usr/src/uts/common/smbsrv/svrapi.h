@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_SVRAPI_H
 #define	_SMBSRV_SVRAPI_H
 
-#pragma ident	"@(#)svrapi.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file provides definitions for the SMB Net interface. On Windows

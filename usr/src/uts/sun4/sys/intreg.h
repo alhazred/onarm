@@ -26,7 +26,7 @@
 #ifndef _SYS_INTREG_H
 #define	_SYS_INTREG_H
 
-#pragma ident	"@(#)intreg.h	1.30	07/11/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/machintreg.h>
 

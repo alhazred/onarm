@@ -33,7 +33,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)i915_dma.c	1.5	08/02/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "drmP.h"
 #include "drm.h"

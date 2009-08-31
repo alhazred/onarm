@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)_mul64.s	1.7	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_mul64.s"
+	.file	"%M%"
 
 /
 /   function __mul64(A,B:Longint):Longint;

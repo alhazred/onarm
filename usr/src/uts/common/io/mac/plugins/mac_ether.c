@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)mac_ether.c	1.6	07/06/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Ethernet MAC plugin for the Nemo mac module
@@ -112,7 +112,7 @@ static mac_stat_info_t ether_stats[] = {
 
 static struct modlmisc mac_ether_modlmisc = {
 	&mod_miscops,
-	"Ethernet MAC plugin 1.6"
+	"Ethernet MAC plugin %I%"
 };
 
 static struct modlinkage mac_ether_modlinkage = {

@@ -27,7 +27,7 @@
 #ifndef	_RE_COMP_H
 #define	_RE_COMP_H
 
-#pragma ident	"@(#)re_comp.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

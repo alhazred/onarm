@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nv_sata.c	1.3	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *
@@ -221,7 +221,7 @@ extern struct mod_ops mod_driverops;
 
 static  struct modldrv modldrv = {
 	&mod_driverops,	/* driverops */
-	"Nvidia ck804/mcp55 HBA v1.3",
+	"Nvidia ck804/mcp55 HBA v%I%",
 	&nv_dev_ops,	/* driver ops */
 };
 

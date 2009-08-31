@@ -41,7 +41,7 @@
 #ifndef _RING_H
 #define	_RING_H
 
-#pragma ident	"@(#)ring.h	1.11	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)llib-ldns_sd	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* LINTLIBRARY */
 /* PROTOLIB1 */

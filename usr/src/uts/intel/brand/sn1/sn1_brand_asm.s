@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sn1_brand_asm.s	1.2	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(lint)
 

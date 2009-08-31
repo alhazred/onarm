@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sbdp_quiesce.c	1.22	07/02/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * A CPR derivative specifically for sbd

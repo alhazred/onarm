@@ -26,7 +26,7 @@
 #ifndef _NSCD_H
 #define	_NSCD_H
 
-#pragma ident	"@(#)cache.h	1.15	07/04/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is a private header file.  Applications should not directly include

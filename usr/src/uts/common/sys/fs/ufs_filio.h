@@ -26,7 +26,7 @@
 #ifndef _SYS_FS_UFS_FILIO_H
 #define	_SYS_FS_UFS_FILIO_H
 
-#pragma ident	"@(#)ufs_filio.h	1.24	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cp_key_cnt.c	1.6	04/05/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/krb/cp_key_cnt.c
  *

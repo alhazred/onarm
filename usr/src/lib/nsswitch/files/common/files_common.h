@@ -31,7 +31,7 @@
 #ifndef _FILES_COMMON_H
 #define	_FILES_COMMON_H
 
-#pragma ident	"@(#)files_common.h	1.14	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "c_synonyms.h"
 #include <nss_common.h>

@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lchown.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"lchown.s"
+	.file	"%M%"
 
 /* C library -- lchown						*/
 /* int lchown(const char *path, uid_t owner, gid_t group)	*/

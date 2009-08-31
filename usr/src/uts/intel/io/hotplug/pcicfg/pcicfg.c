@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pcicfg.c	1.58	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *     PCI configurator (pcicfg)
@@ -367,7 +367,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops, /* Type of module */
-	"PCI configurator 1.58"
+	"PCI configurator %I%"
 };
 
 static struct modlinkage modlinkage = {

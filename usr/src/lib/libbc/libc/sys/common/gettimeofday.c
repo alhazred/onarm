@@ -23,7 +23,7 @@
  * Copyright (c) 1995 Sun Microsystems, Inc. All rights reserved.
  */
 
-#ident	"@(#)gettimeofday.c	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

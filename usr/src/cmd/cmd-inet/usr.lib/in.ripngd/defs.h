@@ -35,7 +35,7 @@
 #ifndef	_IN_RIPNGD_DEFS_H
 #define	_IN_RIPNGD_DEFS_H
 
-#pragma ident	"@(#)defs.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

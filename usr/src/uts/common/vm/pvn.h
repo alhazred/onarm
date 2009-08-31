@@ -40,7 +40,7 @@
 #ifndef	_VM_PVN_H
 #define	_VM_PVN_H
 
-#pragma ident	"@(#)pvn.h	1.54	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/buf.h>
 #include <vm/seg.h>

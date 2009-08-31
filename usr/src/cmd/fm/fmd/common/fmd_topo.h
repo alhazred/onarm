@@ -26,7 +26,7 @@
 #ifndef _FMD_TOPO_H
 #define	_FMD_TOPO_H
 
-#pragma ident	"@(#)fmd_topo.h	1.2	07/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

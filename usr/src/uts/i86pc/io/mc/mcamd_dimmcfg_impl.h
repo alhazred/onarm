@@ -27,7 +27,7 @@
 #ifndef _MCAMD_DIMMCFG_IMPL_H
 #define	_MCAMD_DIMMCFG_IMPL_H
 
-#pragma ident	"@(#)mcamd_dimmcfg_impl.h	1.1	06/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/x86_archext.h>

@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)tclient.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * generic mpxio leaf driver
@@ -107,7 +107,7 @@ static struct dev_ops tcli_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"vhci client test driver 1.3",
+	"vhci client test driver %I%",
 	&tcli_ops
 };
 

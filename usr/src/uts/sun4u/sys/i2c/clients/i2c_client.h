@@ -27,7 +27,7 @@
 #ifndef	_I2C_CLIENT_H
 #define	_I2C_CLIENT_H
 
-#pragma ident	"@(#)i2c_client.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

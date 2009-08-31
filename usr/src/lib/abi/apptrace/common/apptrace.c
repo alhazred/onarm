@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)apptrace.c	1.16	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <link.h>
 #include <dlfcn.h>

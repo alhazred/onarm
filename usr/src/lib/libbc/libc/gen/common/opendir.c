@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)opendir.c	1.4	05/06/08 SMI" 
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 
 
 #include <sys/param.h>
 #include <sys/stat.h>

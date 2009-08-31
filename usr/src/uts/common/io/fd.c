@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)fd.c	1.55	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Floppy Disk driver
@@ -162,7 +162,7 @@ static struct driver_minor_data {
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module. This one is a driver */
-	"Floppy Disk driver 1.55",	/* Name of the module. */
+	"Floppy Disk driver %I%",	/* Name of the module. */
 	&fd_ops,		/* driver ops */
 };
 

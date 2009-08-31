@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)result.c	1.2	03/05/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*-
  *

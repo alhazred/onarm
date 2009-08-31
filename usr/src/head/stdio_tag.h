@@ -27,7 +27,7 @@
 #ifndef _STDIO_TAG_H
 #define	_STDIO_TAG_H
 
-#pragma ident	"@(#)stdio_tag.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

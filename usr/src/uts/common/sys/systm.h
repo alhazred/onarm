@@ -34,7 +34,7 @@
 #ifndef _SYS_SYSTM_H
 #define	_SYS_SYSTM_H
 
-#pragma ident	"@(#)systm.h	1.153	07/12/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/t_lock.h>

@@ -24,7 +24,7 @@
 #
 # uts/intel/sbp2/Makefile
 
-#ident	"@(#)Makefile	1.6	06/11/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	This makefile drives the production of the sbp2 kernel module.

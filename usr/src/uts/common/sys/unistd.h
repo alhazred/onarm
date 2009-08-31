@@ -39,7 +39,7 @@
 #ifndef _SYS_UNISTD_H
 #define	_SYS_UNISTD_H
 
-#pragma ident	"@(#)unistd.h	1.48	07/10/25 SMI"	/* From SVR4.0 1.3 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* From SVR4.0 1.3 */
 
 #include <sys/feature_tests.h>
 

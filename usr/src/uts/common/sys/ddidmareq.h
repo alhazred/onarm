@@ -30,7 +30,7 @@
 #ifndef	_SYS_DDIDMAREQ_H
 #define	_SYS_DDIDMAREQ_H
 
-#pragma ident	"@(#)ddidmareq.h	1.32	06/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

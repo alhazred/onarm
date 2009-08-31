@@ -24,7 +24,7 @@
 # Copyright (c) 1999-2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)acctadm	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Restore the extended accounting configuration that was in effect before
 # reboot.

@@ -27,7 +27,7 @@
 #ifndef _CMD_EC_H
 #define	_CMD_EC_H
 
-#pragma ident	"@(#)cmd_ecache.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * E-cache flushing

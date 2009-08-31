@@ -32,7 +32,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)mouse8042.c	1.48	05/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * PS/2 type Mouse Module - Streams
@@ -208,7 +208,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a driver */
-	"PS/2 Mouse 1.48, 05/10/25",
+	"PS/2 Mouse %I%, %E%",
 	&mouse8042_ops,	/* driver ops */
 };
 
@@ -365,7 +365,7 @@ mouse8042_attach(dev_info_t *dip, ddi_attach_cmd_t cmd)
 	ddi_report_dev(dip);
 #if	defined(MOUSE8042_DEBUG)
 	cmn_err(CE_CONT, "?%s #%d: version %s\n",
-	    DRIVER_NAME(dip), ddi_get_instance(dip), "1.48 (05/10/25)");
+	    DRIVER_NAME(dip), ddi_get_instance(dip), "%I% (%E%)");
 #endif
 	return (DDI_SUCCESS);
 

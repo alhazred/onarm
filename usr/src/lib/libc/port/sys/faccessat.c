@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)faccessat.c	1.1	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "synonyms.h"
 #include <sys/types.h>

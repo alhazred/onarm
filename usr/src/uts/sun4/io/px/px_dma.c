@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)px_dma.c	1.20	07/07/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * PCI Express nexus DVMA and DMA core routines:

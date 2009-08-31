@@ -30,7 +30,7 @@
 #ifndef _SYS_LOG_H
 #define	_SYS_LOG_H
 
-#pragma ident	"@(#)log.h	1.25	07/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/strlog.h>

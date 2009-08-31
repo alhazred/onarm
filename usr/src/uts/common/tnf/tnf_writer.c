@@ -23,7 +23,7 @@
  *	Copyright (c) 1994, by Sun Microsytems, Inc.
  */
 
-#pragma ident	"@(#)tnf_writer.c	1.20	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef DEBUG
 #define	NDEBUG	1

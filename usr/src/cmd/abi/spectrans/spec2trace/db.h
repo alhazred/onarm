@@ -27,7 +27,7 @@
 #ifndef	_DB_H
 #define	_DB_H
 
-#pragma ident	"@(#)db.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

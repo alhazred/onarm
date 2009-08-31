@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)inc.flg	1.1	06/01/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 echo_file usr/src/uts/common/sys/pci_tools.h

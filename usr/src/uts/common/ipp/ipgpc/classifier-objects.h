@@ -27,7 +27,7 @@
 #ifndef _IPP_IPGPC_CLASSIFIER_OBJECTS_H
 #define	_IPP_IPGPC_CLASSIFIER_OBJECTS_H
 
-#pragma ident	"@(#)classifier-objects.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/time.h>
 #include <ipp/ipp.h>

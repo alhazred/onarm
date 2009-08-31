@@ -21,7 +21,7 @@
 #ifndef _WPIVAR_H
 #define	_WPIVAR_H
 
-#pragma ident	"@(#)wpivar.h	1.2	08/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

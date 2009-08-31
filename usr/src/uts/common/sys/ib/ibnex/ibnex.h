@@ -27,7 +27,7 @@
 #ifndef _SYS_IB_IBNEX_IBNEX_H
 #define	_SYS_IB_IBNEX_IBNEX_H
 
-#pragma ident	"@(#)ibnex.h	1.12	05/12/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ibnex.h

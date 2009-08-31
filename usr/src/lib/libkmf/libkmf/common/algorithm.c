@@ -5,7 +5,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)algorithm.c	1.3	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kmfapiP.h>
 #include <algorithm.h>

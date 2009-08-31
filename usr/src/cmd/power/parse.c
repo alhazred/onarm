@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)parse.c	1.8	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "pmconfig.h"
 #include <deflt.h>

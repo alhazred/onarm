@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)syslogd.c	1.111	06/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  syslogd -- log system messages
@@ -114,7 +114,7 @@
 #define	RELATIVE_PIDFILE	"../var/run/syslog.pid"
 #define	OLD_PIDFILE		"/etc/syslog.pid"
 
-static char		*Version = "1.111";
+static char		*Version = "%I%";
 static char		*LogName = "/dev/log";
 static char		*ConfFile = "/etc/syslog.conf";
 static char		ctty[] = "/dev/console";

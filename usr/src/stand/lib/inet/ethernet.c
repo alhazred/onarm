@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ethernet.c	1.7	05/09/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Ethernet routines. Includes ARP and Reverse ARP. Used for ethernet-like

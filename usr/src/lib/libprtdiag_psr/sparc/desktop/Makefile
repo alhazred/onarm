@@ -23,7 +23,7 @@
 # Copyright (c) 2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile	1.7	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/libprtdiag_psr/sparc/desktop/Makefile
 

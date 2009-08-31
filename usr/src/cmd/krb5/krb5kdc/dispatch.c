@@ -31,7 +31,7 @@
  * Dispatch an incoming packet.
  */
 
-#pragma ident	"@(#)dispatch.c	1.4	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define NEED_SOCKETS
 #include "k5-int.h"

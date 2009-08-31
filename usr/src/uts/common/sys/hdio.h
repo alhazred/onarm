@@ -27,7 +27,7 @@
 #ifndef _SYS_HDIO_H
 #define	_SYS_HDIO_H
 
-#pragma ident	"@(#)hdio.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

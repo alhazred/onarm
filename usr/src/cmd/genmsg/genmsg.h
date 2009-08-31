@@ -26,7 +26,7 @@
 #ifndef	_GENMSG_H
 #define	_GENMSG_H
 
-#pragma ident	"@(#)genmsg.h	5.7	07/08/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

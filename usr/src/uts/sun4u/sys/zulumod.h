@@ -26,7 +26,7 @@
 #ifndef	_ZULUMOD_H
 #define	_ZULUMOD_H
 
-#pragma ident	"@(#)zulumod.h	1.5	06/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

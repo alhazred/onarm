@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pcf8574_nct.c	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/param.h>
@@ -169,7 +169,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv pcf8574_modldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"Netract pcf8574 (gpio) 1.13 ",
+	"Netract pcf8574 (gpio) %I% ",
 	&pcf8574_ops,
 };
 

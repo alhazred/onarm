@@ -30,7 +30,7 @@
 #ifndef _BOOT_CONSOLE_H
 #define	_BOOT_CONSOLE_H
 
-#pragma ident	"@(#)boot_console.h	1.7	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

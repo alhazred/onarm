@@ -26,7 +26,7 @@
 #ifndef _SYS_IB_CLIENTS_IBD_H
 #define	_SYS_IB_CLIENTS_IBD_H
 
-#pragma ident	"@(#)ibd.h	1.11	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

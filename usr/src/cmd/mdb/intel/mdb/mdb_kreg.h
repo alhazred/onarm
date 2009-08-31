@@ -26,7 +26,7 @@
 #ifndef	_MDB_KREG_H
 #define	_MDB_KREG_H
 
-#pragma ident	"@(#)mdb_kreg.h	1.7	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/kdi_regs.h>
 #ifndef _ASM

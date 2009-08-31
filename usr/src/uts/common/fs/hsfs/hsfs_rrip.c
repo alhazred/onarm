@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)hsfs_rrip.c	1.20	07/08/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Rock Ridge extensions to the System Use Sharing protocol

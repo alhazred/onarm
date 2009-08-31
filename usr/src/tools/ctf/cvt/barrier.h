@@ -27,7 +27,7 @@
 #ifndef _BARRIER_H
 #define	_BARRIER_H
 
-#pragma ident	"@(#)barrier.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * APIs for the barrier synchronization primitive.

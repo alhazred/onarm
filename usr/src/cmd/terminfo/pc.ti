@@ -25,7 +25,7 @@
 # Use is subject to license terms.
 #
 
-#pragma ident	"@(#)pc.ti	1.16	07/09/26 SMI"	/* SVr4.0 1.15	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.15	*/
 # # PC - Personal Computers and Workstations emulating terminals.
 #
 # Manufacturer:	PERSONAL COMPUTER TERMINALS

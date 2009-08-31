@@ -27,7 +27,7 @@
 #ifndef _LAYOUT_SLICE_H
 #define	_LAYOUT_SLICE_H
 
-#pragma ident	"@(#)layout_slice.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

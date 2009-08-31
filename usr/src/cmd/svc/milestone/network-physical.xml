@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-	ident	"@(#)network-physical.xml	1.7	07/05/07 SMI"
+	ident	"%Z%%M%	%I%	%E% SMI"
 
 	NOTE:  This service manifest is not editable; its contents will
 	be overwritten by package or patch operations, including

@@ -22,7 +22,7 @@
 /*
  * Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
- * ident	"@(#)fru_FT0.info	1.1	06/08/22 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * This configuration file is parsed by PICL frudr plugin in response
  * to a PICL_FRU_ADDED event for FT0
@@ -65,7 +65,7 @@
 #ifndef id
 #define	id(s)	#ident s
 #endif
-id("@(#)fru_FT0.info	1.1	06/08/22 SMI")
+id("%Z%%M%	%I%	%E% SMI")
 
 VERSION 1.1
 VERBOSE 1

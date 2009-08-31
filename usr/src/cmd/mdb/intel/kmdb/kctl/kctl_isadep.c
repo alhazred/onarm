@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kctl_isadep.c	1.10	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kmdb/kmdb_auxv.h>
 #include <kmdb/kctl/kctl.h>

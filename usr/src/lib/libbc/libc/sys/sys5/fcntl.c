@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#ident	"@(#)fcntl.c	1.12	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/syscall.h>
 #include <sys/fcntl.h>

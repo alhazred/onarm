@@ -1,4 +1,4 @@
-#pragma ident	"@(#)menu.lst	1.2	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # default menu entry to boot
 default 0

@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
   
-#pragma ident	"@(#)ts.c	1.4	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /* ts.c: minor string processing subroutines */
 int

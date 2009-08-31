@@ -26,7 +26,7 @@
 /*      Copyright (c) 1984 AT&T */
 /*        All Rights Reserved   */
 
-#pragma ident	"@(#)flsbuf.c	1.20	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 #include <stdio.h>

@@ -27,7 +27,7 @@
 #ifndef _MONTECARLO_SYS_HSC_H
 #define	_MONTECARLO_SYS_HSC_H
 
-#pragma ident	"@(#)hsc.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

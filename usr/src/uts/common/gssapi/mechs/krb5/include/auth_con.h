@@ -1,4 +1,4 @@
-#pragma ident	"@(#)auth_con.h	1.4	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef KRB5_AUTH_CONTEXT
 #define KRB5_AUTH_CONTEXT

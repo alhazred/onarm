@@ -29,7 +29,7 @@
  * of the copyright holder.
  */
 
-#pragma ident	"@(#)pathutil.c	1.1	04/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * If file-system access is to be excluded, this module has no function,

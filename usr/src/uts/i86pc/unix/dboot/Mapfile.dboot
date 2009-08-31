@@ -25,7 +25,7 @@
 #
 
 #
-#ident	"@(#)Mapfile.dboot	1.2	07/09/18 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 dboot = LOAD ?RWXO V0xC00000 P0xC00000 A0x1000;

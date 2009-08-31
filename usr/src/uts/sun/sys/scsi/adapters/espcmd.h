@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCSI_ADAPTERS_ESPCMD_H
 #define	_SYS_SCSI_ADAPTERS_ESPCMD_H
 
-#pragma ident	"@(#)espcmd.h	1.23	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/scsi/scsi_types.h>

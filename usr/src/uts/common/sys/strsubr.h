@@ -30,7 +30,7 @@
 #ifndef _SYS_STRSUBR_H
 #define	_SYS_STRSUBR_H
 
-#pragma ident	"@(#)strsubr.h	1.154	07/03/01 SMI"	/* SVr4.0 1.17 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.17 */
 
 /*
  * WARNING:

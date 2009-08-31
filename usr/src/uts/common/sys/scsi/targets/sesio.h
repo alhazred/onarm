@@ -27,7 +27,7 @@
 #ifndef	_SYS_SESIO_H
 #define	_SYS_SESIO_H
 
-#pragma ident	"@(#)sesio.h	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Enclosure Services Interface Structures

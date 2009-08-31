@@ -31,7 +31,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)ar.c	1.23	05/06/08 SMI" 	/* SVr4.0 1.6	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.6	*/
 
 #include "syn.h"
 #include <ar.h>

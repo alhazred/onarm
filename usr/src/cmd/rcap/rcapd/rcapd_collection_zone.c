@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rcapd_collection_zone.c	1.1	06/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <procfs.h>
 #include <project.h>

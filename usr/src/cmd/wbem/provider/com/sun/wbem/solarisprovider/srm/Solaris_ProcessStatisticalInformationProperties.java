@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Solaris_ProcessStatisticalInformationProperties.java	1.2	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -35,7 +35,7 @@ package com.sun.wbem.solarisprovider.srm;
  * Defines property names of the Solaris_ProcessStatisticalInformation and
  * the corresponding keys in the RDS protocol
  * @author SMI
- * @version 1
+ * @version %R%
  */
 public interface Solaris_ProcessStatisticalInformationProperties {
     /**

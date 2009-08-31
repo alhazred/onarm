@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pos4obj.c	1.31	08/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "synonyms.h"
 #include "mtlib.h"

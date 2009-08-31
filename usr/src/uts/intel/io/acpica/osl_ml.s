@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  * All rights reserved.
  */
-#pragma ident	"@(#)osl_ml.s	1.2	05/06/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 #include <sys/asm_misc.h>

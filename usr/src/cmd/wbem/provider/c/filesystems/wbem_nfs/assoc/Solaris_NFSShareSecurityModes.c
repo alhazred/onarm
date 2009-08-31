@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)Solaris_NFSShareSecurityModes.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <errno.h>
 #include "Solaris_NFSShareSecurityModes.h"

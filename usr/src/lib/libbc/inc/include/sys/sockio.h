@@ -12,7 +12,7 @@
 #ifndef _sys_sockio_h
 #define	_sys_sockio_h
 
-#pragma ident	"@(#)sockio.h	1.11	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * General socket ioctl definitions.

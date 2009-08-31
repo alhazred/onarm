@@ -31,7 +31,7 @@
 #ifndef _SYS_IAPRIOCNTL_H
 #define	_SYS_IAPRIOCNTL_H
 
-#pragma ident	"@(#)iapriocntl.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/thread.h>

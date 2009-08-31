@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)combine_keys.c	1.2	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 2002 Naval Research Laboratory (NRL/CCS)

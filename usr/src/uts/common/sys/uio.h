@@ -40,7 +40,7 @@
 #ifndef _SYS_UIO_H
 #define	_SYS_UIO_H
 
-#pragma ident	"@(#)uio.h	1.36	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

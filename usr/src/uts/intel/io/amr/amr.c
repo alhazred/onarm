@@ -57,7 +57,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  */
-#pragma ident	"@(#)amr.c	1.7	07/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/int_types.h>
 #include <sys/scsi/scsi.h>
@@ -231,7 +231,7 @@ static struct dev_ops   amr_ops = {
 extern struct mod_ops mod_driverops;
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module. driver here */
-	"AMR Driver V1.7",	/* Name of the module. */
+	"AMR Driver V%I%",	/* Name of the module. */
 	&amr_ops,		/* Driver ops vector */
 };
 

@@ -10,7 +10,7 @@
 #ifndef	_SASL_SASLUTIL_H
 #define	_SASL_SASLUTIL_H
 
-#pragma ident	"@(#)saslutil.h	1.1	03/07/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_SASL_SASL_H
 #include <sasl/sasl.h>

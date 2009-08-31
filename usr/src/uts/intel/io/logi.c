@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)logi.c	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Logitech Mouse Module - Streams
@@ -168,7 +168,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a driver */
-	"Logitech Mouse driver 1.24",
+	"Logitech Mouse driver %I%",
 	&logi_ops,	/* driver ops */
 };
 

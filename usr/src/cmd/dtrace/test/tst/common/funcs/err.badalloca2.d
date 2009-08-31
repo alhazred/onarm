@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma	ident	"@(#)err.badalloca2.d	1.1	06/10/13 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

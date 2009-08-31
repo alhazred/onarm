@@ -40,7 +40,7 @@
 #ifndef	_SMBFS_MOUNT_H
 #define	_SMBFS_MOUNT_H
 
-#pragma ident	"@(#)smbfs_mount.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines the interface used by mount_smbfs.

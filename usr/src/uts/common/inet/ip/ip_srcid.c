@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_srcid.c	1.12	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is used to support the hidden __sin6_src_id in the sockaddr_in6

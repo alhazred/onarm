@@ -31,7 +31,7 @@
 #ifndef _SYS_PRSYSTM_H
 #define	_SYS_PRSYSTM_H
 
-#pragma ident	"@(#)prsystm.h	1.49	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/zone.h>

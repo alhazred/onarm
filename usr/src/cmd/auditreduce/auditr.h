@@ -26,7 +26,7 @@
 #ifndef _AUDITR_H
 #define	_AUDITR_H
 
-#pragma ident	"@(#)auditr.h	1.14	06/06/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

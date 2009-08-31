@@ -27,7 +27,7 @@
 #ifndef	_VDSK_MAILBOX_H
 #define	_VDSK_MAILBOX_H
 
-#pragma ident	"@(#)vdsk_mailbox.h	1.2	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

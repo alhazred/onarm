@@ -4,7 +4,7 @@
 # Copyright (c) 2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)mkcopy	1.1	01/07/12 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This script takes a file mapping CSV file as input (see Flist.csv for an
 # example) and outputs a ksh script containing the SCCS and Teamware commands

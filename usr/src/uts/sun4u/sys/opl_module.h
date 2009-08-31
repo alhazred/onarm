@@ -26,7 +26,7 @@
 #ifndef _SYS_OPL_MODULE_H
 #define	_SYS_OPL_MODULE_H
 
-#pragma ident	"@(#)opl_module.h	1.2	07/11/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/async.h>
 

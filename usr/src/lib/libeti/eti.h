@@ -26,7 +26,7 @@
 #ifndef _ETI_H
 #define	_ETI_H
 
-#pragma ident	"@(#)eti.h	1.5	05/06/08 SMI"	/* SVr4.0 1.3	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 
 #ifdef	__cplusplus
 extern "C" {

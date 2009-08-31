@@ -22,7 +22,7 @@
 /*
  * Copyright (c) 1995 by Sun Microsystems, Inc.  All Rights Reserved.
  */
-#pragma ident	"@(#)sparc.il	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 !
 ! In-line functions for sparc kernels.
 !

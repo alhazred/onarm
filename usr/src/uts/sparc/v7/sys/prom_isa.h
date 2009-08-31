@@ -27,7 +27,7 @@
 #ifndef	_SYS_PROM_ISA_H
 #define	_SYS_PROM_ISA_H
 
-#pragma ident	"@(#)prom_isa.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains external ISA-specific promif interface definitions.

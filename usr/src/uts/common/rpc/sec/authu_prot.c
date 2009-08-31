@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)authu_prot.c	1.20	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * authunix_prot.c

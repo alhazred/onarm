@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)snoop_dhcpv6.c	1.1	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Dynamic Host Configuration Protocol version 6, for IPv6.  Supports

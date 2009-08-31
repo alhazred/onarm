@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#pragma ident	"@(#)mapfile	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 text    = LOAD ?RX V0x100000;
 text    : $PROGBITS ?A!W;

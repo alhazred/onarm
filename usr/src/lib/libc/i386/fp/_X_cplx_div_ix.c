@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_X_cplx_div_ix.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * _X_cplx_div_ix(b, w) returns (I * b) / w with infinities handled

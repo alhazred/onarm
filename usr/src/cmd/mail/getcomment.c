@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)getcomment.c	1.8	05/08/16 SMI" 
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 
 
 #include "mail.h"
 /*

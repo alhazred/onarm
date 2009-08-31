@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ttymux.c	1.6	06/07/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * DESCRIPTION
@@ -2835,7 +2835,7 @@ extern struct mod_ops mod_driverops;
 static struct modldrv modldrv =
 {
 	&mod_driverops,
-	"serial mux driver 1.6",
+	"serial mux driver %I%",
 	&sm_ops
 };
 

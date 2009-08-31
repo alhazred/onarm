@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)strncmp.s	1.11	07/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"strncmp.s"
+	.file	"%M%"
 
 /*
  * strncmp(s1, s2, n)

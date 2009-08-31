@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)privlib.c	1.12	07/10/25 SMI" /* TSOL 8 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* TSOL 8 */
 
 #pragma weak getprivimplinfo	= _getprivimplinfo
 #pragma weak priv_addset	= _priv_addset

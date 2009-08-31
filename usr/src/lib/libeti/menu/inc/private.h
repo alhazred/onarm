@@ -31,7 +31,7 @@
 #ifndef _MENU_PRIVATE_H
 #define	_MENU_PRIVATE_H
 
-#pragma ident	"@(#)private.h	1.6	05/06/08 SMI"	/* SVr4.0 1.9	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9	*/
 
 #include <menu.h>
 

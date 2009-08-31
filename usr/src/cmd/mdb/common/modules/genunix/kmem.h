@@ -26,7 +26,7 @@
 #ifndef	_KMEM_H
 #define	_KMEM_H
 
-#pragma ident	"@(#)kmem.h	1.11	07/07/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

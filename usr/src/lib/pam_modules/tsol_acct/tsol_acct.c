@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tsol_acct.c	1.1	07/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libtsnet.h>
 #include <stdlib.h>

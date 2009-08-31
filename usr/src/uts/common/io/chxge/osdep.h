@@ -33,7 +33,7 @@
 #ifndef _CHELSIO_OSDEP_H
 #define	_CHELSIO_OSDEP_H
 
-#pragma ident	"@(#)osdep.h	1.4	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

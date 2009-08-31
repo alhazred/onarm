@@ -9,7 +9,7 @@ divert(-1)
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)proto.m4	1.38	07/11/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # By using this file, you agree to the terms and conditions set
 # forth in the LICENSE file which can be found at the top level of

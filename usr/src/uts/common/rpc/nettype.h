@@ -39,7 +39,7 @@
 #ifndef	_RPC_NETTYPE_H
 #define	_RPC_NETTYPE_H
 
-#pragma ident	"@(#)nettype.h	1.14	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netconfig.h>
 

@@ -34,7 +34,7 @@
 #ifndef	__ELF_DOT_H
 #define	__ELF_DOT_H
 
-#pragma ident	"@(#)_elf.h	1.56	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <elf.h>

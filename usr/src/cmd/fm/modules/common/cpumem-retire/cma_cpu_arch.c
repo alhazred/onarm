@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cma_cpu_arch.c	1.1	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <cma.h>
 

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sysevent_conf_mod.c	1.17	06/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sysevent_conf_mod - syseventd daemon sysevent.conf module

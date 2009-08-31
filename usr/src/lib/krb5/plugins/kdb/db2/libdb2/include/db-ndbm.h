@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)db-ndbm.h	1.1	02/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*-
  * Copyright (c) 1990, 1993

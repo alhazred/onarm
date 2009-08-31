@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rdservers.c	1.2	03/07/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /****************************************************************************    
   Copyright (c) 1999,2000 WU-FTPD Development Group.  

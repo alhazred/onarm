@@ -6,7 +6,7 @@
 #ifndef	_SYS_DDI_OBSOLETE_H
 #define	_SYS_DDI_OBSOLETE_H
 
-#pragma ident	"@(#)ddi_obsolete.h	1.2	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Obsoleted DDI Interfaces

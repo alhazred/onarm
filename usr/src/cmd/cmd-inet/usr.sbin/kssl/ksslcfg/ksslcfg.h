@@ -27,7 +27,7 @@
 #ifndef _KSSLCFG_H
 #define	_KSSLCFG_H
 
-#pragma ident	"@(#)ksslcfg.h	1.1	05/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Common routines and variables used by ksslcfg files.

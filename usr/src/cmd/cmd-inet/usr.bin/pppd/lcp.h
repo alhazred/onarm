@@ -22,7 +22,7 @@
  * $Id: lcp.h,v 1.15 2000/04/04 07:06:51 paulus Exp $
  */
 
-#pragma ident	"@(#)lcp.h	1.1	00/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __LCP_H_
 #define __LCP_H_

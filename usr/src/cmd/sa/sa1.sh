@@ -24,7 +24,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)sa1.sh	1.6	05/06/08 SMI"       /* SVr4.0 1.5 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.5 */
 #	sa1.sh 1.5 of 5/8/89
 DATE=`/usr/bin/date +%d`
 ENDIR=/usr/lib/sa

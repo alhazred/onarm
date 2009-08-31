@@ -27,7 +27,7 @@
 #ifndef _SYS_GFS_H
 #define	_SYS_GFS_H
 
-#pragma ident	"@(#)gfs.h	1.9	07/12/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/vnode.h>

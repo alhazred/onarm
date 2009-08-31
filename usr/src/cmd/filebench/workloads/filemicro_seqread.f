@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)filemicro_seqread.f	1.1	07/10/04 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # 4- Sequential read(32K) of a 1G file, cached 
 # 5- Sequential read(32K) of a 1G file, uncached 

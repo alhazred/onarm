@@ -9,7 +9,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ipnat.c	1.8	07/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

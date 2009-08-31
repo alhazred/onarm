@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)cons.c	5.64	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Indirect console driver for Sun.
@@ -173,7 +173,7 @@ extern struct dev_ops cn_ops;
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"Console redirection driver 5.64",
+	"Console redirection driver %I%",
 	&cn_ops,	/* driver ops */
 };
 

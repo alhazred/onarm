@@ -23,7 +23,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.5	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This Makefile just 'makes' the common .o files
 # used by diskdrive and diskpartition.  It does 

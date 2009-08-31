@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ohci_hub.c	1.10	06/10/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Open Host Controller Driver (OHCI)

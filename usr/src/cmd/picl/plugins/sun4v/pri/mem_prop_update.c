@@ -31,7 +31,7 @@
  * controller devices on sun4v.
  */
 
-#pragma ident	"@(#)mem_prop_update.c	1.3	07/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "priplugin.h"
 #include "../../common/memcfg/piclmemcfg.h"

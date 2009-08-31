@@ -29,7 +29,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)keyspan_49fw.c	1.1	05/12/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/modctl.h>
@@ -58,9 +58,9 @@ extern struct mod_ops mod_miscops;
 static struct modlmisc modlmisc = {
 #ifdef KEYSPAN_NO_FIRMWARE_SOURCE
 	&mod_miscops, "Placeholder module for the firmware of Keyspan"
-	    " usb2serial adapter (usa49wlc) 1.1"
+	    " usb2serial adapter (usa49wlc) %I%"
 #else
-	&mod_miscops, "Firmware for Keyspan usb2serial adapter (usa49wlc) 1.1"
+	&mod_miscops, "Firmware for Keyspan usb2serial adapter (usa49wlc) %I%"
 #endif
 };
 

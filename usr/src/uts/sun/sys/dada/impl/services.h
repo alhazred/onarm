@@ -28,7 +28,7 @@
 #ifndef	_SYS_DADA_IMPL_SERVICES_H
 #define	_SYS_DADA_IMPL_SERVICES_H
 
-#pragma ident	"@(#)services.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

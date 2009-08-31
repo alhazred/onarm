@@ -30,7 +30,7 @@
 /*	  All Rights Reserved	*/
 
 %{
-#pragma ident	"@(#)expr.y	1.5	05/08/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %}
 
 /* Yacc productions for "expr" command: */

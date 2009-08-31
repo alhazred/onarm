@@ -25,7 +25,7 @@
 # Use is subject to license terms.
 #
 
-# ident	"@(#)update_grub.ksh	1.2	07/01/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 PATH="/usr/bin:/usr/sbin:${PATH}"; export PATH
 ALT_ROOT=

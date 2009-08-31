@@ -23,7 +23,7 @@
     Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
     Use is subject to license terms.
 
-    ident	"@(#)generic_open.xml	1.29	08/02/13 SMI"
+    ident	"%Z%%M%	%I%	%E% SMI"
 
     Default service profile, containing a typical set of active service
     instances.

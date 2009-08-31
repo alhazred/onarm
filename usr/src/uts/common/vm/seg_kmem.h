@@ -26,7 +26,7 @@
 #ifndef _VM_SEG_KMEM_H
 #define	_VM_SEG_KMEM_H
 
-#pragma ident	"@(#)seg_kmem.h	1.22	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
   
-#pragma ident	"@(#)te.c	1.8	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /* te.c: error message control, input line count */
 #include "t..c"

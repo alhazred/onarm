@@ -25,7 +25,7 @@
 # All rights reserved.
 #
 
-# ident	"@(#)make_pkg_db	1.2	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 $PkgDir = "/var/sadm/pkg";	# where to find the pkg directories
 $PROGRAM_NAME = "make_pkg_db";

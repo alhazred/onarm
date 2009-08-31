@@ -22,7 +22,7 @@
 #	Copyright (c) 1990-93 Sun Microsystems, Inc.
 #		All Rights Reserved
 #
-#	ident	"@(#)prototype_sparc	1.5	06/12/13 SMI"
+#	ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This required package information file contains a list of package contents.
 # The 'pkgmk' command uses this file to identify the contents of a package

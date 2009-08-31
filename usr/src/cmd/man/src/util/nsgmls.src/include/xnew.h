@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xnew.h	1.4	05/08/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _XNEW_H
 #define	_XNEW_H

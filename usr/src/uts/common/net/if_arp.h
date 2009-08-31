@@ -12,7 +12,7 @@
 #ifndef	_NET_IF_ARP_H
 #define	_NET_IF_ARP_H
 
-#pragma ident	"@(#)if_arp.h	1.8	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* if_arp.h 1.5 88/08/19 SMI; from UCB 7.1 1/24/86	*/
 
 #include <sys/types.h>

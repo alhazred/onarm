@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)psrinfo.pl	1.22	07/07/18 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # psrinfo: displays information about processors
 #

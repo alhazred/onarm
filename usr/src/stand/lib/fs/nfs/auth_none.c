@@ -25,7 +25,7 @@
  */
 
 /* from SunOS 4.1 */
-#pragma ident	"@(#)auth_none.c	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * modified for use by the boot program.

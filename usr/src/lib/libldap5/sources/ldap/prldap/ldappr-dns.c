@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ldappr-dns.c	1.8	05/08/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

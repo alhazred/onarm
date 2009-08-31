@@ -40,7 +40,7 @@
 /*	Copyright (c) 1987, 1988 Microsoft Corporation	*/
 /*	  All Rights Reserved	*/
 
-#pragma ident	"@(#)login.c	1.125	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* ONC_PLUS EXTRACT END */
 

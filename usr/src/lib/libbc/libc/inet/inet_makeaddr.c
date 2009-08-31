@@ -34,7 +34,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)inet_makeaddr.c	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 	  /* from UCB 4.4 85/06/02 */
 
 #include <sys/types.h>

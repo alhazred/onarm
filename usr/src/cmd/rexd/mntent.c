@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mntent.c	1.7	05/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	LOCK_EX		1
 

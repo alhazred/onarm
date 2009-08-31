@@ -32,7 +32,7 @@
 #ifndef _SYS_RTC_H
 #define	_SYS_RTC_H
 
-#pragma ident	"@(#)rtc.h	1.7	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

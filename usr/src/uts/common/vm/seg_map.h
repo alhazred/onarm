@@ -39,7 +39,7 @@
 #ifndef	_VM_SEG_MAP_H
 #define	_VM_SEG_MAP_H
 
-#pragma ident	"@(#)seg_map.h	1.52	06/04/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

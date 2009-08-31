@@ -30,7 +30,7 @@
 #ifndef _SYS_XTI_INET_H
 #define	_SYS_XTI_INET_H
 
-#pragma ident	"@(#)xti_inet.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

@@ -26,7 +26,7 @@
 #ifndef _SMB_NETBIOS_H_
 #define	_SMB_NETBIOS_H_
 
-#pragma ident	"@(#)smbns_netbios.h	1.2	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <synch.h>

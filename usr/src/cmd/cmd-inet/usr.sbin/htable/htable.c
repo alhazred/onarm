@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)htable.c	1.6	05/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * htable - convert NIC host table into a UNIX format.

@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)auth_unix.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * auth_unix.h, Protocol for UNIX style authentication parameters for RPC

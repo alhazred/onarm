@@ -25,7 +25,7 @@
  *
  */
 
-#pragma ident	"@(#)nis_thread_funcs.c	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <syslog.h>
 #include <errno.h>

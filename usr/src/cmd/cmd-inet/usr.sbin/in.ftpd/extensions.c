@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)extensions.c	1.7	03/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /****************************************************************************  
  

@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)auth_des.c	1.43	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * auth_des.c, client-side implementation of DES authentication

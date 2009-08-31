@@ -27,7 +27,7 @@
 #ifndef	_PRIPLUGIN_H
 #define	_PRIPLUGIN_H
 
-#pragma ident	"@(#)priplugin.h	1.3	07/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

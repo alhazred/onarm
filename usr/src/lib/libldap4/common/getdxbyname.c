@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getdxbyname.c	1.7	04/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef LDAP_DNS
 /*

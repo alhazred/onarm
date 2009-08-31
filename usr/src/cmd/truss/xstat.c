@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)xstat.c	1.20	05/06/08 SMI"	/* SVr4.0 1.3	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 
 #define	_SYSCALL32
 

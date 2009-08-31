@@ -23,7 +23,7 @@
  * Copyright (c) 1990 - 1997, Sun Microsystems, Inc.
  */
 
-#pragma	ident	"@(#)sdevinfo.c	1.17	05/06/08 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * For machines that support the openprom, fetch and print the list

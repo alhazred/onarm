@@ -9,7 +9,7 @@
  *
  **************************************************************************/
 
-#pragma ident	"@(#)battery.h	1.1	07/04/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef BATTERY_H
 #define	BATTERY_H

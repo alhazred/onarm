@@ -23,7 +23,7 @@
  *	Copyright (c) 1994, by Sun Microsytems, Inc.
  */
 
-#pragma ident	"@(#)tnf_probe.c	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef _KERNEL
 #include <sys/types.h>

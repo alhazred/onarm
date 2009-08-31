@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)refclock_trak.c	1.4	05/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * refclock_trak - clock driver for the TRAK 8810 GPS Station Clock

@@ -33,7 +33,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)tic_captab.c	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	comp_captab.c -- The names of the capabilities in a form ready for

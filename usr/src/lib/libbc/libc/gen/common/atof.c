@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)atof.c	1.3	05/06/08 SMI" 
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 
 
 /*
  * Copyright (c) 1986 by Sun Microsystems, Inc. 

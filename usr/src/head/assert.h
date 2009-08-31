@@ -35,7 +35,7 @@
 #ifndef	_ASSERT_H
 #define	_ASSERT_H
 
-#pragma ident	"@(#)assert.h	1.12	05/06/08 SMI"	/* SVr4.0 1.6.1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6.1.4 */
 
 #if defined(_AEABI_PORTABILITY_LEVEL)
 #error "not supperted AEABI."

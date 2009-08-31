@@ -4,7 +4,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)getusershell.c	1.4	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/file.h>

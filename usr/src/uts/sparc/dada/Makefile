@@ -25,7 +25,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)Makefile	1.12	06/11/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	Path to the base of the uts directory tree (usually /usr/src/uts).

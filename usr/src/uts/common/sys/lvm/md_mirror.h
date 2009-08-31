@@ -27,7 +27,7 @@
 #ifndef _SYS_MD_MIRROR_H
 #define	_SYS_MD_MIRROR_H
 
-#pragma ident	"@(#)md_mirror.h	2.17	05/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/callb.h>
 #include <sys/lvm/mdvar.h>

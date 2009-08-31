@@ -1,7 +1,7 @@
 #ifndef _KDB2_XDR_H
 #define _KDB2_XDR_H
 
-#pragma ident	"@(#)kdb_xdr.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "kdb.h"
 

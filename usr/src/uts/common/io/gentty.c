@@ -31,7 +31,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)gentty.c	1.40	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 					/* from S5R4 1.22 */
 
 /*
@@ -118,7 +118,7 @@ extern struct dev_ops sy_ops;
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"Indirect driver for tty 'sy' 1.40",
+	"Indirect driver for tty 'sy' %I%",
 	&sy_ops,	/* driver ops */
 };
 

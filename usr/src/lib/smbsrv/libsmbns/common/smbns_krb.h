@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_SMB_KRB5_H
 #define	_SMBSRV_SMB_KRB5_H
 
-#pragma ident	"@(#)smbns_krb.h	1.3	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <gssapi/gssapi.h>
 #include <kerberosv5/krb5.h>

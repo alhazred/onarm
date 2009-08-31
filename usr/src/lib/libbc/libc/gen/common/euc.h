@@ -25,9 +25,9 @@
 
 /*	This module is created for NLS on Jan.07.87	*/
 
-#pragma ident	"@(#)euc.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-/* static  char *sccsid = "@(#)euc.h	1.4	05/06/08 SMI";	*/
+/* static  char *sccsid = "%Z%%M%	%I%	%E% SMI";	*/
 
 #define	SS2	0x008e
 #define	SS3	0x008f

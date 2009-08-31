@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)strpbrk.c	1.6	05/06/08 SMI"	/* from SVR4 bnu:strpbrk.c 2.2 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:strpbrk.c 2.2 */
 
 #include "uucp.h"
 

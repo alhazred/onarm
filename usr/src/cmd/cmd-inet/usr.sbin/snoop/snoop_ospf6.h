@@ -27,7 +27,7 @@
 #ifndef _OSPF6_H
 #define	_OSPF6_H
 
-#pragma ident	"@(#)snoop_ospf6.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Definitions for parsing OSPF packets (RFC 2328)

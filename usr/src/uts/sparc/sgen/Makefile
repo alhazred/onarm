@@ -25,7 +25,7 @@
 #
 
 #
-#ident	"@(#)Makefile	1.5	06/11/02 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This makefile drives the production of the sgen driver.
 # sparc architecture dependent

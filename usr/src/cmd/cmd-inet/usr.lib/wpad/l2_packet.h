@@ -11,7 +11,7 @@
 #ifndef __L2_PACKET_H
 #define	__L2_PACKET_H
 
-#pragma ident	"@(#)l2_packet.h	1.1	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

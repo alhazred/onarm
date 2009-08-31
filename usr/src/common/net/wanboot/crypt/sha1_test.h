@@ -27,7 +27,7 @@
 #ifndef _SHA1_TEST_H
 #define	_SHA1_TEST_H
 
-#pragma ident	"@(#)sha1_test.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

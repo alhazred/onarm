@@ -27,7 +27,7 @@
 #ifndef _SYS__MD_STRIPE_H
 #define	_SYS__MD_STRIPE_H
 
-#pragma ident	"@(#)md_stripe.h	2.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/lvm/mdvar.h>
 #include <sys/lvm/md_mirror_shared.h>

@@ -1,5 +1,5 @@
 #
-#pragma ident	"@(#)Makefile	1.3	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 1995 by Sun Microsystems, Inc.
 # All rights reserved.

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)init.c	1.1	06/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/fmd_snmp.h>
 #include <net-snmp/net-snmp-config.h>

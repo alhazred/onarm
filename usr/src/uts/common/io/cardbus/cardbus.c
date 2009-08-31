@@ -33,7 +33,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)cardbus.c	1.4	06/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Cardbus module
@@ -166,7 +166,7 @@ int cardbus_debug = 0;
 extern struct mod_ops mod_miscops;
 static struct modlmisc modlmisc = {
 	&mod_miscops,
-	"Cardbus Configurator support 1.4",
+	"Cardbus Configurator support %I%",
 };
 
 static struct modlinkage modlinkage = {

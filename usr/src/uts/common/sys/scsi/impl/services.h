@@ -26,7 +26,7 @@
 #ifndef	_SYS_SCSI_IMPL_SERVICES_H
 #define	_SYS_SCSI_IMPL_SERVICES_H
 
-#pragma ident	"@(#)services.h	1.45	07/10/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

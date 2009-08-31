@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCSI_SCSI_H
 #define	_SYS_SCSI_SCSI_H
 
-#pragma ident	"@(#)scsi.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Global Include for SCSI subsystem

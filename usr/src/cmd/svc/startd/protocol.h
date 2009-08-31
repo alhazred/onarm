@@ -27,7 +27,7 @@
 #ifndef	_PROTOCOL_H
 #define	_PROTOCOL_H
 
-#pragma ident	"@(#)protocol.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <startd.h>
 

@@ -27,7 +27,7 @@
 #ifndef _ASM_SUNDDI_H
 #define	_ASM_SUNDDI_H
 
-#pragma ident	"@(#)sunddi.h	1.1	05/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)misc.c	1.7	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "c_synonyms.h"
 #include <unistd.h>

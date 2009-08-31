@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)pwconv.c	1.15	06/03/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*  pwconv.c  */
 /*  Conversion aid to copy appropriate fields from the	*/

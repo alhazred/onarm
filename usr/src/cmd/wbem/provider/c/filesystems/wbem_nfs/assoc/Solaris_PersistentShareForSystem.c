@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)Solaris_PersistentShareForSystem.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "Solaris_PersistentShareForSystem.h"
 #include "nfs_keys.h"

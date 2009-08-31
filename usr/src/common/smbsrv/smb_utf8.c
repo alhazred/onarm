@@ -48,7 +48,7 @@
  * October 1996
  */
 
-#pragma ident	"@(#)smb_utf8.c	1.2	07/11/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef _KERNEL
 #include <sys/types.h>

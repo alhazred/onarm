@@ -31,7 +31,7 @@
 #ifndef	_NFS_SEC_H
 #define	_NFS_SEC_H
 
-#pragma ident	"@(#)nfs_sec.h	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

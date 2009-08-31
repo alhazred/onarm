@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)psignal.c	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Print the name of the signal indicated by "sig", along with the

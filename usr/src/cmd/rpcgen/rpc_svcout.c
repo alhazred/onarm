@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rpc_svcout.c	1.30	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rpc_svcout.c, Server-skeleton outputter for the RPC protocol compiler

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)meta_mn_msg_table.c	1.5	06/03/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <meta.h>
 

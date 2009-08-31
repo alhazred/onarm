@@ -100,7 +100,7 @@
 #ifndef FAI_DEFINED
 #define FAI_DEFINED
 
-#pragma ident	"@(#)fake-addrinfo.h	1.2	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "port-sockets.h"
 #include "socket-utils.h"

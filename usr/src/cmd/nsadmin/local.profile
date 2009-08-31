@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)local.profile	1.11	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 stty istrip
 PATH=/usr/bin:/usr/ucb:/etc:.
 export PATH

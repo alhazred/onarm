@@ -29,7 +29,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)utils.c	1.19	07/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mcs.h"
 #include "extern.h"

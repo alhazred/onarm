@@ -1,4 +1,4 @@
-#pragma ident	"@(#)deltat.c	1.2	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*  A Bison parser, made from ./x-deltat.y
     by GNU Bison version 1.28  */

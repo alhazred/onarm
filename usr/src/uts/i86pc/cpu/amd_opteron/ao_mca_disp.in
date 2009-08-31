@@ -20,7 +20,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)ao_mca_disp.in	1.5	07/10/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 funcunit = dc

@@ -22,7 +22,7 @@
 DHCP Service Library Synchronization
 Peter Memishian, Solaris Software, meem@east.sun.com
 
-#ident	"@(#)README.synch	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 Introduction
 ============

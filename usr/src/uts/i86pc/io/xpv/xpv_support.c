@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xpv_support.c	1.3	08/03/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/modctl.h>
 #include <sys/types.h>
@@ -123,7 +123,7 @@ static struct dev_ops xpv_dv_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"xpv driver 1.3",
+	"xpv driver %I%",
 	&xpv_dv_ops
 };
 

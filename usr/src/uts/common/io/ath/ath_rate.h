@@ -38,7 +38,7 @@
 #ifndef _ATH_RATE_H
 #define	_ATH_RATE_H
 
-#pragma ident	"@(#)ath_rate.h	1.2	06/11/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

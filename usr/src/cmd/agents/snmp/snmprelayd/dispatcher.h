@@ -33,7 +33,7 @@
 #ifndef _DISPATCHER_H_
 #define _DISPATCHER_H_
 
-#pragma ident	"@(#)dispatcher.h	1.7	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /***** GLOBAL CONTANTS *****/
 

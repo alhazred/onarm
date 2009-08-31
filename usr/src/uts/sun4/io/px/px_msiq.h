@@ -26,7 +26,7 @@
 #ifndef	_SYS_PX_MSIQ_H
 #define	_SYS_PX_MSIQ_H
 
-#pragma ident	"@(#)px_msiq.h	1.5	06/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

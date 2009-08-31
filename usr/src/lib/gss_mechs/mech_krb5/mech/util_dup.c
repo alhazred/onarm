@@ -1,4 +1,4 @@
-#pragma ident	"@(#)util_dup.c	1.2	02/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Copyright 1993 by OpenVision Technologies, Inc.
  * 

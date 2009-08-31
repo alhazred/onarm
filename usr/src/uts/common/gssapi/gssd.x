@@ -24,7 +24,7 @@
 % * Use is subject to license terms.
 % */
 %
-%#pragma ident	"@(#)gssd.x	1.47	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 %/*
 % *  RPC protocol information for gssd, the usermode daemon that

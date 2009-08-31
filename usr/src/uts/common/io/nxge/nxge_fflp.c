@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nxge_fflp.c	1.9	07/11/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <npi_fflp.h>
 #include <npi_mac.h>

@@ -28,7 +28,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)spawn.c	1.8	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "lint.h"
 #include "thr_uberdata.h"

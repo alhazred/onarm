@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)dns_nw.c	1.6	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(LIBC_SCCS) && !defined(lint)
 static const char rcsid[] = "$Id: dns_nw.c,v 1.25 2002/07/18 02:07:43 marka Exp $";

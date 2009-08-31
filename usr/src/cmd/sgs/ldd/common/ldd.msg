@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#pragma ident	"@(#)ldd.msg	1.20	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 @ _START_

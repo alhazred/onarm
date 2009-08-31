@@ -31,7 +31,7 @@
 #ifndef _SYS_FS_TMPNODE_H
 #define	_SYS_FS_TMPNODE_H
 
-#pragma ident	"@(#)tmpnode.h	1.31	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/t_lock.h>
 #include <sys/vfs_opreg.h>

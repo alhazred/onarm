@@ -47,7 +47,7 @@
 #ifndef _ISO_STDLIB_ISO_H
 #define	_ISO_STDLIB_ISO_H
 
-#pragma ident	"@(#)stdlib_iso.h	1.13	05/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(_AEABI_PORTABILITY_LEVEL)
 #error "not supported AEABI."

@@ -27,7 +27,7 @@
 #ifndef	_SCF_TYPE_H
 #define	_SCF_TYPE_H
 
-#pragma ident	"@(#)scf_type.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <repcache_protocol.h>
 

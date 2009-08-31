@@ -27,7 +27,7 @@
 #ifndef _VOLUME_LAYOUT_H
 #define	_VOLUME_LAYOUT_H
 
-#pragma ident	"@(#)layout.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

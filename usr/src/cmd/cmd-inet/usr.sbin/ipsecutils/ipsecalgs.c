@@ -24,7 +24,7 @@
  */
 
 
-#pragma ident	"@(#)ipsecalgs.c	1.4	07/05/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <ipsec_util.h>
 #include <netdb.h>

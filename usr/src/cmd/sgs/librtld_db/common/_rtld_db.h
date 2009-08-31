@@ -27,7 +27,7 @@
 #ifndef	__RTLD_DB_H
 #define	__RTLD_DB_H
 
-#pragma ident	"@(#)_rtld_db.h	1.18	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <proc_service.h>
 #include <thread.h>

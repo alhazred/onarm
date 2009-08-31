@@ -27,7 +27,7 @@
 #ifndef _SYS_POLLED_IO_H
 #define	_SYS_POLLED_IO_H
 
-#pragma ident	"@(#)polled_io.h	1.4	06/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)svc-forwarding	1.2	07/01/19 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # This script is the shared method script for the ipv4-routing, ipv6-routing,
 # ipv4-forwarding and ipv6-forwarding services.

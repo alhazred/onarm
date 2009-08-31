@@ -27,7 +27,7 @@
 #ifndef	_A_DOT_OUT_DOT_H
 #define	_A_DOT_OUT_DOT_H
 
-#pragma ident	"@(#)_a.out.h	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <a.out.h>

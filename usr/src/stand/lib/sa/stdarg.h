@@ -27,7 +27,7 @@
 #ifndef _SA_STDARG_H
 #define	_SA_STDARG_H
 
-#pragma ident	"@(#)stdarg.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Exported interfaces for standalone's subset of libc's <stdarg.h>.

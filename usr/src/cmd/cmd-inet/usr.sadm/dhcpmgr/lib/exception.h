@@ -27,7 +27,7 @@
 #ifndef _EXCEPTION_H
 #define	_EXCEPTION_H
 
-#pragma ident	"@(#)exception.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <jni.h>
 #include <dhcp_symbol.h>

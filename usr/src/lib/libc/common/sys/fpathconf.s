@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fpathconf.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"fpathconf.s"
+	.file	"%M%"
 
 /* C library -- fpathconf					*/
 /* int fpathconf(int fd, int name)				*/

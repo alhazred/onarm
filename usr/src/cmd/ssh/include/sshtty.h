@@ -38,7 +38,7 @@
 #ifndef	_SSHTTY_H
 #define	_SSHTTY_H
 
-#pragma ident	"@(#)sshtty.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

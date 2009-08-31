@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gssapi_err_krb5.h	1.4	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __GSSAPI_ERR_KRB5_H
 #define __GSSAPI_ERR_KRB5_H

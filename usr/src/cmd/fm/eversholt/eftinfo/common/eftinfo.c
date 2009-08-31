@@ -29,7 +29,7 @@
  * modules is driven by this file.
  */
 
-#pragma ident	"@(#)eftinfo.c	1.4	06/03/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)utilities.c	1.19	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * usr/src/cmd/cmd-inet/usr.bin/telnet/utilities.c

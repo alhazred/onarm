@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)cap.msg	1.3	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Message file for cmd/sgs/libconv/common/cap.c
 

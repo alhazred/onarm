@@ -44,7 +44,7 @@
 #ifndef _SYS_SOCKETVAR_H
 #define	_SYS_SOCKETVAR_H
 
-#pragma ident	"@(#)socketvar.h	1.85	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stream.h>

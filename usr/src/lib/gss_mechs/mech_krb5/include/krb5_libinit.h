@@ -1,7 +1,7 @@
 #ifndef KRB5_LIBINIT_H
 #define KRB5_LIBINIT_H
 
-#pragma ident	"@(#)krb5_libinit.h	1.1	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "krb5.h"
 

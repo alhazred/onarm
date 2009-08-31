@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ResourceMonitor.java	1.2	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -37,7 +37,7 @@ import	java.util.HashSet;
  * Mediator between data model the native interface and the client.
  * Implements the singleton pattern.
  * @author Sun Microsystems, Inc.
- * @version 1.2 06/08/05
+ * @version %I% %G%
  */
 public final class ResourceMonitor {
     /**

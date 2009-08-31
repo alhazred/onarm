@@ -29,7 +29,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: auth.c,v 1.45 2002/09/20 18:41:29 stevesk Exp $");
 
-#pragma ident	"@(#)auth.c	1.12	07/04/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef HAVE_LOGIN_H
 #include <login.h>

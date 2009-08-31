@@ -23,7 +23,7 @@
 # Copyright (c) 1994,1998,2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile	1.11	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/lp/client/conv_fix/Makefile
 #

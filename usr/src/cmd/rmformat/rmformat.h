@@ -27,7 +27,7 @@
 #ifndef	_RMFORMAT_H
 #define	_RMFORMAT_H
 
-#pragma ident	"@(#)rmformat.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contents the definitions for rmformat utility

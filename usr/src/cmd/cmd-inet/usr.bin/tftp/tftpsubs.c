@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)tftpsubs.c	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Simple minded read-ahead/write-behind subroutines for tftp user and

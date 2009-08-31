@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)percent_x.c	1.2	04/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /*
   * percent_x() takes a string and performs %<char> expansions. It aborts the

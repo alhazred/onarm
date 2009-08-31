@@ -27,7 +27,7 @@
 #ifndef _TODSG_H
 #define	_TODSG_H
 
-#pragma ident	"@(#)todsg.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

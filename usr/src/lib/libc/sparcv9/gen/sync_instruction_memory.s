@@ -24,9 +24,9 @@
  * All rights reserved.
  */
 
-.ident	"@(#)sync_instruction_memory.s	1.4	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"sync_instruction_memory.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

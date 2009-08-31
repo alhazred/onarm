@@ -35,7 +35,7 @@
 #ifndef _NETSMB_SMB_TRAN_H_
 #define	_NETSMB_SMB_TRAN_H_
 
-#pragma ident	"@(#)smb_tran.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/socket.h>
 

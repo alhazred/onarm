@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)i.pkcs11confbase	1.4	08/02/26 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 while read src dest
 do

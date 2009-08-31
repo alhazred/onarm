@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cancel.c	1.15	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "lint.h"
 #include "thr_uberdata.h"

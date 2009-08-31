@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)libldstab.msg	1.6	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 
 @ _START_

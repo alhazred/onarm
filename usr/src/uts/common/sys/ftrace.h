@@ -26,7 +26,7 @@
 #ifndef	_SYS_FTRACE_H
 #define	_SYS_FTRACE_H
 
-#pragma ident	"@(#)ftrace.h	1.4	07/01/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

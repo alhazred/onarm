@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)vold.c	1.2	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Vold compatibility for rmvolmgr: emulate old commands as well as

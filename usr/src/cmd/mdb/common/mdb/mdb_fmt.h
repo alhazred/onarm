@@ -27,7 +27,7 @@
 #ifndef	_MDB_FMT_H
 #define	_MDB_FMT_H
 
-#pragma ident	"@(#)mdb_fmt.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_target.h>
 

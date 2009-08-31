@@ -27,7 +27,7 @@
 #ifndef	_SYS_FDREG_H
 #define	_SYS_FDREG_H
 
-#pragma ident	"@(#)fdreg.h	1.26	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)general.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains public API functions for module-level tasks.  For the

@@ -26,7 +26,7 @@
 #ifndef _TNFCTL_INT_H
 #define	_TNFCTL_INT_H
 
-#pragma ident	"@(#)tnfctl_int.h	1.45	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Interfaces private to libtnfctl

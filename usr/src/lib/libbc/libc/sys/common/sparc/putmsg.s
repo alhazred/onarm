@@ -25,7 +25,7 @@
 
 /*	Copyright (c) 1989 by Sun Microsystems, Inc.		*/
 
-.ident	"@(#)putmsg.s	1.4	05/06/08 SMI"	/* SVr4.0 1.5	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5	*/
 
 /* C library -- putmsg						*/
 /* int putmsg (int fd, struct const strbuf *ctlptr,

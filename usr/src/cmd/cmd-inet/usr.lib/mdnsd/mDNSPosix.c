@@ -289,7 +289,7 @@ Revision 1.1  2002/09/17 06:24:34  cheshire
 First checkin
 */
 
-#pragma ident	"@(#)mDNSPosix.c	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mDNSEmbeddedAPI.h"           // Defines the interface provided to the client layer above
 #include "mDNSPosix.h"				 // Defines the specific types needed to run mDNS on this platform

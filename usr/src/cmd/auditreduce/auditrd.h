@@ -26,7 +26,7 @@
 #ifndef	_AUDITRD_H
 #define	_AUDITRD_H
 
-#pragma ident	"@(#)auditrd.h	1.17	06/04/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

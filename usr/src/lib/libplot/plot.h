@@ -27,7 +27,7 @@
 #ifndef	_PLOT_H
 #define	_PLOT_H
 
-#pragma ident	"@(#)plot.h	1.3	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 #ifdef	__cplusplus
 extern "C" {

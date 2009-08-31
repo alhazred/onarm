@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)main.c	1.36	07/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "defs.h"
 #include "tables.h"

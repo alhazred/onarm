@@ -27,7 +27,7 @@
 
 /* $Id: attribute.c 157 2006-04-26 15:07:55Z ktou $ */
 
-#pragma ident	"@(#)attribute.c	1.2	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

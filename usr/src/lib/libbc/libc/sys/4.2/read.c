@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)read.c	1.9	06/11/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "../common/compat.h"
 #include <errno.h>

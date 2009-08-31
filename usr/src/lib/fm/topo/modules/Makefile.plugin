@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.plugin	1.6	07/09/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 .KEEP_STATE:

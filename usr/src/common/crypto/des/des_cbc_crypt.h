@@ -27,7 +27,7 @@
 #ifndef	_DES_CBC_CRYPT_H
 #define	_DES_CBC_CRYPT_H
 
-#pragma ident	"@(#)des_cbc_crypt.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

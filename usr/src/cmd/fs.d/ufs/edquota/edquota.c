@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)edquota.c	1.31	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Disk quota editor.

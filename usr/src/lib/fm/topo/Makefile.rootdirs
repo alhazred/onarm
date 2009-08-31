@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.rootdirs	1.2	06/11/03 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Define the transitive set of rules to create a common module's install dir

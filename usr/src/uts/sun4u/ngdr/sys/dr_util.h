@@ -26,7 +26,7 @@
 #ifndef _SYS_DR_UTIL_H_
 #define	_SYS_DR_UTIL_H_
 
-#pragma ident	"@(#)dr_util.h	1.3	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/memlist.h>

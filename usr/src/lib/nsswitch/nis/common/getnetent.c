@@ -27,7 +27,7 @@
  *	nis/getnetent.c -- "nis" backend for nsswitch "networks" database
  */
 
-#pragma ident	"@(#)getnetent.c	1.12	07/04/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "nis_common.h"
 #include <synch.h>

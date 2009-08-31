@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)getnetgrent_r.c	1.3	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(LIBC_SCCS) && !defined(lint)
 static const char rcsid[] = "$Id: getnetgrent_r.c,v 8.7 2003/04/29 05:51:14 marka Exp $";

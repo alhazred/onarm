@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)sunw_dst_init.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_SUNW_DST_INIT_H
 #define	_SUNW_DST_INIT_H

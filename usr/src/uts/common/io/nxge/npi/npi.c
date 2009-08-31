@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)npi.c	1.1	06/11/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <npi.h>
 #include <sys/nxge/nxge_impl.h>

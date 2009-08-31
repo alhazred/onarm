@@ -27,7 +27,7 @@
 #ifndef	_SYS_FSS_H
 #define	_SYS_FSS_H
 
-#pragma ident	"@(#)fss.h	1.6	07/03/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/thread.h>

@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)Makefile	1.18	07/01/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the PCIC style PCMCIA adapter
 #	It is mostly a standard driver

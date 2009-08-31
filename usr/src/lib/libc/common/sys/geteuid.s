@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)geteuid.s	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"geteuid.s"
+	.file	"%M%"
 
 /*
  * C library -- geteuid

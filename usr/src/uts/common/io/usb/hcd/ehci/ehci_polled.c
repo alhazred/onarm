@@ -25,7 +25,7 @@
 /*
  * Copyright (c) 2008 NEC Corporation
  */
-#pragma ident	"@(#)ehci_polled.c	1.12	06/02/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * EHCI Host Controller Driver (EHCI)

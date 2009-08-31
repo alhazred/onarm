@@ -26,7 +26,7 @@
 #ifndef	_DM_PLATFORM_H
 #define	_DM_PLATFORM_H
 
-#pragma ident	"@(#)dm_platform.h	1.1	07/03/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "dm_types.h"
 

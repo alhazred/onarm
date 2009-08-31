@@ -28,7 +28,7 @@
 #ifndef _TZFILE_H
 #define	_TZFILE_H
 
-#pragma ident	"@(#)tzfile.h	1.15	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/tzfile.h>
 

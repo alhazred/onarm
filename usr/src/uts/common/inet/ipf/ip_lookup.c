@@ -7,7 +7,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_lookup.c	1.5	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(KERNEL) || defined(_KERNEL)
 # undef KERNEL

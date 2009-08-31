@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)n1.c	1.26	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 char *xxxvers = "@(#)roff:n1.c	2.13";
 /*

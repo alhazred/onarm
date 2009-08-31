@@ -21,6 +21,6 @@
 # Copyright 1997 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 
-#pragma ident	"@(#)space	1.4	07/03/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 etc/snmp/conf/snmpd.conf 5 1

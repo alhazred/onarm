@@ -30,7 +30,7 @@
 #ifndef _SYS_CLASS_H
 #define	_SYS_CLASS_H
 
-#pragma ident	"@(#)class.h	1.43	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/t_lock.h>
 #include <sys/cred.h>

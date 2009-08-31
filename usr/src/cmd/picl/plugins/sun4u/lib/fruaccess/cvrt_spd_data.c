@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cvrt_spd_data.c	1.4	05/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "fru_access_impl.h"
 

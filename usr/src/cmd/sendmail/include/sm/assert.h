@@ -9,7 +9,7 @@
  *	$Id: assert.h,v 1.10 2001/06/07 20:04:53 ca Exp $
  */
 
-#pragma ident	"@(#)assert.h	1.1	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  libsm abnormal program termination and assertion checking

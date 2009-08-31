@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tst.args.d	1.2	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ASSERTION: Make sure we're correctly reporting arguments to syscall probes.

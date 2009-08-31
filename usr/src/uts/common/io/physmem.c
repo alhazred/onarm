@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)physmem.c	1.4	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/modctl.h>
@@ -954,7 +954,7 @@ static struct dev_ops physmem_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"physmem driver 1.4",
+	"physmem driver %I%",
 	&physmem_ops
 };
 

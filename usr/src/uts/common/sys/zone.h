@@ -26,7 +26,7 @@
 #ifndef _SYS_ZONE_H
 #define	_SYS_ZONE_H
 
-#pragma ident	"@(#)zone.h	1.31	08/01/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/mutex.h>

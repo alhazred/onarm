@@ -27,7 +27,7 @@
 #ifndef	_TND_H_
 #define	_TND_H_
 
-#pragma ident	"@(#)tnd.h	1.1	07/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

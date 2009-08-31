@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)IANACharCode.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)IANACharCode.java	1.4	06/08/05
+//  SCCS Status:      %W%	%G%
 //  IANACharCode.java: SLPv1 Character encoding support
 //  Author:           James Kempf
 //  Created On:       Fri Sep 11 13:24:02 1998
@@ -49,7 +49,7 @@ import java.io.*;
  * of character codings into the integer codes. Ideally, Java itself
  * should support this.
  *
- * @version 1.4 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

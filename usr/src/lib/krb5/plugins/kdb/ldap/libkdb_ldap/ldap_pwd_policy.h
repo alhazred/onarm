@@ -31,7 +31,7 @@
 #ifndef _LDAP_KRBPWDPOLICY_H_
 #define _LDAP_KRBPWDPOLICY_H_
  
-#pragma ident	"@(#)ldap_pwd_policy.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 krb5_error_code
 krb5_ldap_get_password_policy (krb5_context , char *, osa_policy_ent_t *, int *);

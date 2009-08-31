@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SLPV1SAttrMsg.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)SLPV1SAttrMsg.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SLPV1SAttrMsg.java: SLPv1 Attribute request for server.
 //  Author:           James Kempf
 //  Created On:       Fri Sep 11 13:23:28 1998
@@ -47,7 +47,7 @@ import java.io.*;
 /**
  * The SLPV1SAttrMsg class models the SLP server side attribute message.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

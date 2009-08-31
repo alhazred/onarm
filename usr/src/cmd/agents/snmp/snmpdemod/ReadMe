@@ -22,7 +22,7 @@
 # Copyright 1996 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)ReadMe	1.5	05/06/12 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 steps to create the sample agent using the agent toolkit.

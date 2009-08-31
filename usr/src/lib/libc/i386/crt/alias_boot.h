@@ -26,7 +26,7 @@
 #ifndef	_ALIAS_BOOT_H
 #define	_ALIAS_BOOT_H
 
-#ident	"@(#)alias_boot.h	1.2	05/06/08 SMI"
+#ident	"%W%	%E% SMI"
 
 /*
  * Offsets for string constants used in alias bootstrap.

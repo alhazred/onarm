@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#ident	"@(#)fsm.txt	1.4	06/03/28 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 
 	/*

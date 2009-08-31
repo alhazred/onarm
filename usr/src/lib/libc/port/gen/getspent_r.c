@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getspent_r.c	1.14	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak setspent	= _setspent
 #pragma weak endspent	= _endspent

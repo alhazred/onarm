@@ -27,7 +27,7 @@
 #ifndef	_PICLTREE_H
 #define	_PICLTREE_H
 
-#pragma ident	"@(#)picltree.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

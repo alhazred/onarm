@@ -41,7 +41,7 @@
  * $Id: ppp_ahdlc.c,v 1.16 2000/03/06 19:38:12 masputra Exp $
  */
 
-#pragma ident	"@(#)spppasyn.c	1.6	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

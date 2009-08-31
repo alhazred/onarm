@@ -31,7 +31,7 @@
  * California.
  */
 
-#pragma ident	"@(#)svc_simple.c	1.28	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * svc_simple.c

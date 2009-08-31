@@ -28,7 +28,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)hash.c	1.10	05/06/08 SMI" 	/* SVr4.0 1.4	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.4	*/
 
 #pragma weak	elf_hash = _elf_hash
 

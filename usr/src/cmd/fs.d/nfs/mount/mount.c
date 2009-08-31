@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)mount.c	1.135	08/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * nfs mount

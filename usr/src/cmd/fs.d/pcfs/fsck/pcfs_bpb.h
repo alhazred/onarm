@@ -31,7 +31,7 @@
 #ifndef _PCFS_BPB_H
 #define	_PCFS_BPB_H
 
-#pragma ident	"@(#)pcfs_bpb.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

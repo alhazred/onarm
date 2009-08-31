@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mlsvc_srvsvc.c	1.3	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Server Service RPC (SRVSVC) server-side interface definition.

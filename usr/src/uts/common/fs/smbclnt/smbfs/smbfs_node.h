@@ -40,7 +40,7 @@
 #ifndef _FS_SMBFS_NODE_H_
 #define	_FS_SMBFS_NODE_H_
 
-#pragma ident	"@(#)smbfs_node.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Much code copied into here from Sun NFS.

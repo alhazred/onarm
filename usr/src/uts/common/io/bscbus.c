@@ -32,7 +32,7 @@
  * registers signify - only the clients need this information.
  */
 
-#pragma ident	"@(#)bscbus.c	1.8	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 #include <sys/types.h>
@@ -2560,7 +2560,7 @@ static struct dev_ops bscbus_dev_ops =
 static struct modldrv modldrv =
 {
 	&mod_driverops,
-	"bscbus driver, v1.8",
+	"bscbus driver, v%I%",
 	&bscbus_dev_ops
 };
 

@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)ramdata.c	1.27	06/06/02 SMI"	/* SVr4.0 1.3	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 
 #include <stdio.h>
 #include <stdlib.h>

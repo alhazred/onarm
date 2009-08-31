@@ -26,7 +26,7 @@
 #ifndef	_SYS_PX_SPACE_H
 #define	_SYS_PX_SPACE_H
 
-#pragma ident	"@(#)px_space.h	1.14	07/07/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

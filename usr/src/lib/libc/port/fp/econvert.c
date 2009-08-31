@@ -28,7 +28,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)econvert.c	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak econvert = _econvert
 #pragma weak seconvert = _seconvert

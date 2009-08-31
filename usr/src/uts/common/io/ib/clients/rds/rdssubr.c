@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rdssubr.c	1.2	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ib/clients/rds/rds.h>
 #include <sys/ib/clients/rds/rds_kstat.h>

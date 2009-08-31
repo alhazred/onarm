@@ -32,7 +32,7 @@
 #ifndef _NETINET_PPPOE_H
 #define	_NETINET_PPPOE_H
 
-#pragma ident	"@(#)pppoe.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

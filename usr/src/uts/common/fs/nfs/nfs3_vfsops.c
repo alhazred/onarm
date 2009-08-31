@@ -28,7 +28,7 @@
  *	All rights reserved.
  */
 
-#pragma ident	"@(#)nfs3_vfsops.c	1.147	07/03/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

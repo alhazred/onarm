@@ -25,7 +25,7 @@
 #ifndef _SYS_USB_SCSA2USB_H
 #define	_SYS_USB_SCSA2USB_H
 
-#pragma ident	"@(#)scsa2usb.h	1.43	08/01/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

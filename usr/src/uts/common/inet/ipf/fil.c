@@ -11,7 +11,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)fil.c	1.21	08/01/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(KERNEL) || defined(_KERNEL)
 # undef KERNEL

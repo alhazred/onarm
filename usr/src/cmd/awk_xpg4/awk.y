@@ -43,7 +43,7 @@
  * is codeset independent.
  */
 
-#ident	"@(#)awk.y	1.5	05/06/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #include "awk.h"
 static NODE * fliplist ANSI((NODE *np));
 %}

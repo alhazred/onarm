@@ -23,7 +23,7 @@
 # CDDL HEADER END
 #
 
-#ident	"@(#)usb_as_with_sada.wlcmd	1.10	06/11/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # warlock command file
 

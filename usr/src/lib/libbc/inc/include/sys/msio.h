@@ -27,7 +27,7 @@
 #ifndef _sundev_msio_h
 #define	_sundev_msio_h
 
-#pragma ident	"@(#)msio.h	1.4	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Mouse related ioctls

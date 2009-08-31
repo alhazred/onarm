@@ -32,7 +32,7 @@
  * $Id: ctx.c,v 1.32.70.2 2005/06/02 00:55:40 lindak Exp $
  */
 
-#pragma ident	"@(#)ctx.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/ioctl.h>

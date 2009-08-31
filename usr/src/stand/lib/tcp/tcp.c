@@ -26,7 +26,7 @@
  * tcp.c, Code implementing the TCP protocol.
  */
 
-#pragma ident	"@(#)tcp.c	1.11	08/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <socket_impl.h>

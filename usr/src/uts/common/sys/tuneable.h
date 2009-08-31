@@ -26,7 +26,7 @@
 #ifndef _SYS_TUNEABLE_H
 #define	_SYS_TUNEABLE_H
 
-#pragma ident	"@(#)tuneable.h	1.11	05/06/08 SMI"	/* SVr4.0 11.7 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.7 */
 
 #ifdef	__cplusplus
 extern "C" {

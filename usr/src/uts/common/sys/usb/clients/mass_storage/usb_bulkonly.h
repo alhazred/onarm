@@ -27,7 +27,7 @@
 #ifndef _SYS_USB_BULKONLY_H
 #define	_SYS_USB_BULKONLY_H
 
-#pragma ident	"@(#)usb_bulkonly.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

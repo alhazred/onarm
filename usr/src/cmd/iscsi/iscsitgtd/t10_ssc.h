@@ -27,7 +27,7 @@
 #ifndef _T10_SSC_H
 #define	_T10_SSC_H
 
-#pragma ident	"@(#)t10_ssc.h	1.1	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Implementation specific headers for SCSI Streaming Commands (Tapes)

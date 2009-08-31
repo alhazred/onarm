@@ -25,7 +25,7 @@
 
 /*	Copyright (c) 1989 by Sun Microsystems, Inc.		*/
 
-.ident	"@(#)fpsetmask.s	1.9	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 		/* SVr4.0 1.4.1.9	*/
 
 /*

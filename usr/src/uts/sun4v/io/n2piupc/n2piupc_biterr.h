@@ -27,7 +27,7 @@
 #ifndef	_N2PIUPC_BITERR_H
 #define	_N2PIUPC_BITERR_H
 
-#pragma ident	"@(#)n2piupc_biterr.h	1.1	06/12/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * "Virtual register" definitions for the bit error performance counters.

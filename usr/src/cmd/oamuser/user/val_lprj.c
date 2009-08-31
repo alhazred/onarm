@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)val_lprj.c	1.5	05/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<sys/types.h>
 #include	<stdio.h>

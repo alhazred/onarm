@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)gmac.h	1.4	07/03/15 SMI"	/* gmac.h */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* gmac.h */
 
 #ifndef CHELSIO_GMAC_H
 #define CHELSIO_GMAC_H

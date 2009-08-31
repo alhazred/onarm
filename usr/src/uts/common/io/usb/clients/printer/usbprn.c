@@ -27,7 +27,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)usbprn.c	1.31	05/11/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Printer Class Driver for USB
@@ -180,7 +180,7 @@ static struct dev_ops usbprn_ops = {
 
 static struct modldrv usbprnmodldrv =	{
 	&mod_driverops,
-	"USB printer client driver 1.31",
+	"USB printer client driver %I%",
 	&usbprn_ops
 };
 

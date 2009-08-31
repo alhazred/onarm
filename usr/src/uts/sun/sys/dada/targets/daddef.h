@@ -26,7 +26,7 @@
 #ifndef	_SYS_DADA_TARGETS_DADDF_H
 #define	_SYS_DADA_TARGETS_DADDF_H
 
-#pragma ident	"@(#)daddef.h	1.25	07/02/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include <sys/note.h>
 #include <sys/cmlb.h>
 

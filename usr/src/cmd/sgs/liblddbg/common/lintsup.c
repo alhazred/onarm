@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lintsup.c	1.4	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* LINTLIBRARY */
 /* PROTOLIB1 */

@@ -31,7 +31,7 @@
 #ifndef _SYS_RT_H
 #define	_SYS_RT_H
 
-#pragma ident	"@(#)rt.h	1.17	05/06/08 SMI"	/* SVr4.0 1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4 */
 
 #include <sys/types.h>
 #include <sys/thread.h>

@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)g72x_tables.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 unsigned char	_fmultanexp[32768] = {
 	0,	1,	2,	2,	3,	3,	3,	3,

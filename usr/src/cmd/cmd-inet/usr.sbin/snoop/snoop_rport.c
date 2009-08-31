@@ -24,7 +24,7 @@
  */
 
 
-#pragma ident	"@(#)snoop_rport.c	1.26	07/08/13 SMI"	/* SunOS */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS */
 
 #include <stdio.h>
 #include <stdlib.h>

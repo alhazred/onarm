@@ -1,4 +1,4 @@
-#pragma ident	"@(#)signal.h	1.6	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1982 Regents of the University of California.

@@ -26,7 +26,7 @@
 #ifndef	_SYS_MEMLIST_H
 #define	_SYS_MEMLIST_H
 
-#pragma ident	"@(#)memlist.h	1.9	07/09/18 SMI" /* SunOS-4.0 1.7 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* SunOS-4.0 1.7 */
 
 /*
  * Common memlist format, exported by boot.

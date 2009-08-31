@@ -27,7 +27,7 @@
 #ifndef _IPP_FLOWACCT_FLOWACCT_IMPL_H
 #define	_IPP_FLOWACCT_FLOWACCT_IMPL_H
 
-#pragma ident	"@(#)flowacct_impl.h	1.5	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/cmn_err.h>

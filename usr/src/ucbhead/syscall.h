@@ -38,7 +38,7 @@
 
 #ifndef _SYS_SYSCALL_H
 
-#pragma ident	"@(#)syscall.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/syscall.h>
 

@@ -8,7 +8,7 @@
 #ifndef _KRB5_H
 #define _KRB5_H
 
-#pragma ident	"@(#)krb5.h	1.21	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define SIZEOF_INT 4
 

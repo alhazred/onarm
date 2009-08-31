@@ -27,7 +27,7 @@
 #ifndef	_MDB_LEX_H
 #define	_MDB_LEX_H
 
-#pragma ident	"@(#)mdb_lex.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_argvec.h>
 #include <mdb/mdb_nv.h>

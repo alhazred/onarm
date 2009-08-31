@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)validate.h	1.9	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The old LP Spooler would take a job destined for a class of printers

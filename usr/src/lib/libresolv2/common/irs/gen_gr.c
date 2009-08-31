@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)gen_gr.c	1.6	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(LINT) && !defined(CODECENTER)
 static const char rcsid[] = "$Id: gen_gr.c,v 1.26 2002/07/18 02:07:44 marka Exp $";

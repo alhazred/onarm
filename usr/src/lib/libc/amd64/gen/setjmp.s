@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)setjmp.s	1.2	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"setjmp.s"
+	.file	"%M%"
 
 /*
  *	longjmp(env, val)

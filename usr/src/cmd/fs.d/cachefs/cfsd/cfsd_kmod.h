@@ -32,7 +32,7 @@
 #ifndef _CFSD_KMOD
 #define	_CFSD_KMOD
 
-#pragma ident	"@(#)cfsd_kmod.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef struct cfsd_kmod_object {
 	char	i_path[MAXPATHLEN];	/* path to root of file system */

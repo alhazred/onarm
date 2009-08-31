@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)iob.c	1.9	05/06/08 SMI"  /* from Sun */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"  /* from Sun */
 
 #include <stdio.h>
 #include "iob.h"

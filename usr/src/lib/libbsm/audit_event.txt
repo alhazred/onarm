@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)audit_event.txt	1.108	08/01/11 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Audit Event Database
 #

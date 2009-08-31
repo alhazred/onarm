@@ -27,7 +27,7 @@
 #ifndef	_MDB_H
 #define	_MDB_H
 
-#pragma ident	"@(#)mdb.h	1.20	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_nv.h>
 #include <mdb/mdb_io.h>

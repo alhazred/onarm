@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)parse.c	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "awk.def"
 #include "awk.h"

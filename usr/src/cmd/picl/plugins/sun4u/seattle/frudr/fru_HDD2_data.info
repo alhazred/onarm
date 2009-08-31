@@ -25,7 +25,7 @@
  */
 
 /*
- * ident	"@(#)fru_HDD2_data.info	1.2	06/05/11 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * This configuration file is parsed by PICL plugin envmon in response
  * to a PICL_FRU_ADDED event for HDD2
@@ -68,7 +68,7 @@
 #ifndef id
 #define	id(s)	#ident s
 #endif
-id("@(#)fru_HDD2_data.info 1.2     06/05/11 SMI")
+id("%Z%%M% %I%     %E% SMI")
 
 #ifndef DISKBP3
 #define DISKBP3 /frutree/chassis/MB/system-board/HDDBP/disk-backplane-3

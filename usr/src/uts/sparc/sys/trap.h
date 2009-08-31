@@ -27,7 +27,7 @@
 #ifndef	_SYS_TRAP_H
 #define	_SYS_TRAP_H
 
-#pragma ident	"@(#)trap.h	1.35	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

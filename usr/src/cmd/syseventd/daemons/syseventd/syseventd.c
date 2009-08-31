@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)syseventd.c	1.21	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	syseventd - The system event daemon

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gssapi_err_generic.c	1.4	04/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <locale.h>
 const char *

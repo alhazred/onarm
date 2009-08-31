@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fileset.c	1.2	07/11/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <fcntl.h>

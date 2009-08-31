@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)mkkey.awk	1.5	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # mkkey.awk
 #

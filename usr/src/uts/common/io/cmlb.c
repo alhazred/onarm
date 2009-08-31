@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)cmlb.c	1.8	08/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This module provides support for labeling operations for target
@@ -159,7 +159,7 @@ int cmlb_rot_delay = 4;	/* default rotational delay */
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,   /* Type of module */
-	"Common Labeling module 1.8"
+	"Common Labeling module %I%"
 };
 
 static struct modlinkage modlinkage = {

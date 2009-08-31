@@ -31,7 +31,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)place.c	1.52	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Map file parsing and input section to output segment mapping.

@@ -25,7 +25,7 @@
  * raidctl.c is the entry file of RAID configuration utility.
  */
 
-#pragma ident	"@(#)raidctl.c	1.23	07/12/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <ctype.h>
 #include <sys/types.h>

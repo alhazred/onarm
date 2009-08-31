@@ -34,9 +34,9 @@
  * For further details - see bug#4433015
  */
 
-#pragma ident	"@(#)crtn.s	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file		"crtn.s"
+	.file		"%M%"
 
 /*
  * _init function epilogue

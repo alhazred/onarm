@@ -27,7 +27,7 @@
 #ifndef	_FMD_RPC_H
 #define	_FMD_RPC_H
 
-#pragma ident	"@(#)fmd_rpc.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

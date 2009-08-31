@@ -26,7 +26,7 @@
 #ifndef _SYS_PPMVAR_H
 #define	_SYS_PPMVAR_H
 
-#pragma ident	"@(#)ppmvar.h	1.15	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/epm.h>
 #include <sys/sunldi.h>

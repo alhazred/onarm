@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)uword.c	1.19	05/11/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Read/write user memory procedures for Sparc9 FPU simulator. */
 

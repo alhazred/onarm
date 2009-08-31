@@ -22,7 +22,7 @@
 #
 #
 # Copyr 1990 Sun Microsystems, Inc.  
-#ident	"@(#)ypxfr_2perday.sh	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # ypxfr_2perday.sh - Do twice-daily NIS map check/updates
 #

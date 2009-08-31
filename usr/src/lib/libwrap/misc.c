@@ -2,7 +2,7 @@
  * Copyright 2001 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)misc.c	1.2	05/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /*
   * Misc routines that are used by tcpd and by tcpdchk.

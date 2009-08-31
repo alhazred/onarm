@@ -27,7 +27,7 @@
 #ifndef	_SYS_KSYMS_H
 #define	_SYS_KSYMS_H
 
-#pragma ident	"@(#)ksyms.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/kobj.h>
 

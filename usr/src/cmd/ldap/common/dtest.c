@@ -5,7 +5,7 @@
  *
  */
 
-#pragma ident	"@(#)dtest.c	1.3	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* dtest.c - lber decoding test program */
 /*
  * Copyright (c) 1990 Regents of the University of Michigan.

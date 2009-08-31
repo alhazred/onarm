@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)xdr_float.c	1.22	06/12/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Generic XDR routines impelmentation.

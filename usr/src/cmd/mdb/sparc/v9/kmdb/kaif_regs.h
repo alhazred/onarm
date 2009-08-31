@@ -26,7 +26,7 @@
 #ifndef _KAIF_REGS_H
 #define	_KAIF_REGS_H
 
-#pragma ident	"@(#)kaif_regs.h	1.4	06/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM
 #include <sys/types.h>

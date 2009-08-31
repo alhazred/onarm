@@ -27,7 +27,7 @@
 #ifndef _VARIABLES_H
 #define	_VARIABLES_H
 
-#pragma ident	"@(#)variables.h	1.1	07/03/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libdlwlan.h>
 #include <sys/zone.h>

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dev.c	1.6	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <limits.h>
 #include <strings.h>

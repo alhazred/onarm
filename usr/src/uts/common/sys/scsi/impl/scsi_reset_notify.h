@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCSI_RESET_NOTIFY_H
 #define	_SYS_SCSI_RESET_NOTIFY_H
 
-#pragma ident	"@(#)scsi_reset_notify.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 #include <sys/scsi/scsi_types.h>

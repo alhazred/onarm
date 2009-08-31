@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)nis_p.h	1.2	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * $Id: nis_p.h,v 1.6 1999/01/08 19:25:03 vixie Exp $

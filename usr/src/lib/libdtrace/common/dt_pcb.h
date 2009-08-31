@@ -27,7 +27,7 @@
 #ifndef	_DT_PCB_H
 #define	_DT_PCB_H
 
-#pragma ident	"@(#)dt_pcb.h	1.4	05/07/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dtrace.h>
 #include <setjmp.h>

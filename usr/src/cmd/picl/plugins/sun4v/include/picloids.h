@@ -27,7 +27,7 @@
 #ifndef	_PICLOIDS_H
 #define	_PICLOIDS_H
 
-#pragma ident	"@(#)picloids.h	1.1	07/03/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

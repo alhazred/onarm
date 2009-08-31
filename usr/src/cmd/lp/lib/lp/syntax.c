@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)syntax.c	1.9	07/05/18 SMI"	/* SVr4.0 1.5	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5	*/
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "ctype.h"

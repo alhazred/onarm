@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)prmachdep.c	1.86	07/03/29 SMI"	/* SVr4.0 1.8 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8 */
 
 #include <sys/types.h>
 #include <sys/t_lock.h>

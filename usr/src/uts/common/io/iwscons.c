@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)iwscons.c	1.46	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * workstation console redirecting driver
@@ -685,7 +685,7 @@ struct dev_ops	iwscn_ops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"Workstation Redirection driver 1.46",
+	"Workstation Redirection driver %I%",
 	&iwscn_ops,	/* driver ops */
 };
 

@@ -27,7 +27,7 @@
 #ifndef	_RULES_H
 #define	_RULES_H
 
-#pragma ident	"@(#)rules.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	MAX_RULE_SZ	MAXPATHLEN+80
 

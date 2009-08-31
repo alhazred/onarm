@@ -27,7 +27,7 @@
 #ifndef	_SYS_PLAT_ECC_DIMM_H
 #define	_SYS_PLAT_ECC_DIMM_H
 
-#pragma ident	"@(#)plat_ecc_dimm.h	1.1	05/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

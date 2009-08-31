@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)util_err.c	1.4	08/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libintl.h>
 #include "errcode.h"

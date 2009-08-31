@@ -43,7 +43,7 @@
 #ifndef	_VM_PAGE_H
 #define	_VM_PAGE_H
 
-#pragma ident	"@(#)page.h	1.188	07/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <vm/seg.h>
 

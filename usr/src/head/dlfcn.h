@@ -31,7 +31,7 @@
 #ifndef _DLFCN_H
 #define	_DLFCN_H
 
-#pragma ident	"@(#)dlfcn.h	1.45	05/07/19 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

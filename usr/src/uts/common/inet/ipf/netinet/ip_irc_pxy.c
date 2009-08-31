@@ -9,7 +9,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_irc_pxy.c	1.5	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	IPF_IRC_PROXY
 

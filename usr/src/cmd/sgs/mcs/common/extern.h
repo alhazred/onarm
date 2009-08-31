@@ -27,7 +27,7 @@
  *	Copyright (c) 1995 by Sun Microsystems, Inc.
  *	All Rights Reserved
  */
-#pragma ident	"@(#)extern.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern int actmax;
 extern char *elftmpfile, *artmpfile;

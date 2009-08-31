@@ -31,7 +31,7 @@
 #ifndef	_SYS_AUDIO_MIXER_IMPL_H
 #define	_SYS_AUDIO_MIXER_IMPL_H
 
-#pragma ident	"@(#)audio_mixer_impl.h	1.26	06/12/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

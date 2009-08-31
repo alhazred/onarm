@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 #
-# ident	"@(#)Makefile.tools	1.7	07/05/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG=		ipf ipfs ipmon ipnat ippool ipfstat

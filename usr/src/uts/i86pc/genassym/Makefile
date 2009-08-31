@@ -28,7 +28,7 @@
 #
 
 #
-# ident	"@(#)Makefile	1.15	07/10/18 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of assym.h through
 #	compile time intialized data.

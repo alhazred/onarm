@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.congo	1.1	07/10/23 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	Global definitions for sun4v congo implementation specific modules.
 #

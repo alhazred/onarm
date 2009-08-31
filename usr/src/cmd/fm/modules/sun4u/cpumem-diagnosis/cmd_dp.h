@@ -27,7 +27,7 @@
 #ifndef _CMD_DATAPATH_H
 #define	_CMD_DATAPATH_H
 
-#pragma ident	"@(#)cmd_dp.h	1.1	05/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <cmd_fmri.h>
 

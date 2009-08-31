@@ -27,7 +27,7 @@
 #ifndef _REMOTE_CFG_H
 #define	_REMOTE_CFG_H
 
-#pragma ident	"@(#)remote_cfg.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING: The contents of this file are shared by all projects
@@ -37,8 +37,8 @@
  *
  *	Project	    Location
  *	-------	    --------
- *	Solaris	    usr/src/cmd/dcs/sparc/sun4u/remote_cfg.h
- *	SMS	    src/sms/lib/librdr/remote_cfg.h
+ *	Solaris	    usr/src/cmd/dcs/sparc/sun4u/%M%
+ *	SMS	    src/sms/lib/librdr/%M%
  *
  * In order for proper communication to occur,  the files in the
  * above locations must match exactly. Any changes that are made

@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SLPV1SSrvTypeMsg.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)SLPV1SSrvTypeMsg.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SLPV1SSrvTypeMsg.java: SLPV1 Compatibility SrvType message
 //  Author:           James Kempf
 //  Created On:       Mon Sep 14 10:49:05 1998
@@ -46,7 +46,7 @@ import java.io.*;
 /**
  * The SLPV1SSrvTypeMsg class models the SLPv1 service type request message.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

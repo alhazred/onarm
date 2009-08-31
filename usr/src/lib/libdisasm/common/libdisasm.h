@@ -31,7 +31,7 @@
 #ifndef	_LIBDISASM_H
 #define	_LIBDISASM_H
 
-#pragma ident	"@(#)libdisasm.h	1.3	07/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

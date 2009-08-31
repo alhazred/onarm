@@ -27,7 +27,7 @@
 #ifndef _DHCP_NETWORK_H
 #define	_DHCP_NETWORK_H
 
-#pragma ident	"@(#)dhcp_network.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Implementation-specific data structures and constants for the binary

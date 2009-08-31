@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)data.c	1.14	06/03/23 SMI" 	/* SVr4.0 1.3	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.3	*/
 
 
 #include "syn.h"

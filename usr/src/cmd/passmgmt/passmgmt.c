@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)passmgmt.c	1.37	06/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <sys/types.h>

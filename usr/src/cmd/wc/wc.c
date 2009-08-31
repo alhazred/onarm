@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)wc.c	1.23	07/05/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	wc -- word and line count

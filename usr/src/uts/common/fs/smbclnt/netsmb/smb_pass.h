@@ -27,7 +27,7 @@
 #ifndef _SMB_PASS_H
 #define	_SMB_PASS_H
 
-#pragma ident	"@(#)smb_pass.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Password keychains interface

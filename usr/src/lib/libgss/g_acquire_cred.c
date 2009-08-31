@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)g_acquire_cred.c	1.26	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  glue routine for gss_acquire_cred

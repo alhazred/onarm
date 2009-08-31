@@ -51,7 +51,7 @@
  * Written in 1995 by Colin Plumb.
  */
 
-#pragma ident	"@(#)bninit16.c	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "bn.h"
 #include "bn16.h"

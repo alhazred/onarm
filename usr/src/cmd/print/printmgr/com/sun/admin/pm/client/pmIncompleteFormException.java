@@ -20,7 +20,7 @@
  */
 /*
  *
- * ident	"@(#)pmIncompleteFormException.java	1.5	06/05/17 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.

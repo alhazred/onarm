@@ -27,7 +27,7 @@
 #ifndef	_MDB_DEMANGLE_H
 #define	_MDB_DEMANGLE_H
 
-#pragma ident	"@(#)mdb_demangle.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

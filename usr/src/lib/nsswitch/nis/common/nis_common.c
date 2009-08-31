@@ -30,7 +30,7 @@
  * Common code and structures used by name-service-switch "nis" backends.
  */
 
-#pragma ident	"@(#)nis_common.c	1.23	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "nis_common.h"
 #include <string.h>

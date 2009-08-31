@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)unix_cred.c	1.22	06/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <nss_dbdefs.h>
 #include <pwd.h>

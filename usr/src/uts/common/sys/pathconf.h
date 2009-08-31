@@ -26,7 +26,7 @@
 #ifndef	_SYS_PATHCONF_H
 #define	_SYS_PATHCONF_H
 
-#pragma ident	"@(#)pathconf.h	1.8	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*	pathconf.h 1.9 89/06/26 SMI	*/
 

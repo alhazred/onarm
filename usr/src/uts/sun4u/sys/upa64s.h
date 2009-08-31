@@ -27,7 +27,7 @@
 #ifndef _SYS_UPA64S_VAR_H
 #define	_SYS_UPA64S_VAR_H
 
-#pragma ident	"@(#)upa64s.h	1.4	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

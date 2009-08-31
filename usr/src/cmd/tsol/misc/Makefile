@@ -24,7 +24,7 @@
 #
 
 #
-#ident	"@(#)Makefile	1.1	07/05/31 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #

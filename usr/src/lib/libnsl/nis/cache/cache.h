@@ -26,7 +26,7 @@
 #ifndef	_CACHE_H
 #define	_CACHE_H
 
-#pragma ident	"@(#)cache.h	1.16	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef __cplusplus

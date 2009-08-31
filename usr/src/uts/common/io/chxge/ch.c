@@ -34,7 +34,7 @@
  * Solaris Multithreaded STREAMS DLPI Chelsio PCI Ethernet Driver
  */
 
-#pragma ident	"@(#)ch.c	1.5	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* #define CH_DEBUG 1 */
 #ifdef CH_DEBUG

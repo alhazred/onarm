@@ -26,7 +26,7 @@
 #ifndef	__CRLE_H
 #define	__CRLE_H
 
-#pragma ident	"@(#)_crle.h	1.8	06/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <gelf.h>

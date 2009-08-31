@@ -25,7 +25,7 @@
 #
 # uts/intel/exacctsys/Makefile
 #
-#ident	"@(#)Makefile	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This makefile drives the production of the exacctsys system call module.
 # intel architecture dependent

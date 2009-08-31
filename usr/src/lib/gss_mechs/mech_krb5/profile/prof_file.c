@@ -2,7 +2,7 @@
  * Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)prof_file.c	1.4	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * prof_file.c ---- routines that manipulate an individual profile file.
  */

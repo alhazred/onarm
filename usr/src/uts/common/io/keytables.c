@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)keytables.c	1.41	07/01/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 		/* SunOS-4.0 1.19	*/
 
 /*

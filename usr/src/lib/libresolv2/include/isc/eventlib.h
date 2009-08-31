@@ -26,7 +26,7 @@
  * $Id: eventlib.h,v 1.23 2001/05/29 05:47:09 marka Exp $
  */
 
-#pragma ident	"@(#)eventlib.h	1.5	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _EVENTLIB_H
 #define _EVENTLIB_H

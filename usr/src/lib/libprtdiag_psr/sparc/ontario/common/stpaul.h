@@ -35,7 +35,7 @@
 #ifndef _STPAUL_H
 #define	_STPAUL_H
 
-#pragma ident	"@(#)stpaul.h	1.2	06/11/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

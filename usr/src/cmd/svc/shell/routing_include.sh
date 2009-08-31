@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)routing_include.sh	1.1	06/11/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # These functions are used to help map daemon arguments to appropriate

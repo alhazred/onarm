@@ -28,7 +28,7 @@
  */
 
 
-#pragma ident	"@(#)kdc_util.c	1.8	07/04/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "k5-int.h"
 #include "kdc_util.h"

@@ -20,7 +20,7 @@
 # CDDL HEADER END
 #
 #
-# ident	"@(#)inityp2l.sh	1.6	07/03/27 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.

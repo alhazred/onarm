@@ -27,7 +27,7 @@
 #ifndef	_RPC_RPC_RDMA_H
 #define	_RPC_RPC_RDMA_H
 
-#pragma ident	"@(#)rpc_rdma.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/rpc.h>
 #include <rpc/rpc_sztypes.h>

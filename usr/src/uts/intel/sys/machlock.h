@@ -26,7 +26,7 @@
 #ifndef _SYS_MACHLOCK_H
 #define	_SYS_MACHLOCK_H
 
-#pragma ident	"@(#)machlock.h	1.27	07/06/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM
 #include <sys/types.h>

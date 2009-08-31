@@ -27,7 +27,7 @@
 #ifndef	_SYS_PROM_PLAT_H
 #define	_SYS_PROM_PLAT_H
 
-#pragma ident	"@(#)prom_plat.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

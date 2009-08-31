@@ -19,7 +19,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)ev_files.c	1.7	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* ev_files.c - implement asynch file IO for the eventlib
  * vix 11sep95 [initial]

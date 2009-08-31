@@ -29,7 +29,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)hash.c	1.9	05/09/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	"hash.h"
 #include	"defs.h"

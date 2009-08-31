@@ -27,7 +27,7 @@
 
 /*	$OpenBSD: key.h,v 1.19 2002/03/18 17:23:31 markus Exp $	*/
 
-#pragma ident	"@(#)key.h	1.6	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -40,7 +40,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)seg_vn.c	1.282	07/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * VM - shared or copy-on-write from a vnode/anonymous memory.

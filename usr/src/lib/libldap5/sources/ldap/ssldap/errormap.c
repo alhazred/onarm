@@ -25,7 +25,7 @@
  * Contributor(s):
  */
 
-#pragma ident	"@(#)errormap.c	1.1	01/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * errormap.c - map NSPR and OS errors to strings

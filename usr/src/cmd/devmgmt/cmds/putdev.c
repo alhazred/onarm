@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)putdev.c	1.8	05/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Implements the "putdev" command.

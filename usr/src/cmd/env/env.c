@@ -27,7 +27,7 @@
 /*
  */
 
-#ident	"@(#)env.c	1.12	05/06/08 SMI"	/* SVr4.0 1.5	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5	*/
 
 /*
  *	env [ - ] [ name=value ]... [command arg...]

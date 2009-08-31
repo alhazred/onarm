@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)keylogout.c	1.14	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * unset the secret key on local machine

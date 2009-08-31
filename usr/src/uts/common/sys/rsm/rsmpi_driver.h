@@ -27,7 +27,7 @@
 #ifndef _SYS_RSM_RSMPI_DRIVER_H
 #define	_SYS_RSM_RSMPI_DRIVER_H
 
-#pragma ident	"@(#)rsmpi_driver.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

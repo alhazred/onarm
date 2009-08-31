@@ -27,7 +27,7 @@
 #ifndef _SYS_SMP_IMPLDEFS_H
 #define	_SYS_SMP_IMPLDEFS_H
 
-#pragma ident	"@(#)smp_impldefs.h	1.28	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sunddi.h>

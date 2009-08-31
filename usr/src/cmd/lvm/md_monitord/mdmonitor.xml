@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-	ident	"@(#)mdmonitor.xml	1.9	06/05/25 SMI"
+	ident	"%Z%%M%	%I%	%E% SMI"
 
 	NOTE:  This service manifest is not editable; its contents will
 	be overwritten by package or patch operations, including

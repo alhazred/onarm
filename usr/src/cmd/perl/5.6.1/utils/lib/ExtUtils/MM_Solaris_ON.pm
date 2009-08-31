@@ -2,7 +2,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)MM_Solaris_ON.pm	1.3	06/10/25 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # MM_Solaris_ON.pm overrides various parts of MakeMaker so that perl modules
 # build correctly as part of Solaris/ON.  The changes are:

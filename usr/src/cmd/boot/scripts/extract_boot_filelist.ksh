@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)extract_boot_filelist.ksh	1.1	07/11/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # set path, but inherit /tmp/bfubin if it is sane

@@ -28,7 +28,7 @@
 /*      All Rights Reserved   */
   
   
-#pragma ident	"@(#)devreserv.c	1.10	05/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<sys/types.h>
 #include	<sys/param.h>

@@ -21,7 +21,7 @@
  */
 
 
-#pragma ident	"@(#)utimes.c	1.2	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "port_before.h"
 

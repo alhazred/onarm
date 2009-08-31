@@ -26,7 +26,7 @@
 #ifndef	_SYS_MAC_IMPL_H
 #define	_SYS_MAC_IMPL_H
 
-#pragma ident	"@(#)mac_impl.h	1.16	08/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/mac.h>
 #include <net/if.h>

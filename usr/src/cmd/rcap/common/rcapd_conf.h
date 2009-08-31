@@ -26,7 +26,7 @@
 #ifndef	_RCAPD_CONF_H
 #define	_RCAPD_CONF_H
 
-#pragma ident	"@(#)rcapd_conf.h	1.5	07/04/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <stdio.h>

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getnetgrent.c	1.26	07/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * getnetgrent.c

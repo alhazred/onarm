@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)common.c	1.3	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* common.c - Functions that are common to server and clinet
  * Rob Siemborski

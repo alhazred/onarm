@@ -26,7 +26,7 @@
 #ifndef _FHTAB_H
 #define	_FHTAB_H
 
-#pragma ident	"@(#)fhtab.h	1.14	06/03/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Support for the fh mapping file for nfslog.

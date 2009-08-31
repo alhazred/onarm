@@ -27,7 +27,7 @@
 #ifndef	_SYS_SYSCTRL_H
 #define	_SYS_SYSCTRL_H
 
-#pragma ident	"@(#)sysctrl.h	1.58	06/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

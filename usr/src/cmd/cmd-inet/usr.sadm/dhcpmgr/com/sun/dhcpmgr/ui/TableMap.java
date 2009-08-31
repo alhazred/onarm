@@ -23,7 +23,7 @@
  * Copyright 2000 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
- * ident	"@(#)TableMap.java	1.4	05/06/11 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  */
 package com.sun.dhcpmgr.ui;
 

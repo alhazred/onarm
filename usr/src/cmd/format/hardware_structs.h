@@ -27,7 +27,7 @@
 #ifndef	_HARDWARE_STRUCTS_H
 #define	_HARDWARE_STRUCTS_H
 
-#pragma ident	"@(#)hardware_structs.h	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

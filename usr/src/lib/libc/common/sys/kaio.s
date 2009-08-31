@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kaio.s	1.8	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"kaio.s"
+	.file	"%M%"
 
 /* C library -- kaio						*/
 /* intptr_t _kaio (); */

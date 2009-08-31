@@ -24,7 +24,7 @@
 #ifndef	_SYS_DSL_DATASET_H
 #define	_SYS_DSL_DATASET_H
 
-#pragma ident	"@(#)dsl_dataset.h	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef struct dsl_dataset_phys {
 	uint64_t ds_dir_obj;

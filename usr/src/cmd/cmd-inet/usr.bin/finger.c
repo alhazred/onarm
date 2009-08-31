@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)finger.c	1.34	06/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is a finger program.  It prints out useful information about users

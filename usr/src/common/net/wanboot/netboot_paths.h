@@ -27,7 +27,7 @@
 #ifndef _NETBOOT_PATHS_H
 #define	_NETBOOT_PATHS_H
 
-#pragma ident	"@(#)netboot_paths.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

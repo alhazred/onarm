@@ -28,7 +28,7 @@
  * this module provides a cache of fully instantized expressions.
  */
 
-#pragma ident	"@(#)iexpr.c	1.3	06/04/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pool_internal.c	1.10	06/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <limits.h>
 #include <pool.h>

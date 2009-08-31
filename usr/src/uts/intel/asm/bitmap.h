@@ -27,7 +27,7 @@
 #ifndef _ASM_BITMAP_H
 #define	_ASM_BITMAP_H
 
-#pragma ident	"@(#)bitmap.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

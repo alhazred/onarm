@@ -16,7 +16,7 @@
  *  specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)mailcompat.c	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pwd.h>
 #include <stdio.h>

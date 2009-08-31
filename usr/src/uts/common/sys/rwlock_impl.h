@@ -27,7 +27,7 @@
 #ifndef _SYS_RWLOCK_IMPL_H
 #define	_SYS_RWLOCK_IMPL_H
 
-#pragma ident	"@(#)rwlock_impl.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Implementation-private definitions for readers/writer locks.

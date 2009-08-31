@@ -5,7 +5,7 @@
 # uts/intel/agptarget/Makefile
 #
 #
-#pragma ident	"@(#)Makefile	1.2	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the framework of agp protocol
 #	(agptarget) kernel module.

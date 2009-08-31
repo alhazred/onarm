@@ -27,7 +27,7 @@
 #ifndef	_SYS_PORT_IMPL_H
 #define	_SYS_PORT_IMPL_H
 
-#pragma ident	"@(#)port_impl.h	1.11	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

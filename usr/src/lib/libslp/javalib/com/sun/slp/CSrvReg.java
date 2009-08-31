@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)CSrvReg.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)CSrvReg.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  CSrvReg.java:    Service Registration, Client Side.
 //  Author:           James Kempf
 //  Created On:       Tue Feb 10 12:15:43 1998
@@ -46,7 +46,7 @@ import java.io.*;
  * The CSrvReg class models the client side SLP service registration 
  * message. 
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

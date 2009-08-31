@@ -24,7 +24,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)sa2.sh	1.6	05/06/08 SMI"       /* SVr4.0 1.4 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.4 */
 #	sa2.sh 1.4 of 5/8/89
 DATE=`/usr/bin/date +%d`
 RPT=/var/adm/sa/sar$DATE

@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)arch.msg	1.6	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Message file for cmd/sgs/libconv/common/arch.c
 

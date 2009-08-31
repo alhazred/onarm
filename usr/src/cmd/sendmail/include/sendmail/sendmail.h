@@ -13,7 +13,7 @@
  *	$Id: sendmail.h,v 8.68 2002/07/01 22:18:53 gshapiro Exp $
  */
 
-#pragma ident	"@(#)sendmail.h	1.8	04/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  SENDMAIL.H -- Global definitions for sendmail.

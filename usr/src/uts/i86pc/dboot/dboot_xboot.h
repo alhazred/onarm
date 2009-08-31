@@ -27,7 +27,7 @@
 #ifndef	_DBOOT_XBOOT_H
 #define	_DBOOT_XBOOT_H
 
-#pragma ident	"@(#)dboot_xboot.h	1.2	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/mach_mmu.h>
 

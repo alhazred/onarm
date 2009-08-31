@@ -24,14 +24,14 @@
  *
  * Description: Classes providing visibility to computing resource metrics.
  * 
- * Date: 06/08/05
+ * Date: %G%
  * 
- * Version: 1.4
+ * Version: %I%
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  * 
- * ident	"@(#)Solaris_Performance1.0.mof	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  */
 

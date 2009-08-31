@@ -12,7 +12,7 @@
 #ifndef	_NET_AF_H
 #define	_NET_AF_H
 
-#pragma ident	"@(#)af.h	1.3	98/01/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* af.h 1.10 88/08/19 SMI; from UCB 7.1	*/
 
 #ifdef	__cplusplus

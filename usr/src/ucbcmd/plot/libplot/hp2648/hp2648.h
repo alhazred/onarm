@@ -2,7 +2,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)hp2648.h	1.2	05/06/02 SMI"	/* SVr4.0 1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /*
  * Copyright (c) 1983, 1984 1985, 1986, 1987, 1988, Sun Microsystems, Inc.

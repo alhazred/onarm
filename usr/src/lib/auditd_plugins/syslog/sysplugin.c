@@ -26,7 +26,7 @@
  * send them off to syslog
  *
  */
-#pragma ident	"@(#)sysplugin.c	1.11	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * auditd_plugin_open(), auditd_plugin() and auditd_plugin_close()

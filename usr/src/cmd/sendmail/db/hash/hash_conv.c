@@ -11,11 +11,11 @@
 
 #include "config.h"
 
-#pragma ident	"@(#)hash_conv.c	1.2	98/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
 static const char sccsid[] = "@(#)hash_conv.c	10.4 (Sleepycat) 9/15/97";
-static const char sccsi2[] = "@(#)hash_conv.c	1.2 (Sun) 04/02/98";
+static const char sccsi2[] = "%W% (Sun) %G%";
 #endif /* not lint */
 
 #ifndef NO_SYSTEM_INCLUDES

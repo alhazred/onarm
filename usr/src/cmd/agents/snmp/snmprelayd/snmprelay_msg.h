@@ -31,7 +31,7 @@
 #ifndef _SNMPRELAY_MSG_H_
 #define _SNMPRELAY_MSG_H_
 
-#pragma ident	"@(#)snmprelay_msg.h	1.7	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /***** TRACING MESSAGES *****/
 

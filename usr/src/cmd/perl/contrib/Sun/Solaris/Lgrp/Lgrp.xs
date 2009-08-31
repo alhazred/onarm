@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)Lgrp.xs	1.1	06/09/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Lgrp.xs contains XS wrappers for the system locality group library

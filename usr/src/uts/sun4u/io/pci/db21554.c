@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)db21554.c	1.30	07/06/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Intel 21554 PCI to PCI bus bridge nexus driver for sun4u platforms.
@@ -72,7 +72,7 @@
  * DEFINES.
  */
 #define	DB_DEBUG
-#define	DB_MODINFO_DESCRIPTION	"Intel/21554 pci-pci nexus:v1.30"
+#define	DB_MODINFO_DESCRIPTION	"Intel/21554 pci-pci nexus:v%I%"
 #define	DB_DVMA_START		0xc0000000
 #define	DB_DVMA_LEN		0x20000000
 

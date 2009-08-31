@@ -33,7 +33,7 @@
  * California.
  */
 
-#pragma ident	"@(#)getdname.c	1.21	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Gets and sets the domain name of the system

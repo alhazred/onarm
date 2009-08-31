@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rdr_messages.c	1.8	06/04/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING: The contents of this file are shared by all projects
@@ -33,8 +33,8 @@
  *
  *	Project	    Location
  *	-------	    --------
- *	Solaris	    usr/src/cmd/dcs/sparc/sun4u/rdr_messages.c
- *	SMS	    src/sms/lib/librdr/rdr_messages.c
+ *	Solaris	    usr/src/cmd/dcs/sparc/sun4u/%M%
+ *	SMS	    src/sms/lib/librdr/%M%
  *
  * In order for proper communication to occur,  the files in the
  * above locations must match exactly. Any changes that are made

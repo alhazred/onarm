@@ -28,7 +28,7 @@
 #ifndef _SYS_USB_USBSER_KEYSPAN_49FW_H
 #define	_SYS_USB_USBSER_KEYSPAN_49FW_H
 
-#pragma ident	"@(#)keyspan_49fw.h	1.1	05/12/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	KEYSPAN_NO_FIRMWARE_SOURCE
 

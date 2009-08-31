@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)hunt1.c	1.7	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <locale.h>
 #include <stdio.h>

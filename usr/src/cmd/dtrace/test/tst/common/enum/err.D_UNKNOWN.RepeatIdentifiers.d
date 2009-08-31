@@ -35,7 +35,7 @@
  *
  */
 
-#pragma ident	"@(#)err.D_UNKNOWN.RepeatIdentifiers.d	1.1	06/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma D option quiet
 

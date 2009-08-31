@@ -26,7 +26,7 @@
 #ifndef	_SYS_PCIE_H
 #define	_SYS_PCIE_H
 
-#pragma ident	"@(#)pcie.h	1.14	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

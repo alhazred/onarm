@@ -82,7 +82,7 @@ Merge in license terms from Quinn's copy, in preparation for Darwin release
 
 */
 
-#pragma ident	"@(#)mDNSDebug.h	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __mDNSDebug_h
 #define __mDNSDebug_h

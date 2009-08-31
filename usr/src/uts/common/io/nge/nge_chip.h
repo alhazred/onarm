@@ -27,7 +27,7 @@
 #ifndef _SYS_NGE_CHIP_H
 #define	_SYS_NGE_CHIP_H
 
-#pragma ident	"@(#)nge_chip.h	1.18	08/01/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

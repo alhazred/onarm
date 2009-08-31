@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)inetinit.dfl	1.7	07/04/25 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # TCP_STRONG_ISS sets the TCP initial sequence number generation parameters.
 # Set TCP_STRONG_ISS to be:

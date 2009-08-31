@@ -12,7 +12,7 @@
 #ifndef	_CONFIG_H
 #define	_CONFIG_H
 
-#pragma ident	"@(#)config.h	1.18	07/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

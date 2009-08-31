@@ -23,7 +23,7 @@
 # Copyright (c) 1999-2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)Makefile.com	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 JAVAFLAGS= -nowarn -O

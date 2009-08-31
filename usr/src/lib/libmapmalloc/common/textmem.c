@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)textmem.c	1.18	07/03/15 SMI"	/* SVR4/MNLS 1.1.2.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVR4/MNLS 1.1.2.1 */
 
 /*LINTLIBRARY*/
 

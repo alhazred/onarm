@@ -45,9 +45,9 @@
  * regulations applicable in licensee's jurisdiction.
  */
 
-	.ident	"@(#)cache.s	1.3	05/07/18 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"cache.s"
+	.file	"%M%"
 
 #include "SYS.h"
 #include "cache.h"

@@ -25,7 +25,7 @@
 
 /*       Copyright (c) 1989 by Sun Microsystems, Inc.		*/
 
-.ident	"@(#)ladd.s	1.12	05/06/08 SMI"	/* SVr4.0 1.1	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /*
  * Double long add routine.  Ported from pdp 11/70 version

@@ -39,7 +39,7 @@
  * "The Regents of the University of California.  All rights reserved.\n";
  */
 
-#pragma ident	"@(#)rtquery.c	2.3	03/02/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "defs.h"
 #include <sys/types.h>

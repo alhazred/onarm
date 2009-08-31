@@ -45,7 +45,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: sshlogin.c,v 1.5 2002/08/29 15:57:25 stevesk Exp $");
 
-#pragma ident	"@(#)sshlogin.c	1.6	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "loginrec.h"
 #include "log.h"

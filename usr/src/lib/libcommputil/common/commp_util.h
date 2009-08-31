@@ -27,7 +27,7 @@
 #ifndef _COMMP_UTIL_H
 #define	_COMMP_UTIL_H
 
-#pragma ident	"@(#)commp_util.h	1.1	07/10/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

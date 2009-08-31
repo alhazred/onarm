@@ -27,7 +27,7 @@
 #ifndef _SYS_BUSTYPES_H
 #define	_SYS_BUSTYPES_H
 
-#pragma ident	"@(#)bustypes.h	1.5	05/06/08 SMI"	/* SVr4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4 */
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xpvd.c	1.2	07/12/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Host to hypervisor virtual devices nexus driver
@@ -199,7 +199,7 @@ static int hvm_vdev_num[26];
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module */
-	"virtual device nexus driver 1.2",
+	"virtual device nexus driver %I%",
 	&xpvd_ops,	/* driver ops */
 };
 

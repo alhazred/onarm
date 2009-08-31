@@ -43,7 +43,7 @@
  * containing the Foundations Suite are the sole responsibility of the licensee.
  */
  
-#pragma ident	"@(#)lbnmem.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Operations on the usual buffers of bytes

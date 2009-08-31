@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_so_sendto.s	1.7	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_so_sendto.s"
+	.file	"%M%"
 
 /* C library -- __so_sendto					*/
 /*

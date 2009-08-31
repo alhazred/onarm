@@ -34,7 +34,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)exrecover.c	1.15	05/10/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>	/* BUFSIZ: stdio = 1024, VMUNIX = 1024 */
 #ifndef TRACE

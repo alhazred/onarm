@@ -27,7 +27,7 @@
 #ifndef	_DEV_H
 #define	_DEV_H
 
-#pragma ident	"@(#)dev.h	1.1	06/11/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

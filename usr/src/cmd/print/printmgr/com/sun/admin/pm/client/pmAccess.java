@@ -20,7 +20,7 @@
  */
 /*
  *
- * ident	"@(#)pmAccess.java	1.11	06/05/17 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.

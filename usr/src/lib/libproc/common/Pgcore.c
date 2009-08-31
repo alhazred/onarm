@@ -26,7 +26,7 @@
  * Copyright (c) 2006-2007 NEC Corporation
  */
 
-#pragma ident	"@(#)Pgcore.c	1.11	07/01/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <ctype.h>

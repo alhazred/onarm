@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rdate.c	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  rdate - get date from remote machine

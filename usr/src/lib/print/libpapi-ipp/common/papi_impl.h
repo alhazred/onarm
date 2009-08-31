@@ -30,7 +30,7 @@
 
 /* $Id: papi_impl.h 161 2006-05-03 04:32:59Z njacobs $ */
 
-#pragma ident	"@(#)papi_impl.h	1.2	07/03/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <papi.h>
 

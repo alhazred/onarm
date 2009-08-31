@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)parseproto.y	1.7	05/06/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "parseproto.h"
 #include <assert.h>

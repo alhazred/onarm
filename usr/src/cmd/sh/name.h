@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)name.h	1.7	05/06/08 SMI"	/* SVr4.0 1.7.1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7.1.1	*/
 /*
  *	UNIX shell
  */

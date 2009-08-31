@@ -24,7 +24,7 @@
 # Copyright 1993-2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 # 
-#ident	"@(#)protocmp.terse.sh	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 opts=""
 while getopts guplmsLv arg

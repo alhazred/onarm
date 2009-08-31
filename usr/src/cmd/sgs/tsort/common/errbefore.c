@@ -29,7 +29,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)errbefore.c	6.7	05/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Routine called before error message has been printed.

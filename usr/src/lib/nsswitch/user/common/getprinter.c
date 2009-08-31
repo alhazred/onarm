@@ -27,7 +27,7 @@
  * convenient method of aliasing and specifying an interest list.
  */
 
-#pragma ident	"@(#)getprinter.c	1.7	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak _nss_user__printers_constr = _nss_user_printers_constr
 

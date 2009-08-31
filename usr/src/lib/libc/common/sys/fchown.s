@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fchown.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"fchown.s"
+	.file	"%M%"
 
 /* C library -- fchown						*/
 /* int fchown(int fildes, uid_t owner, gid_t group)		*/

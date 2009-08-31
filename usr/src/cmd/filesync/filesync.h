@@ -32,7 +32,7 @@
 #ifndef	_FILESYNC_H
 #define	_FILESYNC_H
 
-#pragma ident	"@(#)filesync.h	1.16	05/06/08 SMI"
+#pragma ident	"%W%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

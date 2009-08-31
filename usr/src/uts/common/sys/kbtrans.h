@@ -27,7 +27,7 @@
 #ifndef _SYS_KBTRANS_H
 #define	_SYS_KBTRANS_H
 
-#pragma ident	"@(#)kbtrans.h	1.22	07/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Interface between hardware keyboard driver and generic keyboard

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dt_handle.c	1.11	07/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stddef.h>
 #include <stdlib.h>

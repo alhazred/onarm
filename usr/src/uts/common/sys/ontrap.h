@@ -26,7 +26,7 @@
 #ifndef	_ONTRAP_H
 #define	_ONTRAP_H
 
-#pragma ident	"@(#)ontrap.h	1.5	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(_ASM)
 #include <sys/types.h>

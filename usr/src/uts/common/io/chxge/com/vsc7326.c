@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)vsc7326.c	1.2	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Driver for Vitesse VSC7326 (Schaumburg) MAC */
 

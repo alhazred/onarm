@@ -29,7 +29,7 @@
 #ifndef _CMD_MODLOAD_ADDREM_H
 #define	_CMD_MODLOAD_ADDREM_H
 
-#pragma ident	"@(#)addrem.h	1.25	07/04/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/modctl.h>
 #include <device_info.h>

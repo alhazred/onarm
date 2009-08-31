@@ -27,7 +27,7 @@
 #ifndef	_SCAT_DCD_H
 #define	_SCAT_DCD_H
 
-#pragma ident	"@(#)scat_dcd.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains definitions of the structures gdcd_t and ldcd_t,

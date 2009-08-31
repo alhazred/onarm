@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)getkey.c	1.5	05/06/08 SMI"	/* SVr4.0 1.1.1.4	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1.1.4	*/
 
 #include "sys/types.h"
 #include "time.h"

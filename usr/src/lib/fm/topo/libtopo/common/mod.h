@@ -27,7 +27,7 @@
 #ifndef	_MOD_H
 #define	_MOD_H
 
-#pragma ident	"@(#)mod.h	1.1	06/11/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

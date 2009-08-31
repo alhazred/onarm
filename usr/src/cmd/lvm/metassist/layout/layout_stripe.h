@@ -27,7 +27,7 @@
 #ifndef _LAYOUT_STRIPE_H
 #define	_LAYOUT_STRIPE_H
 
-#pragma ident	"@(#)layout_stripe.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

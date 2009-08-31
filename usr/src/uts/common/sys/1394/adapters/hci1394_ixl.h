@@ -27,7 +27,7 @@
 #ifndef _SYS_1394_ADAPTERS_HCI1394_IXL_H
 #define	_SYS_1394_ADAPTERS_HCI1394_IXL_H
 
-#pragma ident	"@(#)hci1394_ixl.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * hci1394_ixl.h

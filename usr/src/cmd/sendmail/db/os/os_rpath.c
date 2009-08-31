@@ -11,11 +11,11 @@
 
 #include "config.h"
 
-#pragma ident	"@(#)os_rpath.c	1.2	98/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
 static const char sccsid[] = "@(#)os_rpath.c	10.2 (Sleepycat) 10/24/97";
-static const char sccsi2[] = "@(#)os_rpath.c	1.2 (Sun) 04/02/98";
+static const char sccsi2[] = "%W% (Sun) %G%";
 #endif /* not lint */
 
 #ifndef NO_SYSTEM_INCLUDES

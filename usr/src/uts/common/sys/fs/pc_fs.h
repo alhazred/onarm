@@ -30,7 +30,7 @@
 #ifndef	_SYS_FS_PC_FS_H
 #define	_SYS_FS_PC_FS_H
 
-#pragma ident	"@(#)pc_fs.h	1.38	07/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/thread.h>
 #include <sys/ksynch.h>

@@ -25,7 +25,7 @@
  */
 
 /*
- * ident	"@(#)piclfrutree.info	1.5	06/06/09 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * supported prop types: void, int, uint, float, string
  * supported prop access_modes: r, w, rw
@@ -67,7 +67,7 @@
 #ifndef id
 #define	id(s)	#ident s
 #endif
-id("@(#)piclfrutree.info	1.5	06/06/09 SMI")
+id("%Z%%M%	%I%	%E% SMI")
 
 /*
  * There are a lot of nodes below the rmclomv node, define a shortname

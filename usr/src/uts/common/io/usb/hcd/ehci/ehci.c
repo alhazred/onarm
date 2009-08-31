@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ehci.c	1.23	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * EHCI Host Controller Driver (EHCI)
@@ -154,7 +154,7 @@ static struct dev_ops ehci_ops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops, 	/* Type of module. This one is a driver */
-	"USB EHCI Driver 1.23", /* Name of the module. */
+	"USB EHCI Driver %I%", /* Name of the module. */
 	&ehci_ops,		/* Driver ops */
 };
 

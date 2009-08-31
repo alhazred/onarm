@@ -36,7 +36,7 @@
 # software developed by the University of California, Berkeley, and its
 # contributors.
 
-#pragma ident	"@(#)lintcmd.sh	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 # lint command for BSD compatibility package:

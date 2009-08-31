@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)memset.s	1.1	06/01/13 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"memset.s"
+	.file	"%M%"
 /*
  * char *memset(sp, c, n)
  *

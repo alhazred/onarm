@@ -26,7 +26,7 @@
 #ifndef _SYS_IB_MGT_IBCM_IBCM_ARP_H
 #define	_SYS_IB_MGT_IBCM_IBCM_ARP_H
 
-#pragma ident	"@(#)ibcm_arp.h	1.2	07/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)ssc100.c	1.8	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/stat.h>		/* ddi_create_minor_node S_IFCHR */
@@ -104,7 +104,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv ssc100_modldrv = {
 	&mod_driverops,			/* type of module - driver */
-	"SSC100 i2c device driver: v1.8",
+	"SSC100 i2c device driver: v%I%",
 	&ssc100_ops
 };
 

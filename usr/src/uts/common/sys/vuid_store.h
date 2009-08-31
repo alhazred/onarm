@@ -34,7 +34,7 @@
 #ifndef _SYS_VUID_STORE_H
 #define	_SYS_VUID_STORE_H
 
-#pragma ident	"@(#)vuid_store.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

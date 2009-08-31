@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 #
-#ident	"@(#)Makefile	1.6	07/11/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 include ../sun4/Makefile.sun4
 

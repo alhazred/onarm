@@ -23,7 +23,7 @@
  *	Copyright (c) 1990, 1991 Sun Microsystems, Inc.
  */
 
-#ident	"@(#)zero.s	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routine to zero out a section of memory (the tail end of the data segment

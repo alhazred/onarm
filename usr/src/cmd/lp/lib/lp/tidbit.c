@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)tidbit.c	1.12	07/05/14 SMI"	/* SVr4.0 1.12	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.12	*/
 
 #include "errno.h"
 #include "string.h"

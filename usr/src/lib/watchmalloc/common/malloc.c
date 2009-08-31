@@ -27,7 +27,7 @@
 /*	Copyright (c) 1988 AT&T	*/
 /*	  All Rights Reserved	*/
 
-#pragma ident	"@(#)malloc.c	1.18	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Memory management: malloc(), realloc(), free(), memalign().

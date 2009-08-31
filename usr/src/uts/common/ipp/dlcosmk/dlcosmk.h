@@ -27,7 +27,7 @@
 #ifndef _IPP_DLCOSMK_DLCOSMK_H
 #define	_IPP_DLCOSMK_DLCOSMK_H
 
-#pragma ident	"@(#)dlcosmk.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

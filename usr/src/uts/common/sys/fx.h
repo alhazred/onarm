@@ -26,7 +26,7 @@
 #ifndef _SYS_FX_H
 #define	_SYS_FX_H
 
-#pragma ident	"@(#)fx.h	1.4	07/03/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/thread.h>

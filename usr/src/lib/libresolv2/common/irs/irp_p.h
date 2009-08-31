@@ -27,7 +27,7 @@
 #ifndef _IRP_P_H_INCLUDED
 #define _IRP_P_H_INCLUDED
 
-#pragma ident	"@(#)irp_p.h	1.3	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 

@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Solaris_ActiveProjectProcessAggregateStatistics.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -44,7 +44,7 @@ import java.util.Vector;
  * This class represents a link between a Project active on a system and the
  * aggregated resource usage of its Process(es).
  * @author Sun Microsystems
- * @version 1.3 06/08/05
+ * @version %I% %G%
  */
 public class  Solaris_ActiveProjectProcessAggregateStatistics
 	extends SRMProvider {

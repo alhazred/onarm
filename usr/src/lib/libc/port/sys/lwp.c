@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lwp.c	1.29	05/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak _private_lwp_mutex_lock = __lwp_mutex_lock
 #pragma weak _lwp_mutex_lock = __lwp_mutex_lock

@@ -47,7 +47,7 @@
 #ifndef _ISO_SETJMP_ISO_H
 #define	_ISO_SETJMP_ISO_H
 
-#pragma ident	"@(#)setjmp_iso.h	1.5	05/06/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* SVr4.0 1.9.2.9 */
 
 #if defined(_AEABI_PORTABILITY_LEVEL)

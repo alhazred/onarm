@@ -44,7 +44,7 @@
 #ifndef _STRUCT_H
 #define	_STRUCT_H
 
-#pragma ident	"@(#)struct.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	fldoff(str, fld)	((long)&(((struct str *)0)->fld))
 #define	fldsiz(str, fld)	(sizeof (((struct str *)0)->fld))

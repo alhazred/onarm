@@ -27,7 +27,7 @@
 #ifndef _AIO_H
 #define	_AIO_H
 
-#pragma ident	"@(#)aio.h	1.25	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

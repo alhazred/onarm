@@ -26,7 +26,7 @@
 
 	.file   "i386_data.s"
 
-	.ident	"@(#)i386_data.s	1.5	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
 / This file contains
 / the definition of the

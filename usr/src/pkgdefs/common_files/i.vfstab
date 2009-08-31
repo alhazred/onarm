@@ -24,7 +24,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)i.vfstab	1.4	07/04/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PATH="/usr/bin:/usr/sbin:${PATH}"

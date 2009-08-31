@@ -29,7 +29,7 @@
 #ifndef	_SYS_PCI_CFGSPACE_H
 #define	_SYS_PCI_CFGSPACE_H
 
-#pragma ident	"@(#)pci_cfgspace.h	1.5	05/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)txzonemgr.sh	1.3	07/12/17 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # This script provides a simple GUI for managing labeled zones.

@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)showmount.c	1.15	05/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * showmount

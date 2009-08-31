@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ipsecespddi.c	1.16	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -40,8 +40,8 @@
 #define	INET_NAME	"ipsecesp"
 #define	INET_MODSTRTAB	ipsecespinfo
 #define	INET_DEVSTRTAB	ipinfov6
-#define	INET_MODDESC	"IPsec ESP STREAMS module 1.16"
-#define	INET_DEVDESC	"IPsec ESP STREAMS driver 1.16"
+#define	INET_MODDESC	"IPsec ESP STREAMS module %I%"
+#define	INET_DEVDESC	"IPsec ESP STREAMS driver %I%"
 #define	INET_DEVMINOR	0
 #define	INET_DEVMTFLAGS	IP_DEVMTFLAGS	/* since as a driver we're ip */
 #define	INET_MODMTFLAGS	(D_MP|D_MTOCEXCL|D_MTOUTPERIM)

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)backend.c	1.39	06/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /** HISTORY
  * 5-15-96	Jerry Yeung	replace the Integer to Integer*

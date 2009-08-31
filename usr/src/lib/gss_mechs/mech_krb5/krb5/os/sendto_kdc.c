@@ -2,7 +2,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)sendto_kdc.c	1.6	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/os/sendto_kdc.c
  *

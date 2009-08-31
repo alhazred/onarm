@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)fopen.c	1.30	06/01/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "synonyms.h"
 #include "file64.h"

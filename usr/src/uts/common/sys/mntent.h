@@ -33,7 +33,7 @@
 #ifndef _SYS_MNTENT_H
 #define	_SYS_MNTENT_H
 
-#pragma ident	"@(#)mntent.h	1.53	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

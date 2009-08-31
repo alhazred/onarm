@@ -24,7 +24,7 @@
 #
 # usr/src/lib/pam_modules/tsol/Makefile.com
 #
-# ident	"@(#)Makefile.com	1.1	07/05/24 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #
 

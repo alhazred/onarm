@@ -24,7 +24,7 @@
 # Copyright (c) 1998-2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)mdb.sh	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 mdb_lib=/net/mdb.eng/mdb/archives	# Archive library path
 mdb_ws=/net/mdb.eng/mdb/snapshot/latest	# Snapshot of latest workspace

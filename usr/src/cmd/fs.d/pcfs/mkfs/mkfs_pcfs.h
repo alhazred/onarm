@@ -27,7 +27,7 @@
 #ifndef _MKFS_PCFS_H
 #define	_MKFS_PCFS_H
 
-#pragma ident	"@(#)mkfs_pcfs.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

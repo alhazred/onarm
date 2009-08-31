@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)adjtime.c	1.11	05/06/08 SMI"	/* from SVr4.0 1.78 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVr4.0 1.78 */
 
 #include <sys/param.h>
 #include <sys/types.h>

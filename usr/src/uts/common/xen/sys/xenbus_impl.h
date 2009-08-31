@@ -57,7 +57,7 @@
 #ifndef _SYS_XENBUS_H
 #define	_SYS_XENBUS_H
 
-#pragma ident	"@(#)xenbus_impl.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/mutex.h>
 #include <sys/list.h>

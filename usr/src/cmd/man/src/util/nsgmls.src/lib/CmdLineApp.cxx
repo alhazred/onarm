@@ -8,7 +8,7 @@
  * See the file COPYING for copying permission.
  */
 
-#pragma ident	"@(#)CmdLineApp.cxx	1.6	05/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 // Need option registration method that allows derived class to change
 // option names.

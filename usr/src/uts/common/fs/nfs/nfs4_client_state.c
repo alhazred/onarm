@@ -26,7 +26,7 @@
 /* Copyright (c) 1983, 1984, 1985, 1986, 1987, 1988, 1989 AT&T */
 /* All Rights Reserved */
 
-#pragma ident	"@(#)nfs4_client_state.c	1.25	06/11/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <nfs/nfs4_clnt.h>
 #include <nfs/rnode4.h>

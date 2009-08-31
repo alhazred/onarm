@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ebus.c	1.61	07/03/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -173,7 +173,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops, 	/* Type of module.  This one is a driver */
-	"ebus nexus driver 1.61", /* Name of module. */
+	"ebus nexus driver %I%", /* Name of module. */
 	&ebus_ops,		/* driver ops */
 };
 

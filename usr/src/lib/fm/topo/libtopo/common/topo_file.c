@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)topo_file.c	1.4	07/09/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <limits.h>
 #include <string.h>

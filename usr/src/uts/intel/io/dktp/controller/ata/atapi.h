@@ -27,7 +27,7 @@
 #ifndef _ATAPI_H
 #define	_ATAPI_H
 
-#pragma ident	"@(#)atapi.h	1.21	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

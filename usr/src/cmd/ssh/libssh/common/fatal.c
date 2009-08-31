@@ -25,7 +25,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: fatal.c,v 1.1 2002/02/22 12:20:34 markus Exp $");
 
-#pragma ident	"@(#)fatal.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "log.h"
 

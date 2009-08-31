@@ -27,7 +27,7 @@
 #ifndef _MEM_SPD_H
 #define	_MEM_SPD_H
 
-#pragma ident	"@(#)mem_spd.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Layout of SPD-format data, as per PICL.

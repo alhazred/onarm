@@ -31,7 +31,7 @@
 #ifndef _SYS_LDTERM_H
 #define	_SYS_LDTERM_H
 
-#pragma ident	"@(#)ldterm.h	1.33	05/06/08 SMI"	/* SVr4.0 11.5	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.5	*/
 
 #ifdef	__cplusplus
 extern "C" {

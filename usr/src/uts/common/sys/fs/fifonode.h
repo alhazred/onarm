@@ -33,7 +33,7 @@
 #ifndef	_SYS_FS_FIFONODE_H
 #define	_SYS_FS_FIFONODE_H
 
-#pragma ident	"@(#)fifonode.h	1.40	07/10/25 SMI"	/* SVr4.0 1.15	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.15	*/
 
 #ifdef	__cplusplus
 extern "C" {

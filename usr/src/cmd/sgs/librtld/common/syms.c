@@ -31,7 +31,7 @@
  *  o	The address of the `_edata' and `_end' symbols, and their associated
  *	section, is updated to reflect any new heap addition.
  */
-#pragma ident	"@(#)syms.c	1.12	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<libelf.h>
 #include	<string.h>

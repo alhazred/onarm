@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)mapfile-order-devpro	1.5	06/03/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Note: This mapfile is used to place r_debug as the
 # very first data item inside of the run-time linker.

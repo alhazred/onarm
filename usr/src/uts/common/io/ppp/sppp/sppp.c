@@ -49,7 +49,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)sppp.c	1.12	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define	RCSID	"$Id: sppp.c,v 1.0 2000/05/08 01:10:12 masputra Exp $"
 
 #include <sys/types.h>

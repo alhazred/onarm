@@ -23,7 +23,7 @@
 # Copyright (c) 2000-2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)preinstall	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 for file in `awk '$2 =="f" {print $4}' $INST_DATADIR/$PKG/pkgmap`; do
 	[ ! -f $BASEDIR/$file.orig -a -f $BASEDIR/$file ] && \

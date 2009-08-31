@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)res_query.c	1.12	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "c_synonyms.h"
 #include <sys/param.h>

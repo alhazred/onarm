@@ -27,7 +27,7 @@
 #ifndef	_SYS_FS_CACHEFS_DLOG_H
 #define	_SYS_FS_CACHEFS_DLOG_H
 
-#pragma ident	"@(#)cachefs_dlog.h	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/vfs.h>
 #include <sys/acl.h>

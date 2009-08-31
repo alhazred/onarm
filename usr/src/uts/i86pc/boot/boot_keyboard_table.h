@@ -26,7 +26,7 @@
 #ifndef _BOOT_KEYBOARD_TABLE_H
 #define	_BOOT_KEYBOARD_TABLE_H
 
-#pragma ident	"@(#)boot_keyboard_table.h	1.7	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Structure of the keyboard table for the bootstrap simple

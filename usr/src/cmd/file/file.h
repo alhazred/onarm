@@ -27,7 +27,7 @@
 #ifndef _FILE_H
 #define	_FILE_H
 
-#pragma ident	"@(#)file.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * header for the file command

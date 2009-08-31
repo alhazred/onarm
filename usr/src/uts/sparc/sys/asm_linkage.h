@@ -27,7 +27,7 @@
 #ifndef _SYS_ASM_LINKAGE_H
 #define	_SYS_ASM_LINKAGE_H
 
-#pragma ident	"@(#)asm_linkage.h	1.40	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stack.h>
 #include <sys/trap.h>

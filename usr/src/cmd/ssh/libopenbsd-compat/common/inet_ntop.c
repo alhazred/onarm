@@ -229,4 +229,4 @@ inet_ntop6(src, dst, size)
 
 #endif /* !HAVE_INET_NTOP */
 
-#pragma ident	"@(#)inet_ntop.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

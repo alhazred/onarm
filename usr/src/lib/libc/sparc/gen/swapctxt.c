@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)swapctxt.c	1.21	05/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak swapcontext = _swapcontext
 

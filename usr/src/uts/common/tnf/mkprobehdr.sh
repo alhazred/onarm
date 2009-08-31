@@ -24,7 +24,7 @@
 # Copyright (c) 1994-2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)mkprobehdr.sh	1.18	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 cat <<ENDSTR
 /*
@@ -34,7 +34,7 @@ cat <<ENDSTR
 #ifndef _SYS_TNF_PROBE_H
 #define	_SYS_TNF_PROBE_H
 
-#pragma ident	"@(#)tnf_probe.h	1.18	05/06/08 SMI"
+#pragma ident	"%Z%tnf_probe.h	%I%	%E% SMI"
 
 #include <sys/tnf_writer.h>
 

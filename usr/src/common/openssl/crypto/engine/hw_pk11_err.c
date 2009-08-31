@@ -2,7 +2,7 @@
  * Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)hw_pk11_err.c	1.2	04/06/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* crypto/engine/hw_pk11_err.c */
 /* This product includes software developed by the OpenSSL Project for 

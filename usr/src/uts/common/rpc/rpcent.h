@@ -39,7 +39,7 @@
 #ifndef _RPC_RPCENT_H
 #define	_RPC_RPCENT_H
 
-#pragma ident	"@(#)rpcent.h	1.19	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

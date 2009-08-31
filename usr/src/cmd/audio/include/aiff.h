@@ -35,7 +35,7 @@
 #ifndef _AIFF_H
 #define	_AIFF_H
 
-#pragma ident	"@(#)aiff.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

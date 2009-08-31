@@ -27,7 +27,7 @@
 #
 
 #
-#pragma ident	"@(#)sections.msg	1.25	07/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Message file for cmd/sgs/libconv/common/sections.c
 

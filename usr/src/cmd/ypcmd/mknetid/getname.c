@@ -25,7 +25,7 @@
  */
 
 
-#pragma ident	"@(#)getname.c	1.7	05/10/11 SMI"	/* SMI4.1 1.3 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SMI4.1 1.3 */
 
 #include <stdio.h>
 #include <string.h>

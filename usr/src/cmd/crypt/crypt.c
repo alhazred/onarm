@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)crypt.c	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  *	A one-rotor machine designed along the lines of Enigma
  *	but considerably trivialized.

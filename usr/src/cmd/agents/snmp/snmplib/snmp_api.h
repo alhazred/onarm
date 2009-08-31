@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)snmp_api.h	1.5	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SNMP_API_H_
 #define _SNMP_API_H_

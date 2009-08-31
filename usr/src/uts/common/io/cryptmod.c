@@ -42,7 +42,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)cryptmod.c	1.22	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sysmacros.h>
@@ -181,7 +181,7 @@ static struct fmodsw fsw = {
  */
 static struct modlstrmod modlstrmod = {
 	&mod_strmodops,
-	"STREAMS encryption module 1.22",
+	"STREAMS encryption module %I%",
 	&fsw
 };
 

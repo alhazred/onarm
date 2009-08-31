@@ -27,7 +27,7 @@
 #ifndef	_SYS_BW2VAR_H
 #define	_SYS_BW2VAR_H
 
-#pragma ident	"@(#)bw2var.h	1.18	05/06/08 SMI"	/* SunOS-4.0 1.13 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS-4.0 1.13 */
 
 #ifdef	__cplusplus
 extern "C" {

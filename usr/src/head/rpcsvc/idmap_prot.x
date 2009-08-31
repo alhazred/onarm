@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-%#pragma ident	"@(#)idmap_prot.x	1.3	07/12/14 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* opaque type to support non-ASCII strings */
 typedef	string	idmap_utf8str<>;

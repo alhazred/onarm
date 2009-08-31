@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)tcp6ddi.c	1.13	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -37,7 +37,7 @@
 
 #define	INET_NAME	"tcp6"
 #define	INET_DEVSTRTAB	tcpinfov6
-#define	INET_DEVDESC	"TCP6 STREAMS driver 1.13"
+#define	INET_DEVDESC	"TCP6 STREAMS driver %I%"
 #define	INET_DEVMINOR	0
 /*
  * Note that unlike UDP, TCP uses synchronous STREAMS only

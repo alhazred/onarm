@@ -14,7 +14,7 @@
  *	$Id: local.h,v 1.58 2006/12/19 19:44:23 ca Exp $
  */
 
-#pragma ident	"@(#)local.h	1.7	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  Information local to this implementation of stdio,

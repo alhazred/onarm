@@ -20,7 +20,7 @@
 # CDDL HEADER END
 #
 #
-#ident	"@(#)Makefile	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/wbem/provider/com/sun/wbem/solarisprovider/srm/Makefile
 #

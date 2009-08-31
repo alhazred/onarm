@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)impl.c	1.14	07/05/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * mdb dcmds for selected structures from

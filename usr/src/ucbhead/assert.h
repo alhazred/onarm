@@ -40,7 +40,7 @@
 #ifndef _ASSERT_H
 #define	_ASSERT_H
 
-#pragma ident	"@(#)assert.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef NDEBUG
 #undef assert

@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SLPServerHeaderV2.java	1.5	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2001-2002 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
  */
 
-//  SCCS Status:      @(#)SLPServerHeaderV2.java	1.5	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SLPServerHeaderV2.java: SLPv2 Header Class for Server Side
 //  Author:           James Kempf
 //  Created On:       Wed Sep 16 08:44:31 1998
@@ -48,7 +48,7 @@ import java.security.*;
  * The SLPServerHeaderV2 class serves as the header class for all server side
  * SLPv2 messages.
  *
- * @version 1.5 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

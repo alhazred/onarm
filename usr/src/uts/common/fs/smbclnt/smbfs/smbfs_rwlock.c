@@ -26,7 +26,7 @@
  *	All rights reserved.
  */
 
-#pragma ident	"@(#)smbfs_rwlock.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * A homegrown reader/writer lock implementation.  It addresses

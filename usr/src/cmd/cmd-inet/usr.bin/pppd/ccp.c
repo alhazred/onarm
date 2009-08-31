@@ -28,7 +28,7 @@
  * OR MODIFICATIONS.
  */
 
-#pragma ident	"@(#)ccp.c	1.1	00/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define RCSID	"$Id: ccp.c,v 1.30 2000/04/15 01:27:11 masputra Exp $"
 
 #include <stdlib.h>

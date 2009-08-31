@@ -24,7 +24,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 
-#pragma ident	"@(#)create_diskmap.ksh	1.4	05/08/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # basic setup

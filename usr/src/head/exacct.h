@@ -27,7 +27,7 @@
 #ifndef	_EXACCT_H
 #define	_EXACCT_H
 
-#pragma ident	"@(#)exacct.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * exacct item, group, and object definitions as well as structure manipulation

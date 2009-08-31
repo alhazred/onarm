@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)svc_raw.c	1.31	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * svc_raw.c,   This a toy for simple testing and timing.

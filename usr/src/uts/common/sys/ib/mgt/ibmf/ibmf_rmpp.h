@@ -27,7 +27,7 @@
 #ifndef _SYS_IB_MGT_IBMF_IBMF_RMPP_H
 #define	_SYS_IB_MGT_IBMF_IBMF_RMPP_H
 
-#pragma ident	"@(#)ibmf_rmpp.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the IBMF RMPP implementation dependent structures

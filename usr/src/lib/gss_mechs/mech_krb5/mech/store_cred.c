@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)store_cred.c	1.5	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <k5-int.h>
 #include <gssapiP_krb5.h>

@@ -27,7 +27,7 @@
 #ifndef	_ISCSI_PROVIDER_IMPL_H
 #define	_ISCSI_PROVIDER_IMPL_H
 
-#pragma ident	"@(#)iscsi_provider_impl.h	1.1	07/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/socket_impl.h>
 #include <sys/types.h>

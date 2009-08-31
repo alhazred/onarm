@@ -29,7 +29,7 @@
 /*	  All Rights Reserved	*/
 
 
-#pragma ident	"@(#)utssys.c	1.30	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/inttypes.h>

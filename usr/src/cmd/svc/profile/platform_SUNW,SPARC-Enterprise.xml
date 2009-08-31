@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-    ident	"@(#)platform_SUNW,SPARC-Enterprise.xml	1.2	06/05/22 SMI"
+    ident	"%Z%%M%	%I%	%E% SMI"
 
     NOTE:  This service profile is not editable; its contents will be
     overwritten by package or patch operations, including operating

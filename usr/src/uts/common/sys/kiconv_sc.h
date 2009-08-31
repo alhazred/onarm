@@ -26,7 +26,7 @@
 #ifndef _SYS_KICONV_SC_H
 #define	_SYS_KICONV_SC_H
 
-#pragma ident	"@(#)kiconv_sc.h	1.1	08/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

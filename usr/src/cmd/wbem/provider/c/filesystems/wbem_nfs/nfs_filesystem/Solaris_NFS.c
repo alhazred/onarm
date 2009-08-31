@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)Solaris_NFS.c	1.3	05/09/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "Solaris_NFS.h"
 #include "util.h" /* Error handling */

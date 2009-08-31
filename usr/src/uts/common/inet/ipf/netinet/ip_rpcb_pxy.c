@@ -48,7 +48,7 @@
  *	$Id: ip_rpcb_pxy.c,v 2.25.2.3 2005/02/04 10:22:56 darrenr Exp $
  */
 
-#pragma ident	"@(#)ip_rpcb_pxy.c	1.5	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	IPF_RPCB_PROXY
 

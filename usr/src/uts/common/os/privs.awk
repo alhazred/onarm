@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)privs.awk	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This file generates three different C files:
 #

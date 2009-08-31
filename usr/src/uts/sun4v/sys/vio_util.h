@@ -27,7 +27,7 @@
 #ifndef	_VIO_UTIL_H
 #define	_VIO_UTIL_H
 
-#pragma ident	"@(#)vio_util.h	1.4	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stream.h>
 #include <sys/vio_mailbox.h>

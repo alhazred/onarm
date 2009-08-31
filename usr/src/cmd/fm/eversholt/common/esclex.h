@@ -38,7 +38,7 @@
 #ifndef	_ESC_COMMON_ESCLEX_H
 #define	_ESC_COMMON_ESCLEX_H
 
-#pragma ident	"@(#)esclex.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

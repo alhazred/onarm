@@ -26,7 +26,7 @@
 #ifndef	_SYS_CRYPTO_SPI_H
 #define	_SYS_CRYPTO_SPI_H
 
-#pragma ident	"@(#)spi.h	1.15	07/05/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * CSPI: Cryptographic Service Provider Interface.

@@ -27,7 +27,7 @@
 #       Copyright(c) 1988, Sun Microsystems, Inc.
 #       All Rights Reserved
 
-#ident	"@(#)arch.sh	1.9	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 # On sparc systems, arch returns sun4 (historical artifact)
 # while arch -k returns `uname -m`. On all other systems,

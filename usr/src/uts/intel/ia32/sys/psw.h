@@ -30,7 +30,7 @@
 #ifndef _IA32_SYS_PSW_H
 #define	_IA32_SYS_PSW_H
 
-#pragma ident	"@(#)psw.h	1.8	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

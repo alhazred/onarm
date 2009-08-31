@@ -25,7 +25,7 @@
 #
 # Copyright (c) 2008 NEC Corporation
 #
-# ident	"@(#)Makefile	1.19	07/10/24 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG= uadmin

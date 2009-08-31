@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)dsl_pool.c	1.11	07/12/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dsl_pool.h>
 #include <sys/dsl_dataset.h>

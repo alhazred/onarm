@@ -23,7 +23,7 @@
  *	Copyright (c) 1995,1999 by Sun Microsystems, Inc.
  *	All rights reserved.
  */
-#pragma ident	"@(#)install_utrap.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/systm.h>

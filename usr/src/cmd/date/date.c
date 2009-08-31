@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)date.c	1.37	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	date - with format capabilities and international flair

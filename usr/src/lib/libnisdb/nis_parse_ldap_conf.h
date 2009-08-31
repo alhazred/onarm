@@ -27,7 +27,7 @@
 #ifndef	_NIS_PARSE_LDAP_CONF_H
 #define	_NIS_PARSE_LDAP_CONF_H
 
-#pragma ident	"@(#)nis_parse_ldap_conf.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

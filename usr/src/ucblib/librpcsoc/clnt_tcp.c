@@ -39,7 +39,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)clnt_tcp.c	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * clnt_tcp.c, Implements a TCP/IP based, client side RPC.

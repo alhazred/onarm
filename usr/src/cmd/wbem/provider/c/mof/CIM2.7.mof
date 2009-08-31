@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)CIM2.7.mof	1.2	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  * Title       CIM version 2.7 NFS dependencies.
  * Description CIM version 2.7 Solaris Network File System model dependencies.
  * Date        02/18/2003

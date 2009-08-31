@@ -23,7 +23,7 @@
 # Copyright (c) 1994-2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/cfgadm_plugins/sbd/Makefile
 

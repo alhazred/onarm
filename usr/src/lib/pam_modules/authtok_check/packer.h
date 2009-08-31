@@ -6,7 +6,7 @@
 #ifndef _PACKER_H
 #define	_PACKER_H
 
-#pragma ident	"@(#)packer.h	1.3	05/02/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

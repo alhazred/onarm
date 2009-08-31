@@ -27,7 +27,7 @@
 #ifndef	_PSVC_OBJECTS_H
 #define	_PSVC_OBJECTS_H
 
-#pragma ident	"@(#)psvc_objects.h	1.11	05/11/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

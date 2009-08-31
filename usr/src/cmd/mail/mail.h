@@ -30,7 +30,7 @@
 #ifndef _MAIL_H
 #define	_MAIL_H
 
-#pragma ident	"@(#)mail.h	1.19	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /*
   * All global externs defined here. All variables are initialized

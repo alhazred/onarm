@@ -35,7 +35,7 @@
 #ifndef	_RPCSVC_YP_PROT_H
 #define	_RPCSVC_YP_PROT_H
 
-#pragma ident	"@(#)yp_prot.h	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/rpc.h>
 #include <rpcsvc/ypclnt.h>

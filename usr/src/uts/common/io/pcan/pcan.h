@@ -39,7 +39,7 @@
 #ifndef _SYS_PCAN_H
 #define	_SYS_PCAN_H
 
-#pragma ident	"@(#)pcan.h	1.2	07/05/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

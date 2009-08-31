@@ -27,7 +27,7 @@
 #ifndef _SYS_FS_CACHEFS_FS_H
 #define	_SYS_FS_CACHEFS_FS_H
 
-#pragma ident	"@(#)cachefs_fs.h	1.135	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/vnode.h>
 #include <sys/vfs.h>

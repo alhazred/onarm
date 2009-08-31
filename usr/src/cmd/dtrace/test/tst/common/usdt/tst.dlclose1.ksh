@@ -24,7 +24,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)tst.dlclose1.ksh	1.3	07/08/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # This test verifies that USDT providers are removed when its associated

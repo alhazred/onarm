@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.62	07/11/20 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG=		dns-sd finger rdate ruptime rwho whois

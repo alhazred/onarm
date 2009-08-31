@@ -35,7 +35,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)net80211_crypto.h	1.3	07/06/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SYS_NET80211_CRYPTO_H
 #define	_SYS_NET80211_CRYPTO_H

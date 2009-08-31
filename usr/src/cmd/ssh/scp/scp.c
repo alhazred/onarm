@@ -81,7 +81,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: scp.c,v 1.91 2002/06/19 00:27:55 deraadt Exp $");
 
-#pragma ident	"@(#)scp.c	1.14	07/04/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "xmalloc.h"
 #include "atomicio.h"

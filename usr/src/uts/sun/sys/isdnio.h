@@ -27,7 +27,7 @@
 #ifndef	_SYS_ISDNIO_H
 #define	_SYS_ISDNIO_H
 
-#pragma ident	"@(#)isdnio.h	1.20	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/audioio.h>
 

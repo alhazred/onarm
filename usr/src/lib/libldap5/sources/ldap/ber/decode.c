@@ -4,7 +4,7 @@
  */
 
 
-#pragma ident	"@(#)decode.c	1.2	02/10/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*-

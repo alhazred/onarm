@@ -16,12 +16,12 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)map.c	1.57	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 
 SM_RCSID("@(#)$Id: map.c,v 8.699 2007/10/10 00:06:45 ca Exp $")
-SM_IDSTR(i2, "@(#)map.c	1.57 (Sun) 11/02/07")
+SM_IDSTR(i2, "%W% (Sun) %G%")
 
 #if LDAPMAP
 # include <sm/ldap.h>

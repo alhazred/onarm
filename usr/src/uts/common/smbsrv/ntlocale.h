@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_NTLOCALE_H
 #define	_SMBSRV_NTLOCALE_H
 
-#pragma ident	"@(#)ntlocale.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * NT language and locale identifiers.

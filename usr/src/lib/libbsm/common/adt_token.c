@@ -26,7 +26,7 @@
  *
  * This file does not provide any user callable functions.  See adt.c
  */
-#pragma ident	"@(#)adt_token.c	1.22	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <bsm/adt.h>
 #include <bsm/adt_event.h>

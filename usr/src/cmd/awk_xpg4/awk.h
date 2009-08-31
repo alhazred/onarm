@@ -34,7 +34,7 @@
  *
  */
 
-#pragma ident	"@(#)awk.h	1.10	07/07/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

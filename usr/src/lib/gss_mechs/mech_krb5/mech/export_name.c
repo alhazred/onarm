@@ -1,4 +1,4 @@
-#pragma ident	"@(#)export_name.c	1.1	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lib/gssapi/krb5/export_name.c

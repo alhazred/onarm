@@ -29,7 +29,7 @@
 #ifndef	_SYS_FS_HSFS_RRIP_H
 #define	_SYS_FS_HSFS_RRIP_H
 
-#pragma ident	"@(#)hsfs_rrip.h	1.18	07/08/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

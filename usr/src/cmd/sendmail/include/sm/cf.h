@@ -9,7 +9,7 @@
  *	$Id: cf.h,v 1.2 2001/03/08 03:23:07 ca Exp $
  */
 
-#pragma ident	"@(#)cf.h	1.1	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef SM_CF_H
 # define SM_CF_H

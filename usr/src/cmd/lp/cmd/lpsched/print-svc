@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 #
-# ident	"@(#)print-svc	1.4	06/11/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 . /lib/svc/share/smf_include.sh

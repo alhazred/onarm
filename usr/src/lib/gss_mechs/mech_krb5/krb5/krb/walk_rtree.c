@@ -1,4 +1,4 @@
-#pragma ident	"@(#)walk_rtree.c	1.3	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/krb/walk_rtree.c
  *

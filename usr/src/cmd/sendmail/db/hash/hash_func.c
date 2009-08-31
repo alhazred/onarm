@@ -50,11 +50,11 @@
 
 #include "config.h"
 
-#pragma ident	"@(#)hash_func.c	1.2	98/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
 static const char sccsid[] = "@(#)hash_func.c	10.7 (Sleepycat) 9/16/97";
-static const char sccsi2[] = "@(#)hash_func.c	1.2 (Sun) 04/02/98";
+static const char sccsi2[] = "%W% (Sun) %G%";
 #endif /* not lint */
 
 #ifndef NO_SYSTEM_INCLUDES

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-%#pragma ident	"@(#)iprop.x	1.2	04/02/20 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef RPC_XDR
 %#include "iprop.h"

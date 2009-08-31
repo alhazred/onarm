@@ -25,7 +25,7 @@
 #
 # lib/libsecdb/sparcv9/Makefile
 #
-#ident	"@(#)Makefile	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 

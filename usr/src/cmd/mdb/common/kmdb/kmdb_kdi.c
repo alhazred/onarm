@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kmdb_kdi.c	1.5	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The KDI, or kernel/debugger interface, is used to allow the kernel and the

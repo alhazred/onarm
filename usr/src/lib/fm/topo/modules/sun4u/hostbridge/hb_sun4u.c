@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)hb_sun4u.c	1.3	06/11/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/topo_hc.h>
 

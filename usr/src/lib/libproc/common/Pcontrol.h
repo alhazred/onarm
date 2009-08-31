@@ -29,7 +29,7 @@
 #ifndef	_PCONTROL_H
 #define	_PCONTROL_H
 
-#pragma ident	"@(#)Pcontrol.h	1.24	07/07/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Implemention-specific include file for libproc process management.

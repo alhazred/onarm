@@ -2,7 +2,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.mech_krb5	1.8	04/09/28 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Makefile.mech_krb5, global definitions for dealing with Kerberos V5
 # plug in.

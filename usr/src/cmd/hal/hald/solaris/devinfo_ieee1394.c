@@ -9,7 +9,7 @@
  *
  **************************************************************************/
 
-#pragma ident	"@(#)devinfo_ieee1394.c	1.4	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef HAVE_CONFIG_H
 #  include <config.h>

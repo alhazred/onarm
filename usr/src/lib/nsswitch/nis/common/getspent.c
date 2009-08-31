@@ -26,7 +26,7 @@
  *	nis/getspent.c -- "nis" backend for nsswitch "shadow" database
  */
 
-#pragma ident	"@(#)getspent.c	1.14	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <shadow.h>
 #include <string.h>

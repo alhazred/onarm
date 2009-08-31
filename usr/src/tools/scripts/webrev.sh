@@ -20,7 +20,7 @@
 # CDDL HEADER END
 #
 #
-# ident	"@(#)webrev.sh	1.17	07/09/30 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
@@ -39,7 +39,7 @@
 # Note this will have to be changed in 2100 or when SCCS has support for
 # 4 digit years; whichever is the sooner!
 #
-WEBREV_UPDATED=2007/09/30
+WEBREV_UPDATED=20%E%
 
 REMOVED_COLOR=brown
 CHANGED_COLOR=blue

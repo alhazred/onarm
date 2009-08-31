@@ -31,7 +31,7 @@
 #ifndef _PWD_H
 #define	_PWD_H
 
-#pragma ident	"@(#)pwd.h	1.24	05/06/08 SMI"	/* SVr4.0 1.3.1.9 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3.1.9 */
 
 #include <sys/feature_tests.h>
 

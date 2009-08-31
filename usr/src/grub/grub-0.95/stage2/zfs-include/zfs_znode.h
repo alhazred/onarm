@@ -24,7 +24,7 @@
 #ifndef	_SYS_FS_ZFS_ZNODE_H
 #define	_SYS_FS_ZFS_ZNODE_H
 
-#pragma ident	"@(#)zfs_znode.h	1.3	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	MASTER_NODE_OBJ	1
 #define	ZFS_ROOT_OBJ		"ROOT"

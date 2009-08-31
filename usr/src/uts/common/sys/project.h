@@ -26,7 +26,7 @@
 #ifndef	_SYS_PROJECT_H
 #define	_SYS_PROJECT_H
 
-#pragma ident	"@(#)project.h	1.19	08/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

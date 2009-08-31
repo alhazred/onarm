@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rootnex.c	1.19	06/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sun4 root nexus driver
@@ -212,7 +212,7 @@ static vmem_t	*rootnex_regspec_arena;
 
 static struct modldrv modldrv = {
 	&mod_driverops,	/* Type of module.  This one is a nexus driver */
-	"sun4 root nexus 1.19",
+	"sun4 root nexus %I%",
 	&rootnex_ops,	/* Driver ops */
 };
 

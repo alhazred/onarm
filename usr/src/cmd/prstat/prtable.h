@@ -26,7 +26,7 @@
 #ifndef	_PRTABLE_H
 #define	_PRTABLE_H
 
-#pragma ident	"@(#)prtable.h	1.5	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

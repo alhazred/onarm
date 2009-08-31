@@ -27,7 +27,7 @@
 #ifndef _AUDIOCONVERT_PARSE_H
 #define	_AUDIOCONVERT_PARSE_H
 
-#pragma ident	"@(#)parse.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

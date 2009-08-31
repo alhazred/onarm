@@ -26,7 +26,7 @@
 #ifndef	_SYS_SYSEVENT_ACPIEV_H
 #define	_SYS_SYSEVENT_ACPIEV_H
 
-#pragma ident	"@(#)acpiev.h	1.1	07/04/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
 #ifndef _KMDB_KDI_ISADEP_H
 #define	_KMDB_KDI_ISADEP_H
 
-#pragma ident	"@(#)kmdb_kdi_isadep.h	1.8	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/kdi_machimpl.h>

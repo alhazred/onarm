@@ -19,7 +19,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)README	1.4	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 A simple program that scans PostScript files for %%DocumentFonts: comments
 and prepends requested host resident font files to the input. The downloaded
 fonts are the ones named in the %%DocumentFonts: comment and listed in a

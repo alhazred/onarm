@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cmd_dp.c	1.3	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <strings.h>
 #include <string.h>

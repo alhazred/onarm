@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)t_unbind.c	1.27	06/01/04 SMI"	/* SVr4.0 1.3.4.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3.4.1 */
 
 #include "mt.h"
 #include <stdlib.h>

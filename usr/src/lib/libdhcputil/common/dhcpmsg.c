@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dhcpmsg.c	1.8	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdarg.h>
 #include <errno.h>

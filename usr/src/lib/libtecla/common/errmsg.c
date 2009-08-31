@@ -29,7 +29,7 @@
  * of the copyright holder.
  */
 
-#pragma ident	"@(#)errmsg.c	1.1	04/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <string.h>

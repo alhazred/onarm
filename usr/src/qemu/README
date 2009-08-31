@@ -37,7 +37,7 @@ How to build:
 	% cd qemu-0.9.1
 	% patch -p0 < $DOWNLOAD/qemu-0.9.1-arm-ne1-solaris.patch
 	% ./configure --target-list=arm-softmmu
-	% make
+	% gmake
 
  3. Build ramdisk image as root user.
 	# cd rdimage

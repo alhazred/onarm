@@ -39,7 +39,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: session.c,v 1.150 2002/09/16 19:55:33 stevesk Exp $");
 
-#pragma ident	"@(#)session.c	1.26	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef HAVE_DEFOPEN
 #include <deflt.h>

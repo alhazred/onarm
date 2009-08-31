@@ -2,7 +2,7 @@
  * Generated automatically by crc32.c
  */
 
-#pragma ident	"@(#)crc32.h	1.1	07/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 local const unsigned long FAR crc_table[TBLS][256] =
 {

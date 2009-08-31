@@ -28,7 +28,7 @@
 #ifndef	_SYS_DADA_DADA_PKT_H
 #define	_SYS_DADA_DADA_PKT_H
 
-#pragma ident	"@(#)dada_pkt.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dada/dada_types.h>
 

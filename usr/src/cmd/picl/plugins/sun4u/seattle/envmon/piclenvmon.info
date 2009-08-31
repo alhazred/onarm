@@ -25,7 +25,7 @@
  */
 
 /*
- * ident	"@(#)piclenvmon.info	1.1	05/12/12 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * This configuration file is parsed by PICL plugin envmon after
  * it has established rmclomv nodes in /platform
@@ -68,7 +68,7 @@
 #ifndef id
 #define	id(s)	#ident s
 #endif
-id("@(#)piclenvmon.info 1.1     05/12/12 SMI")
+id("%Z%%M% %I%     %E% SMI")
 
 VERSION 1.1
 VERBOSE 1

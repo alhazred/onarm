@@ -31,7 +31,7 @@
 #ifndef	_PCIHRT_H
 #define	_PCIHRT_H
 
-#pragma ident	"@(#)pcihrt.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

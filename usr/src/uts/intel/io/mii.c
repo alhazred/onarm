@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mii.c	1.13	07/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * mii - MII/PHY support for MAC drivers
@@ -82,7 +82,7 @@ extern struct mod_ops mod_misc_ops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,
-	"802.3u MII support 1.13",
+	"802.3u MII support %I%",
 };
 
 static struct modlinkage modlinkage = {

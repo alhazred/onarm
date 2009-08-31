@@ -46,7 +46,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rpcb_check.c	1.3	06/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

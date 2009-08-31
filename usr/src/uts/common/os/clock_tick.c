@@ -28,7 +28,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)clock_tick.c	1.1	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/thread.h>
 #include <sys/proc.h>

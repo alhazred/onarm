@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bsafe_link.c	1.3	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(BSAFE) || defined(DNSSAFE)
 static const char rcsid[] = "$Header: /proj/cvs/isc/bind8/src/lib/dst/bsafe_link.c,v 1.15 2001/09/25 04:50:28 marka Exp $";

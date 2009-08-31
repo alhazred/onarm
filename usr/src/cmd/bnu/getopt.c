@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)getopt.c	1.6	05/06/08 SMI"	/* from SVR4 bnu:getopt.c 2.3 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:getopt.c 2.3 */
 
 #include "uucp.h"
 

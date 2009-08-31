@@ -25,7 +25,7 @@
  */
 
 #pragma ident	"@(#)lintdump.c	1.6	06/06/04 SMI (from meem)"
-#pragma ident	"@(#)lintdump.c	1.3	07/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Tool for dumping lint libraries.

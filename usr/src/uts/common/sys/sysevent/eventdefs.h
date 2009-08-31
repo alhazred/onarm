@@ -30,7 +30,7 @@
 #ifndef	_SYS_SYSEVENT_EVENTDEFS_H
 #define	_SYS_SYSEVENT_EVENTDEFS_H
 
-#pragma ident	"@(#)eventdefs.h	1.15	07/07/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

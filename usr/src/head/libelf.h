@@ -29,7 +29,7 @@
 #ifndef _LIBELF_H
 #define	_LIBELF_H
 
-#pragma ident	"@(#)libelf.h	1.30	07/10/02 SMI"	/* SVr4.0 1.9	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9	*/
 
 #include <sys/types.h>
 #include <sys/elf.h>

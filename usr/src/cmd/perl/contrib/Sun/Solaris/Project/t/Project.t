@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)Project.t	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # test script for Sun::Solaris::Project
 #

@@ -27,7 +27,7 @@
 #ifndef	_SNOOP_H
 #define	_SNOOP_H
 
-#pragma ident	"@(#)snoop.h	1.44	07/08/13 SMI"	/* SunOS	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS	*/
 
 #include <rpc/types.h>
 #include <sys/pfmod.h>

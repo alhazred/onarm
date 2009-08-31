@@ -31,7 +31,7 @@
 #ifndef _SYS_CALLO_H
 #define	_SYS_CALLO_H
 
-#pragma ident	"@(#)callo.h	1.26	07/04/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/t_lock.h>
 #include <sys/taskq.h>

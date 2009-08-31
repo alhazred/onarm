@@ -32,7 +32,7 @@
  */
 
 
-#pragma ident	"@(#)fpparts.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Macros to pull apart parts of single and  double precision

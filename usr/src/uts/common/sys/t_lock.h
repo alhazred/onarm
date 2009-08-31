@@ -33,7 +33,7 @@
 #ifndef _SYS_T_LOCK_H
 #define	_SYS_T_LOCK_H
 
-#pragma ident	"@(#)t_lock.h	1.46	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_ASM
 #include <sys/machlock.h>

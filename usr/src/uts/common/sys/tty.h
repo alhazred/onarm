@@ -27,7 +27,7 @@
 #ifndef _SYS_TTY_H
 #define	_SYS_TTY_H
 
-#pragma ident	"@(#)tty.h	2.30	05/06/08 SMI"	/* SunOS 4.0 2.13 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS 4.0 2.13 */
 
 #include <sys/stream.h>
 #include <sys/termios.h>

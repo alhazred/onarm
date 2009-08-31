@@ -24,7 +24,7 @@
  */
 /* Copyright (c) 1990 Mentat Inc. */
 
-#pragma ident	"@(#)ip_multi.c	1.85	08/01/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stream.h>

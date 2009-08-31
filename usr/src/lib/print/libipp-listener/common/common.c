@@ -27,7 +27,7 @@
 
 /* $Id: common.c 155 2006-04-26 02:34:54Z ktou $ */
 
-#pragma ident	"@(#)common.c	1.2	06/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

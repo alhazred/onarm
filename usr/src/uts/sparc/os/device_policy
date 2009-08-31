@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)device_policy	1.19	08/01/22 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Device policy configuration file.   When devices are opened the
 # additional access controls in this file are enforced.

@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)clnt_dg.c	1.61	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Implements a connectionless client side RPC.

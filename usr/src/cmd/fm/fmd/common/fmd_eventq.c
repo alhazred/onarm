@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fmd_eventq.c	1.6	06/11/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fmd_alloc.h>
 #include <fmd_eventq.h>

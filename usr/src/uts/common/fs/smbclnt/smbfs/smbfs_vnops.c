@@ -37,7 +37,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smbfs_vnops.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/systm.h>
 #include <sys/cred.h>

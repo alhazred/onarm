@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)Tout.c	1.7	05/06/08 SMI"	/* SVr4.0 2.	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 2.	*/
 /*
     NAME
 	Tout - Print surrogate debug output

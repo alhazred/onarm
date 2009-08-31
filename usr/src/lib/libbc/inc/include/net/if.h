@@ -12,7 +12,7 @@
 #ifndef _net_if_h
 #define	_net_if_h
 
-#pragma ident	"@(#)if.h	1.29	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Structures defining a network interface, providing a packet

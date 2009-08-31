@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)sn1_boot.sh	1.2	06/09/18 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # sn1 boot script.
 #

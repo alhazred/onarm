@@ -31,7 +31,7 @@
  * Copyright (c) 2006-2007 NEC Corporation
  */
 
-#pragma ident	"@(#)lwp_sobj.c	1.78	08/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

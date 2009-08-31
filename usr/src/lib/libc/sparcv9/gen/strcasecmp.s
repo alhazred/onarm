@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)strcasecmp.s	1.2	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"strcasecmp.s"
+	.file	"%M%"
 /*
  * The strcasecmp() function is a case insensitive versions of strcmp().
  * It assumes the ASCII character set and ignores differences in case

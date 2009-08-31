@@ -37,7 +37,7 @@
  * Well, at least the API doesn't involve pointers-to-static.
  */
 
-#pragma ident	"@(#)netname.c	1.38	06/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * netname utility routines (getnetname, user2netname, host2netname).

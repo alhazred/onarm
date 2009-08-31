@@ -31,7 +31,7 @@
  * California.
  */
 
-#pragma ident	"@(#)rpc_bootstrap.c	1.15	07/12/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/file.h>

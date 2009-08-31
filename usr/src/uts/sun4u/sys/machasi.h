@@ -26,7 +26,7 @@
 #ifndef	_SYS_MACHASI_H
 #define	_SYS_MACHASI_H
 
-#pragma ident	"@(#)machasi.h	1.17	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

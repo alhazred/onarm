@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)updatehome.c	1.1	07/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	updatehome - Update the current label's $HOME copy and link files.

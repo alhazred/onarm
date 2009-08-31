@@ -26,7 +26,7 @@
 #ifndef	_SYS_PCMU_IB_H
 #define	_SYS_PCMU_IB_H
 
-#pragma ident	"@(#)pcmu_ib.h	1.1	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

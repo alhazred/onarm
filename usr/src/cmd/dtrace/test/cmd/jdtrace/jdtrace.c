@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)jdtrace.c	1.2	07/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <alloca.h>
 #include <stdio.h>

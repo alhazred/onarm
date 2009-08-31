@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)logging.c	1.8	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(LINT) && !defined(CODECENTER)
 static const char rcsid[] = "$Id: logging.c,v 8.32 2003/01/02 00:35:42 marka Exp $";

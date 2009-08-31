@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)secmod.c	1.13	05/06/08 SMI"	/* SVr4.0 1.7	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7	*/
 
 #include <sys/types.h>
 #include <sys/modctl.h>

@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)clri.c	1.25	05/10/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * clri filsys inumber ...

@@ -24,7 +24,7 @@
 # Copyright (c) 1990,1997-1999 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)Makefile.targ	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/libsmedia/plugins/pcmem/Makefile.targ
 

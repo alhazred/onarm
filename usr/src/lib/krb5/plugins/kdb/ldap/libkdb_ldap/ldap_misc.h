@@ -36,7 +36,7 @@
 #ifndef _HAVE_LDAP_MISC_H
 #define _HAVE_LDAP_MISC_H 1
 
-#pragma ident	"@(#)ldap_misc.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ldap_services.h"
 

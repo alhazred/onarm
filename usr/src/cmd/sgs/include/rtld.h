@@ -27,7 +27,7 @@
 #ifndef	_RTLD_H
 #define	_RTLD_H
 
-#pragma ident	"@(#)rtld.h	1.128	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Global include file for the runtime linker.

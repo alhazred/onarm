@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)copymt.c	1.6	05/06/08 SMI" 	/* SVr4.0 2.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 2.1	*/
 /*
     NAME
 	copymt - copy mail (f1) to temp (f2)

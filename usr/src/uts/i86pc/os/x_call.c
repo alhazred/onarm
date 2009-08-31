@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)x_call.c	1.53	07/05/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Facilities for cross-processor subroutine calls using "mailbox" interrupts.

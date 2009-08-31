@@ -28,7 +28,7 @@
 #ifndef _SYS_MPO_H
 #define	_SYS_MPO_H
 
-#pragma ident	"@(#)mpo.h	1.4	08/02/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

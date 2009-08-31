@@ -27,7 +27,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 
-#ident	"@(#)batch.sh	1.9	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 set -- `getopt p: $*`
 if [ $? != 0 ]; then

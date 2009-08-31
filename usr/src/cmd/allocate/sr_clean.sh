@@ -24,7 +24,7 @@
 # Copyright (c) 1992-1993, 1997-2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)sr_clean.sh	1.10	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #  This a clean script for the CD_ROM
 # 

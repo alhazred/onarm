@@ -31,7 +31,7 @@
 #ifndef _SYS_HRTSYS_H
 #define	_SYS_HRTSYS_H
 
-#pragma ident	"@(#)hrtsys.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/hrtcntl.h>
 

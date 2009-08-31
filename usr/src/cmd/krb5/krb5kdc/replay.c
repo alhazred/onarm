@@ -29,7 +29,7 @@
  */
 
 
-#pragma ident	"@(#)replay.c	1.3	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "k5-int.h"
 #include "kdc_util.h"

@@ -1,4 +1,4 @@
-#ident	"@(#)more.help	1.5	92/07/14 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 Most commands optionally preceded by integer argument k.  Defaults in brackets.
 Star (*) indicates argument becomes new default.
 -------------------------------------------------------------------------------

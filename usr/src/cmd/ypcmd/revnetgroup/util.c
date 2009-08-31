@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)util.c	1.7	05/06/08 SMI"	/* SMI4.1 1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SMI4.1 1.4 */
 
 #include <stdio.h>
 #include <string.h>

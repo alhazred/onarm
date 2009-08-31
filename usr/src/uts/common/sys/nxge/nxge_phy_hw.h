@@ -26,7 +26,7 @@
 #ifndef	_SYS_NXGE_NXGE_PHY_HW_H
 #define	_SYS_NXGE_NXGE_PHY_HW_H
 
-#pragma ident	"@(#)nxge_phy_hw.h	1.4	07/11/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

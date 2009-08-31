@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)biff.c	1.15	05/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * biff

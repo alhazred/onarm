@@ -5,7 +5,7 @@
  * not the System V one.
  */
 
-#pragma ident	"@(#)tptregexp.h	1.2	00/05/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define NSUBEXP  10
 typedef struct regexp {
 	char *startp[NSUBEXP];

@@ -26,7 +26,7 @@
 #ifndef	ASYNC_H
 #define	ASYNC_H
 
-#pragma ident	"@(#)async.h	1.5	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <libinetutil.h>

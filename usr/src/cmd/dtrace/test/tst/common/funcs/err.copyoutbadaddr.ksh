@@ -25,7 +25,7 @@
  */
 
 
-# ident	"@(#)err.copyoutbadaddr.ksh	1.3	07/08/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 
 dtrace_script()

@@ -26,7 +26,7 @@
 #ifndef	_SYS_USB_USBA_USBA_TYPES_H
 #define	_SYS_USB_USBA_USBA_TYPES_H
 
-#pragma ident	"@(#)usba_types.h	1.15	05/11/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/taskq.h>
 #include <sys/usb/usba/usba_private.h>

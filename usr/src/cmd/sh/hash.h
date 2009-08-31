@@ -31,7 +31,7 @@
 #ifndef	_HASH_H
 #define	_HASH_H
 
-#pragma ident	"@(#)hash.h	1.8	05/09/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  *	UNIX shell
  */

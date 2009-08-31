@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)qop	1.8	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This file contains information about the GSS-API based quality of
 # protection (QOP), its string name and its value (32-bit integer).

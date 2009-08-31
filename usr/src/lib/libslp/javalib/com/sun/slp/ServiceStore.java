@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ServiceStore.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)ServiceStore.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ServiceStore.java: Interface for different storage implementations
 //  Author:           James Kempf
 //  Created On:       Thu Oct 16 07:46:45 1997
@@ -49,7 +49,7 @@ import java.io.*;
  * Each ServiceStore implementation must also supply ServiceRecord
  * objects.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 
@@ -88,7 +88,7 @@ interface ServiceStore {
      * stored in the ServiceStore. The methods are all property
      * accessors.
      *
-     * @version 1.3 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 

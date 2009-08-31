@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_USBMS_H
 #define	_SYS_USB_USBMS_H
 
-#pragma ident	"@(#)usbms.h	1.8	06/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef __cplusplus

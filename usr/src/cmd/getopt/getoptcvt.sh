@@ -24,7 +24,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)getoptcvt.sh	1.7	05/06/08 SMI"	/* SVr4.0 1.3	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 # This program changes all occurences of the SVR2 getopt invocation line
 # to use the SVR3 version of getopt.
 # Sedfunc is used to handle arguments with single quotes.

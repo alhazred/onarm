@@ -1,6 +1,6 @@
 // Copyright (c) 1996 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)WinInetStorage.cxx	1.3	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "splib.h"
 

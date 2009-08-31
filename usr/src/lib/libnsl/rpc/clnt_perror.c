@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)clnt_perror.c	1.38	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * clnt_perror.c

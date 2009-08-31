@@ -25,7 +25,7 @@
  * Common code and structures used by name-service-switch "files" backends.
  */
 
-#pragma ident	"@(#)files_common.c	1.36	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * An implementation that used mmap() sensibly would be a wonderful thing,

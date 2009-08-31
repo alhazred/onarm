@@ -23,7 +23,7 @@
  * Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)relocate.c	1.30	08/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<libelf.h>
 #include	<dlfcn.h>

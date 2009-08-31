@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)platsvc.c	1.3	07/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sun4v Platform Services Module
@@ -121,7 +121,7 @@ static void ps_fini(void);
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,
-	"sun4v Platform Services 1.3"
+	"sun4v Platform Services %I%"
 };
 
 static struct modlinkage modlinkage = {

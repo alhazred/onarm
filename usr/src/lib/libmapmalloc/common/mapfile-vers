@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)mapfile-vers	1.2	06/08/25 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # Due to mistakes made early in the history of this library, there are

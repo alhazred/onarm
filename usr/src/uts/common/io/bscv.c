@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bscv.c	1.13	07/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * bscv.c - multi-threaded lom driver for the Stiletto platform.
@@ -380,9 +380,9 @@ static struct dev_ops bscv_dev_ops = {
  */
 
 #ifdef DEBUG
-#define	BSCV_VERSION_STRING "bscv driver - Debug v1.13"
+#define	BSCV_VERSION_STRING "bscv driver - Debug v%I%"
 #else /* DEBUG */
-#define	BSCV_VERSION_STRING "bscv driver v1.13"
+#define	BSCV_VERSION_STRING "bscv driver v%I%"
 #endif /* DEBUG */
 
 static struct modldrv modldrv = {

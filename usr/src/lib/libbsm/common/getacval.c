@@ -22,7 +22,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)getacval.c	1.10	07/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * get audit control info (replaces getacinfo.c)
  */

@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mount.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"mount.s"
+	.file	"%M%"
 
 /* C library -- mount						*/
 /* int mount(const char *spec, const char *dir, int mflag,

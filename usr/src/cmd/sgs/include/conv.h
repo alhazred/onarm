@@ -34,7 +34,7 @@
 #ifndef	_CONV_H
 #define	_CONV_H
 
-#pragma ident	"@(#)conv.h	1.65	07/10/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Global include file for conversion library.

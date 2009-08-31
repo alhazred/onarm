@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)encrypt.c	1.5	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * usr/src/cmd/cmd-inet/usr.bin/telnet/encrypt.c

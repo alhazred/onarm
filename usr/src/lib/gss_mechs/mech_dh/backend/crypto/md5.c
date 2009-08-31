@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)md5.c	1.3	05/11/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "md5.h"
 

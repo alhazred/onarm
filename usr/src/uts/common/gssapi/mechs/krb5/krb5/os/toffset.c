@@ -1,4 +1,4 @@
-#pragma ident	"@(#)toffset.c	1.1	99/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/os/toffset.c
  *

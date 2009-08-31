@@ -26,7 +26,7 @@
 #ifndef _SYS_ACL_IMPL_H
 #define	_SYS_ACL_IMPL_H
 
-#pragma ident	"@(#)acl_impl.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

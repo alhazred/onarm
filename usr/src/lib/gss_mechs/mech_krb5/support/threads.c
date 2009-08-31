@@ -1,4 +1,4 @@
-#pragma ident	"@(#)threads.c	1.2	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * util/support/threads.c

@@ -1,5 +1,5 @@
 !	.data
-!	.asciz ident	"@(#)start_float.s	1.6	05/06/08 SMI"
+!	.asciz ident	"%Z%%M%	%I%	%E% SMI"
 
 ! Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 ! Use is subject to license terms.

@@ -34,7 +34,7 @@
 #ifndef	_VM_HAT_SFMMU_H
 #define	_VM_HAT_SFMMU_H
 
-#pragma ident	"@(#)hat_sfmmu.h	1.156	08/02/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

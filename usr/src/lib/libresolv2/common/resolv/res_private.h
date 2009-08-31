@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)res_private.h	1.2	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef res_private_h
 #define res_private_h

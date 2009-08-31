@@ -33,7 +33,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)popen.c	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * mailx -- a modified version of a University of California at Berkeley

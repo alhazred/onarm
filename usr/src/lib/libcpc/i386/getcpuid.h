@@ -27,7 +27,7 @@
 #ifndef	_GETCPUID_H
 #define	_GETCPUID_H
 
-#pragma ident	"@(#)getcpuid.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <inttypes.h>

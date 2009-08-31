@@ -1,5 +1,5 @@
 #
-# ident	"@(#)install_menu	1.7	07/07/20 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 default=0
 timeout=60

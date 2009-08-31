@@ -26,7 +26,7 @@
  * 	Use is subject to license terms.
  */
 
-%#pragma ident	"@(#)db_dictlog_c.x	1.6	05/10/11 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if RPC_HDR
 %#ifndef _DB_DICTLOG_H

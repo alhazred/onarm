@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)daisyforms.c	1.19	07/07/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "lpsched.h"
 #include <syslog.h>

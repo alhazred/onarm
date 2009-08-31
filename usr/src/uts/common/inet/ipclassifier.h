@@ -30,7 +30,7 @@
 #ifndef	_INET_IPCLASSIFIER_H
 #define	_INET_IPCLASSIFIER_H
 
-#pragma ident	"@(#)ipclassifier.h	1.38	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _SYS_BL_H
 #define	_SYS_BL_H
 
-#pragma ident	"@(#)bl.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The interfaces described below are private to FMA.

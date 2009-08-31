@@ -29,7 +29,7 @@
 
 /* Copyright (c) 1981 Regents of the University of California */
 
-#pragma ident	"@(#)ex_cmds.c	1.24	07/06/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ex.h"
 #include "ex_argv.h"

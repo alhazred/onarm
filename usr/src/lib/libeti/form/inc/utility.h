@@ -31,7 +31,7 @@
 #ifndef	_UTILITY_H
 #define	_UTILITY_H
 
-#pragma ident	"@(#)utility.h	1.9	05/06/08 SMI"	/* SVr4.0 1.8	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8	*/
 
 #include <form.h>
 #include <memory.h>

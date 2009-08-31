@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-	.ident	"@(#)sendsig.s	1.3	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1993 by Sun Microsystems, Inc.

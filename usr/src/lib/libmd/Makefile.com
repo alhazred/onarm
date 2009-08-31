@@ -22,7 +22,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.com	1.4	08/03/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # $LIBRARY is set in lower makefiles so we can have platform and

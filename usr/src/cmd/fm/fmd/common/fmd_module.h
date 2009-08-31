@@ -27,7 +27,7 @@
 #ifndef	_FMD_MODULE_H
 #define	_FMD_MODULE_H
 
-#pragma ident	"@(#)fmd_module.h	1.10	07/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <fm/diagcode.h>

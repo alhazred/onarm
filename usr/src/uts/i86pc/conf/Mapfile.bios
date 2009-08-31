@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 
-#pragma ident	"@(#)Mapfile.bios	1.1	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 bios = LOAD ?NRWX V0x5000 P0x5000 A0x1000;
 bios : ?A;

@@ -33,7 +33,7 @@
 #ifndef	_ESC_COMMON_OUT_H
 #define	_ESC_COMMON_OUT_H
 
-#pragma ident	"@(#)out.h	1.5	07/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 

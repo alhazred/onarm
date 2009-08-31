@@ -1,4 +1,4 @@
-#pragma ident	"@(#)svr_iters.c	1.3	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING 

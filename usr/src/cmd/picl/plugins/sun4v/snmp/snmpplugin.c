@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)snmpplugin.c	1.6	08/02/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The SNMP picl plugin connects to the agent on the SP and creates

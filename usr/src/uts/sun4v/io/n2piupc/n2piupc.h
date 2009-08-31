@@ -31,7 +31,7 @@
  * Definitions which deal with things other than registers.
  */
 
-#pragma ident	"@(#)n2piupc.h	1.1	06/12/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

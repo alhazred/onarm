@@ -3,7 +3,7 @@
 #ifndef	_READPASS_H
 #define	_READPASS_H
 
-#pragma ident	"@(#)readpass.h	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

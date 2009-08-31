@@ -41,7 +41,7 @@
 #ifndef	_OBJECT_H
 #define	_OBJECT_H
 
-#pragma ident	"@(#)object.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

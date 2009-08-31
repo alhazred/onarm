@@ -1,4 +1,4 @@
-#pragma ident	"@(#)kdb_xdr.c	1.5	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lib/kdb/kdb_xdr.c

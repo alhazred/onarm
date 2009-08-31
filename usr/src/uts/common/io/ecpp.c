@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)ecpp.c	2.76	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *
@@ -540,7 +540,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv ecppmodldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"parallel port driver 2.76",
+	"parallel port driver %I%",
 	&ecpp_ops,
 };
 

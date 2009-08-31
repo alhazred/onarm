@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)draw.c	1.6	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<stdio.h>
 #include	<math.h>

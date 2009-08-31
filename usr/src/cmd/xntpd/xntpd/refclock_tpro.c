@@ -3,7 +3,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)refclock_tpro.c	1.3	99/08/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * refclock_tpro - clock driver for the KSI/Odetics TPRO-S IRIG-B reader

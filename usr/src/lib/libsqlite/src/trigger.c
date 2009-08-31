@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)trigger.c	1.2	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **

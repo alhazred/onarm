@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ntp_loopfilter.c	1.8	03/08/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ntp_loopfilter.c - implements the NTP loop filter algorithm

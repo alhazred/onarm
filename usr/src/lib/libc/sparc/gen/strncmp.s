@@ -27,7 +27,7 @@
  *	.asciz	"@(#)strncmp.s 1.2 89/08/16"
  */
 
-.ident	"@(#)strncmp.s	1.10	05/06/08 SMI"	/* SunOS 4.1 1.4	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS 4.1 1.4	*/
 
 	.file	"strncmp.s"
 

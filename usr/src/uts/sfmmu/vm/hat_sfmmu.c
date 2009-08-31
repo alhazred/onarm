@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)hat_sfmmu.c	1.322	08/02/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * VM - Hardware Address Translation management for Spitfire MMU.

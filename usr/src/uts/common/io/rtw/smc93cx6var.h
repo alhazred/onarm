@@ -38,7 +38,7 @@
  * $FreeBSD: src/sys/dev/aic7xxx/aic7xxx.c,v 1.40 2000/01/07 23:08:17gibbs Exp $
  */
 
-#pragma ident	"@(#)smc93cx6var.h	1.1	07/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SMC93CX6VAR_H_
 #define	_SMC93CX6VAR_H_

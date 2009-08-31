@@ -32,7 +32,7 @@
 #ifndef _LIBSHARE_IMPL_H
 #define	_LIBSHARE_IMPL_H
 
-#pragma ident	"@(#)libshare_impl.h	1.7	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libshare.h>
 #include <libscf.h>

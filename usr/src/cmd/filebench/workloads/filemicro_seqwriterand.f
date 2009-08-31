@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)filemicro_seqwriterand.f	1.1	07/10/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # 7- Sequential write() of a 1G file, size picked uniformly in
 #    the [1K,8K] range, followed by close(), cached.

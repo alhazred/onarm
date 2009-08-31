@@ -1,6 +1,6 @@
 // Copyright (c) 1994, 1995 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)StorageManager.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef StorageManager_INCLUDED
 #define StorageManager_INCLUDED 1

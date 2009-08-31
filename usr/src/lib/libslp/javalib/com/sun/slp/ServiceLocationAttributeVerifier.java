@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ServiceLocationAttributeVerifier.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)ServiceLocationAttributeVerifier.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ServiceLocationAttributeVerifier.java: Attribute parser for SLP templates.
 //  Author:           James Kempf
 //  Created On:       Thu Jun 19 10:20:25 1997
@@ -48,7 +48,7 @@ import java.util.*;
  * service type. Clients obtain <b>ServiceLocationAttributeVerifier</b>
  * objects for specific SLP service types through the <b>TemplateRegistry</b>.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  *
  */

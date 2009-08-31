@@ -27,7 +27,7 @@
 #ifndef	_KVM_H
 #define	_KVM_H
 
-#pragma ident	"@(#)kvm.h	2.21	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <nlist.h>

@@ -26,7 +26,7 @@
 #ifndef	_SYS_OPLKM_MSG_H
 #define	_SYS_OPLKM_MSG_H
 
-#pragma ident	"@(#)oplkm_msg.h	1.1	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

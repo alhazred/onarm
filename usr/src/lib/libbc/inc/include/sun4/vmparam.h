@@ -27,7 +27,7 @@
 #ifndef _SUN4_VMPARAM_H
 #define	_SUN4_VMPARAM_H
 
-#pragma ident	"@(#)vmparam.h	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

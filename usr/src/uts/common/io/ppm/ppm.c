@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ppm.c	1.24	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Platform Power Management master pseudo driver -
@@ -148,7 +148,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"platform pm driver v1.24",
+	"platform pm driver v%I%",
 	&ppm_ops
 };
 

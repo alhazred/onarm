@@ -9,7 +9,7 @@ cpyr	Copyright 1994-2007 Sun Microsystems, Inc.  All rights reserved.
 cpyr	Use is subject to license terms.
 cpyr
 cpyr
-cpyr	ident	"@(#)helpfile	1.16	07/04/03 SMI"
+cpyr	ident	"%Z%%M%	%I%	%E% SMI"
 cpyr	$$Id: helpfile,v 8.48 2007/02/01 18:29:44 ca Exp $$
 cpyr
 smtp	This is sendmail version $v

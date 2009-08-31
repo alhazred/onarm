@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)msgs.h	1.7	05/06/08 SMI"       /* SVr4.0 1.5*/
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.5*/
 
 
 # define CONT		0	/* continue after logging message */

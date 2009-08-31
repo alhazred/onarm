@@ -1,4 +1,4 @@
--- #ident	"@(#)mib_NSMTYPE.asn1	1.2	05/06/12 SMI"
+-- #ident	"%Z%%M%	%I%	%E% SMI"
 
 IIMCAPPLICATION-MIBASN1 {iso(1) org(3) dod(6) internet(1) private(4) enterprise(1)
 	 sun(42) products(2) management(2) g2(2) iimc(9) iimcManagement(2)

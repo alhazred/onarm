@@ -32,7 +32,7 @@
 #ifndef _SYS_DKTP_FDISK_H
 #define	_SYS_DKTP_FDISK_H
 
-#pragma ident	"@(#)fdisk.h	1.22	07/07/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

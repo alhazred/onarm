@@ -27,7 +27,7 @@
 #ifndef	_SORT_TYPES_H
 #define	_SORT_TYPES_H
 
-#pragma ident	"@(#)types.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

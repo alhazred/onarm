@@ -28,7 +28,7 @@
  * this module evaluates constraints.
  */
 
-#pragma ident	"@(#)eval.c	1.17	07/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

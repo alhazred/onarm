@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)vnet.c	1.10	07/11/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/errno.h>
@@ -126,7 +126,7 @@ static char macaddr_propname[] = "local-mac-address";
 /*
  * This is the string displayed by modinfo(1m).
  */
-static char vnet_ident[] = "vnet driver v1.10";
+static char vnet_ident[] = "vnet driver v%I%";
 extern struct mod_ops mod_driverops;
 static struct cb_ops cb_vnetops = {
 	nulldev,		/* cb_open */

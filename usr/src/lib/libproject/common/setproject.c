@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)setproject.c	1.16	07/02/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/task.h>
 #include <sys/types.h>

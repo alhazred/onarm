@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)ns_name.c	1.7	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
 static const char rcsid[] = "$Id: ns_name.c,v 8.20 2003/04/03 06:00:07 marka Exp $";

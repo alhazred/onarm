@@ -26,7 +26,7 @@
 #ifndef	_SYS_PXB_PLX_H
 #define	_SYS_PXB_PLX_H
 
-#pragma ident	"@(#)pxb_plx.h	1.1	07/05/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

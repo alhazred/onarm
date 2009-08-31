@@ -17,7 +17,7 @@
  * WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-#pragma ident	"@(#)multilink.c	1.2	01/02/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define RCSID	"$Id: $"
 
 #include <string.h>

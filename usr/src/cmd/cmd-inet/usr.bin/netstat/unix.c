@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)unix.c	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * code for netstat's -k option

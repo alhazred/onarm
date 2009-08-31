@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-%#pragma ident	"@(#)nis_cache.x	1.12	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef RPC_HDR

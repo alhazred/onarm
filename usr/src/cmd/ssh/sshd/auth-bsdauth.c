@@ -24,7 +24,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: auth-bsdauth.c,v 1.5 2002/06/30 21:59:45 deraadt Exp $");
 
-#pragma ident	"@(#)auth-bsdauth.c	1.2	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef BSD_AUTH
 #include "xmalloc.h"

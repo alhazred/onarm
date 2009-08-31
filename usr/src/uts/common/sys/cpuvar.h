@@ -31,7 +31,7 @@
 #ifndef _SYS_CPUVAR_H
 #define	_SYS_CPUVAR_H
 
-#pragma ident	"@(#)cpuvar.h	1.130	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/thread.h>
 #include <sys/sysinfo.h>	/* has cpu_stat_t definition */

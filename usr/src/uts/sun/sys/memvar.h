@@ -27,7 +27,7 @@
 #ifndef _SYS_MEMVAR_H
 #define	_SYS_MEMVAR_H
 
-#pragma ident	"@(#)memvar.h	1.57	05/06/08 SMI"	/* SunOS4.1.2 1.45 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS4.1.2 1.45 */
 
 #ifdef	__cplusplus
 extern "C" {

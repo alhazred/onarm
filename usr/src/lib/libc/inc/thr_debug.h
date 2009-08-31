@@ -27,7 +27,7 @@
 #ifndef _THR_DEBUG_H
 #define	_THR_DEBUG_H
 
-#pragma ident	"@(#)thr_debug.h	1.1	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(THREAD_DEBUG)
 

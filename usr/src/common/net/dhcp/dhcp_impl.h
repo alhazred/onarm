@@ -26,7 +26,7 @@
 #ifndef	_DHCP_IMPL_H
 #define	_DHCP_IMPL_H
 
-#pragma ident	"@(#)dhcp_impl.h	1.5	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Common definitions used by Sun DHCP implementations

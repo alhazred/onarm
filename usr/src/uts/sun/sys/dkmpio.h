@@ -27,7 +27,7 @@
 #ifndef	_SYS_DKMPIO_H
 #define	_SYS_DKMPIO_H
 
-#pragma ident	"@(#)dkmpio.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* from dualport: dkmpio.h 1.5 91/04/11 SMI	*/
 
 /*

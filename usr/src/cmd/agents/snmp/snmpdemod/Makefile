@@ -21,7 +21,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.25	07/07/05 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #####################################################

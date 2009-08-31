@@ -27,7 +27,7 @@
 #	Copyright (c) 1998, 2000 by Sun Microsystems, Inc.
 #	All rights reserved.
 
-#ident	"@(#)spell.sh	1.21	05/06/08 SMI"	/* SVr4.0 1.11	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.11	*/
 #	spell program
 # B_SPELL flags, D_SPELL dictionary, F_SPELL input files, H_SPELL history,
 # S_SPELL stop, V_SPELL data for -v

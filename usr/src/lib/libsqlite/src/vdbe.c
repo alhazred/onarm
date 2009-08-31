@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)vdbe.c	1.4	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 ** 2001 September 15

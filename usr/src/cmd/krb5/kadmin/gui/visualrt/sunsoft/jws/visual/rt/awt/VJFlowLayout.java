@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)VJFlowLayout.java	1.2	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * @(#)FlowLayout.java	1.18 95/12/14 Arthur van Hoff
  *

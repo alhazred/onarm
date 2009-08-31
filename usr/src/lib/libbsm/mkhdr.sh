@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)mkhdr.sh	1.14	06/08/23 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # Automagically generate the audit_uevents.h header file.

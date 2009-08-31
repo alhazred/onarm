@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)adm1026.c	1.1	05/11/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>		/* ddi_create_minor_node S_IFCHR */
 #include <sys/modctl.h>		/* for modldrv */
@@ -135,7 +135,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv adm1026_modldrv = {
 	&mod_driverops,			/* type of module - driver */
-	"ADM1026 i2c device driver: 1.1",
+	"ADM1026 i2c device driver: %I%",
 	&adm1026_ops
 };
 

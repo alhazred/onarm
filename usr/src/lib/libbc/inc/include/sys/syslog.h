@@ -1,4 +1,4 @@
-#pragma ident	"@(#)syslog.h	1.7	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1982, 1986 Regents of the University of California.

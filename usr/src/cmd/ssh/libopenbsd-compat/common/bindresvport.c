@@ -124,4 +124,4 @@ bindresvport_sa(sd, sa)
 
 #endif /* HAVE_BINDRESVPORT_SA */
 
-#pragma ident	"@(#)bindresvport.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

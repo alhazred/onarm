@@ -18,7 +18,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: canohost.c,v 1.34 2002/09/23 20:46:27 stevesk Exp $");
 
-#pragma ident	"@(#)canohost.c	1.5	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "packet.h"
 #include "xmalloc.h"

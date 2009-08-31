@@ -25,7 +25,7 @@
 #ifndef _SYS_AUDIOHD_IMPL_H_
 #define	_SYS_AUDIOHD_IMPL_H_
 
-#pragma ident	"@(#)audiohd_impl.h	1.9	07/08/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/thread.h>

@@ -64,7 +64,7 @@
  * the functions return error codes.
  */
 
-#pragma ident	"@(#)xenbus_xs.c	1.4	07/12/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errno.h>
 #include <sys/types.h>

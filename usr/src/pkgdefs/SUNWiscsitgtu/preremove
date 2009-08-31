@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)preremove	1.2	06/12/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PATH="/usr/bin:/usr/sbin:${PATH}"

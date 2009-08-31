@@ -20,7 +20,7 @@
 
 /*	$OpenBSD: includes.h,v 1.17 2002/01/26 16:44:22 stevesk Exp $	*/
 
-#pragma ident	"@(#)includes.h	1.7	07/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

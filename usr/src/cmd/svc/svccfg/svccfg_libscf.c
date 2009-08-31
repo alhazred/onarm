@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)svccfg_libscf.c	1.30	08/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <alloca.h>
 #include <assert.h>

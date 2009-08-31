@@ -26,7 +26,7 @@
 #ifndef _SYS_STARCAT_H
 #define	_SYS_STARCAT_H
 
-#pragma ident	"@(#)starcat.h	1.10	06/05/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

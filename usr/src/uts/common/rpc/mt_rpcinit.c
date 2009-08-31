@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)mt_rpcinit.c	1.24	06/10/17 SMI"	/* SVr4.0 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 */
 
 /*
  * Define and initialize MT client/server data.

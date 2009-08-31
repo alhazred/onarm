@@ -27,7 +27,7 @@
 #ifndef _DTAUDIT_H
 #define	_DTAUDIT_H
 
-#pragma ident	"@(#)login_audit.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

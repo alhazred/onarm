@@ -27,7 +27,7 @@
 #ifndef _SYS_EBUS_H
 #define	_SYS_EBUS_H
 
-#pragma ident	"@(#)ebus.h	1.20	05/09/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

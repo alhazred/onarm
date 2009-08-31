@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)topo_builtin.c	1.4	06/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pthread.h>
 

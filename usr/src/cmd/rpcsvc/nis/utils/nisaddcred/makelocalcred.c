@@ -26,7 +26,7 @@
  *	All Rights Reserved.
  */
 
-#pragma ident	"@(#)makelocalcred.c	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * makelocalcred.c

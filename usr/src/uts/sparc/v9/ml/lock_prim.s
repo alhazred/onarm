@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lock_prim.s	1.50	08/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(lint)
 #include <sys/types.h>

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)niagara_asm.s	1.6	06/03/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint)
 #include "assym.h"

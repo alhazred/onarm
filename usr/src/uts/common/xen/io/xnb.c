@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xnb.c	1.5	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef DEBUG
 #define	XNB_DEBUG 1
@@ -1927,7 +1927,7 @@ xnb_hp_state_change(dev_info_t *dip, ddi_eventcookie_t id,
 }
 
 static struct modldrv modldrv = {
-	&mod_miscops, "xnb module 1.5",
+	&mod_miscops, "xnb module %I%",
 };
 
 static struct modlinkage modlinkage = {

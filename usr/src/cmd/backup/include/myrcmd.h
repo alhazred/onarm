@@ -29,7 +29,7 @@
 #ifndef _MYRCMD_H
 #define	_MYRCMD_H
 
-#pragma ident	"@(#)myrcmd.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

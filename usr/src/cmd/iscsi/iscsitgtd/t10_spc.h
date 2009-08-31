@@ -27,7 +27,7 @@
 #ifndef _T10_SPC_H
 #define	_T10_SPC_H
 
-#pragma ident	"@(#)t10_spc.h	1.7	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

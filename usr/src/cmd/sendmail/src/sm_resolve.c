@@ -41,7 +41,7 @@
  * SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)sm_resolve.c	1.6	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 #if DNSMAP

@@ -22,7 +22,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mcamd_misc.c	1.2	06/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

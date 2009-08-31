@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)detach.c	1.13	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/termios.h>
 #include <fcntl.h>

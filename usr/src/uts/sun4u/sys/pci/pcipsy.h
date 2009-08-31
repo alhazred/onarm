@@ -26,7 +26,7 @@
 #ifndef _SYS_PCIPSY_H
 #define	_SYS_PCIPSY_H
 
-#pragma ident	"@(#)pcipsy.h	1.9	06/05/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

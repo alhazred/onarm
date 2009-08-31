@@ -81,7 +81,7 @@ First checkin
 
 */
 
-#pragma ident	"@(#)mDNSUNP.h	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __mDNSUNP_h
 #define __mDNSUNP_h

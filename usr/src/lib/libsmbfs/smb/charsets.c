@@ -33,7 +33,7 @@
  *       28-Nov-2004     Guy Harris	New today
  */
 
-#pragma ident	"@(#)charsets.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <stdio.h>

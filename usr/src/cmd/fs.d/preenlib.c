@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)preenlib.c	1.8	05/10/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.

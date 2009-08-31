@@ -9,7 +9,7 @@
  *
  **************************************************************************/
 
-#pragma ident	"@(#)devinfo.h	1.3	07/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef DEVINFO_H
 #define DEVINFO_H

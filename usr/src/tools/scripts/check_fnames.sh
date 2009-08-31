@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)check_fnames.sh	1.3	06/01/12 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # avoid confusion due to translated output from localized commands
 export LC_ALL=C 

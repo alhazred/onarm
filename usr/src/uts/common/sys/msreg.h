@@ -31,7 +31,7 @@
 #ifndef _SYS_MSREG_H
 #define	_SYS_MSREG_H
 
-#pragma ident	"@(#)msreg.h	4.33	05/06/08 SMI"	/* SunOS4.0 4.24 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS4.0 4.24 */
 
 
 #include <sys/types.h>

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)adb_err.c	1.3	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 void
 initialize_adb_error_table(void) {

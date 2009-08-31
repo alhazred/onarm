@@ -9,7 +9,7 @@
  *	$Id: types.h,v 1.13 2001/04/03 01:53:01 gshapiro Exp $
  */
 
-#pragma ident	"@(#)types.h	1.1	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  This header file defines standard integral types.

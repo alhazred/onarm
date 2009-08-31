@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)who.c	1.33	06/04/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	This program analyzes information found in /var/adm/utmpx

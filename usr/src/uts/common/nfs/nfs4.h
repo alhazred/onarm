@@ -26,7 +26,7 @@
 #ifndef _NFS4_H
 #define	_NFS4_H
 
-#pragma ident	"@(#)nfs4.h	1.44	07/11/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/vnode.h>

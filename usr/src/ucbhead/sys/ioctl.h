@@ -58,7 +58,7 @@
 #ifndef _SYS_IOCTL_H
 #define	_SYS_IOCTL_H
 
-#pragma ident	"@(#)ioctl.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	IOCTYPE	0xff00
 

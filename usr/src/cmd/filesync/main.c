@@ -41,7 +41,7 @@
  *	whoami		(static) get uid/gid/umask
  */
 
-#pragma ident	"@(#)main.c	1.19	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <unistd.h>
 #include <stdlib.h>

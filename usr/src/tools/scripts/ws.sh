@@ -24,7 +24,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)ws.sh	1.7	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This script sets up the environment variables for a SunOS
 #	codemgr workspace and spawns a shell with the environment

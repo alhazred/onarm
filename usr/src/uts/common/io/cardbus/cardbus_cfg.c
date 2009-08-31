@@ -28,7 +28,7 @@
  * From "@(#)pcicfg.c   1.31    99/06/18 SMI"
  */
 
-#pragma ident	"@(#)cardbus_cfg.c	1.5	07/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Cardbus configurator

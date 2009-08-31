@@ -17,7 +17,7 @@
 #ifndef	_NETINET_UDP_H
 #define	_NETINET_UDP_H
 
-#pragma ident	"@(#)udp.h	1.8	07/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* udp.h 1.7 88/08/19 SMI; from UCB 7.1 6/5/86	*/
 
 #ifdef	__cplusplus

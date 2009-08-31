@@ -27,7 +27,7 @@
 #ifndef _PAGENT_H
 #define	_PAGENT_H
 
-#pragma ident	"@(#)pagent.h	1.6	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

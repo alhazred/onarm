@@ -31,7 +31,7 @@
 #ifndef _CONFIG_H_
 #define _CONFIG_H_
 
-#pragma ident	"@(#)config.h	1.7	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /***** GLOBAL VARIABLES *****/
 

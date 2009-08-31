@@ -21,7 +21,7 @@
 # CDDL HEADER END
 #
 #
-# ident	"@(#)sotruss.ksh	1.14	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.

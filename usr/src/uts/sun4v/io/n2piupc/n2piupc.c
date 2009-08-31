@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)n2piupc.c	1.1	06/12/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Driver interconnect for the N2 PIU performance counter driver.
@@ -87,7 +87,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv md = {
 	&mod_driverops,
-	"N2 PIU Perf Counter 1.1",
+	"N2 PIU Perf Counter %I%",
 	&n2piupc_ops,
 };
 

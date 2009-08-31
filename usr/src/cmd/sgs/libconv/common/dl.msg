@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)dl.msg	1.18	06/06/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Message file for cmd/sgs/libconv/common/dl.c
 

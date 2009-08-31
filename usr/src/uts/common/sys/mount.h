@@ -31,7 +31,7 @@
 #ifndef _SYS_MOUNT_H
 #define	_SYS_MOUNT_H
 
-#pragma ident	"@(#)mount.h	1.27	05/06/08 SMI"	/* SVr4.0 11.10	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.10	*/
 
 #ifdef	__cplusplus
 extern "C" {

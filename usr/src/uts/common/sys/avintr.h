@@ -26,7 +26,7 @@
 #ifndef _SYS_AVINTR_H
 #define	_SYS_AVINTR_H
 
-#pragma ident	"@(#)avintr.h	1.19	07/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/mutex.h>
 #include <sys/dditypes.h>

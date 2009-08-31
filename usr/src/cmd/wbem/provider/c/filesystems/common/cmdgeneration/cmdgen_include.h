@@ -27,7 +27,7 @@
 #ifndef _CMDGEN_INCLUDE_H
 #define	_CMDGEN_INCLUDE_H
 
-#pragma ident	"@(#)cmdgen_include.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

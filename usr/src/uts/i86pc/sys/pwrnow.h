@@ -26,7 +26,7 @@
 #ifndef	_PWRNOW_H
 #define	_PWRNOW_H
 
-#pragma ident	"@(#)pwrnow.h	1.1	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cpudrv.h>
 

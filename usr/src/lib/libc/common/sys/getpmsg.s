@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getpmsg.s	1.13	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"getpmsg.s"
+	.file	"%M%"
 
 /* C library -- getpmsg						*/
 /* int __getpmsg(int fd, struct strbuf *ctlptr,			*/

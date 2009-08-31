@@ -29,7 +29,7 @@
 #ifndef	_SYS_IDN_SMR_H
 #define	_SYS_IDN_SMR_H
 
-#pragma ident	"@(#)idn_smr.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sysmacros.h>
 

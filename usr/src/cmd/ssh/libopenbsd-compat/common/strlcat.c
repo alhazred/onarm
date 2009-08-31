@@ -78,4 +78,4 @@ strlcat(dst, src, siz)
 
 #endif /* !HAVE_STRLCAT */
 
-#pragma ident	"@(#)strlcat.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

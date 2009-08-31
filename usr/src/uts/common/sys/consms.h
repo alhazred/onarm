@@ -26,7 +26,7 @@
 #ifndef	_SYS_CONSMS_H
 #define	_SYS_CONSMS_H
 
-#pragma ident	"@(#)consms.h	1.3	06/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)dmu_objset.c	1.36	08/03/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cred.h>
 #include <sys/zfs_context.h>

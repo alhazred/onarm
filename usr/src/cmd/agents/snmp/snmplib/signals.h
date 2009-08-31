@@ -26,7 +26,7 @@
 #ifndef _SIGNALS_H_
 #define _SIGNALS_H_
 
-#pragma ident	"@(#)signals.h	1.5	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /***** GLOBAL FUNCTIONS *****/
 

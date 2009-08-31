@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  *
  */
-#pragma ident	"@(#)doorway.c	1.10	07/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Threads:
  *

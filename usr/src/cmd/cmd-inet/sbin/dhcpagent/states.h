@@ -26,7 +26,7 @@
 #ifndef	STATES_H
 #define	STATES_H
 
-#pragma ident	"@(#)states.h	1.12	07/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <netinet/in.h>

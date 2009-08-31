@@ -27,7 +27,7 @@
 #ifndef	_AMD64_SYS_PRIVREGS_H
 #define	_AMD64_SYS_PRIVREGS_H
 
-#pragma ident	"@(#)privregs.h	1.7	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

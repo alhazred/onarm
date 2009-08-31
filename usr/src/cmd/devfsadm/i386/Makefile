@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.5	07/10/04 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 LINK_OBJS_i386 = \
 	misc_link_i386.o \

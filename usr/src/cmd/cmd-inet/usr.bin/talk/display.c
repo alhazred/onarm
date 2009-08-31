@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)display.c	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The window 'manager', initializes curses and handles the actual

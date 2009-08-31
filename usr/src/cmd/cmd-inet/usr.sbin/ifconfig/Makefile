@@ -27,7 +27,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-# ident	"@(#)Makefile	1.38	08/01/22 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG =		ifconfig

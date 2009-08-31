@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.lw8	1.14	07/03/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	Global definitions for sun4u implementation specific modules.

@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile	1.6	07/04/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of todm5819p_rmc  kernel module.
 #

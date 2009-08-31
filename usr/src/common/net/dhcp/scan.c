@@ -26,7 +26,7 @@
  * as they are called from different threads.
  */
 
-#pragma ident	"@(#)scan.c	1.19	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include "dhcp_impl.h"

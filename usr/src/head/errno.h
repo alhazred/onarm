@@ -36,7 +36,7 @@
 #ifndef _ERRNO_H
 #define	_ERRNO_H
 
-#pragma ident	"@(#)errno.h	1.19	05/06/08 SMI"	/* SVr4.0 1.4.1.5 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4.1.5 */
 
 #if defined(_AEABI_PORTABILITY_LEVEL)
 #error "not supported AEABI."

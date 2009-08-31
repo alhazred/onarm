@@ -9,7 +9,7 @@
  *
  **************************************************************************/
 
-#pragma ident	"@(#)devinfo_usb.c	1.6	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef HAVE_CONFIG_H
 #  include <config.h>

@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)shdr.msg	1.2	08/01/17 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 @ _START_
 

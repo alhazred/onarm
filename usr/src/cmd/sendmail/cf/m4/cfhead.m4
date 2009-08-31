@@ -36,7 +36,7 @@ syscmd(rm -f TEMPFILE)dnl')')
 
 divert(-1)
 
-# ident	"@(#)cfhead.m4	1.22	06/03/22 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 changecom()
 undefine(`format')
@@ -314,4 +314,4 @@ define(`confMILTER_MACROS_EOM', `{msg_id}')
 
 divert(0)dnl
 VERSIONID(`$Id: cfhead.m4,v 8.116 2004/01/28 22:02:22 ca Exp $')
-VERSIONID(`ident	"@(#)cfhead.m4	1.22	06/03/22 SMI"')
+VERSIONID(`ident	"%Z%%M%	%I%	%E% SMI"')

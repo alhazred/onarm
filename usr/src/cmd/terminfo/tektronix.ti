@@ -23,7 +23,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)tektronix.ti	1.7	05/06/08 SMI"	/* SVr4.0 1.16	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.16	*/
 # # --------------------------------
 #
 # tektronix: TEKTRONIX

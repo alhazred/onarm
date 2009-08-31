@@ -28,7 +28,7 @@
     operating system upgrade.  Make customizations in a different
     file.
 
-#ident	"@(#)multicast.xml	1.1	07/08/13 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 -->
 
 <service_bundle type='manifest' name='SUNWdsdr:multicast'>

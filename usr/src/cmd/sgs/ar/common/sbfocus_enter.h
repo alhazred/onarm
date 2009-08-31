@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sbfocus_enter.h	1.5	05/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SBFOCUS_ENTER_H
 #define	_SBFOCUS_ENTER_H

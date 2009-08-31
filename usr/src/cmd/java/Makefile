@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Despite the name, this directory doesn't contain the Java Virtual Machine.
 # It only contains base OS/Solaris files for improved integration of a

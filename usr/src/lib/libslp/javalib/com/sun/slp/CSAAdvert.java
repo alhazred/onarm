@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)CSAAdvert.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)CSAAdvert.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  CSAAdvert.java:    Message class for SLP CSAAdvert message
 //  Author:           James Kempf
 //  Created On:       Fri Oct 10 10:48:05 1997
@@ -45,7 +45,7 @@ import java.io.*;
 /**
  * The CSAAdvert class models the SLP SAAdvert message, client side.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

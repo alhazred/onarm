@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)handlers.c	1.13	08/03/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "pmconfig.h"
 #include <sys/mkdev.h>

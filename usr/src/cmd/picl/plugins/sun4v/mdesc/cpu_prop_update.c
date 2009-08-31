@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cpu_prop_update.c	1.4	07/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mdescplugin.h"
 #include <limits.h>

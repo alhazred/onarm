@@ -14,7 +14,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: compress.c,v 1.19 2002/03/18 17:31:54 provos Exp $");
 
-#pragma ident	"@(#)compress.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "log.h"
 #include "buffer.h"

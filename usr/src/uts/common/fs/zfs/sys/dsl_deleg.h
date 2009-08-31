@@ -30,7 +30,7 @@
 #ifndef	_SYS_DSL_DELEG_H
 #define	_SYS_DSL_DELEG_H
 
-#pragma ident	"@(#)dsl_deleg.h	1.4	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dmu.h>
 #include <sys/dsl_pool.h>

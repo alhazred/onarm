@@ -32,7 +32,7 @@
  * of the copyright holder.
  */
 
-#pragma ident	"@(#)pathutil.h	1.1	04/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The following object encapsulates a buffer designed to be used to

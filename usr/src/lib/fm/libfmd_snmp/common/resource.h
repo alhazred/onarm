@@ -27,7 +27,7 @@
 #ifndef	_RESOURCE_H
 #define	_RESOURCE_H
 
-#pragma ident	"@(#)resource.h	1.1	06/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

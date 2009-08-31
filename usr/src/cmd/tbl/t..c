@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
   
-#pragma ident	"@(#)t..c	1.5	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* t..c : external declarations */
 

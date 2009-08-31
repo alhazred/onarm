@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)cerror.s	1.21	05/06/08 SMI"	/* SVr4.0 1.6	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 
 	.file	"cerror.s"
 

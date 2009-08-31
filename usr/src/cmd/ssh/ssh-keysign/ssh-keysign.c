@@ -28,7 +28,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: ssh-keysign.c,v 1.7 2002/07/03 14:21:05 markus Exp $");
 
-#pragma ident	"@(#)ssh-keysign.c	1.3	04/06/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <unistd.h>
 

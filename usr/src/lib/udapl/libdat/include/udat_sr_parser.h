@@ -40,7 +40,7 @@
 #ifndef _DAT_SR_PARSER_H_
 #define	_DAT_SR_PARSER_H_
 
-#pragma ident	"@(#)udat_sr_parser.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dat_osd.h>
 

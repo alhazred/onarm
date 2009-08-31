@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rge_log.c	1.1	05/10/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "rge.h"
 

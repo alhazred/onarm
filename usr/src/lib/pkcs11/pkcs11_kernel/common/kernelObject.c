@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kernelObject.c	1.12	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pthread.h>
 #include <stdlib.h>

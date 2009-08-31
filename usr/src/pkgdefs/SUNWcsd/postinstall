@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)postinstall	1.35	06/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 PATH="/usr/bin:/usr/sbin:$PATH"; export PATH
 

@@ -27,7 +27,7 @@
 #ifndef _CFGA_SCSI_H
 #define	_CFGA_SCSI_H
 
-#pragma ident	"@(#)cfga_scsi.h	1.12	06/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

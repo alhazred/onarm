@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)gai_strerror.c	1.4	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <port_before.h>
 #include <netdb.h>

@@ -33,7 +33,7 @@
  *	@(#)queue.h	8.5 (Berkeley) 8/20/94
  */
 
-#pragma ident	"@(#)queue.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file [used to define] five types of data structures:

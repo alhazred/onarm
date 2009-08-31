@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)run.c	1.14	06/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	tempfree(x, s)	if (istemp(x)) tfree(x, s)
 

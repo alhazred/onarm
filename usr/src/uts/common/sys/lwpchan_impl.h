@@ -27,7 +27,7 @@
 #ifndef	_SYS_LCHAN_IMPL_H
 #define	_SYS_LCHAN_IMPL_H
 
-#pragma ident	"@(#)lwpchan_impl.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

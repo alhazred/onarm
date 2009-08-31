@@ -20,7 +20,7 @@
  * $Id: zlib.c,v 1.11 1998/09/13 23:37:12 paulus Exp $
  */
 
-#pragma ident	"@(#)zlib.c	1.6	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  ==FILEVERSION 971210==

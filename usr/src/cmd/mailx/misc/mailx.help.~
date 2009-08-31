@@ -1,4 +1,4 @@
-# ident	"@(#)mailx.help.~	1.2	00/05/27 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 -------------------- ~ ESCAPES ----------------------------
 ~~		Quote a single tilde
 ~a,~A		Autograph (insert 'sign','Sign' variable)

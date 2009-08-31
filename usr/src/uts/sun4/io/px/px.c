@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)px.c	1.43	07/04/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * PCI Express nexus driver interface
@@ -128,7 +128,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops, 		/* Type of module - driver */
-	"PCI Express nexus driver 1.43",	/* Name of module. */
+	"PCI Express nexus driver %I%",	/* Name of module. */
 	&px_ops,			/* driver ops */
 };
 

@@ -23,7 +23,7 @@
  * All rights reserved.  Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ddi_dki_comm.inc	1.8	07/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ddi_dki_comm.inc - Part of a pseudo-kernel to use when analyzing drivers

@@ -27,7 +27,7 @@
 #ifndef _SYS_EXECHDR_H
 #define	_SYS_EXECHDR_H
 
-#pragma ident	"@(#)exechdr.h	1.19	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/inttypes.h>
 

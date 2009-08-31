@@ -1,4 +1,4 @@
-#ident	"@(#)Config	1.3	05/06/08 SMI"	/* from SVR4 bnu:Config 1.1 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:Config 1.1 */
 #
 # CDDL HEADER START
 #

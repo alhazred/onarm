@@ -31,7 +31,7 @@
 #ifndef	_MENU_H
 #define	_MENU_H
 
-#pragma ident	"@(#)menu.h	1.9	05/06/08 SMI"	/* SVr4.0 1.15	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.15	*/
 
 #include <curses.h>
 #include <eti.h>

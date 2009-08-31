@@ -27,7 +27,7 @@
 #ifndef	_SYS_DS_PRI_H_
 #define	_SYS_DS_PRI_H_
 
-#pragma ident	"@(#)ds_pri.h	1.1	07/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

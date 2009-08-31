@@ -1,4 +1,4 @@
-#pragma ident	"@(#)ccbase.c	1.6	07/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lib/krb5/ccache/ccbase.c

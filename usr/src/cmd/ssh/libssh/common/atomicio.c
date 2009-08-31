@@ -28,7 +28,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: atomicio.c,v 1.10 2001/05/08 22:48:07 markus Exp $");
 
-#pragma ident	"@(#)atomicio.c	1.5	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "atomicio.h"
 

@@ -1,6 +1,6 @@
 #! /bin/sh
 
-# ident	"@(#)preremove	1.2	00/07/17 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 # SUNWifp preremove script
 # Copyright (c) 1998 by Sun Microsystems, Inc.
 # All rights reserved.

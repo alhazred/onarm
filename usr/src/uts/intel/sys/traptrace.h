@@ -27,7 +27,7 @@
 #ifndef _SYS_TRAPTRACE_H
 #define	_SYS_TRAPTRACE_H
 
-#pragma ident	"@(#)traptrace.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(__i386) || defined(__amd64)
 

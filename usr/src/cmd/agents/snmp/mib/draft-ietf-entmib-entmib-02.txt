@@ -1,4 +1,4 @@
-#ident	"@(#)draft-ietf-entmib-entmib-02.txt	1.3	05/06/12 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 Draft                          Entity MIB               January 22, 1996
 

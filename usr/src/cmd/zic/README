@@ -1,7 +1,7 @@
 Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 Use is subject to license terms.
 
-#ident	"@(#)README	1.23	08/01/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 The /usr/share/lib/zoneinfo/src directory contains zoneinfo timezone source
 files.  These source files have been compiled using zic(1M) to create

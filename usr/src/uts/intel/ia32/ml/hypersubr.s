@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma	ident	"@(#)hypersubr.s	1.2	07/12/19 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 #ifdef XPV_HVM_DRIVER

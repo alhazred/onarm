@@ -31,7 +31,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)uucico.c	1.16	05/10/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 

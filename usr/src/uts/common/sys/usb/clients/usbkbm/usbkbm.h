@@ -27,7 +27,7 @@
 #ifndef _SYS_USB_USBKBM_H
 #define	_SYS_USB_USBKBM_H
 
-#pragma ident	"@(#)usbkbm.h	1.11	05/11/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

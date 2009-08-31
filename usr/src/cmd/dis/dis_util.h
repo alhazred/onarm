@@ -27,7 +27,7 @@
 #ifndef _DIS_UTIL_H
 #define	_DIS_UTIL_H
 
-#pragma ident	"@(#)dis_util.h	1.1	06/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)scsi_capabilities.c	1.13	07/10/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pcibus.c	1.12	07/09/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/fm/protocol.h>
 #include <assert.h>

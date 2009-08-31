@@ -29,7 +29,7 @@
  * code shared by its sub-modules.
  */
 
-#pragma ident	"@(#)Exacct.xs	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include "exacct_common.xh"

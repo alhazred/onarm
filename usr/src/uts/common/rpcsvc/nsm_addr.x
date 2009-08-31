@@ -23,7 +23,7 @@
 % * CDDL HEADER END
 % */
 %
-%#pragma ident	"@(#)nsm_addr.x	1.5	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 %/* from nsm_addr.x */
 %

@@ -32,7 +32,7 @@
 #ifndef	_LIBADM_H
 #define	_LIBADM_H
 
-#pragma ident	"@(#)libadm.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <valtools.h>
 #include <stdio.h>

@@ -26,7 +26,7 @@
 
 RCSID("$Id: bsd-misc.c,v 1.10 2002/07/08 21:09:41 mouring Exp $");
 
-#pragma ident	"@(#)bsd-misc.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 char *get_progname(char *argv0)
 {

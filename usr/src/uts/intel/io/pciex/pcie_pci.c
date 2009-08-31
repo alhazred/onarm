@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pcie_pci.c	1.13	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

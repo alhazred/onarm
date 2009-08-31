@@ -26,7 +26,7 @@
 #ifndef _SYS_US3_MODULE_H
 #define	_SYS_US3_MODULE_H
 
-#pragma ident	"@(#)us3_module.h	1.15	06/10/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/async.h>
 

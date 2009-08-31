@@ -7,7 +7,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_proxy.c	1.5	07/10/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(KERNEL) || defined(_KERNEL)
 # undef KERNEL

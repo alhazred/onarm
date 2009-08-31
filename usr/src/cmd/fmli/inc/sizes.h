@@ -27,7 +27,7 @@
  * Copyright  (c) 1985 AT&T
  *	All Rights Reserved
  */
-#ident	"@(#)sizes.h	1.7	05/06/08 SMI"       /* SVr4.0 1.2 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.2 */
 
 #ifndef _CURSES_H
     extern int COLS;

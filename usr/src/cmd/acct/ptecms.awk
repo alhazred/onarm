@@ -1,4 +1,4 @@
-#ident	"@(#)ptecms.awk	1.4	05/06/08 SMI"	/* SVr4.0 1.6	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 #
 # CDDL HEADER START
 #

@@ -17,7 +17,7 @@
 #ifndef _SENDMAIL_H
 # define _SENDMAIL_H 1
 
-#pragma ident	"@(#)sendmail.h	1.93	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef MILTER
 # define MILTER	1	/* turn on MILTER by default */

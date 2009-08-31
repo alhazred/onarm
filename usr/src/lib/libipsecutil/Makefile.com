@@ -27,7 +27,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-# ident	"@(#)Makefile.com	1.9	08/02/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY =	libipsecutil.a

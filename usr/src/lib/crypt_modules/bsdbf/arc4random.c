@@ -7,7 +7,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)arc4random.c	1.4	05/07/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*	$OpenBSD: arc4random.c,v 1.6 2001/06/05 05:05:38 pvalchev Exp $	*/
 

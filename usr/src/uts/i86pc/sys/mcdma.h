@@ -26,7 +26,7 @@
 #ifndef _SYS_MCDMA_H
 #define	_SYS_MCDMA_H
 
-#pragma ident	"@(#)mcdma.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

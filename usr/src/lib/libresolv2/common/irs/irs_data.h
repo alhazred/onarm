@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)irs_data.h	1.4	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * $Id: irs_data.h,v 1.12 1999/01/18 07:46:55 vixie Exp $

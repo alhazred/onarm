@@ -40,7 +40,7 @@
 #ifndef	_SYS_T_KUSER_H
 #define	_SYS_T_KUSER_H
 
-#pragma ident	"@(#)t_kuser.h	1.19	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/file.h>

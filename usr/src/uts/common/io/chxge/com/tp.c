@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)tp.c	1.4	07/03/15 SMI"	/* tp.c */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* tp.c */
 
 #include "common.h"
 #include "regs.h"

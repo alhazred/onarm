@@ -24,7 +24,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 
-# ident	"@(#)postinstall	1.2	07/10/17 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 ROOT=${PKG_INSTALL_ROOT:-/}
 SYSTEM=${ROOT}/etc/system

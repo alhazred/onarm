@@ -27,7 +27,7 @@
 #ifndef	_NFS_SHARESECURITY_ATTR_H
 #define	_NFS_SHARESECURITY_ATTR_H
 
-#pragma ident	"@(#)nfs_sharesecurity_attr.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

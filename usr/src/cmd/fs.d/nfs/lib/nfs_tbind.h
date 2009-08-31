@@ -30,7 +30,7 @@
 #ifndef	_NFS_TBIND_H
 #define	_NFS_TBIND_H
 
-#pragma ident	"@(#)nfs_tbind.h	1.8	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netconfig.h>
 #include <netdir.h>

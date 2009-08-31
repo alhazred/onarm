@@ -12,7 +12,7 @@
 #ifndef	_NETINET_ARP_H
 #define	_NETINET_ARP_H
 
-#pragma ident	"@(#)arp.h	1.9	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/ethernet.h>

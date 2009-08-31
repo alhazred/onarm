@@ -2,10 +2,10 @@
  * rfc2047.c -- decode RFC-2047 header format
  */
 
-#pragma ident	"@(#)rfc2047.c	1.1	99/01/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
-static char sccsi2[] = "@(#)rfc2047.c	1.1 (Sun) 01/08/99";
+static char sccsi2[] = "%W% (Sun) %G%";
 #endif
 
 /*

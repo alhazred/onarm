@@ -27,7 +27,7 @@
 #ifndef _FINDFP_H
 #define	_FINDFP_H
 
-#pragma ident	"@(#)findfp.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -31,7 +31,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)mach_vm_dep.c	1.28	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * UNIX machine dependent virtual memory support.

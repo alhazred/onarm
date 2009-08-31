@@ -26,7 +26,7 @@
 #ifndef	_INET_IP_NDP_H
 #define	_INET_IP_NDP_H
 
-#pragma ident	"@(#)ip_ndp.h	1.26	08/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/mutex.h>
 #include <sys/stream.h>

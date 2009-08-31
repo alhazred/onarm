@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ServiceType.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)ServiceType.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ServiceType.java: Model a service type.
 //  Author:           James Kempf
 //  Created On:       Thu Apr  9 09:23:18 1998
@@ -47,7 +47,7 @@ import java.io.*;
  * service type name is a simple URL scheme identifier, a service:
  * type, an abstract type or protocol type.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

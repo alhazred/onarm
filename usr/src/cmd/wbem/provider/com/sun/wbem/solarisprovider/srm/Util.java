@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Util.java	1.2	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -40,7 +40,7 @@ import java.io.InputStream;
 /**
  * Utility class 
  * @author Sun Microsystems
- * @version 1.2 06/08/05
+ * @version %I% %G%
  */
 class Util {
     

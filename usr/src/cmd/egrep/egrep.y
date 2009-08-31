@@ -33,7 +33,7 @@
 /*	  All Rights Reserved	*/
 
 %{
-#pragma ident	"@(#)egrep.y	1.27	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %}
 
 /*

@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_SMB_COMMON_DOOR_H
 #define	_SMBSRV_SMB_COMMON_DOOR_H
 
-#pragma ident	"@(#)smb_common_door.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <smbsrv/wintypes.h>
 #include <smbsrv/smb_xdr.h>

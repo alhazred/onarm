@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)keylogin.c	1.23	06/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Set secret key on local machine

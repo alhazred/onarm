@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)usbser_keyspan.c	1.3	06/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This driver includes code for Keyspan USA49WG/USA49WLC/USA19HS adapters. It
@@ -234,7 +234,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"USB keyspan usb2serial driver 1.3",
+	"USB keyspan usb2serial driver %I%",
 	&usbser_keyspan_ops,
 };
 

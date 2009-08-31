@@ -14,7 +14,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: sshpty.c,v 1.7 2002/06/24 17:57:20 deraadt Exp $");
 
-#pragma ident	"@(#)sshpty.c	1.5	05/05/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef HAVE_UTIL_H
 # include <util.h>

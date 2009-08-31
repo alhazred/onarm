@@ -28,7 +28,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)getarhdr.c	1.12	05/06/08 SMI" 	/* SVr4.0 1.7	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.7	*/
 
 #pragma weak	elf_getarhdr = _elf_getarhdr
 

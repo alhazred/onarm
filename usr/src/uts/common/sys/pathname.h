@@ -39,7 +39,7 @@
 #ifndef _SYS_PATHNAME_H
 #define	_SYS_PATHNAME_H
 
-#pragma ident	"@(#)pathname.h	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/vnode.h>
 #include <sys/cred.h>

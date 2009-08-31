@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)asru.c	1.3	07/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fmdump.h>
 #include <strings.h>

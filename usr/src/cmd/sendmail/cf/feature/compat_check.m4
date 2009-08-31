@@ -7,7 +7,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-#ident	"@(#)compat_check.m4	1.3	02/05/02 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 divert(0)
 VERSIONID(`$Id: compat_check.m4,v 1.4 2002/02/26 22:15:31 gshapiro Exp $')

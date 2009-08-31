@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rmt.c	1.21	05/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  Multi-process streaming 4.3bsd /etc/rmt server.

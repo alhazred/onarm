@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#pragma ident	"@(#)00README	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 This directory contains source code to the rdb debugger.  This debugger
 is distributed as an example client of the librtld_db.so.1 interface.

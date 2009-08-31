@@ -9,7 +9,7 @@
  *	$Id: sfsasl.h,v 8.20 2006/03/27 21:31:00 ca Exp $"
  */
 
-#pragma ident	"@(#)sfsasl.h	1.3	06/06/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef SFSASL_H
 # define SFSASL_H

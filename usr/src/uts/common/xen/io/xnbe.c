@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xnbe.c	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Xen network backend - ioemu version.
@@ -137,7 +137,7 @@ static struct dev_ops ops = {
 };
 
 static struct modldrv modldrv = {
-	&mod_driverops, "xnbe driver 1.1", &ops,
+	&mod_driverops, "xnbe driver %I%", &ops,
 };
 
 static struct modlinkage modlinkage = {

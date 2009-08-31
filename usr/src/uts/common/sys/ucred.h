@@ -29,7 +29,7 @@
 #ifndef	_SYS_UCRED_H
 #define	_SYS_UCRED_H
 
-#pragma ident	"@(#)ucred.h	1.7	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/procfs.h>

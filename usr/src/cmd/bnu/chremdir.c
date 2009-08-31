@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)chremdir.c	1.6	05/06/08 SMI"	/* from SVR4 bnu:chremdir.c 2.4 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:chremdir.c 2.4 */
 
 #include "uucp.h"
 

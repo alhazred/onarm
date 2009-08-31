@@ -26,7 +26,7 @@
 #ifndef	_INET_IPSECAH_H
 #define	_INET_IPSECAH_H
 
-#pragma ident	"@(#)ipsecah.h	1.5	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <inet/ip.h>
 #include <inet/ipdrop.h>

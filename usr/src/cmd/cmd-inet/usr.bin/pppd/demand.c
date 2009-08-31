@@ -20,7 +20,7 @@
  * WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-#pragma ident	"@(#)demand.c	1.4	04/01/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define RCSID	"$Id: demand.c,v 1.13 2000/04/15 01:27:11 masputra Exp $"
 
 #include <stdio.h>

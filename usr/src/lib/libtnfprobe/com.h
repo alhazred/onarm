@@ -26,7 +26,7 @@
 #ifndef	_TNF_COM_H
 #define	_TNF_COM_H
 
-#pragma ident	"@(#)com.h	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/tnf_com.h>
 

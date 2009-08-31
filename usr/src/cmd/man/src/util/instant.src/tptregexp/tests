@@ -1,5 +1,5 @@
 #
-#pragma ident	"@(#)tests	1.2	00/05/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 abc	abc	y	&	abc
 abc	xbc	n	-	-

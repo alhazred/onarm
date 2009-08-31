@@ -27,7 +27,7 @@
 #ifndef _RANK_H
 #define	_RANK_H
 
-#pragma ident	"@(#)rank.h	1.1	07/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

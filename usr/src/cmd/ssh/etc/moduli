@@ -1,4 +1,4 @@
-#ident	"@(#)moduli	1.1	04/03/17 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 # 
 # This document does not constitute an API.  The /etc/ssh/moduli file
 # may not exist or may have a different content or interpretation in a

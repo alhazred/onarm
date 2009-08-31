@@ -25,9 +25,9 @@
  */
 
 
-.ident	"@(#)strlen.s	1.9	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"strlen.s"
+	.file	"%M%"
 
 /*
  * strlen(s)

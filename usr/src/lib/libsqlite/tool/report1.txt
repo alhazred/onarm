@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)report1.txt	1.1	04/07/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 The SQL database used for ACD contains 113 tables and indices implemented
 in GDBM.  The following are statistics on the sizes of keys and data

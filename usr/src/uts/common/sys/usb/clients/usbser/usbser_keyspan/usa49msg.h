@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)usa49msg.h	1.2	06/08/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SYS_USB_USBSER_KEYSPAN_USA49MSG_H
 #define	_SYS_USB_USBSER_KEYSPAN_USA49MSG_H

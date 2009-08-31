@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)esp.c	1.288	06/09/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * esp - Emulex SCSI Processor host adapter driver with FAS101/236,
@@ -396,7 +396,7 @@ char _depends_on[] = "misc/scsi";
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module. This one is a driver */
-	"ESP SCSI HBA Driver v1.288", /* Name of the module. */
+	"ESP SCSI HBA Driver v%I%", /* Name of the module. */
 	&esp_ops,	/* driver ops */
 };
 

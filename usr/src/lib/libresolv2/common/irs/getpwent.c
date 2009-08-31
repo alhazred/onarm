@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)getpwent.c	1.4	01/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(LINT) && !defined(CODECENTER)
 static const char rcsid[] = "$Id: getpwent.c,v 1.21 2000/02/21 21:40:56 vixie Exp $";

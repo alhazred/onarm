@@ -27,7 +27,7 @@
 #ifndef _LIBELFSIGN_H
 #define	_LIBELFSIGN_H
 
-#pragma ident	"@(#)libelfsign.h	1.5	07/10/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

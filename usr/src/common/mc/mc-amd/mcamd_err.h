@@ -25,7 +25,7 @@
 #ifndef _MCAMD_ERR_H
 #define	_MCAMD_ERR_H
 
-#pragma ident	"@(#)mcamd_err.h	1.2	06/11/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

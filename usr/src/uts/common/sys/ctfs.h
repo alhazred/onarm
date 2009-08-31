@@ -26,7 +26,7 @@
 #ifndef	_SYS_CTFS_H
 #define	_SYS_CTFS_H
 
-#pragma ident	"@(#)ctfs.h	1.3	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/contract.h>
 

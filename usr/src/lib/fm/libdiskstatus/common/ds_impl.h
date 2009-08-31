@@ -26,7 +26,7 @@
 #ifndef	_DS_IMPL_H
 #define	_DS_IMPL_H
 
-#pragma ident	"@(#)ds_impl.h	1.1	07/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dlfcn.h>
 #include <libnvpair.h>

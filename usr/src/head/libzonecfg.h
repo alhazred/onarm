@@ -27,7 +27,7 @@
 #ifndef _LIBZONECFG_H
 #define	_LIBZONECFG_H
 
-#pragma ident	"@(#)libzonecfg.h	1.29	08/01/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Zone configuration header file.

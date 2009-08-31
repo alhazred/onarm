@@ -53,7 +53,7 @@
  * IN THE SOFTWARE.
  */
 
-#pragma ident	"@(#)xenbus_client.c	1.2	07/12/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef XPV_HVM_DRIVER
 #include <sys/xpv_support.h>

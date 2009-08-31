@@ -38,7 +38,7 @@
 #ifndef	_RPC_CLNT_H
 #define	_RPC_CLNT_H
 
-#pragma ident	"@(#)clnt.h	1.81	05/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <rpc/rpc_com.h>

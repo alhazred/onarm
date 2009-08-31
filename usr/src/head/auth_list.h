@@ -28,7 +28,7 @@
 #ifndef	_AUTH_LIST_H
 #define	_AUTH_LIST_H
 
-#pragma ident	"@(#)auth_list.h	1.7	06/11/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _SYS_MD_HOTSPARES_H
 #define	_SYS_MD_HOTSPARES_H
 
-#pragma ident	"@(#)md_hotspares.h	2.6	05/10/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/lvm/mdvar.h>
 

@@ -33,7 +33,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)des_crypt.c	1.18	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * DES encryption library routines

@@ -27,7 +27,7 @@
 #ifndef	_SYS_SGHSC_H
 #define	_SYS_SGHSC_H
 
-#pragma ident	"@(#)sghsc.h	1.9	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

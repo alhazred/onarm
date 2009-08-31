@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cluster_rcm.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * RCM module for managing the OS Quiesce event (SUNW_OS) in a
@@ -95,7 +95,7 @@ rcm_mod_init()
 const char *
 rcm_mod_info()
 {
-	return (gettext("RCM Cluster module 1.3"));
+	return (gettext("RCM Cluster module %I%"));
 }
 
 int

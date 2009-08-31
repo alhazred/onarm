@@ -27,7 +27,7 @@
 #ifndef _SOLARIS_NFSMOUNT_H
 #define	_SOLARIS_NFSMOUNT_H
 
-#pragma ident	"@(#)Solaris_NFSMount.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

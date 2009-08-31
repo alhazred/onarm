@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)nissetup.sh	1.24	07/03/27 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Initial setup for NIS+ domains. Note this only needs to be run on those
 # domains that you plan to make into user level domains (that is domains

@@ -31,7 +31,7 @@
 #ifndef _NAN_H
 #define	_NAN_H
 
-#pragma ident	"@(#)nan.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Handling of Not_a_Number's (only in IEEE floating-point standard)

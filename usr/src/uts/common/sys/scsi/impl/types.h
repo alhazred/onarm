@@ -26,7 +26,7 @@
 #ifndef	_SYS_SCSI_IMPL_TYPES_H
 #define	_SYS_SCSI_IMPL_TYPES_H
 
-#pragma ident	"@(#)types.h	1.22	07/12/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Local Types for SCSI subsystems

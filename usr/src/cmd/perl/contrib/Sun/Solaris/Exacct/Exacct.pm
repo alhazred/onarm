@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)Exacct.pm	1.5	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Exacct.pm contains wrappers for the exacct error functions and syscalls,
 # and some 'shorthand' convenience functions.
@@ -34,7 +34,7 @@ use warnings;
 
 package Sun::Solaris::Exacct;
 
-our $VERSION = '1.5';
+our $VERSION = '%I%';
 use XSLoader;
 XSLoader::load(__PACKAGE__, $VERSION);
 

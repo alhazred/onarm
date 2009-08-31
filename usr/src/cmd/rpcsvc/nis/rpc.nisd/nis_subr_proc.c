@@ -31,7 +31,7 @@
  * nis_subr.c
  */
 
-#pragma ident	"@(#)nis_subr_proc.c	1.79	06/05/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <syslog.h>

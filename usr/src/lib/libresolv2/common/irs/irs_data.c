@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)irs_data.c	1.9	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(LINT) && !defined(CODECENTER)
 static const char rcsid[] = "$Id: irs_data.c,v 1.22 2003/06/20 07:09:33 marka Exp $";

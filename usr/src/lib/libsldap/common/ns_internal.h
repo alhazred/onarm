@@ -27,7 +27,7 @@
 #ifndef	_NS_INTERNAL_H
 #define	_NS_INTERNAL_H
 
-#pragma ident	"@(#)ns_internal.h	1.36	08/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

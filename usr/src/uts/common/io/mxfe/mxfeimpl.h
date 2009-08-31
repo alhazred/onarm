@@ -32,7 +32,7 @@
 #ifndef	_MXFEIMPL_H
 #define	_MXFEIMPL_H
 
-#pragma ident	"@(#)mxfeimpl.h	1.1	07/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This entire file is private to the MXFE driver.

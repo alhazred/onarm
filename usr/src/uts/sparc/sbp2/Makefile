@@ -24,7 +24,7 @@
 #
 # uts/sparc/sbp2/Makefile
 
-#ident	"@(#)Makefile	1.5	07/07/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	This makefile drives the production of the sbp2 kernel module.

@@ -1,4 +1,4 @@
-#pragma ident	"@(#)db.c	1.3	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*-
  * Copyright (c) 1991, 1993

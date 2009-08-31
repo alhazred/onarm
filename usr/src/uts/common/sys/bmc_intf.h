@@ -27,7 +27,7 @@
 #ifndef _BMC_INTF_H
 #define	_BMC_INTF_H
 
-#pragma ident	"@(#)bmc_intf.h	1.4	07/03/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

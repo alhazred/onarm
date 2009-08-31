@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)symintHdr.h	6.6	07/02/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

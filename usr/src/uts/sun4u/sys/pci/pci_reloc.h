@@ -26,7 +26,7 @@
 #ifndef	_SYS_PCI_RELOC_H
 #define	_SYS_PCI_RELOC_H
 
-#pragma ident	"@(#)pci_reloc.h	1.3	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

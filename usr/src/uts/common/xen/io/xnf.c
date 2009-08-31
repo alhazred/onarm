@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xnf.c	1.7	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *
@@ -267,7 +267,7 @@ DDI_DEFINE_STREAM_OPS(xnf_dev_ops, nulldev, nulldev, xnf_attach, xnf_detach,
 
 static struct modldrv xnf_modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	IDENT " 1.7",		/* short description */
+	IDENT " %I%",		/* short description */
 	&xnf_dev_ops		/* driver specific ops */
 };
 

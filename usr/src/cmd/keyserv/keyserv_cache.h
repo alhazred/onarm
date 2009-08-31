@@ -27,7 +27,7 @@
 #ifndef	_KEYSERV_CACHE_H
 #define	_KEYSERV_CACHE_H
 
-#pragma ident	"@(#)keyserv_cache.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

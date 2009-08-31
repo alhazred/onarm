@@ -27,7 +27,7 @@
 #ifndef _SYS_FPU_FPUSYSTM_H
 #define	_SYS_FPU_FPUSYSTM_H
 
-#pragma ident	"@(#)fpusystm.h	1.15	05/06/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ISA-dependent FPU interfaces

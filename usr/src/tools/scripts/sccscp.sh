@@ -25,7 +25,7 @@
 # All rights reserved.
 # Use is subject to license terms.
 # 
-#pragma ident	"@(#)sccscp.sh	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This script is to be used to copy SCCS files and SCCS 
 #	directory structures within a CodeManager workspace

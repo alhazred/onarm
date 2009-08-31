@@ -30,7 +30,7 @@
 
 /* Copyright (c) 1981 Regents of the University of California */
 
-#pragma ident	"@(#)ex_subr.c	1.19	05/10/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stropts.h>
 #include <sys/eucioctl.h>

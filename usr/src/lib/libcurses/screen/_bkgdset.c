@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)_bkgdset.c	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define		NOMACROS
 #include	<sys/types.h>

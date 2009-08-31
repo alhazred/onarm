@@ -5,7 +5,7 @@
  *
  */
 
-#pragma ident	"@(#)avl.h	1.3	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* avl.h - avl tree definitions */
 /*

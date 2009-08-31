@@ -13,7 +13,7 @@
  * specifies the terms and conditions for redistribution.
  */
      
-#pragma ident	"@(#)t6.c	1.4	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /* t6.c: compute tab stops */
 # define tx(a) (a>(char *)0 && a<(char *)128)

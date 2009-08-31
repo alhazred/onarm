@@ -26,7 +26,7 @@
 #ifndef	_DHCPMSG_H
 #define	_DHCPMSG_H
 
-#pragma ident	"@(#)dhcpmsg.h	1.4	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <stdarg.h>

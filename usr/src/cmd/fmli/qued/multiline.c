@@ -32,7 +32,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#ident	"@(#)multiline.c	1.6	05/06/08 SMI"       /* SVr4.0 1.11 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.11 */
 
 #include <stdio.h>
 #include <ctype.h>

@@ -34,7 +34,7 @@
 #ifndef	_GSSCRED_H
 #define	_GSSCRED_H
 
-#pragma ident	"@(#)gsscred.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libintl.h>
 #include <locale.h>

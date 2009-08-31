@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)in.rshd.c	1.62	06/10/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	_FILE_OFFSET_BITS 64
 

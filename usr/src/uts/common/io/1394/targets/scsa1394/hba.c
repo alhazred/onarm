@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)hba.c	1.9	06/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * 1394 mass storage HBA driver
@@ -188,7 +188,7 @@ static struct dev_ops scsa1394_ops = {
 
 static struct modldrv scsa1394_modldrv = {
 	&mod_driverops,			/* module type */
-	"1394 Mass Storage HBA Driver 1.9", /* name of the module */
+	"1394 Mass Storage HBA Driver %I%", /* name of the module */
 	&scsa1394_ops,			/* driver ops */
 };
 

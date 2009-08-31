@@ -28,7 +28,7 @@
  * Niagara Performance Counter Backend
  */
 
-#pragma ident	"@(#)niagara_pcbe.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cpuvar.h>
 #include <sys/systm.h>
@@ -434,7 +434,7 @@ ni_pcbe_free(void *config)
 
 static struct modlpcbe modlpcbe = {
 	&mod_pcbeops,
-	"UltraSPARC T1 Performance Counters v1.3",
+	"UltraSPARC T1 Performance Counters v%I%",
 	&ni_pcbe_ops
 };
 

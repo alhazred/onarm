@@ -18,7 +18,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)read.c	1.3	07/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.

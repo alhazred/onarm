@@ -5,7 +5,7 @@
 <!-- This is SolBook 2.0, a subset of DocBook V3.0.
      Copyright 1999 Sun Microsystems, Inc., All rights reserved.
      $Id: solbook.dtd 1.34 99/06/25 SMI $
-	 ident	"@(#)solbook.dtd	1.5	00/07/17 SMI"
+	 ident	"%Z%%M%	%I%	%E% SMI"
 
      DocBook V3.0
      Copyright 1992, 1993, 1994, 1995, 1996 HaL Computer Systems, Inc.,

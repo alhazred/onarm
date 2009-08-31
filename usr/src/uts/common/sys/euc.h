@@ -26,7 +26,7 @@
 #ifndef _SYS_EUC_H
 #define	_SYS_EUC_H
 
-#pragma ident	"@(#)euc.h	1.13	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 #ifdef	__cplusplus
 extern "C" {

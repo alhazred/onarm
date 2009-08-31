@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sparcv9.il	1.12	07/05/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 	.inline	_curthread, 0
 	.register %g7, #scratch

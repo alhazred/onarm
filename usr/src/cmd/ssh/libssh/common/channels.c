@@ -45,7 +45,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: channels.c,v 1.183 2002/09/17 07:47:02 itojun Exp $");
 
-#pragma ident	"@(#)channels.c	1.13	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ssh.h"
 #include "ssh1.h"

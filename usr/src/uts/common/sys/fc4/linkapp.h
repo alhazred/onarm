@@ -27,7 +27,7 @@
 #ifndef _SYS_FC4_LINKAPP_H
 #define	_SYS_FC4_LINKAPP_H
 
-#pragma ident	"@(#)linkapp.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

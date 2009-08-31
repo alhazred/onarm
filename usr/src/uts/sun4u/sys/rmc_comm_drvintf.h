@@ -27,7 +27,7 @@
 #ifndef	_SYS_RMC_COMM_DRVINTF_H
 #define	_SYS_RMC_COMM_DRVINTF_H
 
-#pragma ident	"@(#)rmc_comm_drvintf.h	1.2	05/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/rmc_comm_hproto.h>

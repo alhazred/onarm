@@ -29,7 +29,7 @@
 #ifndef _DNS_COMMON_H
 #define	_DNS_COMMON_H
 
-#pragma ident	"@(#)dns_common.h	1.8	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

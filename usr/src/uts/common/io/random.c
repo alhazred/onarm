@@ -26,7 +26,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)random.c	1.15	06/10/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Random number generator pseudo-driver
@@ -115,7 +115,7 @@ static struct dev_ops rnd_ops = {
 /* Modlinkage */
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"random number device v1.15",
+	"random number device v%I%",
 	&rnd_ops
 };
 

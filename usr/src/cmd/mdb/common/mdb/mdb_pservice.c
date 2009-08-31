@@ -24,7 +24,7 @@
  */
 
 
-#pragma ident	"@(#)mdb_pservice.c	1.6	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Proc Service API Interposition Layer

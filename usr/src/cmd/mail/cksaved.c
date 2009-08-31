@@ -22,7 +22,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)cksaved.c	1.9	05/06/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  NAME

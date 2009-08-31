@@ -26,7 +26,7 @@
 #ifndef	_UCRED_H_
 #define	_UCRED_H_
 
-#pragma ident	"@(#)ucred.h	1.6	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/priv.h>

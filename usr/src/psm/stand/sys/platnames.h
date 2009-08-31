@@ -26,7 +26,7 @@
 #ifndef _SYS_PLATNAMES_H
 #define	_SYS_PLATNAMES_H
 
-#pragma ident	"@(#)platnames.h	1.9	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

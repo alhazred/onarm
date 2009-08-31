@@ -5,7 +5,7 @@
  *
  */
 
-#pragma ident	"@(#)entry.h	1.5	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * structs for storing and updating entries

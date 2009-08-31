@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)format.c	1.26	07/11/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	_REENTRANT
 

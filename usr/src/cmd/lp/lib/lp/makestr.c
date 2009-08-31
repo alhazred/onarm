@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)makestr.c	1.6	05/06/08 SMI"	/* SVr4.0 1.6	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 /* LINTLIBRARY */
 
 #if	defined(__STDC__)

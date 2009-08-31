@@ -1,4 +1,4 @@
-#pragma ident	"@(#)ualarm.c	1.3	92/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 	  /* from UCB 5.1 85/06/05 */
 
 /*

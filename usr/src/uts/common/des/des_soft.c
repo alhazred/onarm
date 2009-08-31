@@ -31,7 +31,7 @@
  * under license from the Regents of the University of California.
  */
 
-#ident	"@(#)des_soft.c	1.12	05/06/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Warning!  Things are arranged very carefully in this file to

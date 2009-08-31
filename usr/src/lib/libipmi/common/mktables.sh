@@ -24,7 +24,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)mktables.sh	1.1	08/02/22 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Construct translation tables for defines in libipmi.h to translate to readable
@@ -50,7 +50,7 @@ echo "\
  * Use is subject to license terms.
  */
 
-#pragma ident	\"@(#)mktables.sh	1.1	08/02/22 SMI\"
+#pragma ident	\"%Z%%M%	%I%	%E% SMI\"
 
 #include <libipmi.h>
 #include <ipmi_impl.h>"

@@ -27,7 +27,7 @@
 #ifndef	_SYS_OBPDEFS_H
 #define	_SYS_OBPDEFS_H
 
-#pragma ident	"@(#)obpdefs.h	1.7	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

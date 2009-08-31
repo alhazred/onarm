@@ -25,7 +25,7 @@
  * All rights reserved.
  */
 							    
-#ident	"@(#)getgroup.c	1.6	05/06/08 SMI"	/* SMI4.1 1.5 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SMI4.1 1.5 */
 
 #include <stdio.h>
 #include <ctype.h>

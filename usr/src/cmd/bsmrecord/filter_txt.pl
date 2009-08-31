@@ -24,7 +24,7 @@
 # Copyright (c) 2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-# ident	"@(#)filter_txt.pl	1.2	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # local script to process audit_record_attr.txt -> audit_record_attr
 #

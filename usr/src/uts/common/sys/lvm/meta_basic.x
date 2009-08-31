@@ -24,7 +24,7 @@
 % * Use is subject to license terms.
 % */
 %
-%#pragma ident	"@(#)meta_basic.x	2.7	06/03/10 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 
 %/* get timeval32 definition */

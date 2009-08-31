@@ -30,7 +30,7 @@
  * California.
  */
 
-#pragma ident	"@(#)rusersxdr.c	1.12	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rusersxdr.c

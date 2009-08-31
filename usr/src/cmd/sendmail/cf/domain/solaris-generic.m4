@@ -7,7 +7,7 @@ divert(-1)
 # Copyright (c) 1997-2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-# ident	"@(#)solaris-generic.m4	1.9	01/08/27 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions
@@ -39,7 +39,7 @@ divert(-1)
 #
 
 divert(0)
-VERSIONID(`@(#)solaris-generic.m4	1.9 (Sun) 08/27/01')
+VERSIONID(`%W% (Sun) %G%')
 define(`confFORWARD_PATH', `$z/.forward.$w+$h:$z/.forward+$h:$z/.forward.$w:$z/.forward')dnl
 FEATURE(`redirect')dnl
 FEATURE(`use_cw_file')dnl

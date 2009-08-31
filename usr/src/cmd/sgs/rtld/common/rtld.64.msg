@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#pragma ident	"@(#)rtld.64.msg	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 # Message file for cmd/sgs/rtld (ld.so.1) - 64bit specific.
 

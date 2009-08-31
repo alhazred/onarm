@@ -27,7 +27,7 @@
 #ifndef	_PKCS11_CONF_H
 #define	_PKCS11_CONF_H
 
-#pragma ident	"@(#)pkcs11Conf.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -31,7 +31,7 @@
  * plugin for sending/receiving FMA events to/from service processor
  */
 
-#pragma ident	"@(#)etm.c	1.7	07/09/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * --------------------------------- includes --------------------------------

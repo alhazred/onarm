@@ -26,7 +26,7 @@
 #ifndef _FAKEWIN_H
 #define	_FAKEWIN_H
 
-#pragma ident	"@(#)fakewin.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines appropriate macros so that

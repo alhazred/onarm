@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Advertiser.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)Advertiser.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ServiceAgent.java: Interface for the SLP Service Agent operations
 //  Author:           James Kempf
 //  Created On:       Mon Jul  7 09:05:40 1997
@@ -46,7 +46,7 @@ import java.util.*;
  *
  * @see ServiceLocationManager
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf, Erik Guttman
  */
 

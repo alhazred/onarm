@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)setuname.c	1.12	06/04/24 SMI"       /* SVr4.0 1.3 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.3 */
 
 /*
  *  setuname [-t] [-s name] [-n node] 

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ppm_xgsubr.c	1.8	07/07/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

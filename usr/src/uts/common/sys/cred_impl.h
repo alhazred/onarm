@@ -26,7 +26,7 @@
 #ifndef _SYS_CRED_IMPL_H
 #define	_SYS_CRED_IMPL_H
 
-#pragma ident	"@(#)cred_impl.h	1.9	08/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/cred.h>

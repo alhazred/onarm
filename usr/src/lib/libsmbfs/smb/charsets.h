@@ -34,7 +34,7 @@
  *       28-Nov-2004     Guy Harris	New today
  */
 
-#pragma ident	"@(#)charsets.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __CHARSETS_H__
 #define	__CHARSETS_H__

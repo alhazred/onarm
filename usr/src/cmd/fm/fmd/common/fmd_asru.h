@@ -28,7 +28,7 @@
 #ifndef	_FMD_ASRU_H
 #define	_FMD_ASRU_H
 
-#pragma ident	"@(#)fmd_asru.h	1.7	06/03/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <pthread.h>

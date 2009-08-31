@@ -26,7 +26,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)libsys.sh	1.6	05/06/20 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # Stub library for programmer's interface to libsys.  Used to satisfy ld(1)
 # processing, and serves as a precedence place-holder at execution-time.

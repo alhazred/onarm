@@ -22,7 +22,7 @@
 #ifndef	_RT2560_VAR_H
 #define	_RT2560_VAR_H
 
-#pragma ident	"@(#)rt2560_var.h	1.1	07/07/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

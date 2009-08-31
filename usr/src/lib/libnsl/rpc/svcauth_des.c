@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)svcauth_des.c	1.41	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * svcauth_des.c, server-side des authentication

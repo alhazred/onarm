@@ -26,7 +26,7 @@
 #ifndef _KERNELGLOBAL_H
 #define	_KERNELGLOBAL_H
 
-#pragma ident	"@(#)kernelGlobal.h	1.11	07/07/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

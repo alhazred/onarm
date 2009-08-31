@@ -30,7 +30,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)disp.c	1.214	07/07/17 SMI"	/* from SVr4.0 1.30 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVr4.0 1.30 */
 
 #include <sys/types.h>
 #include <sys/param.h>

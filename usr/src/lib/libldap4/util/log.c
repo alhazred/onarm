@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)log.c	1.2	99/05/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

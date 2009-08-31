@@ -30,7 +30,7 @@
 #ifndef	_SYS_CARDBUS_CFG_H
 #define	_SYS_CARDBUS_CFG_H
 
-#pragma ident	"@(#)cardbus_cfg.h	1.2	06/07/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef  __cplusplus
 extern "C" {

@@ -22,7 +22,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dminfo.c	1.9	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <locale.h>
 #include <stdio.h>

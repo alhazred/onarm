@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)group.msg	1.9	07/09/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 @ MSG_GPH_ZERO		"GPH_ZERO"
 @ MSG_GPH_LDSO		"GPH_LDSO"

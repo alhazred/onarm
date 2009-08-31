@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xen_machdep.c	1.4	07/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* derived from netbsd's xen_machdep.c 1.1.2.1 */
 

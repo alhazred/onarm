@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)softRSA.c	1.14	05/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pthread.h>
 #include <stdlib.h>

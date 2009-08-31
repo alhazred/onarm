@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)exception_list	1.92	08/02/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Exception list for the findunref tool.  Files in this list are by definition
 # intentionally never used during a standard nightly build.  Since very few

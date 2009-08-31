@@ -30,7 +30,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)libzfs_changelist.c	1.23	08/03/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libintl.h>
 #include <libuutil.h>

@@ -27,7 +27,7 @@
 #ifndef	_PCP_COMMON_H
 #define	_PCP_COMMON_H
 
-#pragma ident	"@(#)pcp_common.h	1.3	05/07/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

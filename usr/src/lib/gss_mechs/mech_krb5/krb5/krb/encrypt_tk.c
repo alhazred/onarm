@@ -1,4 +1,4 @@
-#pragma ident	"@(#)encrypt_tk.c	1.4	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/krb/encrypt_tk.c
  *

@@ -39,7 +39,7 @@
 #ifndef _RPC_PARSE_H
 #define	_RPC_PARSE_H
 
-#pragma ident	"@(#)rpc_parse.h	1.13	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

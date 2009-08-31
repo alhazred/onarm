@@ -26,7 +26,7 @@
 #ifndef	_SMBSRV_CRYPT_H
 #define	_SMBSRV_CRYPT_H
 
-#pragma ident	"@(#)crypt.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -30,7 +30,7 @@
 #ifndef _SYS_TZFILE_H
 #define	_SYS_TZFILE_H
 
-#pragma ident	"@(#)tzfile.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

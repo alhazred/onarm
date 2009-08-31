@@ -31,7 +31,7 @@
 #ifndef	_INET_SCTP_SCTP_IMPL_H
 #define	_INET_SCTP_SCTP_IMPL_H
 
-#pragma ident	"@(#)sctp_impl.h	1.31	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/inttypes.h>
 #include <sys/taskq.h>

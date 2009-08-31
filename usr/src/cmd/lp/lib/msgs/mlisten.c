@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)mlisten.c	1.9	06/03/24 SMI"	/* SVr4.0 1.9	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9	*/
 # include	<unistd.h>
 # include	<stdlib.h>
 # include	<string.h>

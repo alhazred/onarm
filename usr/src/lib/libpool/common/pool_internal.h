@@ -26,7 +26,7 @@
 #ifndef	_POOL_INTERNAL_H
 #define	_POOL_INTERNAL_H
 
-#pragma ident	"@(#)pool_internal.h	1.8	06/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libnvpair.h>
 #include <stdarg.h>

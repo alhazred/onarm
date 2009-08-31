@@ -28,7 +28,7 @@
 #ifndef _DEVFSADM_IMPL_H
 #define	_DEVFSADM_IMPL_H
 
-#pragma ident	"@(#)devfsadm_impl.h	1.43	07/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

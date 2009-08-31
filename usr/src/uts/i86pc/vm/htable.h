@@ -26,7 +26,7 @@
 #ifndef	_VM_HTABLE_H
 #define	_VM_HTABLE_H
 
-#pragma ident	"@(#)htable.h	1.8	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

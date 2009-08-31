@@ -24,7 +24,7 @@
 % * Use is subject to license terms.
 % */
 %
-%#pragma ident	"@(#)mdmn_commd.x	1.5	06/03/10 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 %#include <sys/types.h>
 %#include <sys/types32.h>

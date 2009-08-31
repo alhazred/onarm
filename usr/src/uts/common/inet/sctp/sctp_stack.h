@@ -27,7 +27,7 @@
 #ifndef	_INET_SCTP_SCTP_STACK_H
 #define	_INET_SCTP_SCTP_STACK_H
 
-#pragma ident	"@(#)sctp_stack.h	1.2	07/07/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/netstack.h>
 

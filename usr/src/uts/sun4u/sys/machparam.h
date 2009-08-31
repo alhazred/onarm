@@ -29,7 +29,7 @@
 #ifndef _SYS_MACHPARAM_H
 #define	_SYS_MACHPARAM_H
 
-#pragma ident	"@(#)machparam.h	1.85	08/02/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

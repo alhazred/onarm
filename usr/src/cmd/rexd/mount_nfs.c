@@ -30,7 +30,7 @@
  *  mount_nfs.c - procedural interface to the NFS mount operation
  */
 
-#pragma ident	"@(#)mount_nfs.c	1.32	07/10/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	NFSCLIENT
 #include <sys/types.h>

@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)draw.c	1.7	05/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

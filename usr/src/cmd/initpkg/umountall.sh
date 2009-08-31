@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)umountall.sh	1.34	07/07/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T
 #	  All Rights Reserved

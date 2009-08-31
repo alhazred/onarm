@@ -26,7 +26,7 @@
 #ifndef	_SYS_BOOTVFS_H
 #define	_SYS_BOOTVFS_H
 
-#pragma ident	"@(#)bootvfs.h	1.3	06/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

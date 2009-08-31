@@ -27,7 +27,7 @@
 #ifndef	_SYS_SRN_H
 #define	_SYS_SRN_H
 
-#pragma ident	"@(#)srn.h	1.1	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

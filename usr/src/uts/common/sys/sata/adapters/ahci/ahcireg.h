@@ -28,7 +28,7 @@
 #ifndef _AHCIREG_H
 #define	_AHCIREG_H
 
-#pragma ident	"@(#)ahcireg.h	1.4	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

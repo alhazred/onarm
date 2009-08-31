@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
      
-#pragma ident	"@(#)t1.c	1.10	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /* t1.c: main control and input switching */
 #

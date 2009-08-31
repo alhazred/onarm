@@ -2,7 +2,7 @@
 /* standin for strerror(3) which is missing on some systems
  * (eg, SUN)
  */
-#pragma ident	"@(#)strerror.c	1.2	00/05/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 char *
 strerror(int num)

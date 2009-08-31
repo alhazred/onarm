@@ -27,7 +27,7 @@
 #ifndef _SDP_PARSE_H
 #define	_SDP_PARSE_H
 
-#pragma ident	"@(#)sdp_parse.h	1.1	07/10/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

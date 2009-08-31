@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)writev.c	1.7	06/12/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "../common/compat.h"
 #include <stdio.h>

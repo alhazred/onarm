@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)acebus.c	1.12	07/03/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -146,7 +146,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops, 	/* Type of module.  This one is a driver */
-	"Alarm Card ebus nexus v1.12",	/* Name of module. */
+	"Alarm Card ebus nexus v%I%",	/* Name of module. */
 	&acebus_ops,		/* driver ops */
 };
 

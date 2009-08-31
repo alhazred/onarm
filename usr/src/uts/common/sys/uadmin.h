@@ -30,7 +30,7 @@
 #ifndef _SYS_UADMIN_H
 #define	_SYS_UADMIN_H
 
-#pragma ident	"@(#)uadmin.h	1.34	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(_ASM)
 #include <sys/types.h>

@@ -43,7 +43,7 @@
 #ifndef	_SYS_FS_UFS_INODE_H
 #define	_SYS_FS_UFS_INODE_H
 
-#pragma ident	"@(#)ufs_inode.h	2.192	08/02/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/fbuf.h>

@@ -1,4 +1,4 @@
-#pragma ident	"@(#)asn1buf.h	1.4	04/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Coding Buffer Specifications */
 #ifndef __ASN1BUF_H__

@@ -27,7 +27,7 @@
 #ifndef	_IPP_IPPCTL_H
 #define	_IPP_IPPCTL_H
 
-#pragma ident	"@(#)ippctl.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Header file for the IPP Policy Framework Configuration Driver

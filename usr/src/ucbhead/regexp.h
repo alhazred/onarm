@@ -40,7 +40,7 @@
 #ifndef _REGEXP_H
 #define	_REGEXP_H
 
-#pragma ident	"@(#)regexp.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <ctype.h>
 

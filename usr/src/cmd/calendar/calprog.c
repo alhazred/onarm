@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)calprog.c	1.15	05/07/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	/usr/lib/calprog produces an egrep -f file

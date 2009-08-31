@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)domain.c	1.3	04/03/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /****************************************************************************  
  

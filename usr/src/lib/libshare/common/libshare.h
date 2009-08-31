@@ -31,7 +31,7 @@
 #ifndef _LIBSHARE_H
 #define	_LIBSHARE_H
 
-#pragma ident	"@(#)libshare.h	1.11	08/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

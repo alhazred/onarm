@@ -32,7 +32,7 @@
 #ifndef _KDB5_LDAP_UTIL_H_
 #define _KDB5_LDAP_UTIL_H_
 
-#pragma ident	"@(#)kdb5_ldap_util.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kdb_ldap.h>
 #include "kdb5_ldap_realm.h"

@@ -5,7 +5,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)btree_auto.h	1.2	98/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef bam_AUTO_H
 #define bam_AUTO_H

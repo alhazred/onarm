@@ -2,7 +2,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)README.SUNW	1.8	08/02/26 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 The version of OpenSSL found in this directory was created by taking the
 stock version of OpenSSL 0.9.8a from www.openssl.org and modifying some of

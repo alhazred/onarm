@@ -36,7 +36,7 @@
 #include <stdlib.h>
 #endif	/* !_KERNEL */
 
-#pragma ident	"@(#)aes_impl.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file is derived from the file  rijndael-alg-fst.c  taken from the

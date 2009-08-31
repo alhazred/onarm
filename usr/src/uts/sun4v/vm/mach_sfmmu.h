@@ -34,7 +34,7 @@
 #ifndef _VM_MACH_SFMMU_H
 #define	_VM_MACH_SFMMU_H
 
-#pragma ident	"@(#)mach_sfmmu.h	1.6	08/02/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/x_call.h>
 #include <sys/hypervisor_api.h>

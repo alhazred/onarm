@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sf.c	1.70	05/12/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sf - Solaris Fibre Channel driver
@@ -218,11 +218,11 @@ static struct dev_ops sf_ops = {
 char _depends_on[] = "misc/scsi";
 
 #define	SF_NAME	"FC-AL FCP Nexus Driver"	/* Name of the module. */
-static	char	sf_version[] = "1.70 05/12/08";	/* version of the module */
+static	char	sf_version[] = "%I% %E%";	/* version of the module */
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module. This one is a driver */
-	SF_NAME "1.70",
+	SF_NAME "%I%",
 	&sf_ops,	/* driver ops */
 };
 

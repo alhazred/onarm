@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)messages.c	1.15	06/03/13 SMI"	/* SVr4.0 1.6 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6 */
 
 char *errmsgs[] = {
 	"WARNING: uid %ld is reserved.\n",

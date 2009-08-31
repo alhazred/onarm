@@ -33,7 +33,7 @@
  * California.
  */
 
-#pragma ident	"@(#)svc_auth_sys.c	1.19	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Handles UNIX flavor authentication parameters on the service side of rpc.

@@ -27,7 +27,7 @@
 #ifndef _SYS_IB_MGT_SM_ATTR_H
 #define	_SYS_IB_MGT_SM_ATTR_H
 
-#pragma ident	"@(#)sm_attr.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the definitions of the various attributes specified

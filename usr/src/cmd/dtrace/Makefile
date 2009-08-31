@@ -27,7 +27,7 @@
 # Copyright (c) 2006-2008 NEC Corporation
 #
 #
-# ident	"@(#)Makefile	1.4	07/04/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG= dtrace

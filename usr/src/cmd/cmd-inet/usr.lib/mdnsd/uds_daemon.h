@@ -74,7 +74,7 @@ Changes necessary to support mDNSResponder on Linux.
 
 */
 
-#pragma ident	"@(#)uds_daemon.h	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mDNSEmbeddedAPI.h"
 #include "dnssd_ipc.h"

@@ -27,7 +27,7 @@
 #ifndef	_SYS_DS_SNMP_H_
 #define	_SYS_DS_SNMP_H_
 
-#pragma ident	"@(#)ds_snmp.h	1.1	07/03/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

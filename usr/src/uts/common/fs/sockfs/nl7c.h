@@ -26,7 +26,7 @@
 #ifndef _SYS_SOCKFS_NL7C_H
 #define	_SYS_SOCKFS_NL7C_H
 
-#pragma ident	"@(#)nl7c.h	1.4	06/05/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

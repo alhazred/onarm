@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)charset.c	1.5	05/06/08 SMI"	/* SVr4.0 1.4	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4	*/
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "string.h"

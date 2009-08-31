@@ -28,7 +28,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)nis_misc_proc.c	1.30	06/05/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This contains miscellaneous functions moved from commands to the library.

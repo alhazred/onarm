@@ -27,7 +27,7 @@
 #ifndef	_SYS_SYNCH_H
 #define	_SYS_SYNCH_H
 
-#pragma ident	"@(#)synch.h	1.43	07/06/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM
 #include <sys/types.h>

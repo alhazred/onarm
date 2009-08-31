@@ -33,7 +33,7 @@
  * OF SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)rtwphyio.h	1.1	07/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _RTWPHYIO_H
 #define	_RTWPHYIO_H

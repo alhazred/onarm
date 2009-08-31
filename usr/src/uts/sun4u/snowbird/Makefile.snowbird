@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.snowbird	1.8	07/01/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	Global definitions for sun4u snowbird implementation specific modules.
 # uts/sun4u/snowbird/Makefile.snowbird

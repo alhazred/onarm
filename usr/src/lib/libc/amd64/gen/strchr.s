@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)strchr.s	1.2	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"strchr.s"
+	.file	"%M%"
 
 #include "SYS.h"
 

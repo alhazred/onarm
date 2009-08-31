@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dt_grammar.y	1.9	06/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dt_impl.h>
 

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lgrp.c	1.6	06/09/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "lgrp.h"
 

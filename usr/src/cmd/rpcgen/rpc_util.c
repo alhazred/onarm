@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rpc_util.c	1.20	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rpc_util.c, Utility routines for the RPC protocol compiler

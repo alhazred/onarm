@@ -24,9 +24,9 @@
  * All rights reserved.
  */
 
-.ident	"@(#)__align_cpy_4.s	1.3	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file "__align_cpy_4.s"
+	.file "%M%"
 
 /* __align_cpy_4(s1, s2, n)
  *

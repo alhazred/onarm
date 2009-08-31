@@ -29,7 +29,7 @@
 #ifndef	_CMT_H
 #define	_CMT_H
 
-#pragma ident	"@(#)cmt.h	1.2	07/07/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * CMT PG class

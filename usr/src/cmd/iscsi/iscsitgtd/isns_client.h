@@ -27,7 +27,7 @@
 #ifndef	_ISNS_CLIENT_H
 #define	_ISNS_CLIENT_H
 
-#pragma ident	"@(#)isns_client.h	1.1	07/05/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netdb.h>
 #include "queue.h"

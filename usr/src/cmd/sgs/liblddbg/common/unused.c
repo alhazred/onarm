@@ -23,7 +23,7 @@
  * Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)unused.c	1.7	06/04/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	"msg.h"
 #include	"_debug.h"

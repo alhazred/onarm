@@ -33,7 +33,7 @@
 #ifndef	_VSW_H
 #define	_VSW_H
 
-#pragma ident	"@(#)vsw.h	1.13	08/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

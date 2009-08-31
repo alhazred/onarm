@@ -28,7 +28,7 @@
  *	All Rights Reserved
  */
 
-#ident	"@(#)mdefault.c	1.7	05/06/08 SMI"       /* SVr4.0 1.22 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.22 */
 
 #include	<stdio.h>
 #include	"wish.h"

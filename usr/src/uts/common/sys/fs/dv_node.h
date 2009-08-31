@@ -26,7 +26,7 @@
 #ifndef _SYS_DV_NODE_H
 #define	_SYS_DV_NODE_H
 
-#pragma ident	"@(#)dv_node.h	1.12	06/08/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * dv_nodes are the file-system specific part of the

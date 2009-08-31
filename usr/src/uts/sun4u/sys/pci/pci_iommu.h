@@ -26,7 +26,7 @@
 #ifndef _SYS_PCI_IOMMU_H
 #define	_SYS_PCI_IOMMU_H
 
-#pragma ident	"@(#)pci_iommu.h	1.43	06/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

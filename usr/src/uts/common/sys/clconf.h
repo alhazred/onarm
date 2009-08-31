@@ -27,7 +27,7 @@
 #ifndef	_SYS_CLCONF_H
 #define	_SYS_CLCONF_H
 
-#pragma ident	"@(#)clconf.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

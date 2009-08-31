@@ -31,7 +31,7 @@
 #ifndef _USERS_H
 #define	_USERS_H
 
-#pragma ident	"@(#)users.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pwd.h>
 #include <grp.h>

@@ -27,7 +27,7 @@
 #ifndef _VM_XHAT_H
 #define	_VM_XHAT_H
 
-#pragma ident	"@(#)xhat.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

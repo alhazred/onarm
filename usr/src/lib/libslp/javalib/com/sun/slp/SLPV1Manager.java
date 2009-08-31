@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SLPV1Manager.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)SLPV1Manager.java	1.4	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SLPV1Manager.java: Manages V1 Compatibility
 //  Author:           James Kempf
 //  Created On:       Wed Sep  9 09:51:40 1998
@@ -51,7 +51,7 @@ import java.net.*;
  * to handle an outgoing message, since each individual message type is
  * handled separately. SLPV1Manager also handles V1 defaults.
  *
- * @version 1.4 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

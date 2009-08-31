@@ -47,7 +47,7 @@
 #ifndef _ISO_LIMITS_ISO_H
 #define	_ISO_LIMITS_ISO_H
 
-#pragma ident	"@(#)limits_iso.h	1.4	05/06/08 SMI" /* SVr4.0 1.34 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* SVr4.0 1.34 */
 
 #if defined(_AEABI_PORTABILITY_LEVEL)
 #error "not supported AEABI."

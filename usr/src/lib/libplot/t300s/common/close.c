@@ -29,7 +29,7 @@
  * All rights reserved
  */
 
-#pragma ident	"@(#)close.c	1.10	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 /*LINTLIBRARY*/
 
 #include <stdio.h>

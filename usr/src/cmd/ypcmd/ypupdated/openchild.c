@@ -32,10 +32,10 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)openchild.c	1.12	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint) && defined(SCCSIDS)
-static char sccsid[] = "@(#)openchild.c	1.12	05/10/11 SMI";
+static char sccsid[] = "%Z%%M%	%I%	%E% SMI";
 #endif
 
 /*

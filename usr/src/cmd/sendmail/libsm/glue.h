@@ -14,7 +14,7 @@
  * $Id: glue.h,v 1.6 2001/01/22 23:09:49 ca Exp $
  */
 
-#pragma ident	"@(#)glue.h	1.1	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  The first few FILEs are statically allocated; others are dynamically

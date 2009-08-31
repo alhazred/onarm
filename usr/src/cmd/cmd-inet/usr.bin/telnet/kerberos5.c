@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kerberos5.c	1.7	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * usr/src/cmd/cmd-inet/usr.bin/telnet/kerberos5.c

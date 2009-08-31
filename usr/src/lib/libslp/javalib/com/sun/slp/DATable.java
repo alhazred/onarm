@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)DATable.java	1.5	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2001,2003 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
  */
 
-//  SCCS Status:      @(#)DATable.java	1.5	06/08/05
+//  SCCS Status:      %W%	%G%
 //  DATable.java:     Interface for DATables.
 //  Author:           James Kempf
 //  Created On:       Mon May 11 13:46:02 1998
@@ -44,7 +44,7 @@ package com.sun.slp;
  * and scope discovery. A variety of implementations are possible.
  * The getDATable() method creates the right one from a subclass.
  *
- * @version 1.5 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 
@@ -75,7 +75,7 @@ abstract class DATable extends Object {
     /**
      * A record for all DAs supporting exactly the same set of scopes.
      *
-     * @version 1.5 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 

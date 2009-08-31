@@ -26,7 +26,7 @@
  *	nsswitch "bootparams" database.
  */
 
-#pragma ident	"@(#)bootparams_getbyname.c	1.16	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 static const char *bootparams = "/etc/bootparams";
 

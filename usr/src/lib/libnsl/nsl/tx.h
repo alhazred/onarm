@@ -28,7 +28,7 @@
 #ifndef	_TX_H
 #define	_TX_H
 
-#pragma ident	"@(#)tx.h	1.14	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/uio.h>
 

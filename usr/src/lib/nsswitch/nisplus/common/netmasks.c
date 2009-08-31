@@ -27,7 +27,7 @@
  *	nisplus/netmasks.c -- "nisplus" backend for nsswitch "netmasks" database
  */
 
-#pragma ident	"@(#)netmasks.c	1.7	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * All routines necessary to deal with the netmasks NIS+ table.  The table

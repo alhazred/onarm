@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)irs.h	1.5	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * $Id: irs.h,v 8.9 2003/04/29 05:51:13 marka Exp $

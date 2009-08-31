@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)execve.s	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"execve.s"
+	.file	"%M%"
 
 /* C library -- execve						*/
 /* int execve(const char *path, const char *argv[], const char *envp[])

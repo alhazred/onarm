@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)Putil.c	1.4	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <limits.h>
 #include <string.h>

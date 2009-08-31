@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# pragma ident	"@(#)rtld.msg	1.28	08/01/30 SMI"
+# pragma ident	"%Z%%M%	%I%	%E% SMI"
 # 
 
 @ _START_

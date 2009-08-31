@@ -26,7 +26,7 @@
 #ifndef	_LIBRCM_H
 #define	_LIBRCM_H
 
-#pragma ident	"@(#)librcm.h	1.12	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libnvpair.h>
 #include <sys/types.h>

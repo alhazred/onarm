@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tst.post.d	1.2	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma D option quiet
 

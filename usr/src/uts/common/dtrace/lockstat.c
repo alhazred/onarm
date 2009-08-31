@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)lockstat.c	1.12	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>
@@ -318,7 +318,7 @@ static struct dev_ops lockstat_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"Lock Statistics 1.12",	/* name of module */
+	"Lock Statistics %I%",	/* name of module */
 	&lockstat_ops,		/* driver ops */
 };
 

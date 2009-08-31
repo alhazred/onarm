@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)eri.c	1.51	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SunOS MT STREAMS ERI(PCI) 10/100 Mb Ethernet Device Driver

@@ -39,7 +39,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)more.c	1.32	06/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *      @(#) more.c 1.1 88/03/29 more:more.c

@@ -27,7 +27,7 @@
 
 /* $Id: lpd-cancel.c 155 2006-04-26 02:34:54Z ktou $ */
 
-#pragma ident	"@(#)lpd-cancel.c	1.3	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	__EXTENSIONS__	/* for strtok_r() */
 #include <stdio.h>

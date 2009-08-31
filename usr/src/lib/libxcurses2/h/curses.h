@@ -27,7 +27,7 @@
 #ifndef _CURSES_H
 #define	_CURSES_H
 
-#pragma ident	"@(#)curses.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * curses.h

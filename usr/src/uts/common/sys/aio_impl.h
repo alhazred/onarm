@@ -27,7 +27,7 @@
 #ifndef _SYS_AIO_IMPL_H
 #define	_SYS_AIO_IMPL_H
 
-#pragma ident	"@(#)aio_impl.h	1.30	06/04/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/aio_req.h>
 #include <sys/aio.h>

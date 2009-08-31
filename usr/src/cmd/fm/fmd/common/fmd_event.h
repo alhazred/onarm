@@ -27,7 +27,7 @@
 #ifndef	_FMD_EVENT_H
 #define	_FMD_EVENT_H
 
-#pragma ident	"@(#)fmd_event.h	1.5	07/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pthread.h>
 #include <libnvpair.h>

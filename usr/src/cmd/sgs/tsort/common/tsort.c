@@ -28,7 +28,7 @@
 /*	Copyright (c) 1988 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)tsort.c	6.11	05/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	topological sort

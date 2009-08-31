@@ -20,7 +20,7 @@
  * WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-#pragma ident	"@(#)fsm.c	1.2	05/05/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define RCSID	"$Id: fsm.c,v 1.17 1999/08/13 06:46:12 paulus Exp $"
 
 /*

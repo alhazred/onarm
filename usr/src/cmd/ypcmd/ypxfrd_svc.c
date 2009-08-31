@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  *
  */
-#pragma ident	"@(#)ypxfrd_svc.c	1.3	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This source was formally rpcgen generated, but has been

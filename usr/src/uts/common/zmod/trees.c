@@ -3,7 +3,7 @@
  * For conditions of distribution and use, see copyright notice in zlib.h
  */
 
-#pragma ident	"@(#)trees.c	1.1	07/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  ALGORITHM

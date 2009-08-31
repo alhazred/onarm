@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)volcopy.c	1.29	05/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <signal.h>

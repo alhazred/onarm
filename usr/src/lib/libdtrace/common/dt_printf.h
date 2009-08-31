@@ -27,7 +27,7 @@
 #ifndef	_DT_PRINTF_H
 #define	_DT_PRINTF_H
 
-#pragma ident	"@(#)dt_printf.h	1.5	05/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <libctf.h>

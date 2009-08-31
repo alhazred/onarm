@@ -30,7 +30,7 @@
 # cmd/prstat/Makefile
 #
 
-#ident	"@(#)Makefile	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 PROG = prstat
 OBJS = prstat.o prtable.o prsort.o prutil.o prfile.o

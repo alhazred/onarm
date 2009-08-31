@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)ndbm.c	1.24	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "synonyms.h"
 #include <sys/types.h>

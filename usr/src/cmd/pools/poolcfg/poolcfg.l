@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)poolcfg.l	1.4	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #pragma       error_messages(off, E_STATEMENT_NOT_REACHED)
 
 /*

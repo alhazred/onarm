@@ -28,7 +28,7 @@
 
 /* $OpenBSD: sftp-common.h,v 1.10 2006/08/03 03:34:42 deraadt Exp $ */
 
-#pragma ident	"@(#)sftp-common.h	1.5	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

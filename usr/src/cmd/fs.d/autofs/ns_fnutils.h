@@ -29,7 +29,7 @@
 #ifndef _NS_FNUTILS_H
 #define	_NS_FNUTILS_H
 
-#pragma ident	"@(#)ns_fnutils.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/rpc.h>
 #include <xfn/xfn.h>

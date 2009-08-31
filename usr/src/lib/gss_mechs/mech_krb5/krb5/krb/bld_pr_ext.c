@@ -1,4 +1,4 @@
-#pragma ident	"@(#)bld_pr_ext.c	1.4	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/krb/bld_pr_ext.c
  *

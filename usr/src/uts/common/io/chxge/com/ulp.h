@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)ulp.h	1.3	07/03/15 SMI"	/* ulp.h */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* ulp.h */
 
 #ifndef ULP_H
 #define ULP_H

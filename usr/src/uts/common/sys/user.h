@@ -33,7 +33,7 @@
 #ifndef _SYS_USER_H
 #define	_SYS_USER_H
 
-#pragma ident	"@(#)user.h	1.78	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/signal.h>

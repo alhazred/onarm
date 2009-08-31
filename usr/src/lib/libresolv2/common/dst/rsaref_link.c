@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rsaref_link.c	1.3	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef RSAREF
 static const char rcsid[] = "$Header: /proj/cvs/isc/bind8/src/lib/dst/rsaref_link.c,v 1.10 2001/05/29 05:48:15 marka Exp $";

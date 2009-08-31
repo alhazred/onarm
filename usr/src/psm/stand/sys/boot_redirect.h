@@ -27,7 +27,7 @@
 #ifndef _SYS_BOOT_REDIRECT_H
 #define	_SYS_BOOT_REDIRECT_H
 
-#pragma ident	"@(#)boot_redirect.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

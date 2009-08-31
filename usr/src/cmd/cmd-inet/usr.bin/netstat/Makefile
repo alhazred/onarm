@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.30	06/10/11 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright (c) 1990 Mentat Inc.
 #

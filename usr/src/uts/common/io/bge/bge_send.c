@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bge_send.c	1.22	07/01/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "bge_impl.h"
 

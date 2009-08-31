@@ -33,14 +33,14 @@
  * SUCH DAMAGE.
  *
  *	@(#)queue.h	8.5 (Berkeley) 8/20/94
- *	@(#)queue.h	1.2 (Sun) 04/02/98
+ *	%W% (Sun) %G%
  */
 /*
  * Copyright (c) 1998 by Sun Microsystems, Inc.
  * All rights reserved.
  */
 
-#pragma ident	"@(#)queue.h	1.2	98/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_SYS_QUEUE_H_
 #define	_SYS_QUEUE_H_

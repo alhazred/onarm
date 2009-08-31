@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)ctl.c	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file handles haggling with the various talk daemons to

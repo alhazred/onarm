@@ -3,7 +3,7 @@
 #ifndef	_COMPRESS_H
 #define	_COMPRESS_H
 
-#pragma ident	"@(#)compress.h	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

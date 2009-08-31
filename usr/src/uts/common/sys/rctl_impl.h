@@ -26,7 +26,7 @@
 #ifndef	_SYS_RCTL_IMPL_H
 #define	_SYS_RCTL_IMPL_H
 
-#pragma ident	"@(#)rctl_impl.h	1.5	07/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/rctl.h>
 #include <sys/time.h>

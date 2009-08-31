@@ -27,7 +27,7 @@
 #ifndef _SYS_DRCTL_IMPL_H
 #define	_SYS_DRCTL_IMPL_H
 
-#pragma ident	"@(#)drctl_impl.h	1.1	06/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

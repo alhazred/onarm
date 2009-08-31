@@ -31,7 +31,7 @@
 
 RCSID("$Id: bsd-getpeereid.c,v 1.1 2002/09/12 00:33:02 djm Exp $");
 
-#pragma ident	"@(#)bsd-getpeereid.c	1.3	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(HAVE_GETPEEREID)
 

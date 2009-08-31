@@ -30,7 +30,7 @@
 #ifndef _SYS_SYSCONFIG_H
 #define	_SYS_SYSCONFIG_H
 
-#pragma ident	"@(#)sysconfig.h	1.27	07/05/23 SMI"	/* SVr4.0 1.5 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5 */
 
 #ifdef	__cplusplus
 extern "C" {

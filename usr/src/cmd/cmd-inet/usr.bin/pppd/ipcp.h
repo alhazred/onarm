@@ -22,7 +22,7 @@
  * $Id: ipcp.h,v 1.13 1999/03/02 05:35:09 paulus Exp $
  */
 
-#pragma ident	"@(#)ipcp.h	1.1	00/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Options.

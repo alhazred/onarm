@@ -27,7 +27,7 @@
 #ifndef _SYS_SCHPC_MSG_H
 #define	_SYS_SCHPC_MSG_H
 
-#pragma ident	"@(#)schpc_msg.h	1.6	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header file describes the messages that are sent between the

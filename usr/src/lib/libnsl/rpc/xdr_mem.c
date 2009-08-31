@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)xdr_mem.c	1.27	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * xdr_mem.h, XDR implementation using memory buffers.

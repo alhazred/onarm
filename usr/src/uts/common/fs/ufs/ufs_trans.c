@@ -31,7 +31,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)ufs_trans.c	1.93	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sysmacros.h>
 #include <sys/param.h>

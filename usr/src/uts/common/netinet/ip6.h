@@ -31,7 +31,7 @@
 #ifndef	_NETINET_IP6_H
 #define	_NETINET_IP6_H
 
-#pragma ident	"@(#)ip6.h	1.7	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

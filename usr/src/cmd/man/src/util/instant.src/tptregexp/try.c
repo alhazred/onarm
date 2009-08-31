@@ -29,7 +29,7 @@
  * for compile failure, 'y' for match success, 'n' for match failure.
  * Field separator is tab.
  */
-#pragma ident	"@(#)try.c	1.2	00/05/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include <stdio.h>
 #include <tptregexp.h>
 

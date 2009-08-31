@@ -29,7 +29,7 @@
 #ifndef _RPC_AS_H
 #define	_RPC_AS_H
 
-#pragma ident	"@(#)rpc_as.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/types.h>
 #include <poll.h>

@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pause.s	1.13	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"pause.s"
+	.file	"%M%"
 
 /* C library - pause						*/
 /* int __pause(void);						*/

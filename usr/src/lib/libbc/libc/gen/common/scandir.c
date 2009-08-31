@@ -21,7 +21,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)scandir.c	1.5	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Scan the directory dirname calling select to make a list of selected

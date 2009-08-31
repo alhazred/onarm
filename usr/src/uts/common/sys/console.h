@@ -27,7 +27,7 @@
 #ifndef	_SYS_CONSOLE_H
 #define	_SYS_CONSOLE_H
 
-#pragma ident	"@(#)console.h	1.25	06/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

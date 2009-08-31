@@ -31,7 +31,7 @@
 #ifndef _SYS_TXG_IMPL_H
 #define	_SYS_TXG_IMPL_H
 
-#pragma ident	"@(#)txg_impl.h	1.1	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/spa.h>
 #include <sys/txg.h>

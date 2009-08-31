@@ -1,5 +1,5 @@
 #!/bin/sh
-#pragma ident	"@(#)req.flg	1.2	98/07/29 SMI" 
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 
 
 
 echo_file usr/src/lib/libc/inc/file64.h

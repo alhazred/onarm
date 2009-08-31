@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)prtfru.c	1.12	08/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <alloca.h>
 #include <assert.h>

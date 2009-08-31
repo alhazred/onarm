@@ -27,7 +27,7 @@
 #ifndef	_SYS_BW2REG_H
 #define	_SYS_BW2REG_H
 
-#pragma ident	"@(#)bw2reg.h	1.20	05/06/08 SMI"	/* SunOS-4.0 1.14 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS-4.0 1.14 */
 
 #ifdef	__cplusplus
 extern "C" {

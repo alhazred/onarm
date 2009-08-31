@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)vsc7326_reg.h	1.2	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _VSC7326_REG_H_
 #define _VSC7326_REG_H_

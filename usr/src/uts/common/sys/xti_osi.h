@@ -26,7 +26,7 @@
 #ifndef _SYS_XTI_OSI_H
 #define	_SYS_XTI_OSI_H
 
-#pragma ident	"@(#)xti_osi.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

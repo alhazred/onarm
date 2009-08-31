@@ -30,7 +30,7 @@
 #ifndef _SYS_FILE_H
 #define	_SYS_FILE_H
 
-#pragma ident	"@(#)file.h	1.76	07/12/26 SMI"	/* SVr4.0 11.28 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.28 */
 
 #include <sys/t_lock.h>
 #ifdef _KERNEL

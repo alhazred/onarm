@@ -23,7 +23,7 @@
  * Copyright (c) 1987-1990 by Sun Microsystems, Inc.
  */
 
-#ident	"@(#)conf.c	5.97	05/06/08 SMI"	/* from SunOS4.0 5.63	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SunOS4.0 5.63	*/
 
 #include <sys/types.h>
 #include <sys/param.h>

@@ -30,7 +30,7 @@
 #ifndef	_DFETCH_H
 #define	_DFETCH_H
 
-#pragma ident	"@(#)dmu_zfetch.h	1.2	06/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zfs_context.h>
 

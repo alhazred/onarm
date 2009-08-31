@@ -27,7 +27,7 @@
 #ifndef	_ELFEDIT_H
 #define	_ELFEDIT_H
 
-#pragma ident	"@(#)elfedit.h	1.2	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<stdio.h>
 #include	<stdlib.h>

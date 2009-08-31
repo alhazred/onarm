@@ -22,7 +22,7 @@
  * precedence is structured in regular expressions.  Serious changes in
  * regular-expression syntax might require a total rethink.
  */
-#pragma ident	"@(#)regexp.c	1.4	01/05/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include <stdio.h>
 #include <string.h>
 #include <tptregexp.h>

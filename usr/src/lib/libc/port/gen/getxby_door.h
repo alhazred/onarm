@@ -26,7 +26,7 @@
 #ifndef	_GETXBY_DOOR_H
 #define	_GETXBY_DOOR_H
 
-#pragma ident	"@(#)getxby_door.h	1.15	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Definitions for client side of doors-based name service caching

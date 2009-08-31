@@ -26,7 +26,7 @@
 #ifndef	_SYS_SCSI_GENERIC_PERSIST_H
 #define	_SYS_SCSI_GENERIC_PERSIST_H
 
-#pragma ident	"@(#)persist.h	1.2	07/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

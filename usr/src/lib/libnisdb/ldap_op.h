@@ -27,7 +27,7 @@
 #ifndef	_LDAP_OP_H
 #define	_LDAP_OP_H
 
-#pragma ident	"@(#)ldap_op.h	1.8	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

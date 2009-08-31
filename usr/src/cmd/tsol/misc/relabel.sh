@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)relabel.sh	1.1	07/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This program is invoked to do the actual file transfer
 # associated with an invocation of the setflabel(3TSOL) function.

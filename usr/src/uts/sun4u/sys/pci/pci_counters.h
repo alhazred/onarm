@@ -27,7 +27,7 @@
 #ifndef	_SYS_PCI_COUNTERS_H
 #define	_SYS_PCI_COUNTERS_H
 
-#pragma ident	"@(#)pci_counters.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)drm_io32.h	1.1	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_DRM_IO32_H_
 #define	_DRM_IO32_H_

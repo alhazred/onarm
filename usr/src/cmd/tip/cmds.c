@@ -9,7 +9,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)cmds.c	1.35	06/08/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "tip.h"
 #include <limits.h>

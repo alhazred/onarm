@@ -21,7 +21,7 @@
 
 /*	from UCB 5.9 4/5/88	*/
 
-#pragma ident	"@(#)netdb.h	1.16	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define _PATH_HEQUIV	"/etc/hosts.equiv"
 #define _PATH_HOSTS	"/etc/hosts"

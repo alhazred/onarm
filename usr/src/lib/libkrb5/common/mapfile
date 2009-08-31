@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)mapfile	1.1	06/04/04 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This is a mapfile that defines a filter for mech_krb5 so that
 # a new public library can be made to access certain functions in

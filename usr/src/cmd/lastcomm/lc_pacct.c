@@ -11,7 +11,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lc_pacct.c	1.5	05/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "lastcomm.h"
 

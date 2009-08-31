@@ -27,7 +27,7 @@
 #ifndef _SYS_FS_CACHEFS_FSCACHE_H
 #define	_SYS_FS_CACHEFS_FSCACHE_H
 
-#pragma ident	"@(#)cachefs_fscache.h	1.46	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

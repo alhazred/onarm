@@ -26,7 +26,7 @@
 #ifndef	_UD_LIB_H
 #define	_UD_LIB_H
 
-#pragma ident	"@(#)ud_lib.h	1.5	06/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

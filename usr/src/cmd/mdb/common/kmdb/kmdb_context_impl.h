@@ -27,7 +27,7 @@
 #ifndef _KMDB_CONTEXT_IMPL_H
 #define	_KMDB_CONTEXT_IMPL_H
 
-#pragma ident	"@(#)kmdb_context_impl.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_context_impl.h>
 

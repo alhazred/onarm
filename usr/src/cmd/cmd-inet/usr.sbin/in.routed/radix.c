@@ -38,7 +38,7 @@
  * $FreeBSD: src/sbin/routed/radix.c,v 1.6 2000/08/11 08:24:38 sheldonh Exp $
  */
 
-#pragma ident	"@(#)radix.c	2.2	03/03/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines to build and maintain radix trees for routing lookups.

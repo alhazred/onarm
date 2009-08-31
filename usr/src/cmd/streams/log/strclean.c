@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)strclean.c	1.10	05/06/08 SMI"	/* SVr4.0 1.2.1.2	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2.1.2	*/
 
 #include <stdio.h>
 #include <fcntl.h>

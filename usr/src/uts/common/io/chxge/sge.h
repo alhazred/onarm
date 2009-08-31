@@ -33,7 +33,7 @@
 #ifndef _CHELSIO_SGE_H
 #define	_CHELSIO_SGE_H
 
-#pragma ident	"@(#)sge.h	1.4	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

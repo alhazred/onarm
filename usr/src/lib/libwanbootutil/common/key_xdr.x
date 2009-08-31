@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-/* #ident	"@(#)key_xdr.x	1.2	05/06/08 SMI" */
+/* #ident	"%Z%%M%	%I%	%E% SMI" */
 
 /*
  * The formal definition of OIDs comes from ITU-T recommendation X.208

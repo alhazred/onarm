@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)pcmcia.c	1.149	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * PCMCIA NEXUS
@@ -306,7 +306,7 @@ static int SSClearIRQHandler(clear_irq_handler_t *);
 
 static struct modldrv modlmisc = {
 	&mod_miscops,		/* Type of module. This one is a driver */
-	"PCMCIA Nexus Support 1.149", /* Name of the module. */
+	"PCMCIA Nexus Support %I%", /* Name of the module. */
 };
 
 static struct modlinkage modlinkage = {

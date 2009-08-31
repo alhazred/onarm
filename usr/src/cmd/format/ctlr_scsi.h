@@ -26,7 +26,7 @@
 #ifndef	_CTLR_SCSI_H
 #define	_CTLR_SCSI_H
 
-#pragma ident	"@(#)ctlr_scsi.h	1.21	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

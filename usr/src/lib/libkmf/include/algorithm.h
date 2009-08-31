@@ -9,7 +9,7 @@
 #ifndef _ALGORITHM_H
 #define	_ALGORITHM_H
 
-#pragma ident	"@(#)algorithm.h	1.3	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kmftypes.h>
 #include <security/cryptoki.h>

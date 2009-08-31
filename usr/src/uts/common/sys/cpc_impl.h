@@ -30,7 +30,7 @@
 #ifndef	_SYS_CPC_IMPL_H
 #define	_SYS_CPC_IMPL_H
 
-#pragma ident	"@(#)cpc_impl.h	1.13	07/02/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/time.h>

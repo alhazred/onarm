@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)AttributeDescriptor.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)AttributeDescriptor.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  AttributeDescriptor.java: Describes an SLP attribute.
 //  Author:           James Kempf
 //  Created On:       Thu Jun 19 10:38:01 1997
@@ -47,7 +47,7 @@ import java.util.*;
  * information is primarily for GUI tools. Programmatic attribute
  * verification should be done through the ServiceLocationAttributeVerifier.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  *
  */

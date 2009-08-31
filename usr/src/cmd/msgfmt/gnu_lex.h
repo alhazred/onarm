@@ -27,7 +27,7 @@
 #ifndef	_GNU_LEX_H
 #define	_GNU_LEX_H
 
-#pragma ident	"@(#)gnu_lex.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <limits.h>
 

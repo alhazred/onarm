@@ -26,7 +26,7 @@
 #ifndef	_SYS_IB_IBTL_IBTL_TYPES_H
 #define	_SYS_IB_IBTL_IBTL_TYPES_H
 
-#pragma ident	"@(#)ibtl_types.h	1.13	07/10/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ibtl_types.h

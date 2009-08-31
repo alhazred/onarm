@@ -34,7 +34,7 @@
 #ifndef _RPC_PMAP_RMT_H
 #define	_RPC_PMAP_RMT_H
 
-#pragma ident	"@(#)pmap_rmt.h	1.15	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _KERNEL
 

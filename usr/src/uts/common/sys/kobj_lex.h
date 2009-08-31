@@ -27,7 +27,7 @@
 #ifndef _SYS_KOBJ_LEX_H
 #define	_SYS_KOBJ_LEX_H
 
-#pragma ident	"@(#)kobj_lex.h	1.5	05/10/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

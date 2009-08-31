@@ -26,7 +26,7 @@
 #         All Rights Reserved
 #
 
-#ident	"@(#)Makefile	1.19	06/09/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # cmd/msgfmt/Makefile
 

@@ -6,7 +6,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)algoid.c	1.4	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <string.h>

@@ -27,7 +27,7 @@
 #ifndef _SCHG_MGR_H
 #define	_SCHG_MGR_H
 
-#pragma ident	"@(#)schg_mgr.h	1.1	06/05/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * State Change Manager declarations

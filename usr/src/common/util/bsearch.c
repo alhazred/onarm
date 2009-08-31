@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bsearch.c	1.16	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Binary search algorithm, generalized from Knuth (6.2.1) Algorithm B.

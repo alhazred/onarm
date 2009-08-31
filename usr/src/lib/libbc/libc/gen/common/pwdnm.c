@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pwdnm.c	1.4	05/06/08 SMI"  /* c2 secure */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"  /* c2 secure */
 
 #include <rpc/rpc.h>
 #include <rpcsvc/pwdnm.h>

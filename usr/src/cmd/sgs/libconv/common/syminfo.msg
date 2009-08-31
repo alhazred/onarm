@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)syminfo.msg	1.1	07/09/18 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 @ MSG_SYMINFO_FLG_DIRECT	"DIRECT"

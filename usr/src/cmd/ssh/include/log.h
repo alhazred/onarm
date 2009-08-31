@@ -7,7 +7,7 @@
 #ifndef	_LOG_H
 #define	_LOG_H
 
-#pragma ident	"@(#)log.h	1.6	04/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

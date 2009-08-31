@@ -31,7 +31,7 @@
 #ifndef	_EFT_CONFIG_H
 #define	_EFT_CONFIG_H
 
-#pragma ident	"@(#)config.h	1.6	07/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

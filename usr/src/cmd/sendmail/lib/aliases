@@ -23,7 +23,7 @@
 # CDDL HEADER END
 #
 #
-#ident	"@(#)aliases	1.15	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 ##
 #  Aliases can have any mix of upper and lower case on the left-hand side,

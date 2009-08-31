@@ -27,7 +27,7 @@
 #ifndef _IOBOARD_H
 #define	_IOBOARD_H
 
-#pragma ident	"@(#)ioboard.h	1.4	06/11/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libdevinfo.h>
 #include <did.h>

@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)Makefile	1.11	06/11/02 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	This makefile drives the production of the socal driver kernel

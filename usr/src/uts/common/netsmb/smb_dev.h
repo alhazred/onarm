@@ -40,7 +40,7 @@
 #ifndef _NETSMB_DEV_H_
 #define	_NETSMB_DEV_H_
 
-#pragma ident	"@(#)smb_dev.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines an internal ABI for the "nsmb" driver,

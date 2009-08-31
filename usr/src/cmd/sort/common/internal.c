@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)internal.c	1.15	08/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "internal.h"
 

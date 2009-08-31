@@ -27,7 +27,7 @@
 #ifndef _SYS_SCSI_ADAPTERS_ESPVAR_H
 #define	_SYS_SCSI_ADAPTERS_ESPVAR_H
 
-#pragma ident	"@(#)espvar.h	1.87	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 

@@ -24,14 +24,14 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bootdev.c	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/modctl.h>
 #include <sys/sunddi.h>
 
 /* internal global data */
 static struct modlmisc modlmisc = {
-	&mod_miscops, "bootdev misc module 1.13"
+	&mod_miscops, "bootdev misc module %I%"
 };
 
 static struct modlinkage modlinkage = {

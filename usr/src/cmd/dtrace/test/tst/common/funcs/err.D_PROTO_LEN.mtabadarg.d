@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma	ident	"@(#)err.D_PROTO_LEN.mtabadarg.d	1.2	07/08/15 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ASSERTION:

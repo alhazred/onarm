@@ -31,7 +31,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)utmpd.c	1.17	07/09/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * utmpd	- utmp daemon

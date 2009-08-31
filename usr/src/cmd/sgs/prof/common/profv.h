@@ -28,7 +28,7 @@
 #ifndef	_SGS_PROFV_H
 #define	_SGS_PROFV_H
 
-#pragma ident	"@(#)profv.h	1.5	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Header file for processing versioned, *new-style* mon.out files.

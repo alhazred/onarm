@@ -27,7 +27,7 @@
 #ifndef	_BASE_INLINES_H
 #define	_BASE_INLINES_H
 
-#pragma ident	"@(#)base_inlines.h	1.1	05/11/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

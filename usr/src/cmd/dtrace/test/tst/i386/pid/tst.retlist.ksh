@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)tst.retlist.ksh	1.2	06/09/26 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # Make sure we can match against 2-byte rets
 

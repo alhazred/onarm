@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_HID_H
 #define	_SYS_USB_HID_H
 
-#pragma ident	"@(#)hid.h	1.11	06/06/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _TOPO_FMRI_H
 #define	_TOPO_FMRI_H
 
-#pragma ident	"@(#)topo_fmri.h	1.1	06/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/nvpair.h>
 #include <stdio.h>

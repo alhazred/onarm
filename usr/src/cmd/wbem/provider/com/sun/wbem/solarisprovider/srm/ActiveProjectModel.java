@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ActiveProjectModel.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -39,7 +39,7 @@ import java.util.LinkedHashMap;
  * Data model of a Solaris project.
  * It encapsulates a CIM instance of the Solaris_ActiveProject class.
  * @author Sun Microsystems
- * @version 1.3 06/08/05
+ * @version %I% %G%
  */
 
 public class ActiveProjectModel extends SRMProviderDataModel

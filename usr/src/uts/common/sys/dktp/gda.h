@@ -27,7 +27,7 @@
 #ifndef _SYS_DKTP_GDA_H
 #define	_SYS_DKTP_GDA_H
 
-#pragma ident	"@(#)gda.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

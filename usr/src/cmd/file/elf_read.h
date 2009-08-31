@@ -26,7 +26,7 @@
 #ifndef _ELF_READ_H
 #define	_ELF_READ_H
 
-#pragma ident	"@(#)elf_read.h	1.2	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	BUFSZ 128
 typedef struct Elf_Info {

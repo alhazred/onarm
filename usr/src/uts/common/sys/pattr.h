@@ -26,7 +26,7 @@
 #ifndef _SYS_PATTR_H
 #define	_SYS_PATTR_H
 
-#pragma ident	"@(#)pattr.h	1.6	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

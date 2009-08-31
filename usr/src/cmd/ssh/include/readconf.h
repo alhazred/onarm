@@ -20,7 +20,7 @@
 
 /*	$OpenBSD: readconf.h,v 1.43 2002/06/08 05:17:01 markus Exp $	*/
 
-#pragma ident	"@(#)readconf.h	1.14	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

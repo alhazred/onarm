@@ -30,7 +30,7 @@
  *	and the client-side for NIS+ passwd update deamon.
  */
 
-#pragma ident	"@(#)npd_lib.c	1.8	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <string.h>

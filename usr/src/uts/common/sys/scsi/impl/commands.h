@@ -26,7 +26,7 @@
 #ifndef	_SYS_SCSI_IMPL_COMMANDS_H
 #define	_SYS_SCSI_IMPL_COMMANDS_H
 
-#pragma ident	"@(#)commands.h	1.34	06/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

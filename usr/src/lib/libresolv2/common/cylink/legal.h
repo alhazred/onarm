@@ -43,7 +43,7 @@
  * containing the Foundations Suite are the sole responsibility of the licensee.
  */
  
-#pragma ident	"@(#)legal.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ANSI C standard, section 3.5.3: "An object that has volatile-qualified

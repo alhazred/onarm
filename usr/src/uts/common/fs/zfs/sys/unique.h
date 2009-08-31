@@ -26,7 +26,7 @@
 #ifndef	_SYS_UNIQUE_H
 #define	_SYS_UNIQUE_H
 
-#pragma ident	"@(#)unique.h	1.2	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zfs_context.h>
 

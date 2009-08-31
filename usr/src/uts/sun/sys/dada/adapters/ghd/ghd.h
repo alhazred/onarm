@@ -27,7 +27,7 @@
 #ifndef _GHD_H
 #define	_GHD_H
 
-#pragma ident	"@(#)ghd.h	1.20	05/12/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

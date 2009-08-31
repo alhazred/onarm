@@ -27,7 +27,7 @@
 #ifndef _PARSEURL_H
 #define	_PARSEURL_H
 
-#pragma ident	"@(#)parseURL.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 

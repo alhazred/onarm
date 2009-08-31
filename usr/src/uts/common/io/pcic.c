@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)pcic.c	1.106	07/03/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * PCIC device/interrupt handler
@@ -404,7 +404,7 @@ int (*pcic_ci_funcs[])(pcicdev_t *) = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module. This one is a driver */
-	"PCIC PCMCIA adapter driver 1.106",	/* Name of the module. */
+	"PCIC PCMCIA adapter driver %I%",	/* Name of the module. */
 	&pcic_devops,		/* driver ops */
 };
 

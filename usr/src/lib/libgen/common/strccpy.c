@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)strccpy.c	1.11	06/01/04 SMI"	/* SVr4.0 1.2.5.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2.5.2 */
 
 /*LINTLIBRARY*/
 

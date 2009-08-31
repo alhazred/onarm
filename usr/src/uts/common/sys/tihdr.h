@@ -31,7 +31,7 @@
 #ifndef _SYS_TIHDR_H
 #define	_SYS_TIHDR_H
 
-#pragma ident	"@(#)tihdr.h	1.23	05/11/12 SMI"	/* from SVr4.0 11.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVr4.0 11.4 */
 
 #include <sys/types.h>
 /*

@@ -26,7 +26,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)zpool_prop.c	1.4	07/11/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zio.h>
 #include <sys/spa.h>

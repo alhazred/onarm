@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sbbc.c	1.15	07/04/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Starcat PCI SBBC Nexus Driver.
@@ -244,7 +244,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv sbbcmodldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"PCI Sbbc Nexus Driver v1.15",
+	"PCI Sbbc Nexus Driver v%I%",
 	&sbbc_ops,
 };
 

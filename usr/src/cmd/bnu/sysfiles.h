@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)sysfiles.h	1.6	05/06/08 SMI"	/* from SVR4 bnu:sysfiles.h 1.7 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:sysfiles.h 1.7 */
 
 #define SYSDIR		"/etc/uucp"
 #define SYSFILES	"/etc/uucp/Sysfiles"

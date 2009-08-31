@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)pm.c	1.118	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * pm	This driver now only handles the ioctl interface.  The scanning
@@ -155,7 +155,7 @@ static struct dev_ops pm_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"power management driver v1.118",
+	"power management driver v%I%",
 	&pm_ops
 };
 

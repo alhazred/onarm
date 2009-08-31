@@ -36,7 +36,7 @@
 #	svc:/system/console-login> setprop ttymon/terminal_type = "xterm"
 #	svc:/system/console-login> exit
 #
-#ident	"@(#)inittab	1.42	05/06/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 ap::sysinit:/sbin/autopush -f /etc/iu.ap
 sp::sysinit:/sbin/soconfig -f /etc/sock2path
 smf::sysinit:/lib/svc/bin/svc.startd	>/dev/msglog 2<>/dev/msglog </dev/console

@@ -22,7 +22,7 @@
 # Copyright 1998 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.29	05/06/12 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 include $(SRC)/cmd/Makefile.cmd

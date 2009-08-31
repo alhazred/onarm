@@ -27,7 +27,7 @@
 #ifndef	_META_SET_COM_H
 #define	_META_SET_COM_H
 
-#pragma ident	"@(#)meta_set_prv.h	2.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <meta.h>
 #include <ctype.h>

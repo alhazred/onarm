@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)err.D_ADDROF_BITFIELD.BitfieldAddress.d	1.1	06/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ASSERTION: Cannot take the address of a bit-field member using the &

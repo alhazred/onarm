@@ -26,7 +26,7 @@
 #ifndef	_RSRC_INFO_H
 #define	_RSRC_INFO_H
 
-#pragma ident	"@(#)rsrc_info.h	1.3	06/04/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libnvpair.h>
 

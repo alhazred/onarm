@@ -26,7 +26,7 @@
 #ifndef	_SYS_NXGE_NXGE_MAC_H
 #define	_SYS_NXGE_NXGE_MAC_H
 
-#pragma ident	"@(#)nxge_mac.h	1.2	07/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -6,7 +6,7 @@
 #ifndef	_SYS_TIMEB_H
 #define	_SYS_TIMEB_H
 
-#pragma ident	"@(#)timeb.h	1.15	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -1,4 +1,4 @@
-#pragma ident	"@(#)mit-sipb-copyright.h	1.1	99/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
 
 Copyright 1987, 1988 by the Student Information Processing Board

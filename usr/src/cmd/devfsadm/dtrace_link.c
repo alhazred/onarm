@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dtrace_link.c	1.3	05/12/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <devfsadm.h>
 #include <strings.h>

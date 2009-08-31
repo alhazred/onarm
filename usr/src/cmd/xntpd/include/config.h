@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)config.h	1.5	03/05/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* config.h.  Generated automatically by configure.  */
 /* config.h.in.  Generated automatically from configure.in by autoheader.  */

@@ -25,7 +25,7 @@
 #ifndef	_G11N_H
 #define	_G11N_H
 
-#pragma ident	"@(#)g11n.h	1.5	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -5,7 +5,7 @@
  * $Header: /cvs/krbdev/krb5/src/lib/kadm5/clnt/client_init.c,v 1.13.2.2 2000/05/09 13:17:14 raeburn Exp $
  */
 
-#pragma ident	"@(#)client_init.c	1.26	07/09/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (C) 1998 by the FundsXpress, INC.

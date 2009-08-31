@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)swap_rcm.c	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * RCM module providing support for swap areas
@@ -137,7 +137,7 @@ rcm_mod_init()
 const char *
 rcm_mod_info()
 {
-	return ("RCM Swap module 1.5");
+	return ("RCM Swap module %I%");
 }
 
 int

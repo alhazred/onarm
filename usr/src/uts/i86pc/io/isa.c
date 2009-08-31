@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)isa.c	1.41	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	ISA bus nexus driver
@@ -170,7 +170,7 @@ struct dev_ops isa_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This is ISA bus driver */
-	"isa nexus driver for 'ISA' 1.41",
+	"isa nexus driver for 'ISA' %I%",
 	&isa_ops,	/* driver ops */
 };
 

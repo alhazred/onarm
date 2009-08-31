@@ -41,7 +41,7 @@
 #ifndef _CURSHDR_H
 #define	_CURSHDR_H
 
-#pragma ident	"@(#)curshdr.h	1.17	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

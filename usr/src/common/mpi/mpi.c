@@ -47,7 +47,7 @@
  * Sun elects to use this software under the MPL license.
  */
 
-#pragma ident	"@(#)mpi.c	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* $Id: mpi.c,v 1.45 2006/09/29 20:12:21 alexei.volkov.bugs%sun.com Exp $ */
 

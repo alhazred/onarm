@@ -23,7 +23,7 @@
 # Copyright 1999-2002 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.8	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 SUBDIRS=	dhcpagent dhcpinfo ifparse netstrategy

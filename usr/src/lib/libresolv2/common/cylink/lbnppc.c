@@ -43,7 +43,7 @@
  * containing the Foundations Suite are the sole responsibility of the licensee.
  */
  
-#pragma ident	"@(#)lbnppc.c	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "lbnppc.h"
 

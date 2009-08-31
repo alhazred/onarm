@@ -27,7 +27,7 @@
 #ifndef	_META_REPARTITION_H
 #define	_META_REPARTITION_H
 
-#pragma ident	"@(#)meta_repartition.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <meta.h>
 

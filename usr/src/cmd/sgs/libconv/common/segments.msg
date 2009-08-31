@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)segments.msg	1.6	06/06/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 @ MSG_FLG_SG_VADDR	"FLG_SG_VADDR"
 @ MSG_FLG_SG_PADDR	"FLG_SG_PADDR"

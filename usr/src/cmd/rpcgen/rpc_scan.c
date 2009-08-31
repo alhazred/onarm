@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rpc_scan.c	1.16	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rpc_scan.c, Scanner for the RPC protocol compiler

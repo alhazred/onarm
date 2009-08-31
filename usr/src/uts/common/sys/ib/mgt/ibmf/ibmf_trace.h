@@ -27,7 +27,7 @@
 #ifndef _SYS_IB_MGT_IBMF_IBMF_TRACE_H
 #define	_SYS_IB_MGT_IBMF_IBMF_TRACE_H
 
-#pragma ident	"@(#)ibmf_trace.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the IBMF trace/debug macros.

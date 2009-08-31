@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)fmd_fmri.map	1.5	07/05/09 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 {
 	fmd_fmri_alloc = FUNCTION extern;

@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 
-# ident	"@(#)mapfile	1.3	07/03/22 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 {
 	global:

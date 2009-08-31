@@ -25,7 +25,7 @@
 
 */
 
-#pragma ident	"@(#)derparse.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <stdio.h>

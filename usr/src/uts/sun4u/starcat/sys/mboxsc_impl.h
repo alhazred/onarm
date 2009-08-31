@@ -27,7 +27,7 @@
 #ifndef	_MBOXSC_IMPL_H
 #define	_MBOXSC_IMPL_H
 
-#pragma ident	"@(#)mboxsc_impl.h	1.2	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains implementation details for the mboxsc API that need to

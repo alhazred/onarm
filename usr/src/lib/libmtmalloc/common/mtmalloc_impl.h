@@ -27,7 +27,7 @@
 #ifndef _MTMALLOC_IMPL_H
 #define	_MTMALLOC_IMPL_H
 
-#pragma ident	"@(#)mtmalloc_impl.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Various data structures that define the guts of the mt malloc

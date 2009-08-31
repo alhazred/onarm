@@ -24,7 +24,7 @@
    *
    * CDDL HEADER END
    *
-   * ident	"@(#)volume-command.xsl	1.4	05/06/08 SMI"
+   * ident	"%Z%%M%	%I%	%E% SMI"
    *
    * Used by metassist(1M) to create a Bourne shell script from an XML
    * file conforming to the volume-config DTD.

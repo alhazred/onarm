@@ -38,7 +38,7 @@
 #ifndef _RPC_CLNT_SOC_H
 #define	_RPC_CLNT_SOC_H
 
-#pragma ident	"@(#)clnt_soc.h	1.20	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * All the following declarations are only for backward compatibility

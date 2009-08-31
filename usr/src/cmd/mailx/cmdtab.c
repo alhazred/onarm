@@ -32,7 +32,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)cmdtab.c	1.22	05/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "def.h"
 

@@ -1,5 +1,5 @@
 
-\ ident	"@(#)hsfs.fth	1.1	07/12/06 SMI"
+\ ident	"%Z%%M%	%I%	%E% SMI"
 \ Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 \ Use is subject to license terms.
 \
@@ -24,7 +24,7 @@
 \
 \
 
-id: @(#)hsfs.fth	1.1	07/12/06 SMI
+id: %Z%%M%	%I%	%E% SMI
 purpose: HSFS file system support package for NewBoot
 copyright: Copyright 2006 Sun Microsystems, Inc. All Rights Reserved
 

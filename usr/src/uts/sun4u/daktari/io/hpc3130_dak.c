@@ -33,7 +33,7 @@
  * be loaded instead of the generic module.
  */
 
-#pragma ident	"@(#)hpc3130_dak.c	1.24	06/11/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/cmn_err.h>
@@ -222,7 +222,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv hpc3130_modldrv = {
 	&mod_driverops,			/* type of module - driver */
-	"Hotplug controller driver 1.24",
+	"Hotplug controller driver %I%",
 	&hpc3130_ops
 };
 

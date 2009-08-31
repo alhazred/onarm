@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ksslcfg_delete.c	1.1	05/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libscf.h>
 #include <stdio.h>

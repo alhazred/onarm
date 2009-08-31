@@ -26,7 +26,7 @@
 #ifndef _SYS_KBD_H
 #define	_SYS_KBD_H
 
-#pragma ident	"@(#)kbd.h	1.40	07/01/26 SMI"	/* SunOS4.0 1.18 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS4.0 1.18 */
 
 #ifdef	__cplusplus
 extern "C" {

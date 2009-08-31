@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)PermSARegTable.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)PermSARegTable.java	1.4	06/08/05
+//  SCCS Status:      %W%	%G%
 //  PermSARegTable.java: Periodically reregister registrations.
 //  Author:           James Kempf
 //  Created On:       Thu May 14 14:11:49 1998
@@ -45,7 +45,7 @@ import java.util.*;
 /**
  * Periodically reregister advertisments in the SA client.
  *
- * @version 1.4 08/03/23
+ * @version %R%.%L% %D%
  * @author Erik Guttman, James Kempf
  */
 

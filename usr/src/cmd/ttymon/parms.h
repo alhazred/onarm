@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)parms.h	1.8	05/06/08 SMI"	/* SVr4.0 1.3	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 
 
 

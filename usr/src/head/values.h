@@ -31,7 +31,7 @@
 #ifndef	_VALUES_H
 #define	_VALUES_H
 
-#pragma ident	"@(#)values.h	1.18	05/06/08 SMI"	/* SVr4.0 1.33	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.33	*/
 
 #include <sys/isa_defs.h>
 

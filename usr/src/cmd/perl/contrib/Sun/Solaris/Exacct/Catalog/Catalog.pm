@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)Catalog.pm	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Catalog.pm contains perl code for exacct catalog tag manipulation.
 # 
@@ -33,7 +33,7 @@ use warnings;
 
 package Sun::Solaris::Exacct::Catalog;
 
-our $VERSION = '1.3';
+our $VERSION = '%I%';
 use Carp;
 use XSLoader;
 XSLoader::load(__PACKAGE__, $VERSION);

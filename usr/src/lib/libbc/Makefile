@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.21	07/01/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY= libc.a

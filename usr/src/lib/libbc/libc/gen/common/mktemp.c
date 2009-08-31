@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mktemp.c	1.5	05/06/08 SMI"  /* from S5R3 1.11 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"  /* from S5R3 1.11 */
 
 /*	Copyright (c) 1984 AT&T	*/
 /*	  All Rights Reserved  	*/

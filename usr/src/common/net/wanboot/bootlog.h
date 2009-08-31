@@ -27,7 +27,7 @@
 #ifndef _BOOTLOG_H
 #define	_BOOTLOG_H
 
-#pragma ident	"@(#)bootlog.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * bootlog - error notification and progress reporting interface

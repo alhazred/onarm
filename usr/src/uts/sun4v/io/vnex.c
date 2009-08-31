@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)vnex.c	1.15	08/02/15 SMI"	/* SVr4 5.0 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4 5.0 */
 
 #include <sys/types.h>
 #include <sys/cmn_err.h>
@@ -168,7 +168,7 @@ static struct dev_ops pseudo_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"sun4v virtual-devices nexus driver v1.15",
+	"sun4v virtual-devices nexus driver v%I%",
 	&pseudo_ops,	/* driver ops */
 };
 

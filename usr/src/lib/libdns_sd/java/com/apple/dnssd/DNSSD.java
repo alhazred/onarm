@@ -57,7 +57,7 @@ First checked in.
  */
 
 /*
- * ident	"@(#)DNSSD.java	1.1	07/08/13 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  */
 
 package	com.apple.dnssd;

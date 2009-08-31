@@ -2,7 +2,7 @@
 #ifndef _NETSMB_SMB_NETSHAREENUM_H_
 #define	_NETSMB_SMB_NETSHAREENUM_H_
 
-#pragma ident	"@(#)smb_netshareenum.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* This is from Apple.  See ../smb/netshareenum.c */
 

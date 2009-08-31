@@ -46,7 +46,7 @@
 #ifndef _ECL_PRIV_H
 #define _ECL_PRIV_H
 
-#pragma ident	"@(#)ecl-priv.h	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ecl.h"
 #include "mpi.h"

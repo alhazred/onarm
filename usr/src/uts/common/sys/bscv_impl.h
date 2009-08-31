@@ -26,7 +26,7 @@
 #ifndef _SYS_BSCV_IMPL_H
 #define	_SYS_BSCV_IMPL_H
 
-#pragma ident	"@(#)bscv_impl.h	1.7	07/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Implementation private header file for bscv driver.

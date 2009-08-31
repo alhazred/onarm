@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)in.uucpd.c	1.30	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * 4.2BSD, 2.9BSD, or ATTSVR4 TCP/IP server for uucico

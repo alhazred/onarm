@@ -29,7 +29,7 @@
  *	  All Rights Reserved
  */
 
-#pragma ident	"@(#)paste.c	1.17	05/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <locale.h>

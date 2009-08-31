@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)eventlib.c	1.13	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* eventlib.c - implement glue for the eventlib
  * vix 09sep95 [initial]

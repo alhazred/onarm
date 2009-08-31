@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)llib-lwrap	1.1	01/12/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* LINTLIBRARY */
 /* PROTOLIB1 */

@@ -26,7 +26,7 @@
 #ifndef	_MDB_IO_H
 #define	_MDB_IO_H
 
-#pragma ident	"@(#)mdb_io.h	1.10	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

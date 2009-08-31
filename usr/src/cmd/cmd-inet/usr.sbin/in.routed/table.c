@@ -36,7 +36,7 @@
  * $FreeBSD: src/sbin/routed/table.c,v 1.15 2000/08/11 08:24:38 sheldonh Exp $
  */
 
-#pragma ident	"@(#)table.c	2.36	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "defs.h"
 #include <fcntl.h>

@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)tst.predcache.ksh	1.4	07/08/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 unload()
 {

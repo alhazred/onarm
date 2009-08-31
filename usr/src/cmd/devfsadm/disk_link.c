@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)disk_link.c	1.19	08/02/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <devfsadm.h>
 #include <stdio.h>

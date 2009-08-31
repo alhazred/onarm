@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)fdc.c	1.58	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Floppy Disk Controller Driver
@@ -258,7 +258,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module. This one is a driver */
-	"Floppy Controller 1.58",	/* Name of the module. */
+	"Floppy Controller %I%",	/* Name of the module. */
 	&fdc_ops,		/* Driver ops vector */
 };
 

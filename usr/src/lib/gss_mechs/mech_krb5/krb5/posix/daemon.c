@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)daemon.c	1.2	02/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*-
  * Copyright (c) 1990 The Regents of the University of California.

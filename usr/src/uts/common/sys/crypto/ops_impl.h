@@ -26,7 +26,7 @@
 #ifndef _SYS_CRYPTO_OPS_IMPL_H
 #define	_SYS_CRYPTO_OPS_IMPL_H
 
-#pragma ident	"@(#)ops_impl.h	1.11	07/05/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Scheduler internal structures.

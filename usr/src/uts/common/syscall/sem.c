@@ -30,7 +30,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)sem.c	1.86	07/12/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Inter-Process Communication Semaphore Facility.

@@ -27,7 +27,7 @@
 #ifndef	_MDB_WCB_H
 #define	_MDB_WCB_H
 
-#pragma ident	"@(#)mdb_wcb.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_module.h>
 

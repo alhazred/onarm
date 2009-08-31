@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)res_mkupdate.c	1.6	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Based on the Dynamic DNS reference implementation by Viraj Bais

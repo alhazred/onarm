@@ -27,7 +27,7 @@
 #ifndef	_KRB5DEFS_H
 #define	_KRB5DEFS_H
 
-#pragma ident	"@(#)krb5defs.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

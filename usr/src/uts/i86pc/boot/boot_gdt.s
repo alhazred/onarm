@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)boot_gdt.s	1.2	07/11/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(__lint)
 #pragma pack(1)

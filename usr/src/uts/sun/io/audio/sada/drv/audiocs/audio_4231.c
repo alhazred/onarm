@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)audio_4231.c	1.32	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * audiocs Audio Driver
@@ -339,7 +339,7 @@ static struct dev_ops cs4231_dev_ops = {
 /* Linkage structure for loadable drivers */
 static struct modldrv cs4231_modldrv = {
 	&mod_driverops,		/* drv_modops */
-	CS4231_MOD_NAME " 1.32",	/* drv_linkinfo */
+	CS4231_MOD_NAME " %I%",	/* drv_linkinfo */
 	&cs4231_dev_ops		/* drv_dev_ops */
 };
 

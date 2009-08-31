@@ -27,7 +27,7 @@
 #ifndef	_LDAP_STRUCTS_H
 #define	_LDAP_STRUCTS_H
 
-#pragma ident	"@(#)ldap_structs.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/time.h>
 

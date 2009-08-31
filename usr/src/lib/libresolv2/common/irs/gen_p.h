@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)gen_p.h	1.3	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * $Id: gen_p.h,v 1.11 2001/05/29 05:48:39 marka Exp $

@@ -43,7 +43,7 @@
 #ifndef _ISO_STDDEF_ISO_H
 #define	_ISO_STDDEF_ISO_H
 
-#pragma ident	"@(#)stddef_iso.h	1.4	05/06/08 SMI" /* SVr4.0 1.5 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* SVr4.0 1.5 */
 
 #include <sys/isa_defs.h>
 

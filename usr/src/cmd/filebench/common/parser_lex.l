@@ -25,7 +25,7 @@
  */
 
 %{
-#pragma ident	"@(#)parser_lex.l	1.2	08/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %}
 
 %{

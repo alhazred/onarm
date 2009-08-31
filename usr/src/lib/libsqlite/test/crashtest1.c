@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)crashtest1.c	1.1	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 ** This program tests the ability of SQLite database to recover from a crash.

@@ -27,7 +27,7 @@
 #ifndef _PTHREAD_H
 #define	_PTHREAD_H
 
-#pragma ident	"@(#)pthread.h	1.39	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

@@ -40,7 +40,7 @@
 #ifndef _SYS_SELECT_H
 #define	_SYS_SELECT_H
 
-#pragma ident	"@(#)select.h	1.21	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

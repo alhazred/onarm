@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)libipmi.c	1.4	08/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libipmi.h>
 #include <string.h>

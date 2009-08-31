@@ -26,7 +26,7 @@
 #ifndef	_DEVMGMT_H
 #define	_DEVMGMT_H
 
-#pragma ident	"@(#)devmgmt.h	1.11	05/06/08 SMI"	/* SVr4.0 1.12	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.12	*/
 
 #ifdef	__cplusplus
 extern "C" {

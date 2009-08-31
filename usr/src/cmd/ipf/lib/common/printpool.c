@@ -7,7 +7,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)printpool.c	1.3	06/07/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ipf.h"
 

@@ -27,7 +27,7 @@
 #ifndef _IRPMARSHALL_H_INCLUDED
 #define _IRPMARSHALL_H_INCLUDED
 
-#pragma ident	"@(#)irpmarshall.h	1.2	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Hide function names */
 #define irp_marshall_gr __irp_marshall_gr

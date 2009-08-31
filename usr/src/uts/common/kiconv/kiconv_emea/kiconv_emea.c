@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)kiconv_emea.c	1.1	07/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Kernel iconv code conversion module (kiconv_emea) for Europe, Middle East,

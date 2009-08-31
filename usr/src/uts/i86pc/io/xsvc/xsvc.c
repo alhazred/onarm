@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xsvc.c	1.2	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errno.h>
 #include <sys/types.h>
@@ -100,7 +100,7 @@ static struct dev_ops xsvc_dev_ops = {
 
 static struct modldrv xsvc_modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"xsvc driver v1.2",	/* Name of the module. */
+	"xsvc driver v%I%",	/* Name of the module. */
 	&xsvc_dev_ops,		/* driver ops */
 };
 

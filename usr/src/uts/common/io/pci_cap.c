@@ -35,7 +35,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pci_cap.c	1.4	06/08/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Generic PCI Capabilites Interface for all pci platforms

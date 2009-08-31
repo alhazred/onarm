@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)todblade.c	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/types.h>
@@ -81,7 +81,7 @@ static clock_t last_pat_lbt;
 
 
 static struct modlmisc modlmisc = {
-	&mod_miscops, "todblade module v1.7",
+	&mod_miscops, "todblade module v%I%",
 };
 
 static struct modlinkage modlinkage = {

@@ -9,7 +9,7 @@
  *	$Id: errstring.h,v 1.10 2007/03/21 23:56:19 ca Exp $
  */
 
-#pragma ident	"@(#)errstring.h	1.4	07/04/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  Error codes.

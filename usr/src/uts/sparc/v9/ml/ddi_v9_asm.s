@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma	ident	"@(#)ddi_v9_asm.s	1.43	06/01/23 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asi.h>
 #include <sys/asm_linkage.h>

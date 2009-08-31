@@ -27,7 +27,7 @@
 #ifndef _GHD_QUEUE_H
 #define	_GHD_QUEUE_H
 
-#pragma ident	"@(#)ghd_queue.h	1.7	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

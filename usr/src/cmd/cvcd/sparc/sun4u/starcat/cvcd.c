@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cvcd.c	1.7	06/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This code implements the Starcat Virtual Console host daemon (see cvcd(1M)).

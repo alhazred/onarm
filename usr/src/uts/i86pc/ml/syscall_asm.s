@@ -30,7 +30,7 @@
 /*	Copyright (c) 1987, 1988 Microsoft Corporation		*/
 /*	  All Rights Reserved					*/
 
-#pragma ident	"@(#)syscall_asm.s	1.20	07/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 #include <sys/asm_misc.h>
@@ -189,7 +189,7 @@
 #if defined(DEBUG)
 
 __lwptoregs_msg:
-	.string	"syscall_asm.s:%d lwptoregs(%p) [%p] != rp [%p]"
+	.string	"%M%:%d lwptoregs(%p) [%p] != rp [%p]"
 
 #define	ASSERT_LWPTOREGS(t, rp)				\
 	movl	T_LWP(t), %esi;				\

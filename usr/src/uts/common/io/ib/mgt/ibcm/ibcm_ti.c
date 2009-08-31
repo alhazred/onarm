@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ibcm_ti.c	1.30	07/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ib/mgt/ibcm/ibcm_impl.h>
 #include <sys/ib/ibtl/ibti.h>

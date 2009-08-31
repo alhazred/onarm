@@ -27,7 +27,7 @@
 #ifndef _SYS_FS_UFS_LOG_H
 #define	_SYS_FS_UFS_LOG_H
 
-#pragma ident	"@(#)ufs_log.h	1.64	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/buf.h>
 #include <sys/fs/ufs_trans.h>

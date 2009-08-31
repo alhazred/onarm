@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)metaUtil.c	1.12	08/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <cryptoutil.h>
 #include <errno.h>

@@ -23,7 +23,7 @@
  * Use is subject to license terms. 
  */ 
  
-#pragma ident	"@(#)fire.esc	1.10	07/11/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma dictionary "SUN4" 
 

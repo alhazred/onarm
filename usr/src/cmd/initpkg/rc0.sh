@@ -28,7 +28,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)rc0.sh	1.25	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # "Run Commands" for init states 0, 5 and 6.
 

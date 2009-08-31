@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)zfs_retire.c	1.3	07/09/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The ZFS retire agent is responsible for managing hot spares across all pools.

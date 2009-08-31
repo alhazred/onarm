@@ -24,7 +24,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 # 
-#ident	"@(#)elfcmp.sh	1.9	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # elfcmp - compare significant sections in two ELF files
 #

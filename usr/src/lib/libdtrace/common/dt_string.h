@@ -27,7 +27,7 @@
 #ifndef	_DT_STRING_H
 #define	_DT_STRING_H
 
-#pragma ident	"@(#)dt_string.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <strings.h>

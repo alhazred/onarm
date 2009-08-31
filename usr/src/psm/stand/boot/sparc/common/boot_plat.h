@@ -26,7 +26,7 @@
 #ifndef _BOOT_PLAT_H
 #define	_BOOT_PLAT_H
 
-#pragma ident	"@(#)boot_plat.h	1.9	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

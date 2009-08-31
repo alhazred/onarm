@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)repquota.c	1.29	05/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Quota report

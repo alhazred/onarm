@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SunDATable.java	1.5	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2001,2003 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
  */
 
-//  SCCS Status:      @(#)SunDATable.java	1.5	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SunDATable.java: A DATable implementation that uses the IPC connection.
 //  Author:           James Kempf
 //  Created On:       Mon May 11 15:00:23 1998
@@ -63,7 +63,7 @@ import java.io.*;
  * time stamp runs out. The time stamp is determined as the minimum
  * expiration time of the service URLs.
  *
- * @version 1.5 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

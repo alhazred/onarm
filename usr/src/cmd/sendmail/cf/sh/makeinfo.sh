@@ -35,8 +35,8 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-#	@(#)makeinfo.sh	1.4 (Berkeley+Sun) 05/27/00
-# ident	"@(#)makeinfo.sh	1.4	00/05/27 SMI"
+#	%W% (Berkeley+Sun) %G%
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 if [ "x$1" = "x-q" ]

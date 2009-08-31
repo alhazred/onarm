@@ -4,7 +4,7 @@
  */
 
 
-#pragma ident	"@(#)lber-int.h	1.5	03/09/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*-

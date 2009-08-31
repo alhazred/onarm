@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)crypt.c	1.40	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma	weak crypt = _crypt
 #pragma weak encrypt = _encrypt

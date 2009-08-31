@@ -34,7 +34,7 @@
 #ifndef	_SYS_MTIO_H
 #define	_SYS_MTIO_H
 
-#pragma ident	"@(#)mtio.h	2.56	07/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

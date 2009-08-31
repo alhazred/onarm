@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)search.c	1.2	02/10/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

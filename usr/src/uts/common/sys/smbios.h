@@ -40,7 +40,7 @@
 #ifndef	_SYS_SMBIOS_H
 #define	_SYS_SMBIOS_H
 
-#pragma ident	"@(#)smbios.h	1.3	06/03/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

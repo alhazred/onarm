@@ -27,7 +27,7 @@
  * Copyright  (c) 1986 AT&T
  *	All Rights Reserved
  */
-#ident	"@(#)showmail.c	1.8	05/06/08 SMI"       /* SVr4.0 1.6 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.6 */
 
 #include	<fcntl.h>
 #include	<curses.h>

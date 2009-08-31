@@ -34,7 +34,7 @@
 #ifndef	_RPCSVC_NIS_DB_H
 #define	_RPCSVC_NIS_DB_H
 
-#pragma ident	"@(#)nis_db.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/rpc.h>
 #include <rpcsvc/nis.h>

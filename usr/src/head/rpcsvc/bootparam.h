@@ -26,7 +26,7 @@
 #ifndef	_RPCSVC_BOOTPARAM_H
 #define	_RPCSVC_BOOTPARAM_H
 
-#pragma ident	"@(#)bootparam.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpcsvc/bootparam_prot.h>
 

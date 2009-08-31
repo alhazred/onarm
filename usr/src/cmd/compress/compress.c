@@ -13,7 +13,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)compress.c	1.44	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Compress - data compression program

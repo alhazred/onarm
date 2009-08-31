@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 							    
-#pragma ident	"@(#)yppasswdxdr.c	1.5	05/06/08 SMI" /* mods by OpCom */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* mods by OpCom */
 
 #include <rpc/rpc.h>
 #include <rpcsvc/yppasswd.h>

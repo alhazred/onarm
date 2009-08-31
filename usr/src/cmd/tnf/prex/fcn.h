@@ -26,7 +26,7 @@
 #ifndef _FCN_H
 #define	_FCN_H
 
-#pragma ident	"@(#)fcn.h	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Includes

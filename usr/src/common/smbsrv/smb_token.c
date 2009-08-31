@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smb_token.c	1.2	08/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

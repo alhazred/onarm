@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma	ident	"@(#)panic_asm.s	1.1	07/09/18 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 #include <sys/hypervisor.h>

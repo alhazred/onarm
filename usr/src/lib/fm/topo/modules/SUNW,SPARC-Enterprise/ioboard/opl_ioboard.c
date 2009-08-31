@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)opl_ioboard.c	1.4	07/09/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SUNW,OPL-Enterprise platform ioboard topology enumerator

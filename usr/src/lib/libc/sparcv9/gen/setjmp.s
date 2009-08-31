@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)setjmp.s	1.24	05/06/08 SMI"	/* SVr4.0 1.4	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4	*/
 
 	.file	"setjmp.s"
 

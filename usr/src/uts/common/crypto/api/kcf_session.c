@@ -25,7 +25,7 @@
  */
 
 
-#pragma ident	"@(#)kcf_session.c	1.1	05/11/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errno.h>
 #include <sys/types.h>

@@ -26,7 +26,7 @@
  * Portions Copyright 2007 Chad Mynhier
  */
 
-#pragma ident	"@(#)Pcontrol.c	1.44	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

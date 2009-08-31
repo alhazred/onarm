@@ -61,7 +61,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ca.c	1.5	06/02/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* The PPKI stuff has been donated by Jeff Barber <jeffb@issl.atl.hp.com> */
 

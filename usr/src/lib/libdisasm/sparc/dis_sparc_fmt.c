@@ -30,7 +30,7 @@
  */
 
 
-#pragma ident	"@(#)dis_sparc_fmt.c	1.1	07/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/byteorder.h>
 #include <stdarg.h>

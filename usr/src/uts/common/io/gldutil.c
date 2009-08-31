@@ -22,7 +22,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gldutil.c	1.39	06/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * gld - Generic LAN Driver

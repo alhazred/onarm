@@ -110,7 +110,7 @@
  * bit for prime sieving.
  */
 
-#pragma ident	"@(#)lbn32.c	1.2	01/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef HAVE_CONFIG_H
 #define HAVE_CONFIG_H 0

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smb_scfutil.c	1.3	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* helper functions for using libscf with CIFS */
 

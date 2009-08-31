@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)profil.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"profil.s"
+	.file	"%M%"
 
 /* C library -- profil						*/
 /* void profil (short *buff, int buffsz, int offset, int scale);*/

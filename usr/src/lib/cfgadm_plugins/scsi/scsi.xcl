@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved. 
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)scsi.xcl	1.5	06/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/cfgadm_plugins/scsi/scsi.xcl
 #

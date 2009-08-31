@@ -26,7 +26,7 @@
 #ifndef _TOPO_MODULE_H
 #define	_TOPO_MODULE_H
 
-#pragma ident	"@(#)topo_module.h	1.2	06/11/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/topo_mod.h>
 

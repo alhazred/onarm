@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)anlwrk.c	1.8	05/10/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
 	This module contains routines that find C. files
 	in a system spool directory, return the next C. file

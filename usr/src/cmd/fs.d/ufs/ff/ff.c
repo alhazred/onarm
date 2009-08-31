@@ -31,7 +31,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)ff.c	1.22	05/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ff -- obtain file names from reading filesystem

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)if_gen.c	1.1	06/11/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libiscsitgt.h>
 

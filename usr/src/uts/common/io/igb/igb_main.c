@@ -26,7 +26,7 @@
  * Use is subject to license terms of the CDDL.
  */
 
-#pragma ident	"@(#)igb_main.c	1.3	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "igb_sw.h"
 

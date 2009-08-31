@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)error_test.c	1.5	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include "error.h"

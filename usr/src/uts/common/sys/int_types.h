@@ -27,7 +27,7 @@
 #ifndef _SYS_INT_TYPES_H
 #define	_SYS_INT_TYPES_H
 
-#pragma ident	"@(#)int_types.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file, <sys/int_types.h>, is part of the Sun Microsystems implementation

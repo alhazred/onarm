@@ -7,7 +7,7 @@
 #ifndef	_MYPROPOSAL_H
 #define	_MYPROPOSAL_H
 
-#pragma ident	"@(#)myproposal.h	1.5	04/05/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

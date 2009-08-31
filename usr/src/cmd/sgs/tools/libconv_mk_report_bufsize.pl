@@ -23,7 +23,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)libconv_mk_report_bufsize.pl	1.1	07/09/21 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 use warnings;
 use strict;

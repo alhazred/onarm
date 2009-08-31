@@ -37,7 +37,7 @@
 #ifndef	_RPC_SVC_H
 #define	_RPC_SVC_H
 
-#pragma ident	"@(#)svc.h	1.87	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/rpc_com.h>
 #include <rpc/rpc_msg.h>

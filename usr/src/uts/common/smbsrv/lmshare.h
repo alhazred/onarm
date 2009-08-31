@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_LMSHARE_H
 #define	_SMBSRV_LMSHARE_H
 
-#pragma ident	"@(#)lmshare.h	1.3	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines the LanMan (CIFS/SMB) resource share interface.

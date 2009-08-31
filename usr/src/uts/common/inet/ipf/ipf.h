@@ -13,7 +13,7 @@
 #ifndef	__IPF_H__
 #define	__IPF_H__
 
-#pragma ident	"@(#)ipf.h	1.7	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(__osf__)
 # define radix_mask ipf_radix_mask

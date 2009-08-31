@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)hubd.c	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * skeleton hub driver, the actual code is in hubdi.c
@@ -87,7 +87,7 @@ static struct dev_ops hubd_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module. This one is a driver */
-	"USB Hub Driver 1.8", /* Name of the module. */
+	"USB Hub Driver %I%", /* Name of the module. */
 	&hubd_ops,	/* driver ops */
 };
 

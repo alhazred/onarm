@@ -27,7 +27,7 @@
 /* LINTLIBRARY */
 /* PROTOLIB1 */
 
-#pragma ident	"@(#)llib-laio	1.10	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asynch.h>
 

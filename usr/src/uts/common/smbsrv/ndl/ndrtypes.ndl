@@ -26,7 +26,7 @@
 #ifndef _NDR_TYPES_NDL_
 #define _NDR_TYPES_NDL_
 
-#pragma ident	"@(#)ndrtypes.ndl	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define TYPEINFO(TYPE)  ndt__##TYPE
 

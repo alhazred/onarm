@@ -8,7 +8,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ipnat_y.y	1.8	06/10/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef  __FreeBSD__
 # ifndef __FreeBSD_cc_version

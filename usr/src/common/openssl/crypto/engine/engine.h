@@ -66,7 +66,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)engine.h	1.5	06/02/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef HEADER_ENGINE_H
 #define HEADER_ENGINE_H

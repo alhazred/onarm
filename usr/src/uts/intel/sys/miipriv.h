@@ -32,7 +32,7 @@
 #ifndef _MIIPRIV_H
 #define	_MIIPRIV_H
 
-#pragma ident	"@(#)miipriv.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

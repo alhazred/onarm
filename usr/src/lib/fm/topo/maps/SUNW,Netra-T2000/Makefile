@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.1	08/02/26 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 PLATFORMS = SUNW,Netra-T2000
 CLASS = platform

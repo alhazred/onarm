@@ -21,7 +21,7 @@
 //
 /////////////////////////////////////////////////////////////
 
-#pragma ident	"@(#)spnegoparse.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __SPNEGOPARSE_H__
 #define __SPNEGOPARSE_H__

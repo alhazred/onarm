@@ -26,7 +26,7 @@
 #ifndef _LIBRCM_IMPL_H
 #define	_LIBRCM_IMPL_H
 
-#pragma ident	"@(#)librcm_impl.h	1.11	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

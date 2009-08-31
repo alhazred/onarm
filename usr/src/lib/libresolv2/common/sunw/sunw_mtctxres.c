@@ -2,7 +2,7 @@
  * Copyright (c) 1998-2000 by Sun Microsystems, Inc.
  */
 
-#pragma ident	"@(#)sunw_mtctxres.c	1.4	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <port_before.h>
 #include <thread.h>

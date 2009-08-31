@@ -26,7 +26,7 @@
 #ifndef	_SYS_MEM_CONFIG_H
 #define	_SYS_MEM_CONFIG_H
 
-#pragma ident	"@(#)mem_config.h	1.13	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Memory add/delete interfaces.

@@ -23,7 +23,7 @@
 # Copyright (c) 1997, by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/rpcsec_gss/sparcv9/Makefile
 

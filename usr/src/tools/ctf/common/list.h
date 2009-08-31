@@ -27,7 +27,7 @@
 #ifndef _LIST_H
 #define	_LIST_H
 
-#pragma ident	"@(#)list.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines for manipulating linked lists

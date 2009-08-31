@@ -27,7 +27,7 @@
 #ifndef _SYS_AIOCB_H
 #define	_SYS_AIOCB_H
 
-#pragma ident	"@(#)aiocb.h	1.14	06/04/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/fcntl.h>

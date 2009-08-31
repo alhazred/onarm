@@ -30,7 +30,7 @@
 #ifndef _SYS_HOOK_IMPL_H
 #define	_SYS_HOOK_IMPL_H
 
-#pragma ident	"@(#)hook_impl.h	1.2	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/hook.h>
 #include <sys/condvar_impl.h>

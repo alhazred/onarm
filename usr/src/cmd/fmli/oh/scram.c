@@ -32,7 +32,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)scram.c	1.11	05/09/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <curses.h>
 #define	_SYS_TERMIO_H		/* sys/termio.h is included by curses.h */

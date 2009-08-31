@@ -4,7 +4,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# pragma ident	"@(#)krb5-config.sh	1.1	06/04/04 SMI"
+# pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 2001, 2002, 2003 by the Massachusetts Institute of Technology.
 # All Rights Reserved.

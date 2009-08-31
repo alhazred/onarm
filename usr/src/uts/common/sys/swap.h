@@ -40,7 +40,7 @@
 #ifndef	_SYS_SWAP_H
 #define	_SYS_SWAP_H
 
-#pragma ident	"@(#)swap.h	1.42	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/feature_tests.h>

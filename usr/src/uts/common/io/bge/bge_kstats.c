@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bge_kstats.c	1.19	08/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "bge_impl.h"
 

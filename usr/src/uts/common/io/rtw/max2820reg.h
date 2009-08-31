@@ -34,7 +34,7 @@
  * OF SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)max2820reg.h	1.1	07/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _MAX2820REG_H_
 #define	_MAX2820REG_H_

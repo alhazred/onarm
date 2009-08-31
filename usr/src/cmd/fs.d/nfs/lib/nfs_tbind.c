@@ -27,7 +27,7 @@
  * nfs_tbind.c, common part for nfsd and lockd.
  */
 
-#pragma ident	"@(#)nfs_tbind.c	1.33	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	PORTMAP
 

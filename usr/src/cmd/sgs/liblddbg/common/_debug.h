@@ -27,7 +27,7 @@
 #ifndef	_DEBUG_DOT_H
 #define	_DEBUG_DOT_H
 
-#pragma ident	"@(#)_debug.h	1.34	07/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <debug.h>
 #include <conv.h>

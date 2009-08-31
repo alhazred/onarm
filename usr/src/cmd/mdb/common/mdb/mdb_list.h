@@ -27,7 +27,7 @@
 #ifndef	_MDB_LIST_H
 #define	_MDB_LIST_H
 
-#pragma ident	"@(#)mdb_list.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

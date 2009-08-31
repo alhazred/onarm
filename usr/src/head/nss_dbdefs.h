@@ -38,7 +38,7 @@
 #ifndef _NSS_DBDEFS_H
 #define	_NSS_DBDEFS_H
 
-#pragma ident	"@(#)nss_dbdefs.h	1.39	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <unistd.h>

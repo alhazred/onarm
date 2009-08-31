@@ -31,7 +31,7 @@
 #ifndef _UNWIND_CONTEXT_H
 #define	_UNWIND_CONTEXT_H
 
-#pragma ident	"@(#)unwind_context.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * implementation of context structure

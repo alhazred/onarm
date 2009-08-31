@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)softSessionUtil.c	1.12	08/02/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <md5.h>
 #include <pthread.h>

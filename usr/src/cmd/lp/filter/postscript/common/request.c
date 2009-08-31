@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)request.c	1.6	05/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

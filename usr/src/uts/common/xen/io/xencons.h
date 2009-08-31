@@ -31,7 +31,7 @@
 #ifndef	_SYS_XENCONS_H
 #define	_SYS_XENCONS_H
 
-#pragma ident	"@(#)xencons.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

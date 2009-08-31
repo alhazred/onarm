@@ -28,7 +28,7 @@
  *      All rights reserved.
  */
 
-#pragma ident	"@(#)_mvaddch.c	1.9	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /*LINTLIBRARY*/
 

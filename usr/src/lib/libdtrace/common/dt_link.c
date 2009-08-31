@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dt_link.c	1.18	07/11/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	ELF_TARGET_ALL
 #include <elf.h>

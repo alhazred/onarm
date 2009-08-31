@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getacinfo.c	1.22	07/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* getacinfo.c  -  get audit control info */
 

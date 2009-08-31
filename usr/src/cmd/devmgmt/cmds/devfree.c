@@ -28,7 +28,7 @@
 /*      All Rights Reserved   */
   
   
-#pragma ident	"@(#)devfree.c	1.11	05/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	devfree key [device [...]]

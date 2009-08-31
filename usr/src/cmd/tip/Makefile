@@ -2,7 +2,7 @@
 # Copyright 2002 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.24	05/09/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Makefile for intermachine communications package.
 #

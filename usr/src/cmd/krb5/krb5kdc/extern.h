@@ -6,7 +6,7 @@
 #ifndef	__KRB5_KDC_EXTERN__
 #define	__KRB5_KDC_EXTERN__
 
-#pragma ident	"@(#)extern.h	1.4	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netinet/in.h>
 

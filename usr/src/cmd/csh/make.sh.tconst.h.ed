@@ -1,4 +1,4 @@
-!#ident	"@(#)make.sh.tconst.h.ed	1.3	00/05/01 SMI"
+!#ident	"%Z%%M%	%I%	%E% SMI"
 v/^tchar/d
 1,$s/=.*/;/
 1,$s/^tchar/extern tchar/

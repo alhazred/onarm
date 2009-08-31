@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SSAAdvert.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)SSAAdvert.java	1.4	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SSAAdvert.java:   Server Side SAAdvert Message.
 //  Author:           James Kempf
 //  Created On:       Tue Feb 10 15:00:39 1998

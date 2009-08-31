@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cftime.c	1.14	05/06/08 SMI"	/* SVr4.0 1.15	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.15	*/
 
 /*
  * This routine converts time as follows.  The epoch is 0000  Jan  1

@@ -30,7 +30,7 @@
 #ifndef	_INET_MIB2_H
 #define	_INET_MIB2_H
 
-#pragma ident	"@(#)mib2.h	1.32	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netinet/in.h>	/* For in6_addr_t */
 #include <sys/tsol/label.h> /* For brange_t */

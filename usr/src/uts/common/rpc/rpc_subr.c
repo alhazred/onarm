@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rpc_subr.c	1.39	05/07/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* SVr4.0 1.1 */
 
 /*

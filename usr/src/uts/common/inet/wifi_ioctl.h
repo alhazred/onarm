@@ -30,7 +30,7 @@
 #ifndef	__WIFI_IOCTL_H
 #define	__WIFI_IOCTL_H
 
-#pragma ident	"@(#)wifi_ioctl.h	1.2	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

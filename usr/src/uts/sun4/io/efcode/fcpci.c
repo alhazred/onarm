@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fcpci.c	1.14	07/02/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * fcpci.c: Framework PCI fcode ops
@@ -111,7 +111,7 @@ char _depends_on[] = "misc/fcodem misc/busra";
  * Module linkage information for the kernel.
  */
 static struct modlmisc modlmisc = {
-	&mod_miscops, "FCode pci bus functions 1.14"
+	&mod_miscops, "FCode pci bus functions %I%"
 };
 
 static struct modlinkage modlinkage = {

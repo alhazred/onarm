@@ -24,7 +24,7 @@
 	
 #include <sys/elf_notes.h>
 
-#pragma ident	"@(#)notes.s	1.9	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(lint)
 #include <sys/types.h>

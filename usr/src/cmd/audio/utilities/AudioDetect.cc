@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)AudioDetect.cc	1.3	05/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <malloc.h>
 #include <stdlib.h>

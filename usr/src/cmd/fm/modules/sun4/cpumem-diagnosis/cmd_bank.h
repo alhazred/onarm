@@ -26,7 +26,7 @@
 #ifndef _CMD_BANK_H
 #define	_CMD_BANK_H
 
-#pragma ident	"@(#)cmd_bank.h	1.4	07/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Collections of memory modules are known as banks, and are described by

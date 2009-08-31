@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)sdiff.c	1.22	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 	/*
 	 *	sdiff [-l] [-s] [-w #] [-o output] file1 file2

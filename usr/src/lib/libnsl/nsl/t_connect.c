@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)t_connect.c	1.30	06/01/04 SMI"	/* SVr4.0 1.7 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7 */
 
 #include "mt.h"
 #include <stropts.h>

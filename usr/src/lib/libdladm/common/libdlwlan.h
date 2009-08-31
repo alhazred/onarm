@@ -26,7 +26,7 @@
 #ifndef _LIBDLWLAN_H
 #define	_LIBDLWLAN_H
 
-#pragma ident	"@(#)libdlwlan.h	1.5	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file includes structures, macros and routines used by WLAN link

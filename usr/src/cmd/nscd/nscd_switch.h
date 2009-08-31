@@ -26,7 +26,7 @@
 #ifndef	_NSCD_SWITCH_H
 #define	_NSCD_SWITCH_H
 
-#pragma ident	"@(#)nscd_switch.h	1.7	08/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

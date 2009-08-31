@@ -65,7 +65,7 @@
  * TODO: Schedule this for the 68040's pipeline.  (When I get a 68040 manual.)
  */
 
-#pragma ident	"@(#)lbn68020.c	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <limits.h>
 

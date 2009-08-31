@@ -39,7 +39,7 @@
 #ifndef	_VM_SEG_VN_H
 #define	_VM_SEG_VN_H
 
-#pragma ident	"@(#)seg_vn.h	1.62	07/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/lgrp.h>
 #include <vm/anon.h>

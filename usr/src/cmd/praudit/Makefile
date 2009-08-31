@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.24	06/03/24 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 XLATEDIR = $(SRC)/lib/libbsm/common

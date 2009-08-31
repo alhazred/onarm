@@ -27,7 +27,7 @@
  * Copyright  (c) 1986 AT&T
  *	All Rights Reserved
  */
-#ident	"@(#)showdate.c	1.7	05/06/08 SMI"       /* SVr4.0 1.6 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.6 */
 
 #include	<time.h>
 #include	<curses.h>

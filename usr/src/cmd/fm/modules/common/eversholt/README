@@ -23,7 +23,7 @@
 Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 Use is subject to license terms.
 
-#pragma ident	"@(#)README	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 This file is usr/src/cmd/fma/modules/common/eversholt/README.
 

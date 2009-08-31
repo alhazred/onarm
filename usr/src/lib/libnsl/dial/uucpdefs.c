@@ -28,7 +28,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)uucpdefs.c	1.10	06/01/04 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 #include "mt.h"
 #include "uucp.h"

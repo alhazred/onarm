@@ -1,4 +1,4 @@
-#pragma ident	"@(#)keytab.c	1.6	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * kadmin/v5server/keytab.c
  *

@@ -23,7 +23,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)group.c	1.12	07/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<string.h>
 #include	"rtld.h"

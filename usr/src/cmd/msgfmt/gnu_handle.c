@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gnu_handle.c	1.5	06/09/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "gnu_msgfmt.h"
 

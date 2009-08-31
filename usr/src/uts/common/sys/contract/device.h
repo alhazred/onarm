@@ -26,7 +26,7 @@
 #ifndef	_SYS_CONTRACT_DEVICE_H
 #define	_SYS_CONTRACT_DEVICE_H
 
-#pragma ident	"@(#)device.h	1.1	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/contract.h>
 

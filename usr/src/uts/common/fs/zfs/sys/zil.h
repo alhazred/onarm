@@ -29,7 +29,7 @@
 #ifndef	_SYS_ZIL_H
 #define	_SYS_ZIL_H
 
-#pragma ident	"@(#)zil.h	1.15	08/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/spa.h>

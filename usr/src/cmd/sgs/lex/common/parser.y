@@ -30,7 +30,7 @@
 
 
 %{
-#pragma ident	"@(#)parser.y	6.16	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 void yyerror(char *);
 

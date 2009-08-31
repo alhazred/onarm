@@ -14,7 +14,7 @@
 
 #pragma ident "@(#)$Id: solaris.c,v 2.73.2.6 2005/07/13 21:40:47 darrenr Exp $"
 
-#pragma ident	"@(#)solaris.c	1.13	07/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/systm.h>
 #include <sys/types.h>

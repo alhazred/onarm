@@ -30,7 +30,7 @@
 /*	  All Rights Reserved  	*/
 
 %{
-#ident	"@(#)awk.g.y	1.8	05/07/27 SMI"	/* SVr4.0 2.10	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 2.10	*/
 %}
 
 %{

@@ -33,7 +33,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)io.c	1.2	07/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <stdlib.h>

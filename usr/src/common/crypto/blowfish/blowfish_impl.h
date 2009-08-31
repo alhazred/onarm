@@ -26,7 +26,7 @@
 #ifndef	_BLOWFISH_IMPL_H
 #define	_BLOWFISH_IMPL_H
 
-#pragma ident	"@(#)blowfish_impl.h	1.3	08/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Common definitions used by Blowfish.

@@ -27,7 +27,7 @@
 #ifndef	_FMD_ALLOC_H
 #define	_FMD_ALLOC_H
 
-#pragma ident	"@(#)fmd_alloc.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

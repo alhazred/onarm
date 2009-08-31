@@ -23,7 +23,7 @@
 # Copyright (c) 1996-2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/abi/appcert/static_prof/Makefile
 #

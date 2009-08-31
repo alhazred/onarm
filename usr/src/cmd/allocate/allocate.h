@@ -27,7 +27,7 @@
 #ifndef	_ALLOCATE_H
 #define	_ALLOCATE_H
 
-#pragma ident	"@(#)allocate.h	1.17	07/06/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

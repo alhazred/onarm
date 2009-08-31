@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.8	06/06/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # we need this for OPENSSL_SRC (src/common directory location)

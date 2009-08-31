@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sp_ioctl.c	1.16	06/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Soft partitioning metadevice driver (md_sp), administrative routines.

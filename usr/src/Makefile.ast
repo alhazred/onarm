@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.ast	1.1	07/07/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # Override this top level flag so the compiler builds in its native

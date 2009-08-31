@@ -40,7 +40,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: log.c,v 1.24 2002/07/19 15:43:33 markus Exp $");
 
-#pragma ident	"@(#)log.c	1.10	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "log.h"
 #include "xmalloc.h"

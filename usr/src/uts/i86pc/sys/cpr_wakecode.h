@@ -27,7 +27,7 @@
 #ifndef	_CPR_WC_H
 #define	_CPR_WC_H
 
-#pragma ident	"@(#)cpr_wakecode.h	1.1	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

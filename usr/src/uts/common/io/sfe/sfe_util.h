@@ -30,7 +30,7 @@
  * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
  * DAMAGE.
  */
-#pragma ident	"@(#)sfe_util.h	1.1	07/12/22 SMI"	/* sfe device driver */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* sfe device driver */
 
 #ifndef _SFE_UTIL_H_
 #define	_SFE_UTIL_H_

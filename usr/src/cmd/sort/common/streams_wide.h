@@ -27,7 +27,7 @@
 #ifndef	_STREAMS_WIDE_H
 #define	_STREAMS_WIDE_H
 
-#pragma ident	"@(#)streams_wide.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

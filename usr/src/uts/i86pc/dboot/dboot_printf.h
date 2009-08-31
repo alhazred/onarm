@@ -27,7 +27,7 @@
 #ifndef	_DBOOT_PRINTF_H
 #define	_DBOOT_PRINTF_H
 
-#pragma ident	"@(#)dboot_printf.h	1.1	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

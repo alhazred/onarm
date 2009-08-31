@@ -27,7 +27,7 @@
 #ifndef	_LIBPICLSNMP_H
 #define	_LIBPICLSNMP_H
 
-#pragma ident	"@(#)libpiclsnmp.h	1.1	07/03/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

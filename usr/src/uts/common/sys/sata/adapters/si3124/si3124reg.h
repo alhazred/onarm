@@ -27,7 +27,7 @@
 #ifndef _SI3124REG_H
 #define	_SI3124REG_H
 
-#pragma ident	"@(#)si3124reg.h	1.4	07/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -31,7 +31,7 @@
  * WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-#pragma ident	"@(#)utils.c	1.4	07/05/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define RCSID	"$Id: utils.c,v 1.10 2000/03/27 01:36:48 paulus Exp $"
 
 #ifdef __linux__

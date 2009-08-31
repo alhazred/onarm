@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)simba.c	1.45	06/04/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	PCI to PCI bus bridge nexus driver
@@ -201,7 +201,7 @@ struct dev_ops simba_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module */
-	"SIMBA PCI to PCI bridge nexus driver 1.45",
+	"SIMBA PCI to PCI bridge nexus driver %I%",
 	&simba_ops,	/* driver ops */
 };
 

@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rmdirp.c	1.11	06/01/04 SMI"	/* SVr4.0 1.5.3.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5.3.2 */
 
 /*LINTLIBRARY*/
 

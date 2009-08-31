@@ -23,7 +23,7 @@
 #	Use is subject to license terms.
 
 
-#ident	"@(#)shareall.sh	1.16	06/10/27 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 # shareall  -- share resources
 
 USAGE="shareall [-F fsys[,fsys...]] [- | file]"

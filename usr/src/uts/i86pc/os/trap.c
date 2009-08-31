@@ -32,7 +32,7 @@
 /*		All Rights Reserved   				*/
 /*								*/
 
-#pragma ident	"@(#)trap.c	1.156	08/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sysmacros.h>

@@ -31,7 +31,7 @@
 #ifndef _DWARF_H
 #define	_DWARF_H
 
-#pragma ident	"@(#)dwarf.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

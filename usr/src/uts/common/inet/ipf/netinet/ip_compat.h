@@ -10,7 +10,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_compat.h	1.9	08/01/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	__IP_COMPAT_H__
 #define	__IP_COMPAT_H__

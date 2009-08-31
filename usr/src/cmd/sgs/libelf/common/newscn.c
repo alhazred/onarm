@@ -28,7 +28,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)newscn.c	1.12	05/06/08 SMI" 	/* SVr4.0 1.4	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.4	*/
 
 #pragma weak	elf_newscn = _elf_newscn
 

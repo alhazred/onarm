@@ -8,7 +8,7 @@
  *
  */
 
-#pragma ident	"@(#)extensions.c	1.7	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

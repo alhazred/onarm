@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)infocmp.c	1.12	05/06/08 SMI"	/* SVr4.0 1.13	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.13	*/
 
 /*
     NAME

@@ -37,7 +37,7 @@
 #ifndef _SYS_USTAT_H
 #define	_SYS_USTAT_H
 
-#pragma ident	"@(#)ustat.h	1.14	05/06/08 SMI"	/* SVr4.0 11.8 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.8 */
 
 #include <sys/types.h>
 

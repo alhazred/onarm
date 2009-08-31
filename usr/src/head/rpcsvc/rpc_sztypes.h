@@ -26,7 +26,7 @@
 #ifndef	_RPCSVC_RPC_SZTYPES_H
 #define	_RPCSVC_RPC_SZTYPES_H
 
-#pragma ident	"@(#)rpc_sztypes.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/rpc_sztypes.h>
 

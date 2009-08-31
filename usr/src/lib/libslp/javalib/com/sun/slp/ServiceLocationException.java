@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ServiceLocationException.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)ServiceLocationException.java	1.4	06/08/05
+//  SCCS Status:      %W%	%G%
 //  %M : All SLP exceptions are derived from this base class.
 //  Author:           Erik Guttman
 //
@@ -42,7 +42,7 @@ import java.text.*;
  * during SLP operation. The exact nature of the error is indicated
  * by the integer error codes.
  *
- * @version 1.4 08/03/23
+ * @version %R%.%L% %D%
  * @author  Erik Guttman
  */
 

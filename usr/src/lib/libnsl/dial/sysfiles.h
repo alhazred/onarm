@@ -31,7 +31,7 @@
 #ifndef _DIAL_SYSFILES_H
 #define	_DIAL_SYSFILES_H
 
-#pragma ident	"@(#)sysfiles.h	1.8	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

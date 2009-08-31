@@ -24,7 +24,7 @@ static const char rcsid[] = "$Id: res_update.c,v 1.38 2003/05/27 23:36:53 marka 
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)res_update.c	1.6	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Based on the Dynamic DNS reference implementation by Viraj Bais

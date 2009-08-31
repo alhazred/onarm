@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dm2s.c	1.2	06/05/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * DM2S - Domain side Mailbox to synchronous serial device driver.
@@ -185,7 +185,7 @@ DDI_DEFINE_STREAM_OPS(dm2s_ops, nulldev, nulldev, dm2s_attach,		\
 
 struct modldrv modldrv = {
 	&mod_driverops,
-	"OPL Mbox to Serial Driver 1.2",
+	"OPL Mbox to Serial Driver %I%",
 	&dm2s_ops
 };
 

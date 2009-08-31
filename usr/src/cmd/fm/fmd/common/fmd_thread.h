@@ -27,7 +27,7 @@
 #ifndef	_FMD_THREAD_H
 #define	_FMD_THREAD_H
 
-#pragma ident	"@(#)fmd_thread.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

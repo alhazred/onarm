@@ -27,7 +27,7 @@
 #ifndef	_SYS_GPIO_87317_H
 #define	_SYS_GPIO_87317_H
 
-#pragma ident	"@(#)gpio_87317.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

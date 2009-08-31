@@ -26,7 +26,7 @@
 #ifndef _NLDAPUTILS_H
 #define	_NLDAPUTILS_H
 
-#pragma ident	"@(#)nldaputils.h	1.1	07/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

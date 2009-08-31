@@ -9,7 +9,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_pool.h	1.4	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	__IP_POOL_H__
 #define	__IP_POOL_H__

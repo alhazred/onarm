@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)lshiftl.s	1.5	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"lshiftl.s"
+	.file	"%M%"
 
 / Shift a double long value.
 

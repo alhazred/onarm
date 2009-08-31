@@ -25,7 +25,7 @@
 #ifndef _KMFAPIP_H
 #define	_KMFAPIP_H
 
-#pragma ident	"@(#)kmfapiP.h	1.6	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kmfapi.h>
 #include <kmfpolicy.h>

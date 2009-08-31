@@ -27,7 +27,7 @@
 #ifndef _DEFINES_H
 #define	_DEFINES_H
 
-#pragma ident	"@(#)defines.h	1.3	07/05/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/time.h>
 

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)error.c	1.21	07/03/14 SMI" 	/* SVr4.0 1.16	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.16	*/
 
 
 #pragma weak	elf_errmsg = _elf_errmsg

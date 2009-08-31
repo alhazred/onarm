@@ -28,7 +28,7 @@
 .\" Portions of this source code were derived from Berkeley 4.3 BSD
 .\" under license from the Regents of the University of California.
 .\"
-.\" ident	"@(#)an	1.25	05/06/10 SMI"
+.\" ident	"%Z%%M%	%I%	%E% SMI"
 .\"
 .ds ]W SunOS 5.10
 .	# month name

@@ -27,7 +27,7 @@
 #ifndef _SYS_PRIVREGS_H
 #define	_SYS_PRIVREGS_H
 
-#pragma ident	"@(#)privregs.h	1.24	06/01/14 SMI" /* from SunOS psl.h 1.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* from SunOS psl.h 1.2 */
 
 #ifdef	__cplusplus
 extern "C" {

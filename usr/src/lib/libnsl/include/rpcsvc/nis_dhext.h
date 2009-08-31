@@ -31,7 +31,7 @@
 #ifndef _NIS_DHEXT_H
 #define	_NIS_DHEXT_H
 
-#pragma ident	"@(#)nis_dhext.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

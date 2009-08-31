@@ -22,7 +22,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mcamd_unumtopa.c	1.2	06/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Given a unum including an offset calculate the associated system

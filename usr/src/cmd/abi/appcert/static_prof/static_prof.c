@@ -28,7 +28,7 @@
 /*	Copyright (c) 1988 AT&T */
 /*	  All Rights Reserved	*/
 
-#pragma ident	"@(#)static_prof.c	1.5	05/06/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /* ------------------------------------------------------------------------ */

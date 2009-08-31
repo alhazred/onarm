@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.openssl	1.11	06/06/20 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # OpenSSL source is common between lib and stand (for wanboot).
 # For userland consumers it is in /usr/sfw so we define some macros in case

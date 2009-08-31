@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma	ident	"@(#)open.c	1.6	05/06/08 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <unistd.h>
 #include <sys/fcntl.h>

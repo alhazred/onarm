@@ -1,6 +1,6 @@
 // Copyright (c) 1996 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)ArcEngine.cxx	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __GNUG__
 #pragma implementation
@@ -1288,7 +1288,7 @@ ArcProcessor::buildMetaMap(const ElementType *docElementType,
 		   suppressFlags, newSuppressFlags,
 		   inhibitCache, arcFormIndex);
   // See if there's a renamer that will inhibit cacheing.
-#pragma "@(#)ArcEngine.cxx 1.4 00/07/17 SMI"
+#pragma "%Z%%M% %I% %E% SMI"
   unsigned arcNamerIndex;
   const Text *namerText;
   if (metaAttributed)

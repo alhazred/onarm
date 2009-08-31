@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tst.strtok_null.d	1.1	06/10/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Test that a strtok(NULL, ...) without first calling strtok(string, ...)

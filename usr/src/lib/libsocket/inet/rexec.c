@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rexec.c	1.19	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/socket.h>

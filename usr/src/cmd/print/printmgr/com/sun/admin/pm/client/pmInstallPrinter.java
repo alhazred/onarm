@@ -20,7 +20,7 @@
  */
 /*
  *
- * ident	"@(#)pmInstallPrinter.java	1.17	06/05/17 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.

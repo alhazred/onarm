@@ -28,7 +28,7 @@
  * stored in a fairly compact format.
  */
 
-#pragma ident	"@(#)ipath.c	1.6	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

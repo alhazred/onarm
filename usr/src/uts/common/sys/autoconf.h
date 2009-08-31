@@ -29,7 +29,7 @@
 #ifndef _SYS_AUTOCONF_H
 #define	_SYS_AUTOCONF_H
 
-#pragma ident	"@(#)autoconf.h	1.59	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Derived from autoconf.h, SunOS 4.1.1 1.15 */
 

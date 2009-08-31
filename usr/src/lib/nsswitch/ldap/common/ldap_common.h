@@ -26,7 +26,7 @@
 #ifndef	_LDAP_COMMON_H
 #define	_LDAP_COMMON_H
 
-#pragma ident	"@(#)ldap_common.h	1.16	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

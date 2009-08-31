@@ -3,7 +3,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)get_no_keywords.sh	1.1	04/06/09 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Some of the files in the perl distribution are uuencoded, or contain uuencoded
 # data.  Some of the sequences of uuencoded data look like SCCS keywords, i.e.

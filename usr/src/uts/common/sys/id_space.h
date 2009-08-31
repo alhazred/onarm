@@ -27,7 +27,7 @@
 #ifndef	_ID_SPACE_H
 #define	_ID_SPACE_H
 
-#pragma ident	"@(#)id_space.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

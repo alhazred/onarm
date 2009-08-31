@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)balloon.c	1.2	07/10/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/balloon_impl.h>
 #include <sys/hypervisor.h>

@@ -1,4 +1,4 @@
-#pragma ident	"@(#)server_glue_v1.c	1.2	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING

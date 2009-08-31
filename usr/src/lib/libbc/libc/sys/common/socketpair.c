@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#ident	"@(#)socketpair.c	1.8	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/socket.h>

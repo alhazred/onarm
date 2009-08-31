@@ -30,7 +30,7 @@
 #ifndef _IDMAP_PRIV_H
 #define	_IDMAP_PRIV_H
 
-#pragma ident	"@(#)idmap_priv.h	1.6	08/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "idmap.h"
 #include "idmap_prot.h"

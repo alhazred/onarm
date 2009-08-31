@@ -33,7 +33,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)mkstr.c	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include <stdio.h>
 
 #define	ungetchar(c)	ungetc(c, stdin)

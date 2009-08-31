@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)autoconf.h	1.5	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* autoconf.h.  Generated automatically by configure.  */
 /* autoconf.h.in.  Generated automatically from configure.in by autoheader.  */
 /* Edited to remove KRB4 compatible and SIZEOF_LONG

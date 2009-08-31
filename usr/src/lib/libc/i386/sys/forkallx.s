@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)forkallx.s	1.15	06/11/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"forkallx.s"
+	.file	"%M%"
 
 #include "SYS.h"
 

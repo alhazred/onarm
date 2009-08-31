@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ckitem.c	1.14	05/06/08 SMI"	/* SVr4.0 1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4 */
 /*LINTLIBRARY*/
 
 #include <stdio.h>

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pci_i86pc.c	1.5	07/07/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/topo_mod.h>
 

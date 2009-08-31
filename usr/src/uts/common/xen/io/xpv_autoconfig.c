@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xpv_autoconfig.c	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/hypervisor.h>
@@ -54,7 +54,7 @@ void xendev_enumerate(int);
  */
 
 static struct modlmisc modlmisc = {
-	&mod_miscops, "virtual device probe 1.1"
+	&mod_miscops, "virtual device probe %I%"
 };
 
 static struct modlinkage modlinkage = {

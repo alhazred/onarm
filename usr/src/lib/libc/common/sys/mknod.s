@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mknod.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"mknod.s"
+	.file	"%M%"
 
 /* C library -- mknod						*/
 /* int mknod(const char *path, mode_t mode, dev_t dev);		*/

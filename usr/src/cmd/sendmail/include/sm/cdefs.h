@@ -9,7 +9,7 @@
  *	$Id: cdefs.h,v 1.15.2.1 2003/12/05 22:44:17 ca Exp $
  */
 
-#pragma ident	"@(#)cdefs.h	1.3	04/01/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  libsm C language portability macros

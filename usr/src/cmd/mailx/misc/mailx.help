@@ -1,4 +1,4 @@
-# ident	"@(#)mailx.help	1.3	00/05/27 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
                 mailx commands
 
 alias,group user ...            declare alias for user names

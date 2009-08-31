@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)svccfg.l	1.6	08/01/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma error_messages(off, E_BLOCK_DECL_UNUSED)
 #pragma error_messages(off, E_EQUALITY_NOT_ASSIGNMENT)

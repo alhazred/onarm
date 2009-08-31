@@ -29,7 +29,7 @@
 
 /* $Id: openbsd-compat.h,v 1.17 2002/09/12 00:33:02 djm Exp $ */
 
-#pragma ident	"@(#)openbsd-compat.h	1.5	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

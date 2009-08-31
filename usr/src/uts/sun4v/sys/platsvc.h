@@ -27,7 +27,7 @@
 #ifndef _PLATSVC_H
 #define	_PLATSVC_H
 
-#pragma ident	"@(#)platsvc.h	1.1	06/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

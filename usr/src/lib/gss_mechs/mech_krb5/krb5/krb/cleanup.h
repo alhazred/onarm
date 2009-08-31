@@ -1,4 +1,4 @@
-#pragma ident	"@(#)cleanup.h	1.2	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef KRB5_CLEANUP
 #define KRB5_CLEANUP

@@ -28,7 +28,7 @@
 # Copyright (c) 2007 NEC Corporation
 #
 
-#ident	"@(#)Makefile.com	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/libdhcpsvc/modules/nisplus/Makefile.com
 

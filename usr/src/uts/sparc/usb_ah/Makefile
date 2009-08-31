@@ -28,7 +28,7 @@
 #	sparc architecture dependent
 #
 
-#ident	"@(#)Makefile	1.7	07/07/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	Path to the base of the uts directory tree (usually /usr/src/uts).

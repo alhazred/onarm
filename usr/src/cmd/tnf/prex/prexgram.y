@@ -23,7 +23,7 @@
  *	Copyright (c) 1994, by Sun Microsytems, Inc.
  */
 
-#pragma ident	"@(#)prexgram.y	1.27	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %}
 
 %token ADD

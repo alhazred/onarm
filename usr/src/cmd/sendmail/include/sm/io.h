@@ -14,7 +14,7 @@
  *	$Id: io.h,v 1.24 2004/03/03 19:14:49 ca Exp $
  */
 
-#pragma ident	"@(#)io.h	1.4	04/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*-
  *	@(#)stdio.h	5.17 (Berkeley) 6/3/91

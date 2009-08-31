@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)syslwp.s	1.36	07/06/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"syslwp.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

@@ -35,7 +35,7 @@
 #ifndef _RAL_RATE_H
 #define	_RAL_RATE_H
 
-#pragma ident	"@(#)ral_rate.h	1.1	07/07/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

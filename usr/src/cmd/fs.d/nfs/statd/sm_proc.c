@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)sm_proc.c	1.47	05/06/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <sys/types.h>

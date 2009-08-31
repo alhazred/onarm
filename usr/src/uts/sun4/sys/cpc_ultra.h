@@ -27,7 +27,7 @@
 #ifndef	_SYS_CPC_ULTRA_H
 #define	_SYS_CPC_ULTRA_H
 
-#pragma ident	"@(#)cpc_ultra.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/inttypes.h>
 

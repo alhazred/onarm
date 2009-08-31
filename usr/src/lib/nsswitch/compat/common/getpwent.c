@@ -49,7 +49,7 @@
  *	confusing.
  */
 
-#pragma ident	"@(#)getpwent.c	1.13	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pwd.h>
 #include <shadow.h>		/* For PASSWD (pathname to passwd file) */

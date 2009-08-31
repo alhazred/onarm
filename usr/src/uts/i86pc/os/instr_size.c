@@ -28,7 +28,7 @@
 /*	  All Rights Reserved	*/
 
 
-#pragma ident	"@(#)instr_size.c	1.14	05/07/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/proc.h>
 #include <sys/param.h>

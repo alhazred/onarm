@@ -26,7 +26,7 @@
 #ifndef	_META_H
 #define	_META_H
 
-#pragma ident	"@(#)meta.h	2.63	07/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <limits.h>
 #include <stdio.h>

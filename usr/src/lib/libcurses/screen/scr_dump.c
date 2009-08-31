@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)scr_dump.c	1.10	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

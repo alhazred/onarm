@@ -22,7 +22,7 @@
 # Copyright 2001 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)sunPrinter.oc.conf.txt	1.3	05/06/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # IPP Schema Draft 4 and Sun Printer Schema
 

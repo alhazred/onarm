@@ -1,6 +1,6 @@
 // Copyright (c) 1995 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)SGMLApplication.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef SGMLApplication_INCLUDED
 #define SGMLApplication_INCLUDED 1

@@ -26,7 +26,7 @@
 #ifndef _CMD_DIMM_H
 #define	_CMD_DIMM_H
 
-#pragma ident	"@(#)cmd_dimm.h	1.5	07/06/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Memory modules are described by the cmd_dimm general-purpose state structure.

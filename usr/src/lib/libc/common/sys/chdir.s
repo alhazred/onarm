@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)chdir.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"chdir.s"
+	.file	"%M%"
 
 /* C library -- chdir						*/
 /* int chdir(char *path)					*/

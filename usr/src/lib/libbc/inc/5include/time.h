@@ -30,7 +30,7 @@
 #ifndef	__5include_time_h
 #define	__5include_time_h
 
-#pragma ident	"@(#)time.h	1.18	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stdtypes.h>
 

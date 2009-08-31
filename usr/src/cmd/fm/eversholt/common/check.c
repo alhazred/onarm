@@ -32,7 +32,7 @@
  * cases are noted in the comments above the check function.
  */
 
-#pragma ident	"@(#)check.c	1.12	07/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include "out.h"

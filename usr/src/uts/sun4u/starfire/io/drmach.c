@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)drmach.c	1.40	07/05/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/debug.h>
 #include <sys/types.h>
@@ -301,7 +301,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,
-	"Sun Enterprise 10000 DR 1.40"
+	"Sun Enterprise 10000 DR %I%"
 };
 
 static struct modlinkage modlinkage = {

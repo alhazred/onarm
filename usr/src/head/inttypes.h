@@ -27,7 +27,7 @@
 #ifndef _INTTYPES_H
 #define	_INTTYPES_H
 
-#pragma ident	"@(#)inttypes.h	1.7	05/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file, <inttypes.h>, is specified by the ISO C standard,

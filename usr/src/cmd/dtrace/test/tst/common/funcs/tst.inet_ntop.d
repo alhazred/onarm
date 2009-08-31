@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tst.inet_ntop.d	1.1	07/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma D option quiet
 

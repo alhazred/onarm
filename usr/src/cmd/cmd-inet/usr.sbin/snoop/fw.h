@@ -26,7 +26,7 @@
 #ifndef _FW_H
 #define	_FW_H
 
-#pragma ident	"@(#)fw.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/rpc.h>
 #include "fakewin.h"

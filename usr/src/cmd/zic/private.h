@@ -6,7 +6,7 @@
 #ifndef	_PRIVATE_H
 #define	_PRIVATE_H
 
-#pragma ident	"@(#)private.h	1.9	06/02/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file is in the public domain, so clarified as of

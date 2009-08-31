@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)oplkmdrv.c	1.2	06/05/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * OPL IPSec Key Management Driver.
@@ -140,7 +140,7 @@ struct dev_ops okm_ops = {
 
 struct modldrv modldrv = {
 	&mod_driverops,
-	"OPL Key Management Driver v1.2",
+	"OPL Key Management Driver v%I%",
 	&okm_ops,
 };
 

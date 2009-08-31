@@ -18,7 +18,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: readconf.c,v 1.100 2002/06/19 00:27:55 deraadt Exp $");
 
-#pragma ident	"@(#)readconf.c	1.16	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ssh.h"
 #include "xmalloc.h"

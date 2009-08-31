@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sip_xaction_state_mc.c	1.3	08/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SIP Client/Server Invite/Non-Invite Transaction State machine.

@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)ruserpass.c	1.12	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

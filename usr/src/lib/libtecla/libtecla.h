@@ -32,7 +32,7 @@
  * of the copyright holder.
  */
 
-#pragma ident	"@(#)libtecla.h	1.1	04/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -29,7 +29,7 @@
  */
 
 
-#pragma ident	"@(#)getehdr.c	1.11	05/06/08 SMI" 	/* SVr4.0 1.8	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.8	*/
 
 
 #pragma weak	elf32_getehdr = _elf32_getehdr

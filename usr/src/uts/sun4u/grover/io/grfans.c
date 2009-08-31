@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)grfans.c	1.4	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>
 #include <sys/file.h>
@@ -73,7 +73,7 @@ static struct dev_ops grfans_ops = {
 
 static struct modldrv grfans_modldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"grfans device driver v1.4",
+	"grfans device driver v%I%",
 	&grfans_ops,
 };
 

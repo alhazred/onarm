@@ -26,7 +26,7 @@
 #ifndef _CMD_STATE_H
 #define	_CMD_STATE_H
 
-#pragma ident	"@(#)cmd_state.h	1.11	07/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Case management and saved state restoration

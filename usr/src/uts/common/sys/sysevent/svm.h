@@ -27,7 +27,7 @@
 #ifndef	_SYS_SYSEVENT_SVM_H
 #define	_SYS_SYSEVENT_SVM_H
 
-#pragma ident	"@(#)svm.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sysevent.h>
 

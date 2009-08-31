@@ -5,7 +5,7 @@
  * Licensed under the Academic Free License version 2.1
  */
 
-#pragma ident	"@(#)printer.h	1.1	07/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _PRINTER_H
 #define	_PRINTER_H

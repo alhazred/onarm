@@ -28,7 +28,7 @@
  * this platform.c allows eft to run on Solaris systems.
  */
 
-#pragma ident	"@(#)platform.c	1.20	07/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

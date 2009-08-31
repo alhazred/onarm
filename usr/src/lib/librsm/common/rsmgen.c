@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rsmgen.c	1.5	06/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "c_synonyms.h"
 #if !defined(__lint)	/* need a *_synonyms.h file */

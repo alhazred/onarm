@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)string_to_key.c	1.9	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Copyright (C) 1998 by the FundsXpress, INC.
  * 

@@ -26,7 +26,7 @@
 #ifndef	_SYS_MAC_WIFI_H
 #define	_SYS_MAC_WIFI_H
 
-#pragma ident	"@(#)mac_wifi.h	1.2	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WiFi MAC-Type Plugin

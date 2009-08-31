@@ -27,7 +27,7 @@
 #ifndef	_CACHEMGR_DOOR_H
 #define	_CACHEMGR_DOOR_H
 
-#pragma ident	"@(#)cachemgr_door.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Definitions for server side of doors-based name service caching

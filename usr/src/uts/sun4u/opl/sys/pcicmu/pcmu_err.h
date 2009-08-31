@@ -26,7 +26,7 @@
 #ifndef	_SYS_PCMU_ERR_H
 #define	_SYS_PCMU_ERR_H
 
-#pragma ident	"@(#)pcmu_err.h	1.1	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ddifm.h>
 

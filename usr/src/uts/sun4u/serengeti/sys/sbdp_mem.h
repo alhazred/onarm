@@ -27,7 +27,7 @@
 #ifndef _SBDP_MEM_H
 #define	_SBDP_MEM_H
 
-#pragma ident	"@(#)sbdp_mem.h	1.13	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

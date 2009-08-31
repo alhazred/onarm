@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)llc1.c	1.32	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * llc1 - an LLC Class 1 MUX compatible with SunConnect LLC2 uses DLPI
@@ -193,7 +193,7 @@ DDI_DEFINE_STREAM_OPS(llc1_ops, nulldev, nulldev, llc1_attach,
  */
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"LLC Class 1 Driver 1.32",
+	"LLC Class 1 Driver %I%",
 	&llc1_ops,		/* driver ops */
 };
 

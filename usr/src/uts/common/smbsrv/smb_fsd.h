@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_SMB_FSD_H
 #define	_SMBSRV_SMB_FSD_H
 
-#pragma ident	"@(#)smb_fsd.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/vfs.h>
 #include <sys/refstr_impl.h>

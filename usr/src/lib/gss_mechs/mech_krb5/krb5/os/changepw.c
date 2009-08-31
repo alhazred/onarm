@@ -1,4 +1,4 @@
-#pragma ident	"@(#)changepw.c	1.1	06/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lib/krb5/os/changepw.c

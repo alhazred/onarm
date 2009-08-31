@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)snoop_ip.c	1.29	06/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <stdio.h>

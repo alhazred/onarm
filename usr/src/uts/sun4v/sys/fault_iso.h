@@ -27,7 +27,7 @@
 #ifndef _FAULT_ISO_H
 #define	_FAULT_ISO_H
 
-#pragma ident	"@(#)fault_iso.h	1.1	06/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

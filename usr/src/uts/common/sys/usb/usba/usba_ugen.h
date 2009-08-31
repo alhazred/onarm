@@ -26,7 +26,7 @@
 #ifndef _SYS_USBA_UGEN_H
 #define	_SYS_USBA_UGEN_H
 
-#pragma ident	"@(#)usba_ugen.h	1.2	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * UGEN - USB Generic Driver code exported for sharing by USBA

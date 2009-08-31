@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)__user_to_authenticate.c	1.6	06/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "passwdutil.h"
 

@@ -27,7 +27,7 @@
 #ifndef	_CONTRACT_H
 #define	_CONTRACT_H
 
-#pragma ident	"@(#)contract.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

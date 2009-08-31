@@ -27,7 +27,7 @@
 #ifndef	_SYS_FCGP2_H
 #define	_SYS_FCGP2_H
 
-#pragma ident	"@(#)fcgp2.h	1.2	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Header file for the GP2 (Safari) Fcode Interpreter

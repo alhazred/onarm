@@ -27,7 +27,7 @@
 #ifndef _MEM_H
 #define	_MEM_H
 
-#pragma ident	"@(#)mem.h	1.9	07/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/nvpair.h>

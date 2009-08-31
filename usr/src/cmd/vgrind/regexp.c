@@ -4,7 +4,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)regexp.c	1.12	05/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <ctype.h>
 

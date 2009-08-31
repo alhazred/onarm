@@ -27,7 +27,7 @@
 #ifndef _I2C_GPIO_H
 #define	_I2C_GPIO_H
 
-#pragma ident	"@(#)i2c_gpio.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/i2c/clients/i2c_client.h>
 

@@ -26,7 +26,7 @@
 #ifndef _SYS_OPL_OLYMPUS_REGS_H
 #define	_SYS_OPL_OLYMPUS_REGS_H
 
-#pragma ident	"@(#)opl_olympus_regs.h	1.2	08/02/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/machasi.h>
 #include <sys/cpu_impl.h>

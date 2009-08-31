@@ -28,7 +28,7 @@
 
 /*LINTLIBRARY*/
 
-#pragma ident	"@(#)getvol.c	1.10	05/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

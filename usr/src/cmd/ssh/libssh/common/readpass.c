@@ -25,7 +25,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: readpass.c,v 1.27 2002/03/26 15:58:46 markus Exp $");
 
-#pragma ident	"@(#)readpass.c	1.5	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "xmalloc.h"
 #include "readpass.h"

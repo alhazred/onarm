@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mincore.c	1.4	06/11/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* mincore.c  SMI 12/14/90  */
 #include <errno.h>

@@ -25,7 +25,7 @@
 /*
  * Copyright (c) 2008 NEC Corporation
  */
-#pragma ident	"@(#)ohci_polled.c	1.33	06/05/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Open Host Controller Driver (OHCI)

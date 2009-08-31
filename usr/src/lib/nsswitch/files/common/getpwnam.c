@@ -25,7 +25,7 @@
  * files/getpwnam.c -- "files" backend for nsswitch "passwd" database
  */
 
-#pragma ident	"@(#)getpwnam.c	1.12	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pwd.h>
 #include <shadow.h>

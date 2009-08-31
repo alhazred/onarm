@@ -27,7 +27,7 @@
 #ifndef	_LIBUUTIL_H
 #define	_LIBUUTIL_H
 
-#pragma ident	"@(#)libuutil.h	1.3	05/08/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <stdarg.h>

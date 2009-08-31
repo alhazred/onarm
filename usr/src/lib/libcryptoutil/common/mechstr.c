@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mechstr.c	1.6	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Convert Algorithm names as strings to PKCS#11 Mech numbers and vice versa.

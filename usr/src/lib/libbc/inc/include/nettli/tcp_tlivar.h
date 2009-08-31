@@ -28,7 +28,7 @@
 #ifndef	_TCP_TLIVAR_
 #define	_TCP_TLIVAR_
 
-#pragma ident	"@(#)tcp_tlivar.h	1.4	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Data structure definitions for the streams interface

@@ -26,7 +26,7 @@
 # Copyright (c) 2006-2007 NEC Corporation
 #
 #
-# ident	"@(#)Makefile.com	1.2	06/08/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY =	libtsol.a

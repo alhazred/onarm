@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.1	07/07/16 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # Specify the MACH we currently use to build and test ksh

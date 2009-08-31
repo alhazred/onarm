@@ -23,7 +23,7 @@
  * Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)config_elf.c	1.30	06/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	"_synonyms.h"
 

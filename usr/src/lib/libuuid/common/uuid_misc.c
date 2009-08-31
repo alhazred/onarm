@@ -49,7 +49,7 @@
  * suitability of this software for any purpose.
  */
 
-#pragma ident	"@(#)uuid_misc.c	1.4	05/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <uuid/uuid.h>
 #include <stdlib.h>

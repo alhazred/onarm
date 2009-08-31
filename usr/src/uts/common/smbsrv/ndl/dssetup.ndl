@@ -26,7 +26,7 @@
 #ifndef _DSSETUP_NDL_
 #define	_DSSETUP_NDL_
 
-#pragma ident	"@(#)dssetup.ndl	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Active Directory Service Setup

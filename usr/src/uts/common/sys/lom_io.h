@@ -27,7 +27,7 @@
 #ifndef	_SYS_LOM_IO_H
 #define	_SYS_LOM_IO_H
 
-#pragma ident	"@(#)lom_io.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * I/O header file for LOMlite Driver.

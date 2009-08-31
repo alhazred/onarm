@@ -26,7 +26,7 @@
 #ifndef	_MACROS_H
 #define	_MACROS_H
 
-#pragma ident	"@(#)macros.h	1.10	05/06/08 SMI"	/* SVr4.0 1.3.1.7 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3.1.7 */
 
 #include <sys/types.h>
 #include <sys/stat.h>

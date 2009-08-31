@@ -3,7 +3,7 @@
 
 /* $Id: base64.h,v 1.3 2002/02/26 16:59:59 stevesk Exp $ */
 
-#pragma ident	"@(#)base64.h	1.5	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

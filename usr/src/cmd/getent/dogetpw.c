@@ -19,7 +19,7 @@
  * CDDL HEADER END
  */
 
-#pragma ident	"@(#)dogetpw.c	1.6	07/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.

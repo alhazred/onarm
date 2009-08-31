@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cgsix.c	1.117	05/12/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma	weak	setintrenable
 /*
@@ -494,7 +494,7 @@ static pid_t	getpid(void);
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"cgsix driver v1.117",	/* Name of the module. */
+	"cgsix driver v%I%",	/* Name of the module. */
 	&cgsix_ops,		/* driver ops */
 };
 

@@ -35,7 +35,7 @@
 #ifndef _SYS_SEMA_IMPL_H
 #define	_SYS_SEMA_IMPL_H
 
-#pragma ident	"@(#)sema_impl.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_ASM
 #include <sys/types.h>

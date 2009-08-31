@@ -10,7 +10,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-#ident	"@(#)solaris2.pre5.m4	1.2	01/08/27 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This ostype file is suitable for use on Solaris 2.x systems that
 #	use mail as local mailer which are usually version before 2.5.

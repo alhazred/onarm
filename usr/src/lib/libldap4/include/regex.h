@@ -5,7 +5,7 @@
  *
  */
 
-#pragma ident	"@(#)regex.h	1.3	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined( MACOS ) || defined( DOS ) || defined( _WIN32 ) || defined( NEED_BSDREGEX )
 /*

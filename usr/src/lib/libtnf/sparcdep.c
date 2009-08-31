@@ -23,7 +23,7 @@
  *	Copyright (c) 1994, by Sun Microsytems, Inc.
  */
 
-#pragma	ident	"@(#)sparcdep.c	1.4	05/06/08 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "libtnf.h"
 

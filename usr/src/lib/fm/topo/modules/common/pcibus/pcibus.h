@@ -27,7 +27,7 @@
 #ifndef _PCIBUS_H
 #define	_PCIBUS_H
 
-#pragma ident	"@(#)pcibus.h	1.4	07/08/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/pci.h>
 #include <fm/topo_mod.h>

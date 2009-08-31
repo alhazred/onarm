@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.7	05/12/17 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/cfgadm_plugins/ac/Makefile
 

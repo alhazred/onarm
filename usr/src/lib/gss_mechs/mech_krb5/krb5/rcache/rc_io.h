@@ -1,4 +1,4 @@
-#pragma ident	"@(#)rc_io.h	1.2	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/rcache/rc_io.h
  *

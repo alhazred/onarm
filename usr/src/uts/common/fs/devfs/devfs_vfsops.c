@@ -27,7 +27,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)devfs_vfsops.c	1.19	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the device filesystem.
@@ -94,7 +94,7 @@ static struct devfs_data *devfs_mntinfo;	/* linked list of instances */
  * Module linkage information
  */
 static struct modlfs modlfs = {
-	&mod_fsops, "devices filesystem 1.19", &devfs_vfssw
+	&mod_fsops, "devices filesystem %I%", &devfs_vfssw
 };
 
 static struct modlinkage modlinkage = {

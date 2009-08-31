@@ -40,7 +40,7 @@
 #ifndef _SYS_VFS_H
 #define	_SYS_VFS_H
 
-#pragma ident	"@(#)vfs.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/cred.h>

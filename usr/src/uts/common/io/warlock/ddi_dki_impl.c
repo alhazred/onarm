@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ddi_dki_impl.c	1.16	07/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ddi_dki_impl.c - A pseudo-kernel to use when analyzing drivers with warlock.

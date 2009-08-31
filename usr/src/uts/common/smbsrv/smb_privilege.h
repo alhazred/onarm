@@ -26,7 +26,7 @@
 #ifndef _SMB_PRIVILEGE_H
 #define	_SMB_PRIVILEGE_H
 
-#pragma ident	"@(#)smb_privilege.h	1.2	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <smbsrv/smb_xdr.h>
 

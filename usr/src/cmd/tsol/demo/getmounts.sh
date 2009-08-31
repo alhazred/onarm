@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)getmounts.sh	1.1	07/05/24 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 cut -f2 /etc/mnttab | while read mntpnt; do

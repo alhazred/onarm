@@ -114,7 +114,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rand_unix.c	1.4	06/02/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 

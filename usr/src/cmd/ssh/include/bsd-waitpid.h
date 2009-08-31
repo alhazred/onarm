@@ -24,7 +24,7 @@
 #ifndef	_BSD_WAITPID_H
 #define	_BSD_WAITPID_H
 
-#pragma ident	"@(#)bsd-waitpid.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

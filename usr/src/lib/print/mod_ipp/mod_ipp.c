@@ -27,7 +27,7 @@
 
 /* $Id: mod_ipp.c 149 2006-04-25 16:55:01Z njacobs $ */
 
-#pragma ident	"@(#)mod_ipp.c	1.1	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Internet Printing Protocol (IPP) module for Apache.

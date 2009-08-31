@@ -26,7 +26,7 @@
 #ifndef	_CRYPTOADM_H
 #define	_CRYPTOADM_H
 
-#pragma ident	"@(#)cryptoadm.h	1.9	06/05/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/crypto/ioctladmin.h>
 #include <cryptoutil.h>

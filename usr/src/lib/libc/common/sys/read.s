@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)read.s	1.13	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"read.s"
+	.file	"%M%"
 
 /* C library -- read						*/
 /* ssize_t __read(int fildes, void *buf, size_t nbyte);		*/

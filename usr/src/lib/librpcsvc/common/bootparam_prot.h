@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bootparam_prot.h	1.5	05/06/10 SMI"	
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	
 
 #include <rpc/types.h>
 

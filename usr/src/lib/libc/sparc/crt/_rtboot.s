@@ -24,7 +24,7 @@
  *	All rights reserved.
  */
 
-#ident	"@(#)_rtboot.s	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 	.file	"_rtboot.s"
 

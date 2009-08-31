@@ -33,7 +33,7 @@
  *
  * For further details - see bug#4433015
  */
-#pragma ident	"@(#)crti.s	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 	.file		"crti.s"
 

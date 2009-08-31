@@ -27,7 +27,7 @@
 #ifndef _SYS_1394_TARGETS_AV1394_IMPL_H
 #define	_SYS_1394_TARGETS_AV1394_IMPL_H
 
-#pragma ident	"@(#)av1394_impl.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * av1394 driver definitions

@@ -10,7 +10,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-#ident	"@(#)use_cw_file.m4	1.2	01/09/06 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 divert(0)

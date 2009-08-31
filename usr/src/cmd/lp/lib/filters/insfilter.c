@@ -28,7 +28,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)insfilter.c	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "assert.h"

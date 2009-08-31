@@ -1,4 +1,4 @@
-#pragma ident	"@(#)rcfile_priv.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 struct rckey {
 	SLIST_ENTRY(rckey)	rk_next;

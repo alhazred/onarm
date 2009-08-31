@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)uusched.c	1.11	05/10/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	"uucp.h"
 

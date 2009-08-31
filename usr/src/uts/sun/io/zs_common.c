@@ -27,7 +27,7 @@
  *	Serial I/O driver for Z8530 chips
  */
 
-#pragma ident	"@(#)zs_common.c	4.134	07/06/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<sys/types.h>
 #include	<sys/param.h>
@@ -214,7 +214,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 		&mod_driverops, /* Type of module.  This one is a driver */
-		"Z8530 serial driver V4.134",
+		"Z8530 serial driver V%I%",
 		&zs_ops,	/* driver ops */
 };
 

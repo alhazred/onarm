@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)sysevent.c	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Sysevent Driver for GPEC
@@ -652,7 +652,7 @@ static struct dev_ops sysevent_ops = {
 };
 
 static struct modldrv modldrv = {
-	&mod_driverops, "sysevent driver 1.6", &sysevent_ops
+	&mod_driverops, "sysevent driver %I%", &sysevent_ops
 };
 
 static struct modlinkage modlinkage = {

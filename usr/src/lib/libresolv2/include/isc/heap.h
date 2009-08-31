@@ -20,7 +20,7 @@
  * ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
  * SOFTWARE.
  */
-#pragma ident	"@(#)heap.h	1.3	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef int (*heap_higher_priority_func)(void *, void *);
 typedef void (*heap_index_func)(void *, int);

@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)pipe.s	1.15	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
 /* C library -- pipe						*/
 /* int pipe (int fildes[2]);					*/

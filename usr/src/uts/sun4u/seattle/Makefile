@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.5	07/03/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # uts/sun4u/seattle/Makefile
 #

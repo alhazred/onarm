@@ -28,7 +28,7 @@
  *	All rights reserved.
  */
 
-#pragma ident	"@(#)nfs_srv.c	1.107	07/11/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

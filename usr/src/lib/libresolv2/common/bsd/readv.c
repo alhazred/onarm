@@ -8,7 +8,7 @@ static const char rcsid[] = "$Id: readv.c,v 8.2 1999/10/13 16:39:21 vixie Exp $"
 #endif
 
 
-#pragma ident	"@(#)readv.c	1.2	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "port_before.h"
 

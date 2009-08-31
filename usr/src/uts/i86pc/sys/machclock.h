@@ -27,7 +27,7 @@
 #ifndef	_SYS_MACHCLOCK_H
 #define	_SYS_MACHCLOCK_H
 
-#pragma ident	"@(#)machclock.h	1.2	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

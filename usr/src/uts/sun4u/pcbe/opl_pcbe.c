@@ -27,7 +27,7 @@
  * SPARC64 VI & VII Performance Counter Backend
  */
 
-#pragma ident	"@(#)opl_pcbe.c	1.6	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cpuvar.h>
 #include <sys/systm.h>
@@ -758,7 +758,7 @@ opl_pcbe_free(void *config)
 
 static struct modlpcbe modlpcbe = {
 	&mod_pcbeops,
-	"SPARC64 VI&VII Perf Cntrs v1.6",
+	"SPARC64 VI&VII Perf Cntrs v%I%",
 	&opl_pcbe_ops
 };
 

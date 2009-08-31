@@ -35,7 +35,7 @@
 #ifndef _SYS_VTRACE_H
 #define	_SYS_VTRACE_H
 
-#pragma ident	"@(#)vtrace.h	2.101	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_ASM
 #include <sys/types.h>

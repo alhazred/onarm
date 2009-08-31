@@ -26,7 +26,7 @@
 #ifndef _IDMAP_CONFIG_H
 #define	_IDMAP_CONFIG_H
 
-#pragma ident	"@(#)idmap_config.h	1.7	08/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "idmap.h"
 #include "addisc.h"

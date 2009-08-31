@@ -2,7 +2,7 @@
  * Copyright 1987 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)siglist.c	1.4	05/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 	  /* from UCB 5.1 85/30/05 */
 
 /*

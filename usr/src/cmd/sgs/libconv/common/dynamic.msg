@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)dynamic.msg	1.42	07/10/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 @ MSG_DYN_NULL		"NULL"
 @ MSG_DYN_NEEDED	"NEEDED"

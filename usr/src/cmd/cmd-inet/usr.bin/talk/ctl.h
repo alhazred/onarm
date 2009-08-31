@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)ctl.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* ctl.h describes the structure that talk and talkd pass back
    and forth

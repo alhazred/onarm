@@ -27,7 +27,7 @@
 #ifndef _PING_H
 #define	_PING_H
 
-#pragma ident	"@(#)ping.h	1.6	06/01/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

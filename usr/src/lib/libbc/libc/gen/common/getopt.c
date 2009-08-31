@@ -20,7 +20,7 @@
  * WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-#pragma ident	"@(#)getopt.c	1.6	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /* LINTLIBRARY */

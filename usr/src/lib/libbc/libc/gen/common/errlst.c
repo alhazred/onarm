@@ -1,4 +1,4 @@
-#pragma ident	"@(#)errlst.c	1.4	93/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 	  /* from UCB 5.1 85/05/30 */
 
 /*

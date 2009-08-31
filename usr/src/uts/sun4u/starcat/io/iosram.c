@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)iosram.c	1.9	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * IOSRAM leaf driver to SBBC nexus driver.  This driver is used
@@ -199,7 +199,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv iosrammodldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"IOSRAM Leaf driver v1.9",
+	"IOSRAM Leaf driver v%I%",
 	&iosram_ops,
 };
 

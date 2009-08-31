@@ -26,7 +26,7 @@
 #ifndef	_SYS_FS_ZFS_DIR_H
 #define	_SYS_FS_ZFS_DIR_H
 
-#pragma ident	"@(#)zfs_dir.h	1.5	07/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/pathname.h>
 #include <sys/dmu.h>

@@ -26,7 +26,7 @@
 #ifndef _KERNEL_INT_H
 #define	_KERNEL_INT_H
 
-#pragma ident	"@(#)kernel_int.h	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

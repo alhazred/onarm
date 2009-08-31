@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)__sigrt.s	1.9	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"__sigrt.s"
+	.file	"%M%"
 
 #include "SYS.h"
 

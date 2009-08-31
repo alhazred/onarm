@@ -30,7 +30,7 @@
 #ifndef	_SYS_DNODE_H
 #define	_SYS_DNODE_H
 
-#pragma ident	"@(#)dnode.h	1.12	07/08/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zfs_context.h>
 #include <sys/avl.h>

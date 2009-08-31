@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Defaults.java	1.5	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -40,7 +40,7 @@ import java.net.*;
 /**
  * This class gathers all constants used in the package into one place.
  *
- * @version 1.5 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

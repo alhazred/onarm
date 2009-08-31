@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)sh.char.c	1.3	05/05/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "sh.char.h"
 

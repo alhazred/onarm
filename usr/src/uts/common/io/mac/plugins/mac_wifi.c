@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)mac_wifi.c	1.2	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WiFi MAC Type plugin for the Nemo mac module
@@ -69,7 +69,7 @@ static mac_stat_info_t wifi_stats[] = {
 
 static struct modlmisc mac_wifi_modlmisc = {
 	&mod_miscops,
-	"WiFi MAC plugin 1.2"
+	"WiFi MAC plugin %I%"
 };
 
 static struct modlinkage mac_wifi_modlinkage = {

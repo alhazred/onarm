@@ -26,7 +26,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)pargs.c	1.16	07/11/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * pargs examines and prints the arguments (argv), environment (environ),

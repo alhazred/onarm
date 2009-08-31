@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)inittab6	1.1	07/01/16 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This file provides information about all supported DHCPv6 options, for
 # use by DHCPv6-related programs.

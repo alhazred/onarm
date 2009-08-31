@@ -26,7 +26,7 @@
 #
 # usr/src/lib/pam_modules/sample/Makefile.com
 #
-#ident	"@(#)Makefile.com	1.8	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 LIBRARY=	pam_sample.a
 VERS=		.1

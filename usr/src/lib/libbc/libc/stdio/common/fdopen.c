@@ -27,7 +27,7 @@
 /*      Copyright (c) 1984 AT&T */
 /*        All Rights Reserved   */
 
-#pragma ident	"@(#)fdopen.c	1.16	05/06/08 SMI"  /* from S5R2 1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"  /* from S5R2 1.4 */
 
 /*LINTLIBRARY*/
 /*

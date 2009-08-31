@@ -27,7 +27,7 @@
 #ifndef	_SYS_SBP2_DEFS_H
 #define	_SYS_SBP2_DEFS_H
 
-#pragma ident	"@(#)defs.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Serial Bus Protocol 2 (SBP-2) definitions

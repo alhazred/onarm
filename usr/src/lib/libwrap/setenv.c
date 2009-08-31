@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)setenv.c	1.2	04/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /*
   * Some systems do not have setenv(). This one is modeled after 4.4 BSD, but

@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)th_script.sh	1.4	06/04/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # usage: force_state_change <path> <target state>

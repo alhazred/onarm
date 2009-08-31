@@ -59,7 +59,7 @@
 #ifndef _SMBSRV_MBUF_H
 #define	_SMBSRV_MBUF_H
 
-#pragma ident	"@(#)mbuf.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * PBSHORTCUT This file should be removed from the PB port but is required

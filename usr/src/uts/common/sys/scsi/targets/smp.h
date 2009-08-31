@@ -27,7 +27,7 @@
 #ifndef _SYS_SCSI_TARGETS_SMP_H
 #define	_SYS_SCSI_TARGETS_SMP_H
 
-#pragma ident	"@(#)smp.h	1.2	08/01/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/scsi/scsi.h>

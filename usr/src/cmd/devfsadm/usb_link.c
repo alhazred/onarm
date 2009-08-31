@@ -22,7 +22,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)usb_link.c	1.24	06/12/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <devfsadm.h>
 #include <stdio.h>

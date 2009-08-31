@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)lx_distro_install.ksh	1.9	07/09/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # This script is called from /usr/lib/brand/lx/lx_install.

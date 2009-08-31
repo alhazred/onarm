@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)secure.h	1.9	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if	!defined(_LP_SECURE_H)
 #define _LP_SECURE_H

@@ -25,7 +25,7 @@
  */
 
 
-#pragma ident	"@(#)pwdnm.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _rpcsvc_pwdnm_h
 #define _rpcsvc_pwdnm_h

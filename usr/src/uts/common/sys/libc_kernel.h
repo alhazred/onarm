@@ -27,7 +27,7 @@
 #ifndef _SYS_LIBC_KERNEL_H
 #define	_SYS_LIBC_KERNEL_H
 
-#pragma ident	"@(#)libc_kernel.h	1.1	06/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains definitions for miscellaneous consolidation-private

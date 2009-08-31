@@ -29,7 +29,7 @@
  * This module provides the kernel cache.
  */
 
-#pragma ident	"@(#)idmap_cache.c	1.4	07/11/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/types.h>

@@ -27,7 +27,7 @@
 #ifndef	_SYS_IOSRAMREG_H
 #define	_SYS_IOSRAMREG_H
 
-#pragma ident	"@(#)iosramreg.h	1.2	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

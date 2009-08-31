@@ -27,7 +27,7 @@
 #ifndef _SYS_SEMAPHORE_H
 #define	_SYS_SEMAPHORE_H
 
-#pragma ident	"@(#)semaphore.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Public interface to semaphores.  See semaphore(9F) for details.

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)who.h	1.6	07/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef WHO_DOT_H
 #define	WHO_DOT_H

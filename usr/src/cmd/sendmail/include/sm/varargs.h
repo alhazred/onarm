@@ -9,7 +9,7 @@
  *	$Id: varargs.h,v 1.7.2.1 2002/07/29 21:43:20 gshapiro Exp $
  */
 
-#pragma ident	"@(#)varargs.h	1.3	02/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  libsm variable argument lists

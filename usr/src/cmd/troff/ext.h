@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)ext.h	1.11	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern	char	**argp;
 extern	char	*chname;

@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)main.c	6.28	06/08/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "stdlib.h"
 #include "conv.h"

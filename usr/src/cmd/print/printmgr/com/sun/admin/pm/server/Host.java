@@ -19,7 +19,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Host.java	1.12	06/06/02 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.

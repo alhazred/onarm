@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)umount.c	1.37	07/12/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * nfs umount

@@ -26,7 +26,7 @@
 #ifndef	_USER_ATTR_H
 #define	_USER_ATTR_H
 
-#pragma ident	"@(#)user_attr.h	1.9	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

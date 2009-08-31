@@ -26,7 +26,7 @@
 #ifndef	_SYS_STRSUN_H
 #define	_SYS_STRSUN_H
 
-#pragma ident	"@(#)strsun.h	1.31	06/12/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stream.h>
 #include <sys/types.h>

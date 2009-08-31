@@ -27,10 +27,10 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved	*/
 
-#pragma ident	"@(#)strptime.c	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint) && defined(SCCSIDS)
-static  char *sccsid = "@(#)strptime.c 1.10	05/06/08 SMI";
+static  char *sccsid = "%Z%%M% %I%	%E% SMI";
 #endif
 
 #include <ctype.h>

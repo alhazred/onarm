@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)ucblinks.awk	1.19	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This awk-script is the rule-base used in previous release for creating
 # compatibility-mode names.

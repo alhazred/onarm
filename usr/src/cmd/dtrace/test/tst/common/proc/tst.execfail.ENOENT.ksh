@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)tst.execfail.ENOENT.ksh	1.3	07/08/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # This script is identical to tst.execfail.ksh -- but it additionally checks

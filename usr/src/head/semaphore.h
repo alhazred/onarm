@@ -27,7 +27,7 @@
 #ifndef _SEMAPHORE_H
 #define	_SEMAPHORE_H
 
-#pragma ident	"@(#)semaphore.h	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

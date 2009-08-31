@@ -23,7 +23,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)sym.c	1.2	07/10/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	ELF_TARGET_AMD64	/* SHN_AMD64_LCOMMON */
 

@@ -19,7 +19,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: sshconnect1.c,v 1.52 2002/08/08 13:50:23 aaron Exp $");
 
-#pragma ident	"@(#)sshconnect1.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <openssl/bn.h>
 #include <openssl/md5.h>

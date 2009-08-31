@@ -28,7 +28,7 @@
  */
 
 
-#pragma ident	"@(#)getdata.c	1.22	06/03/03 SMI" 	/* SVr4.0 1.16	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.16	*/
 
 
 #pragma weak	elf_getdata = _elf_getdata

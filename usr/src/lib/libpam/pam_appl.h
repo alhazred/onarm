@@ -26,7 +26,7 @@
 #ifndef _PAM_APPL_H
 #define	_PAM_APPL_H
 
-#pragma ident	"@(#)pam_appl.h	1.19	06/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

@@ -26,7 +26,7 @@
 #ifndef	_TSOL_LABEL_H
 #define	_TSOL_LABEL_H
 
-#pragma ident	"@(#)label.h	1.2	06/08/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/tsol/label.h>
 #include <priv.h>

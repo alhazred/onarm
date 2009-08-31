@@ -37,7 +37,7 @@
  */
 
 
-#pragma ident	"@(#)quotacalls.c	1.83	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Quota system calls.

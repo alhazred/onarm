@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)usb_ah.c	1.11	05/11/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * USB audio hid streams module - processes hid data
@@ -107,7 +107,7 @@ extern struct mod_ops mod_strmodops;
 
 static struct modlstrmod modlstrmod = {
 	&mod_strmodops,
-	"USB audio hid streams 1.11",
+	"USB audio hid streams %I%",
 	&fsw
 };
 

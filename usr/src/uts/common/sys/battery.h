@@ -27,7 +27,7 @@
 #ifndef _BATTERY_H
 #define	_BATTERY_H
 
-#pragma ident	"@(#)battery.h	1.5	07/04/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

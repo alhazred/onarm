@@ -1,4 +1,4 @@
-#pragma ident	"@(#)util_ctxsetup.c	1.1	02/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (C) 1998 by the FundsXpress, INC.

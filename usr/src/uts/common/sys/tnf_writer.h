@@ -27,7 +27,7 @@
 #ifndef _SYS_TNF_WRITER_H
 #define	_SYS_TNF_WRITER_H
 
-#pragma ident	"@(#)tnf_writer.h	1.30	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Public interface for writing predefined TNF types

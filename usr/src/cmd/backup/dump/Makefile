@@ -2,7 +2,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.34	04/09/28 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/backup/dump/Makefile
 #

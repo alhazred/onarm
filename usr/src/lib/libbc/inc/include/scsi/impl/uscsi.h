@@ -27,7 +27,7 @@
 #ifndef _SCSI_IMPL_USCSI_H
 #define	_SCSI_IMPL_USCSI_H
 
-#pragma ident	"@(#)uscsi.h	1.5	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Defines for user SCSI commands

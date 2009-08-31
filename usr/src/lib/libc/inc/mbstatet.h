@@ -27,7 +27,7 @@
 #ifndef	_MBSTATET_H
 #define	_MBSTATET_H
 
-#pragma ident	"@(#)mbstatet.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef struct __mbstate_t {
 	void	*__lc_locale;	/* pointer to _LC_locale_t */

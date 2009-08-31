@@ -18,7 +18,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)mount.c	1.21	07/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.

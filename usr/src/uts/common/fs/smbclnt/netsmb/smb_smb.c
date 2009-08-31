@@ -37,7 +37,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smb_smb.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * various SMB requests. Most of the routines merely packs data into mbufs.

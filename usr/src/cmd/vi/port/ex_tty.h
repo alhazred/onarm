@@ -33,7 +33,7 @@
 #ifndef _EX_TTY_H
 #define	_EX_TTY_H
 
-#pragma ident	"@(#)ex_tty.h	1.11	05/10/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

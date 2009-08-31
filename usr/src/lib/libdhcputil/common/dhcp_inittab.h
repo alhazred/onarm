@@ -26,7 +26,7 @@
 #ifndef	_DHCP_INITTAB_H
 #define	_DHCP_INITTAB_H
 
-#pragma ident	"@(#)dhcp_inittab.h	1.8	07/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <dhcp_symbol.h>

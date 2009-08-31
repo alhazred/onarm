@@ -26,7 +26,7 @@
 #ifndef _SYS_SUNLDI_IMPL_H
 #define	_SYS_SUNLDI_IMPL_H
 
-#pragma ident	"@(#)sunldi_impl.h	1.4	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

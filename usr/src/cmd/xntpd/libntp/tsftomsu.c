@@ -3,7 +3,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)tsftomsu.c	1.1	96/11/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * tsftomsu - convert from a time stamp fraction to milliseconds

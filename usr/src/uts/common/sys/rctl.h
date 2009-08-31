@@ -26,7 +26,7 @@
 #ifndef	_SYS_RCTL_H
 #define	_SYS_RCTL_H
 
-#pragma ident	"@(#)rctl.h	1.17	07/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/kmem.h>
 #include <sys/resource.h>

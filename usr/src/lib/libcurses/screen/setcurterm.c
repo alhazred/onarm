@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)setcurterm.c	1.10	05/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

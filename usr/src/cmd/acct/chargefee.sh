@@ -24,7 +24,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)chargefee.sh	1.8	05/06/08 SMI"	/* SVr4.0 1.6	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 #	"chargefee login-name number"
 #	"emits tacct.h/ascii record to charge name $number"
 cd /var/adm

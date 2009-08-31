@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)t_strerror.c	1.10	05/06/29 SMI"	/* SVr4.0 1.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2 */
 
 #include "mt.h"
 #include <unistd.h>

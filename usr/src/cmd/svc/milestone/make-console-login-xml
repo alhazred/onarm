@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)make-console-login-xml	1.8	06/01/09 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 cat >console-login.xml <<EOF
 <?xml version="1.0"?>
@@ -32,7 +32,7 @@ cat >console-login.xml <<EOF
 	Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 	Use is subject to license terms.
 
-	ident   "@(#)make-console-login-xml 1.8     06/01/09 SMI"
+	ident   "%Z%%M% %I%     %E% SMI"
 
 	NOTE:  This service manifest is not editable; its contents will
 	be overwritten by package or patch operations, including

@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma	ident	"@(#)s1394_bus_reset.c	1.2	05/06/08 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * s1394_bus_reset.c

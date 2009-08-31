@@ -28,7 +28,7 @@
 #ifndef	_CTF_IMPL_H
 #define	_CTF_IMPL_H
 
-#pragma ident	"@(#)ctf_impl.h	1.9	06/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/errno.h>

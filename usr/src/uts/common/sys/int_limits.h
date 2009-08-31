@@ -27,7 +27,7 @@
 #ifndef _SYS_INT_LIMITS_H
 #define	_SYS_INT_LIMITS_H
 
-#pragma ident	"@(#)int_limits.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file, <sys/int_limits.h>, is part of the Sun Microsystems implementation

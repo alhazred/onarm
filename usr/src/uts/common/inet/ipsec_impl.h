@@ -26,7 +26,7 @@
 #ifndef _INET_IPSEC_IMPL_H
 #define	_INET_IPSEC_IMPL_H
 
-#pragma ident	"@(#)ipsec_impl.h	1.29	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <inet/ip.h>
 #include <inet/ipdrop.h>

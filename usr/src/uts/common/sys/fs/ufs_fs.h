@@ -43,7 +43,7 @@
 #ifndef	_SYS_FS_UFS_FS_H
 #define	_SYS_FS_UFS_FS_H
 
-#pragma ident	"@(#)ufs_fs.h	2.72	06/04/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/types32.h>

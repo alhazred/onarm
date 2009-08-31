@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)__rusagesys.s	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"__rusagesys.s"
+	.file	"%M%"
 
 /*
  * int __rusagesys(type, struct rusage *)

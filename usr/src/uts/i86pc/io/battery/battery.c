@@ -28,7 +28,7 @@
  * Solaris x86 ACPI Battery Monitor
  */
 
-#pragma ident	"@(#)battery.c	1.2	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/conf.h>
 #include <sys/modctl.h>
@@ -43,7 +43,7 @@
 #include <sys/battery.h>
 
 
-#define	BATT_MOD_STRING			"ACPI battery driver 1.2"
+#define	BATT_MOD_STRING			"ACPI battery driver %I%"
 
 #define	MINOR_SHIFT			8
 #define	IDX_MASK			((1 << MINOR_SHIFT) - 1)

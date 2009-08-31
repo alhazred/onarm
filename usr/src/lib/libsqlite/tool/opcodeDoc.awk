@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)opcodeDoc.awk	1.1	04/07/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Extract opcode documentation for sqliteVdbe.c and generate HTML

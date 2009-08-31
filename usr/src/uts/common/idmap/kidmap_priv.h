@@ -32,7 +32,7 @@
 #ifndef _KIDMAP_PRIV_H
 #define	_KIDMAP_PRIV_H
 
-#pragma ident	"@(#)kidmap_priv.h	1.2	07/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/avl.h>
 

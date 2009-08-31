@@ -2,7 +2,7 @@
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)arcfour_provider.c	1.8	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* 
  * Copyright (c) 2000 by Computer Science Laboratory,

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)common.c	1.1	07/10/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "statcommon.h"
 

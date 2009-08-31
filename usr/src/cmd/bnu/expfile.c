@@ -27,7 +27,7 @@
  * All rights reserved.
  */
 
-#ident	"@(#)expfile.c	1.12	05/06/08 SMI"	/* from SVR4 bnu:expfile.c 2.10 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:expfile.c 2.10 */
 
 #include "uucp.h"
 

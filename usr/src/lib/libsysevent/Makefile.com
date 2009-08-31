@@ -26,7 +26,7 @@
 # Copyright (c) 2006-2008 NEC Corporation
 #
 #
-# ident	"@(#)Makefile.com	1.11	06/08/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY=	libsysevent.a

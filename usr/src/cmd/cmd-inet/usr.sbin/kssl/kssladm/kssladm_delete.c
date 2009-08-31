@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kssladm_delete.c	1.1	05/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netinet/in.h> /* struct sockaddr_in */
 #include <stdio.h>

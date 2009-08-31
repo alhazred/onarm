@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)priocntlset.s	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"priocntlset.s"
+	.file	"%M%"
 
 /* C library -- priocntlset					*/
 /* long priocntlset(procset_t psp, int cmd, int arg)		*/

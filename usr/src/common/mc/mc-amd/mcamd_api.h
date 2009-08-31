@@ -27,7 +27,7 @@
 #ifndef _MCAMD_API_H
 #define	_MCAMD_API_H
 
-#pragma ident	"@(#)mcamd_api.h	1.3	06/11/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Primary header file for mcamd_* routines in $SRC/common/mc.  The

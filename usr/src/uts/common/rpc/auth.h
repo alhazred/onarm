@@ -41,7 +41,7 @@
 #ifndef	_RPC_AUTH_H
 #define	_RPC_AUTH_H
 
-#pragma ident	"@(#)auth.h	1.50	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/xdr.h>
 #include <rpc/clnt_stat.h>

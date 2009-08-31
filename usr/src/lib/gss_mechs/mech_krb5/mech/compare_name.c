@@ -1,4 +1,4 @@
-#pragma ident	"@(#)compare_name.c	1.3	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 1993 by OpenVision Technologies, Inc.

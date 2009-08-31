@@ -26,7 +26,7 @@
 
 /* Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T */
 
-#pragma ident	"@(#)sigqueue.c	1.13	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

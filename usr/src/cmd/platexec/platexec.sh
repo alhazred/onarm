@@ -24,7 +24,7 @@
 # Copyright (c) 2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)platexec.sh	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Execute the platform-dependent version of a program, if it exists.
 #

@@ -26,7 +26,7 @@
 #ifndef	_SYS_PX_DEBUG_H
 #define	_SYS_PX_DEBUG_H
 
-#pragma ident	"@(#)px_debug.h	1.8	06/12/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

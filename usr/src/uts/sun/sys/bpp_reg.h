@@ -27,7 +27,7 @@
 #ifndef	_SYS_BPP_REG_H
 #define	_SYS_BPP_REG_H
 
-#pragma ident	"@(#)bpp_reg.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Header file describing the hardware for the

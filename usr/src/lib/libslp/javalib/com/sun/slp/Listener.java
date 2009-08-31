@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Listener.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)Listener.java	1.4	06/08/05
+//  SCCS Status:      %W%	%G%
 //  Listener.java:    Organize basic listening for slpd and specifically
 //                    support datagram listening.
 //  Author:           James Kempf
@@ -54,7 +54,7 @@ import java.io.*;
  * may also enter through this class, since many systems don't distinguish
  * between the multicast and datagram queues for a port.
  *
- * @version 1.4 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf, Erik Guttman
  */
 

@@ -1,4 +1,4 @@
-#pragma ident	"@(#)errors.c	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Can't include krb5.h here, or k5-int.h which includes it, because
    krb5.h needs to be generated with error tables, after util/et,

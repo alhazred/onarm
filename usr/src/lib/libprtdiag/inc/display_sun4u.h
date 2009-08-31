@@ -27,7 +27,7 @@
 #ifndef	_DISPLAY_SUN4U_H
 #define	_DISPLAY_SUN4U_H
 
-#pragma ident	"@(#)display_sun4u.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pdevinfo_sun4u.h>
 

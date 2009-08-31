@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)res_findzonecut.c	1.4	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint) && !defined(SABER)
 static const char rcsid[] = "$Id: res_findzonecut.c,v 8.20 2003/05/27 23:36:53 marka Exp $";

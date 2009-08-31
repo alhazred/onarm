@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)qfe.c	1.1	07/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SunOS MT QFE Device Driver (layered above FEPS/Cheerio)

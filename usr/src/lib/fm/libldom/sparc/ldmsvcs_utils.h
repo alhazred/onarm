@@ -26,7 +26,7 @@
 #ifndef	_LDMSVCS_UTILS_H
 #define	_LDMSVCS_UTILS_H
 
-#pragma ident	"@(#)ldmsvcs_utils.h	1.3	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <sys/types.h>

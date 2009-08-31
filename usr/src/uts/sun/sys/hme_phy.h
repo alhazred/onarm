@@ -27,7 +27,7 @@
 #ifndef	_SYS_HME_PHY_H
 #define	_SYS_HME_PHY_H
 
-#pragma ident	"@(#)hme_phy.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

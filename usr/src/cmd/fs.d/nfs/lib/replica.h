@@ -29,7 +29,7 @@
 #ifndef _REPLICA_H
 #define	_REPLICA_H
 
-#pragma ident	"@(#)replica.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

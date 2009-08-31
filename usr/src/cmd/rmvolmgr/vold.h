@@ -26,7 +26,7 @@
 #ifndef	_VOLD_H
 #define	_VOLD_H
 
-#pragma ident	"@(#)vold.h	1.1	06/10/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

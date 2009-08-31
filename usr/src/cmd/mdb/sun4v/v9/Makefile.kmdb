@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.kmdb	1.3	06/05/16 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 ARCHOPTS = -D__sparcv9cpu -D__sparcv9

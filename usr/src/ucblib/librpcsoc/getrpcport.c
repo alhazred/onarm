@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#ident	"@(#)getrpcport.c	1.7	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1991 by Sun Microsystems, Inc.

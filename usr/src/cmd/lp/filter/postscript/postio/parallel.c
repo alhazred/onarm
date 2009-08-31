@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)parallel.c	1.15	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern char *postbegin;
 

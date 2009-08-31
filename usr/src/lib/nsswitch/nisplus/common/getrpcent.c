@@ -27,7 +27,7 @@
  *	nisplus/getrpcent.c -- NIS+ backend for nsswitch "rpc" database
  */
 
-#pragma ident	"@(#)getrpcent.c	1.13	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include <netdb.h>

@@ -24,9 +24,9 @@
  * All rights reserved.
  */
 
-.ident	"@(#)memmove.s	1.6	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"memmove.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

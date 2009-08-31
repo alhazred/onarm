@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#ident	"@(#)dogetnet.c	1.8	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1994, by Sun Microsystems, Inc.

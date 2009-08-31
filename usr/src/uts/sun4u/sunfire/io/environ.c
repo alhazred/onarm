@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)environ.c	1.35	06/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -129,7 +129,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* module type, this one is a driver */
-	"Environment Leaf v1.35",	/* name of module */
+	"Environment Leaf v%I%",	/* name of module */
 	&environ_ops,			/* driver ops */
 };
 

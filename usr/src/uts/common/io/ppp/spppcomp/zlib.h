@@ -23,7 +23,7 @@
 #ifndef	_ZLIB_H
 #define	_ZLIB_H
 
-#pragma ident	"@(#)zlib.h	1.2	04/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

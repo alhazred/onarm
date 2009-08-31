@@ -24,6 +24,6 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)tst.emptystack.exe	1.1	06/08/28 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 exec find / > /dev/null 2>&1

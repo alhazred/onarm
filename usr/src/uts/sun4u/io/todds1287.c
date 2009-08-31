@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)todds1287.c	1.13	05/11/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	The "todds1287" module has implementation for both tod
@@ -178,7 +178,7 @@ static kmutex_t ds1287_reg_mutex;	/* Protects ds1287 Registers */
 
 static struct modldrv modldrv = {
 	&mod_driverops, 	/* Type of module. This one is a driver */
-	"ds1287 clock driver 1.13",   /* Name of the module. */
+	"ds1287 clock driver %I%",   /* Name of the module. */
 	&ds1287_ops,			/* driver ops */
 };
 

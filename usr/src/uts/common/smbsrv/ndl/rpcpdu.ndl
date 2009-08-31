@@ -26,7 +26,7 @@
 #ifndef _MLRPCPDU_NDL_
 #define _MLRPCPDU_NDL_
 
-#pragma ident	"@(#)rpcpdu.ndl	1.2	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ndrtypes.ndl"
 

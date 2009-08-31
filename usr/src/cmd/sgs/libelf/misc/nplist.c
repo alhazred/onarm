@@ -27,7 +27,7 @@
  *	Copyright (c) 1999 by Sun Microsystems, Inc.
  *	All rights reserved.
  */
-#pragma ident	"@(#)nplist.c	1.11	05/06/08 SMI" 	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.2	*/
 
 #include	"elf_dem.h"
 #include	<string.h>

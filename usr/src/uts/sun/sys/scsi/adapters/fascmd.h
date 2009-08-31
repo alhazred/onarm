@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCSI_ADAPTERS_FASCMD_H
 #define	_SYS_SCSI_ADAPTERS_FASCMD_H
 
-#pragma ident	"@(#)fascmd.h	1.22	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 #include <sys/isa_defs.h>

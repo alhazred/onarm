@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_USBSER_PL2303_VENDOR_H
 #define	_SYS_USB_USBSER_PL2303_VENDOR_H
 
-#pragma ident	"@(#)pl2303_vendor.h	1.3	07/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Prolific PL2303 vendor-specific variables

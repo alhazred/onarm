@@ -26,7 +26,7 @@
  * Copyright (c) 1990 Mentat Inc.
  */
 
-#pragma ident	"@(#)ip6_if.c	1.75	08/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the interface control functions for IPv6.

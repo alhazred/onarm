@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)libcpc.c	1.7	07/02/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libcpc.h>
 #include <stdio.h>

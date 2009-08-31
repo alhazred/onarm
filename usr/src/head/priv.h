@@ -27,7 +27,7 @@
 #ifndef	_PRIV_H_
 #define	_PRIV_H_
 
-#pragma ident	"@(#)priv.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/priv.h>
 

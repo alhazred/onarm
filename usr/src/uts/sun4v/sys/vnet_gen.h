@@ -27,7 +27,7 @@
 #ifndef _VNET_GEN_H
 #define	_VNET_GEN_H
 
-#pragma ident	"@(#)vnet_gen.h	1.11	08/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

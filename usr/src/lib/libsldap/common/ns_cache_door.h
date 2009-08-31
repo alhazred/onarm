@@ -26,7 +26,7 @@
 #ifndef	_NS_CACHE_DOOR_H
 #define	_NS_CACHE_DOOR_H
 
-#pragma ident	"@(#)ns_cache_door.h	1.5	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Definitions for client side of doors-based ldap caching

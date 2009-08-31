@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Opaque.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)Opaque.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  Opaque.java:   Wrapper for byte[].
 //  Author:           James Kempf
 //  Created On:       Tue Apr  7 15:21:58 1998
@@ -45,7 +45,7 @@ import java.io.*;
  * The Opaque class wraps Java byte arrays so we can do object-like
  * things, such as deep equality comparison and printing.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

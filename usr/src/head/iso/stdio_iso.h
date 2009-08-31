@@ -50,7 +50,7 @@
 #ifndef _ISO_STDIO_ISO_H
 #define	_ISO_STDIO_ISO_H
 
-#pragma ident	"@(#)stdio_iso.h	1.10	05/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(_AEABI_PORTABILITY_LEVEL)
 #error "not supported AEABI."

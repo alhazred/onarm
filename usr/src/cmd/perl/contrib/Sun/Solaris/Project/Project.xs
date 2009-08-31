@@ -26,7 +26,7 @@
  * functions as provided by libproject and described in getprojent(3EXACCT).
  */
 
-#pragma ident	"@(#)Project.xs	1.7	07/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Solaris includes. */
 #include <zone.h>

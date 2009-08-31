@@ -71,7 +71,7 @@
 #ifndef _NETDB_H
 #define	_NETDB_H
 
-#pragma ident	"@(#)netdb.h	1.31	05/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <netinet/in.h>

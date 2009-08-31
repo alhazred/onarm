@@ -27,7 +27,7 @@
 #ifndef	_SYS_LOADAVG_H
 #define	_SYS_LOADAVG_H
 
-#pragma ident	"@(#)loadavg.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)acctcon1.c	1.20	05/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  *	acctcon1 [-p] [-t] [-l file] [-o file] <wtmpx-file >ctmp-file
  *	-p	print input only, no processing

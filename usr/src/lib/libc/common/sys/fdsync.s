@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fdsync.s	1.9	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"fdsync.s"
+	.file	"%M%"
 
 /* Underlying function for C library(fsync) and POSIX(fdatasync)*/
 /* int __fdsync(int fildes, int flag)				*/

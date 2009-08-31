@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)depend	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 P SUNWcar	Core Architecture, (Root)
 P SUNWkvm	Core Architecture, (Kvm)

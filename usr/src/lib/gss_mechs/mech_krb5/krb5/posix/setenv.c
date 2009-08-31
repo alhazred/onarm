@@ -1,4 +1,4 @@
-#pragma ident	"@(#)setenv.c	1.2	00/04/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Copyright (c) 1987, 1993
  *	The Regents of the University of California.  All rights reserved.

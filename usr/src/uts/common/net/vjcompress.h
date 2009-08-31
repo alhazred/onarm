@@ -28,7 +28,7 @@
 #ifndef _VJCOMPRESS_H_
 #define	_VJCOMPRESS_H_
 
-#pragma ident	"@(#)vjcompress.h	1.3	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

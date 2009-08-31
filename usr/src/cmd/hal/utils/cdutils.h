@@ -9,7 +9,7 @@
  *
  **************************************************************************/
 
-#pragma ident	"@(#)cdutils.h	1.2	06/10/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef CDUTILS_H
 #define CDUTILS_H

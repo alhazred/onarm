@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)auditxml.pm	1.1	07/02/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 use xmlHandlers;

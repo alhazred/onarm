@@ -30,7 +30,7 @@
 #ifndef	_ESC_COMMON_VERSION_H
 #define	_ESC_COMMON_VERSION_H
 
-#pragma ident	"@(#)version.h	1.5	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

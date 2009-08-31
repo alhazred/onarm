@@ -28,7 +28,7 @@
 /*	  All Rights Reserved	*/
 
 
-#pragma ident	"@(#)rlimit.c	1.27	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

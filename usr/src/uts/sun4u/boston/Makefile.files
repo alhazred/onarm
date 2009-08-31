@@ -24,7 +24,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.files	1.2	05/12/11 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This Makefile defines all file modules for the directory
 #	uts/sun4u/boston and it's children. These are the source files

@@ -24,7 +24,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)bindrop.sh	1.5	08/02/26 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Create an encumbered binaries tarball from a full build proto area,
 # less the contents of an OpenSolaris proto area.  Special handling

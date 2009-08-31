@@ -26,7 +26,7 @@
 #ifndef	_SYS_SCSI_ADAPTERS_SCSI_VHCI_H
 #define	_SYS_SCSI_ADAPTERS_SCSI_VHCI_H
 
-#pragma ident	"@(#)scsi_vhci.h	1.28	08/02/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Multiplexed I/O SCSI vHCI global include

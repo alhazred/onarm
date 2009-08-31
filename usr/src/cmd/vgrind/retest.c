@@ -4,7 +4,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)retest.c	1.11	92/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 	  /* from UCB 5.1 (Berkeley) 6/5/85 */
 
 #include <ctype.h>

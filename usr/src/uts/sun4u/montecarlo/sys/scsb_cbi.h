@@ -27,7 +27,7 @@
 #ifndef	_MONTECARLO_SYS_SCSB_CBI_H
 #define	_MONTECARLO_SYS_SCSB_CBI_H
 
-#pragma ident	"@(#)scsb_cbi.h	1.3	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	_KERNEL
 

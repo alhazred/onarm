@@ -34,7 +34,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)ex_cmdsub.c	1.21	05/10/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ex.h"
 #include "ex_argv.h"

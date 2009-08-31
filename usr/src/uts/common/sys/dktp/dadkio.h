@@ -27,7 +27,7 @@
 #ifndef _SYS_DKTP_DADKIO_H
 #define	_SYS_DKTP_DADKIO_H
 
-#pragma ident	"@(#)dadkio.h	1.20	05/11/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)llib-lld	1.17	07/07/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "libld.h"
 

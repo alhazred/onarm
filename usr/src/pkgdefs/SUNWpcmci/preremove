@@ -21,7 +21,7 @@
 # CDDL HEADER END
 #
 #
-#pragma ident	"@(#)preremove	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright (c) 1999,2001 by Sun Microsystems, Inc.
 # All rights reserved.

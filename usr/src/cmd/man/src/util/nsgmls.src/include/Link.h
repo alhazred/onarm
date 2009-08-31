@@ -1,6 +1,6 @@
 // Copyright (c) 1994 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)Link.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef Link_INCLUDED
 #define Link_INCLUDED 1

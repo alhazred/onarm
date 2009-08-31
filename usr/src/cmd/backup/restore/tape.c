@@ -12,7 +12,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tape.c	1.83	07/07/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <setjmp.h>
 #include "restore.h"

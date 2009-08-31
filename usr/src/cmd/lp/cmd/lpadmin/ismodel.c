@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)ismodel.c	1.5	05/06/08 SMI"	/* SVr4.0 1.4	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4	*/
 
 #include "lp.h"
 #include "lpadmin.h"

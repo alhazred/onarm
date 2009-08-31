@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)db_dictxdr.c	1.4	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "db_dictionary_c.h"
 #include "db_vers_c.h"

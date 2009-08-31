@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)utssys.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"utssys.s"
+	.file	"%M%"
 
 /* C library -- utssys						*/
 /* error = utssys(cbuf, mv, type, outbufp)			*/

@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)usbskel_with_usba.wlcmd	1.18	07/08/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 one ohci_state
 one ehci_state

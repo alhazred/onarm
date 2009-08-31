@@ -11,7 +11,7 @@
  */
 
 /* line below is from UCB 5.4 12/11/85 */
-#pragma ident	"@(#)rmtlib.c	1.20	05/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <myrcmd.h>
 #include <stdio.h>

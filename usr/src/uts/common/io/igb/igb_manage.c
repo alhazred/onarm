@@ -28,7 +28,7 @@
 
 /* IntelVersion: 1.19 v2007-12-10_dragonlake5 */
 
-#pragma ident	"@(#)igb_manage.c	1.2	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "igb_api.h"
 #include "igb_manage.h"

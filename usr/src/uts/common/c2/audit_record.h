@@ -26,7 +26,7 @@
 #ifndef _BSM_AUDIT_RECORD_H
 #define	_BSM_AUDIT_RECORD_H
 
-#pragma ident	"@(#)audit_record.h	1.90	08/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef _KERNEL
 #include <sys/priv.h>

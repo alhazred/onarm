@@ -39,7 +39,7 @@
 #ifndef	_VM_SEG_H
 #define	_VM_SEG_H
 
-#pragma ident	"@(#)seg.h	1.77	07/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/vnode.h>
 #include <sys/avl.h>

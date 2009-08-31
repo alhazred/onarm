@@ -10,7 +10,7 @@
  *
  */
 
-#pragma ident	"@(#)smdb.h	1.9	02/12/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SMDB_H_
 # define _SMDB_H_

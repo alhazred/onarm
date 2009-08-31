@@ -1,5 +1,5 @@
 <!-- Character entity set for use with the SolBook v.2 DTD.
- ident	"@(#)sun_iso.gml	1.5	05/06/12 SMI"
+ ident	"%Z%%M%	%I%	%E% SMI"
 	 This is a subset of the ISO entities
 	 (C) 1997, Sun Microsystems Inc.
 -->

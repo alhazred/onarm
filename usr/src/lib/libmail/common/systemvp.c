@@ -39,7 +39,7 @@
  *  quotes, etc.
  */
 
-#pragma ident	"@(#)systemvp.c	1.9	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*LINTLIBRARY*/
 
 #include "c_synonyms.h"

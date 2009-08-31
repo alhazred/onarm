@@ -7,7 +7,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ipftest.c	1.6	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ipf.h"
 #include "ipt.h"

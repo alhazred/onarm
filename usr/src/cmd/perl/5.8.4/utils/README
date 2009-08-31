@@ -2,7 +2,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)README	1.1	04/06/09 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 This directory contains utilities that help port a standard perl 5.8.4 build
 directory into the ON tree and patched versions of standard perl files needed

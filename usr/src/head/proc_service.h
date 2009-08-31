@@ -26,7 +26,7 @@
 #ifndef _PROC_SERVICE_H
 #define	_PROC_SERVICE_H
 
-#pragma ident	"@(#)proc_service.h	1.22	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  Description:

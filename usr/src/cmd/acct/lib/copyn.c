@@ -26,7 +26,7 @@
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)copyn.c	1.6	05/08/24 SMI"	/* SVr4.0 1.5	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5	*/
 /*
  * Copy n bytes from s2 to s1
  * return s1

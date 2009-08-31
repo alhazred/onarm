@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)kstat.c	1.26	05/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * kernel statistics driver
@@ -733,7 +733,7 @@ static struct dev_ops kstat_ops = {
 };
 
 static struct modldrv modldrv = {
-	&mod_driverops, "kernel statistics driver 1.26", &kstat_ops,
+	&mod_driverops, "kernel statistics driver %I%", &kstat_ops,
 };
 
 static struct modlinkage modlinkage = {

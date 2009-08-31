@@ -28,7 +28,7 @@
 #ifndef _NRES_H
 #define	_NRES_H
 
-#pragma ident	"@(#)nres.h	1.11	08/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netdb.h>
 #include <arpa/nameser.h>

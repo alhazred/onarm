@@ -62,7 +62,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)p12auxutl.c	1.1	03/04/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <strings.h>

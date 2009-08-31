@@ -27,7 +27,7 @@
 #ifndef _SYS_IB_IBTL_IMPL_IBTL_H
 #define	_SYS_IB_IBTL_IMPL_IBTL_H
 
-#pragma ident	"@(#)ibtl.h	1.13	05/11/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ibtl.h

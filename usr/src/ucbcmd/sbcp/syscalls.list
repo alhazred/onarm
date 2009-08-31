@@ -21,7 +21,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#	ident	"@(#)syscalls.list	1.12	06/11/30 SMI"
+#	ident	"%Z%%M%	%I%	%E% SMI"
 #
 nosys		NOSYS		/*   0 = 1, indir */
 exit		TRAP		/*   1 = 1, exit */

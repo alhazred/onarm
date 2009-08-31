@@ -24,7 +24,7 @@
 #include <rpc/clnt.h>
 #include <rpcsvc/yppasswd.h>
 
-#pragma ident	"@(#)npd_ypfwd.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	npd_ypfwd.c

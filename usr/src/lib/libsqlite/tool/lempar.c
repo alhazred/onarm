@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)lempar.c	1.2	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Driver template for the LEMON parser generator.
 ** The author disclaims copyright to this source code.

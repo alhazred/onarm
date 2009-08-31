@@ -40,7 +40,7 @@
 #ifndef	_DRMP_H
 #define	_DRMP_H
 
-#pragma ident	"@(#)drmP.h	1.5	08/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>

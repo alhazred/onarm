@@ -27,7 +27,7 @@
 #ifndef	_SYS_FC4_FC_TRANSPORT_H
 #define	_SYS_FC4_FC_TRANSPORT_H
 
-#pragma ident	"@(#)fc_transport.h	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/fc4/fc.h>
 

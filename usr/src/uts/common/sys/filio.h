@@ -39,7 +39,7 @@
 #ifndef _SYS_FILIO_H
 #define	_SYS_FILIO_H
 
-#pragma ident	"@(#)filio.h	1.40	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * General file ioctl definitions.

@@ -25,7 +25,7 @@
  * Contributor(s):
  */
 
-#pragma ident	"@(#)ldapsinit.c	1.4	04/11/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ldapsinit.c

@@ -30,7 +30,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-#ident	"@(#)dfstab.sh	1.19	06/10/27 SMI"	/* SVr4.0 1.1.2.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1.2.1	*/
 case "$MACH" in
   "u3b2"|"sparc"|"i386"|"ppc"|"arm" )
 	echo "

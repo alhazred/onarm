@@ -1,4 +1,4 @@
-#pragma ident	"@(#)genaddrs.c	1.3	04/03/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lib/krb5/os/genaddrs.c

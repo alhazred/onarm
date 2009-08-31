@@ -27,7 +27,7 @@
 #ifndef	_SYS_SBD_ERROR_H
 #define	_SYS_SBD_ERROR_H
 
-#pragma ident	"@(#)sbd_error.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

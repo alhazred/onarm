@@ -27,7 +27,7 @@
 #ifndef	_SOLARIS_DISKPARTITION_H_
 #define	_SOLARIS_DISKPARTITION_H_
 
-#pragma ident	"@(#)Solaris_DiskPartition.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

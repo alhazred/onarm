@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ipmi_sensor.c	1.1	07/03/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libipmi.h>
 #include <string.h>

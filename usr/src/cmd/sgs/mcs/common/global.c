@@ -28,7 +28,7 @@
  *	All Rights Reserved
  */
 
-#pragma ident	"@(#)global.c	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include "mcs.h"
 int actmax = 0;
 char *elftmpfile, *artmpfile;

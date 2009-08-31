@@ -28,7 +28,7 @@
  * Copyright (c) 2009 NEC Corporation
  */
 
-#pragma ident	"@(#)nss_common.c	1.38	08/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Shared code used by the name-service-switch frontends (e.g. getpwnam_r())

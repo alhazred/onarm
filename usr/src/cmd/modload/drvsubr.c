@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)drvsubr.c	1.30	07/04/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <stdio.h>

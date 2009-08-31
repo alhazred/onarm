@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)t_ksndudat.c	1.21	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * TLI-like function to send datagrams over a specified

@@ -27,7 +27,7 @@
 #ifndef	_MDB_LGRP_H
 #define	_MDB_LGRP_H
 
-#pragma ident	"@(#)lgrp.h	1.3	06/09/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

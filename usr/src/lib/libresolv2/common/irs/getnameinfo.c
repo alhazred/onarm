@@ -41,7 +41,7 @@
  * SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)getnameinfo.c	1.5	03/12/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <port_before.h>
 

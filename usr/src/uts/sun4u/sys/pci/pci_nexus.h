@@ -27,7 +27,7 @@
 #ifndef	_SYS_PCI_NEXUS_H
 #define	_SYS_PCI_NEXUS_H
 
-#pragma ident	"@(#)pci_nexus.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -25,7 +25,7 @@
  *
  * sock_test.c.  Implementing a CLI for inetboot testing.
  */
-#pragma ident	"@(#)sock_test.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include "socket_impl.h"

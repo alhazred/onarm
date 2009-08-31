@@ -33,7 +33,7 @@
  * California.
  */
 
-#pragma ident	"@(#)authsys_prot.c	1.16	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * XDR for UNIX style authentication parameters for RPC

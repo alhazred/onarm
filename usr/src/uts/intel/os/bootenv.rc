@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#pragma ident	"@(#)bootenv.rc	1.36	06/12/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	bootenv.rc -- boot "environment variables"
 #

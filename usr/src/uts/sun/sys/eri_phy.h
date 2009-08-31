@@ -27,7 +27,7 @@
 #ifndef	_SYS_ERI_PHY_H
 #define	_SYS_ERI_PHY_H
 
-#pragma ident	"@(#)eri_phy.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

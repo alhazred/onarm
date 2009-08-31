@@ -1,4 +1,4 @@
-#pragma ident	"@(#)ser_ctx.c	1.4	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/krb/ser_ctx.c
  *

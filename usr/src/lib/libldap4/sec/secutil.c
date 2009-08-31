@@ -8,7 +8,7 @@
  *
  */
 
-#pragma ident	"@(#)secutil.c	1.4	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <string.h>

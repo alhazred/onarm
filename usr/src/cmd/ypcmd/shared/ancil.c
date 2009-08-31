@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)ancil.c	1.5	06/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dirent.h>
 #include "../ypsym.h"

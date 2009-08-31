@@ -20,7 +20,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)Uutry	1.5	05/06/08 SMI"	/* from SVR4 bnu:Uutry 2.6.1.8 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:Uutry 2.6.1.8 */
 export IFS PATH
 IFS=" 	
 "

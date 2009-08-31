@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nxge_rxdma.c	1.17	08/03/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/nxge/nxge_impl.h>
 #include <sys/nxge/nxge_rxdma.h>

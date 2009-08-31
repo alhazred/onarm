@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bpp.c	1.42	05/12/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Source code for the bidirectional parallel port
@@ -214,7 +214,7 @@ static struct dev_ops bpp_ops =
  */
 static	struct modldrv modldrv = {
 	&mod_driverops,				/* type of module - driver */
-	"pport driver: bpp 1.42 05/12/08",		/* name of module  */
+	"pport driver: bpp %I% %E%",		/* name of module  */
 	&bpp_ops				/* *Drv_dev_ops		*/
 };
 

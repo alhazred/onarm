@@ -27,7 +27,7 @@
 #ifndef	_SYS_CLOCK_TICK_H
 #define	_SYS_CLOCK_TICK_H
 
-#pragma ident	"@(#)clock_tick.h	1.1	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/mutex.h>

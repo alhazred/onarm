@@ -27,7 +27,7 @@
 #ifndef _SYS_SCSI_ADAPTERS_EMUL64_H
 #define	_SYS_SCSI_ADAPTERS_EMUL64_H
 
-#pragma ident	"@(#)emul64.h	1.2	05/12/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines the commands and structures for three emul64 ioctls,

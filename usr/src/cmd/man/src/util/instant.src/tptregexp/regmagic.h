@@ -3,4 +3,4 @@
  * number; the start node begins in the second byte.
  */
 #define	MAGIC	0234
-#pragma ident	"@(#)regmagic.h	1.2	00/05/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

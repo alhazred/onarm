@@ -27,7 +27,7 @@
 #ifndef _ATA_FSM_H
 #define	_ATA_FSM_H
 
-#pragma ident	"@(#)ata_fsm.h	1.3	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

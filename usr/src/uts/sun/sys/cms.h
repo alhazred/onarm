@@ -26,7 +26,7 @@
 #ifndef _SYS_CMS_H
 #define	_SYS_CMS_H
 
-#pragma ident	"@(#)cms.h	1.6	05/06/08 SMI"	/* SunOS-4.1.2 10.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS-4.1.2 10.4 */
 
 #ifdef	__cplusplus
 extern "C" {

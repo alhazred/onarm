@@ -34,7 +34,7 @@
 #ifndef _NSS_COMMON_H
 #define	_NSS_COMMON_H
 
-#pragma ident	"@(#)nss_common.h	1.13	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <synch.h>
 

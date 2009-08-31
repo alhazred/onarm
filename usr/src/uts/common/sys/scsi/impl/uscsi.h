@@ -30,7 +30,7 @@
 #ifndef _SYS_SCSI_IMPL_USCSI_H
 #define	_SYS_SCSI_IMPL_USCSI_H
 
-#pragma ident	"@(#)uscsi.h	1.28	07/05/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

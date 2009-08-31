@@ -27,7 +27,7 @@
 #ifndef _METASSIST_H
 #define	_METASSIST_H
 
-#pragma ident	"@(#)metassist.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

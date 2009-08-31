@@ -27,7 +27,7 @@
 #ifndef	_KCMD_H
 #define	_KCMD_H
 
-#pragma ident	"@(#)kcmd.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

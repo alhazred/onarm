@@ -61,7 +61,7 @@
 #ifndef KRB5_KDB5__
 #define KRB5_KDB5__
 
-#pragma ident	"@(#)kdb.h	1.5	08/01/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /* Salt types */

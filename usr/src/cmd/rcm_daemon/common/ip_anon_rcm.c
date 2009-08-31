@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_anon_rcm.c	1.4	06/01/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * RCM module to prevent plumbed IP addresses from being removed.
@@ -136,7 +136,7 @@ rcm_mod_init()
 const char *
 rcm_mod_info()
 {
-	return ("RCM IP address module 1.4");
+	return ("RCM IP address module %I%");
 }
 
 int

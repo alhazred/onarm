@@ -28,7 +28,7 @@
  * All rights reserved.
  */
 
-#pragma	ident	"@(#)ckpath.c	1.11	05/06/08 SMI"	/* SVr4.0 1.3 */
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3 */
 /*LINTLIBRARY*/
 
 #include <stdio.h>

@@ -41,7 +41,7 @@ Move ReadDDNSSettingsFromConfFile() from mDNSMacOSX.c to PlatformCommon.c
 
  */
 
-#pragma ident	"@(#)PlatformCommon.c	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>				// Needed for fopen() etc.
 #include <unistd.h>				// Needed for close()

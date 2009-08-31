@@ -2,7 +2,7 @@
 # Copyright (c) 2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-# ident	"@(#)tzselect.po	1.2	01/09/27 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # The tzselect command is located in usr/src/cmd/zic.
 #

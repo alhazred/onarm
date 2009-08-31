@@ -24,7 +24,7 @@
  *	Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nfs4_client_debug.c	1.16	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cred.h>
 #include <sys/kstat.h>

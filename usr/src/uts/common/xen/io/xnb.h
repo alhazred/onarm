@@ -29,7 +29,7 @@
 #ifndef _SYS_XNB_H
 #define	_SYS_XNB_H
 
-#pragma ident	"@(#)xnb.h	1.3	08/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/kstat.h>

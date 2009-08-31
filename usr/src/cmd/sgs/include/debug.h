@@ -31,7 +31,7 @@
 #ifndef	_DEBUG_H
 #define	_DEBUG_H
 
-#pragma ident	"@(#)debug.h	1.155	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Global include file for lddbg debugging.

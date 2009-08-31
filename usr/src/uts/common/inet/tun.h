@@ -27,7 +27,7 @@
 #ifndef	_INET_TUN_H
 #define	_INET_TUN_H
 
-#pragma ident	"@(#)tun.h	1.16	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

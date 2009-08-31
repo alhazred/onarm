@@ -24,7 +24,7 @@
 #ifndef	_SYS_FS_ZFS_ACL_H
 #define	_SYS_FS_ZFS_ACL_H
 
-#pragma ident	"@(#)zfs_acl.h	1.3	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _UID_T
 #define	_UID_T

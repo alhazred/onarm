@@ -27,7 +27,7 @@
 #ifndef _SYS_FS_UFS_MOUNT_H
 #define	_SYS_FS_UFS_MOUNT_H
 
-#pragma ident	"@(#)ufs_mount.h	1.25	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

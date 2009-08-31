@@ -35,7 +35,7 @@
  * within IP (IPv4 or IPv6)
  */
 
-#pragma ident	"@(#)tun.c	1.49	08/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stream.h>

@@ -27,7 +27,7 @@
 #ifndef _SYS_AGPDEFS_H
 #define	_SYS_AGPDEFS_H
 
-#pragma ident	"@(#)agpdefs.h	1.9	08/02/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

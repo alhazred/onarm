@@ -27,7 +27,7 @@
 #ifndef _CUPS_DEBUG_H_
 #define _CUPS_DEBUG_H_
 
-#pragma ident	"@(#)debug.h	1.1	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Include necessary headers...

@@ -27,7 +27,7 @@
 #ifndef _SYS_FS_CACHEFS_FILEGRP_H
 #define	_SYS_FS_CACHEFS_FILEGRP_H
 
-#pragma ident	"@(#)cachefs_filegrp.h	1.26	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

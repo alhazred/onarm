@@ -25,7 +25,7 @@
  */
 
 
-#pragma ident	"@(#)mknetid.c	1.8	05/10/11 SMI"	/* SMI4.1 1.5 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SMI4.1 1.5 */
 
 /*
  * Network name to unix credential database generator.

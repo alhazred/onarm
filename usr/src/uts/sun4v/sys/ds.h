@@ -27,7 +27,7 @@
 #ifndef _DS_H
 #define	_DS_H
 
-#pragma ident	"@(#)ds.h	1.1	06/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Domain Services Client Interface

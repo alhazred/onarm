@@ -26,7 +26,7 @@
 #ifndef _NPI_MAC_H
 #define	_NPI_MAC_H
 
-#pragma ident	"@(#)npi_mac.h	1.2	07/10/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

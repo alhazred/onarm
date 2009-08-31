@@ -26,7 +26,7 @@
 #ifndef _ASM_CPU_H
 #define	_ASM_CPU_H
 
-#pragma ident	"@(#)cpu.h	1.4	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

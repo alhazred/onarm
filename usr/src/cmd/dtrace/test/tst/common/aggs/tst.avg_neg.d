@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tst.avg_neg.d	1.1	08/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

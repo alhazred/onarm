@@ -27,7 +27,7 @@
 #ifndef _ADUTILS_H
 #define	_ADUTILS_H
 
-#pragma ident	"@(#)adutils.h	1.5	08/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
 #ifndef _ASM_CLOCK_H
 #define	_ASM_CLOCK_H
 
-#pragma ident	"@(#)clock.h	1.4	07/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/time.h>

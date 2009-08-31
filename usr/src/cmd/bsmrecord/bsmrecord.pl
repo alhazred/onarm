@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)bsmrecord.pl	1.5	06/10/20 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # bsmrecord - display one or more audit records
 

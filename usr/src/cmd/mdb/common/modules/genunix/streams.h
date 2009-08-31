@@ -27,7 +27,7 @@
 #ifndef	_STREAMS_H
 #define	_STREAMS_H
 
-#pragma ident	"@(#)streams.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

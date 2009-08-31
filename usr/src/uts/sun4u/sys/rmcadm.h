@@ -27,7 +27,7 @@
 #ifndef _SYS_RMCADM_IMPL_H
 #define	_SYS_RMCADM_IMPL_H
 
-#pragma ident	"@(#)rmcadm.h	1.2	05/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

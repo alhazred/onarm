@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_USB_CDC_H
 #define	_SYS_USB_USB_CDC_H
 
-#pragma ident	"@(#)usb_cdc.h	1.1	06/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/dditypes.h>

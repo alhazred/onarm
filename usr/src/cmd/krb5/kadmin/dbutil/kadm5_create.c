@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kadm5_create.c	1.9	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Copyright 1993 OpenVision Technologies, Inc., All Rights Reserved.
  *

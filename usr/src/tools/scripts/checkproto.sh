@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 # 
-#ident	"@(#)checkproto.sh	1.10	06/05/16 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 MACH=`uname -p`
 PLIST=/tmp/protolist.$$

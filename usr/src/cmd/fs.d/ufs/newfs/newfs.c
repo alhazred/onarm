@@ -19,7 +19,7 @@
  * CDDL HEADER END
  */
 
-#pragma ident	"@(#)newfs.c	1.44	08/01/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 	/* from UCB 5.2 9/11/85 */
 
 /*

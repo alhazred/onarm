@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kdb5.c	1.2	08/01/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Copyright 2006 by the Massachusetts Institute of Technology.
  * All Rights Reserved.

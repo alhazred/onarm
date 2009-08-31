@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)logging_p.h	1.4	01/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef LOGGING_P_H
 #define LOGGING_P_H

@@ -28,7 +28,7 @@
  *      All rights reserved.
  */
 
-#pragma ident	"@(#)wgetwstr.c	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

@@ -27,7 +27,7 @@
 #ifndef _HB_SUN4_H
 #define	_HB_SUN4_H
 
-#pragma ident	"@(#)pci_sun4.h	1.1	07/03/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/topo_mod.h>
 #include <libnvpair.h>

@@ -27,7 +27,7 @@
 #ifndef	_SYS_HOTPLUG_PCI_PCIEHPC_IMPL_H
 #define	_SYS_HOTPLUG_PCI_PCIEHPC_IMPL_H
 
-#pragma ident	"@(#)pciehpc_impl.h	1.6	06/10/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

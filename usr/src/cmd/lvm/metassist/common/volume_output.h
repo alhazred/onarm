@@ -27,7 +27,7 @@
 #ifndef _VOLUME_OUTPUT_H
 #define	_VOLUME_OUTPUT_H
 
-#pragma ident	"@(#)volume_output.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -34,7 +34,7 @@
  *	copyright is propagated.  SVr4.0 1.9
  */
 
-#pragma ident	"@(#)dispadmin.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The following is an excerpt from <sys/hrtcntl.h>. HRT timers are not

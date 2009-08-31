@@ -6,7 +6,7 @@
 #ifndef _KDC5_ERR_H
 #define	_KDC5_ERR_H
 
-#pragma ident	"@(#)kdc5_err.h	1.1	01/03/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

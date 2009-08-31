@@ -46,7 +46,7 @@
  *    undocumented identifiers listed above.
  */
 
-#pragma ident	"@(#)machid.c	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <errno.h>
 #include <stdlib.h>

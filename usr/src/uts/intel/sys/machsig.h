@@ -31,7 +31,7 @@
 #ifndef	_SYS_MACHSIG_H
 #define	_SYS_MACHSIG_H
 
-#pragma ident	"@(#)machsig.h	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

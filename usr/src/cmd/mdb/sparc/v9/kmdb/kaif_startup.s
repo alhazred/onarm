@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kaif_startup.s	1.9	07/11/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(__lint)
 #include <sys/asm_linkage.h>

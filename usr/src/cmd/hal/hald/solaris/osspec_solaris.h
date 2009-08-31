@@ -9,7 +9,7 @@
  *
  **************************************************************************/
 
-#pragma ident	"@(#)osspec_solaris.h	1.2	06/10/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef OSSPEC_SOLARIS_H
 #define OSSPEC_SOLARIS_H

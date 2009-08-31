@@ -7,7 +7,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ipft_tx.c	1.3	06/08/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint)
 static const char sccsid[] = "@(#)ipft_tx.c	1.7 6/5/96 (C) 1993 Darren Reed";

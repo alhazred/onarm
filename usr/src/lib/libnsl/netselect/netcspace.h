@@ -36,7 +36,7 @@
 #ifndef _NSS_NETCSPACE_H
 #define	_NSS_NETCSPACE_H
 
-#pragma ident	"@(#)netcspace.h	1.13	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

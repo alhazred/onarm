@@ -42,7 +42,7 @@
  * IF IBM IS APPRISED OF THE POSSIBILITY OF SUCH DAMAGES.
  */
 
-#pragma ident	"@(#)base64.c	1.5	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "includes.h"
 

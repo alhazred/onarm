@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)sigstack.c	1.8	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak sigstack = _sigstack
 

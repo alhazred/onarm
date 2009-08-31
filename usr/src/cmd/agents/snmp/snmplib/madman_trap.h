@@ -26,7 +26,7 @@
 #ifndef _MADMAN_TRAP_H_
 #define _MADMAN_TRAP_H_
 
-#pragma ident	"@(#)madman_trap.h	1.5	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /***** GLOBAL CONSTANTS *****/
 

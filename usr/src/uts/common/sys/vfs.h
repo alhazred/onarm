@@ -34,7 +34,7 @@
 #ifndef _SYS_VFS_H
 #define	_SYS_VFS_H
 
-#pragma ident	"@(#)vfs.h	1.113	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/t_lock.h>

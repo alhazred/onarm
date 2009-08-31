@@ -26,7 +26,7 @@
 #ifndef _SYS_DRMACH_H_
 #define	_SYS_DRMACH_H_
 
-#pragma ident	"@(#)drmach.h	1.3	07/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -41,7 +41,7 @@
  *
  */
 
-#pragma ident	"@(#)escparse.y	1.6	06/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

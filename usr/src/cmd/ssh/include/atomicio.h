@@ -29,7 +29,7 @@
 
 /*	$OpenBSD: atomicio.h,v 1.4 2001/06/26 06:32:46 itojun Exp $	*/
 
-#pragma ident	"@(#)atomicio.h	1.5	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

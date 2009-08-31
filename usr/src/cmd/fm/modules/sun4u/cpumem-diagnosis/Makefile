@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile	1.14	07/08/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 ARCH = sun4u
 

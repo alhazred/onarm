@@ -27,7 +27,7 @@
 #ifndef _SUNFM_H
 #define	_SUNFM_H
 
-#pragma ident	"@(#)fmd_snmp.h	1.1	06/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _SYS_XPV_SUPPORT_H
 #define	_SYS_XPV_SUPPORT_H
 
-#pragma ident	"@(#)xpv_support.h	1.1	07/12/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

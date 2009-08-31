@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)arcfour_crypt_asm.s	1.5	07/02/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(lint) || defined(__lint)
 	/* LINTED */

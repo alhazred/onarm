@@ -25,7 +25,7 @@
  */
 
 #ifndef lint
-#pragma ident	"@(#)touch.c	1.7	05/10/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #endif
 
 #include <stdio.h>

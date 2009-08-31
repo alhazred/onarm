@@ -41,7 +41,7 @@
 static char *printf_id = "@(#) printf.c:2.2 6/5/79";
 /* The local sccs version within ex */
 
-#pragma ident	"@(#)printf.c	1.12	05/10/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdarg.h>
 #include <stdlib.h>

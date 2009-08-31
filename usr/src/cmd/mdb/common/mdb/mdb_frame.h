@@ -26,7 +26,7 @@
 #ifndef	_MDB_FRAME_H
 #define	_MDB_FRAME_H
 
-#pragma ident	"@(#)mdb_frame.h	1.8	06/12/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_module.h>
 #include <mdb/mdb_addrvec.h>

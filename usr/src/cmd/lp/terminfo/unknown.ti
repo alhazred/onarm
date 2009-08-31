@@ -23,7 +23,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)unknown.ti	1.4	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 unknown,
 	am, gn,
 	cols#80,

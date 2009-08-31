@@ -28,7 +28,7 @@
 #ifndef	_FSCK_FSCK_H
 #define	_FSCK_FSCK_H
 
-#pragma ident	"@(#)fsck.h	1.34	07/04/20 SMI"	/* SVr4.0 1.3   */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3   */
 
 #ifdef	__cplusplus
 extern "C" {

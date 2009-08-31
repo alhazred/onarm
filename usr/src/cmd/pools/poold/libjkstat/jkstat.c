@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)jkstat.c	1.6	05/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stddef.h>
 #include <kstat.h>

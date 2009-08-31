@@ -26,7 +26,7 @@
 #ifndef _SYS_SUNTTY_H
 #define	_SYS_SUNTTY_H
 
-#pragma ident	"@(#)suntty.h	1.10	05/06/08 SMI" /* SunOS 4.0 1.5 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* SunOS 4.0 1.5 */
 
 #ifdef	__cplusplus
 extern "C" {

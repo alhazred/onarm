@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lslabels.c	1.1	07/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	lslabels - Display all labels dominating the specified label.

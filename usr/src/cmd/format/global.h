@@ -30,7 +30,7 @@
 #ifndef	_GLOBAL_H
 #define	_GLOBAL_H
 
-#pragma ident	"@(#)global.h	1.35	07/07/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

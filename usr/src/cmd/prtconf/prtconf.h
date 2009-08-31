@@ -27,7 +27,7 @@
 #ifndef	_PRT_CONF_H
 #define	_PRT_CONF_H
 
-#pragma ident	"@(#)prtconf.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

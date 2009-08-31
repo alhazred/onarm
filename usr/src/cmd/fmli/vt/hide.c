@@ -27,7 +27,7 @@
  * Copyright  (c) 1986 AT&T
  *	All Rights Reserved
  */
-#ident	"@(#)hide.c	1.7	05/06/08 SMI"       /* SVr4.0 1.9 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.9 */
 
 #include	<curses.h>
 #include	"wish.h"

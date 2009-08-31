@@ -1,7 +1,7 @@
 #pragma ident	"@(#)ISO8859InputCodingSystem.h	1.2	97/04/24 SMI"
 // Copyright (c) 1995 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)ISO8859InputCodingSystem.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef ISO8859InputCodingSystem_INCLUDED
 #define ISO8859InputCodingSystem_INCLUDED 1

@@ -27,7 +27,7 @@
 #ifndef	_PROCESS_DUMP_H
 #define	_PROCESS_DUMP_H
 
-#pragma ident	"@(#)process_dump.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "libcontract_impl.h"
 

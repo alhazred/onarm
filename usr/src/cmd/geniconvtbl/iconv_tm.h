@@ -27,7 +27,7 @@
 #ifndef _ICONV_TM_H
 #define	_ICONV_TM_H
 
-#pragma ident	"@(#)iconv_tm.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

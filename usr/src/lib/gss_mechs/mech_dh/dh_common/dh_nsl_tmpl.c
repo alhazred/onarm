@@ -26,7 +26,7 @@
  *	All rights reserved.
  */
 
-#pragma ident	"@(#)dh_nsl_tmpl.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Entry points for key generation for libnsl. This file should

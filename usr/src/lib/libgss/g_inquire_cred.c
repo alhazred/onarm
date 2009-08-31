@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)g_inquire_cred.c	1.18	05/06/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  glue routine for gss_inquire_cred

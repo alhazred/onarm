@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)svc_vc.c	1.71	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Server side for Connection Oriented RPC.

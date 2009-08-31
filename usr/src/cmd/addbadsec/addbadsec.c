@@ -34,7 +34,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)addbadsec.c	1.13	05/08/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <fcntl.h>

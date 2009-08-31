@@ -45,7 +45,7 @@
  * Sun elects to use this software under the MPL license.
  */
 
-#pragma ident	"@(#)mplogic.c	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* $Id: mplogic.c,v 1.15 2004/04/27 23:04:36 gerv%gerv.net Exp $ */
 

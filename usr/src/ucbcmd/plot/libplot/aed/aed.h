@@ -15,7 +15,7 @@
 #ifndef _AED_H
 #define _AED_H
 
-#pragma ident	"@(#)aed.h	1.3	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Displays plot files on an AED512 graphics terminal.

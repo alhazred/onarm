@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)filesys_rcm.c	1.9	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This module adds support to the RCM framework for mounted filesystems.
@@ -160,7 +160,7 @@ rcm_mod_init()
 const char *
 rcm_mod_info()
 {
-	return ("File system module 1.9");
+	return ("File system module %I%");
 }
 
 /*

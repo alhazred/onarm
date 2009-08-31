@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cfg_link.c	1.23	07/03/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <devfsadm.h>
 #include <stdio.h>

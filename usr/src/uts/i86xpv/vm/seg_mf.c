@@ -32,7 +32,7 @@
  * supported by this driver due to the requirements upon some of the ioctl()s.
  */
 
-#pragma ident	"@(#)seg_mf.c	1.2	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/systm.h>

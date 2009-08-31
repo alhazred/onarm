@@ -26,7 +26,7 @@
 #ifndef _SYS_SDEV_NODE_H
 #define	_SYS_SDEV_NODE_H
 
-#pragma ident	"@(#)sdev_node.h	1.1	06/08/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/fs/sdev_impl.h>

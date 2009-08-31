@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_so_shutdown.s	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_so_shutdown.s"
+	.file	"%M%"
 
 /* C library -- _so_shutdown					*/
 /* int _so_shutdown (int fildes, int how, int vers);		*/

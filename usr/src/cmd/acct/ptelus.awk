@@ -1,4 +1,4 @@
-#ident	"@(#)ptelus.awk	1.4	05/06/08 SMI"	/* SVr4.0 1.8	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8	*/
 #
 # CDDL HEADER START
 #

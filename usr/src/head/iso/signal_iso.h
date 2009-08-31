@@ -47,7 +47,7 @@
 #ifndef _ISO_SIGNAL_ISO_H
 #define	_ISO_SIGNAL_ISO_H
 
-#pragma ident	"@(#)signal_iso.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* SVr4.0 1.5.3.4 */
 
 #include <sys/iso/signal_iso.h>

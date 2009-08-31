@@ -27,7 +27,7 @@
 #ifndef	_DTRACE_JNI_H
 #define	_DTRACE_JNI_H
 
-#pragma ident	"@(#)dtrace_jni.h	1.3	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libuutil.h>
 #include <jni.h>

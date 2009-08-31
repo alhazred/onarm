@@ -30,7 +30,7 @@
 #ifndef _SYS_DL_H
 #define	_SYS_DL_H
 
-#pragma ident	"@(#)dl.h	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 

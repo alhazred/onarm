@@ -3,7 +3,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)svc-kdc.slave	1.1	05/03/22 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 . /lib/svc/share/smf_include.sh
 . /lib/svc/share/krb_include.sh

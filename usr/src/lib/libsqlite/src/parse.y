@@ -32,7 +32,7 @@
 %name sqliteParser
 %include {
 
-#pragma ident	"@(#)parse.y	1.2	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "sqliteInt.h"
 #include "parse.h"

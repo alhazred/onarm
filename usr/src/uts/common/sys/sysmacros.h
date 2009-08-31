@@ -30,7 +30,7 @@
 #ifndef _SYS_SYSMACROS_H
 #define	_SYS_SYSMACROS_H
 
-#pragma ident	"@(#)sysmacros.h	1.45	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 

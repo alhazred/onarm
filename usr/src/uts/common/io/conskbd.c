@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)conskbd.c	5.69	07/10/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Console kbd multiplexor driver for Sun.
@@ -213,7 +213,7 @@ static struct dev_ops conskbd_ops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"conskbd multiplexer driver 5.69",
+	"conskbd multiplexer driver %I%",
 	&conskbd_ops,	/* driver ops */
 };
 

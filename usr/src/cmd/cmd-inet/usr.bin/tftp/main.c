@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)main.c	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * TFTP User Program -- Command Interface.

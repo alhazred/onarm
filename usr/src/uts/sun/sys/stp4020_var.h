@@ -27,7 +27,7 @@
 #ifndef _STP4020_VAR_H
 #define	_STP4020_VAR_H
 
-#pragma ident	"@(#)stp4020_var.h	1.23	05/06/08 SMI"
+#pragma ident	"%W%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

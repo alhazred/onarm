@@ -7,7 +7,7 @@
 #ifndef	_PATHNAMES_H
 #define	_PATHNAMES_H
 
-#pragma ident	"@(#)pathnames.h	1.6	04/07/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

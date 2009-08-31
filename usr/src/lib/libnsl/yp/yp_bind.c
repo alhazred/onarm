@@ -33,7 +33,7 @@
  * California.
  */
 
-#pragma ident	"@(#)yp_bind.c	1.60	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include "../rpc/rpc_mt.h"

@@ -27,7 +27,7 @@
 #ifndef	_SIP_PARSE_URI_H
 #define	_SIP_PARSE_URI_H
 
-#pragma ident	"@(#)sip_parse_uri.h	1.1	06/10/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

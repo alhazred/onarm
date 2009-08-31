@@ -30,7 +30,7 @@
 #ifndef	_LIBCMDUTILS_H
 #define	_LIBCMDUTILS_H
 
-#pragma ident	"@(#)libcmdutils.h	1.3	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is a private header file.  Applications should not directly include

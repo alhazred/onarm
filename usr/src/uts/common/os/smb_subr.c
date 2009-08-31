@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smb_subr.c	1.1	05/08/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/smbios_impl.h>
 #include <sys/cmn_err.h>

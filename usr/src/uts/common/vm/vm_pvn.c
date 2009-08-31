@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)vm_pvn.c	1.190	07/05/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * VM - paged vnode.

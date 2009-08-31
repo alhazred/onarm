@@ -26,7 +26,7 @@
 #ifndef _ELF_BOOT_H
 #define	_ELF_BOOT_H
 
-#ident	"@(#)elf_boot.h	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Attribute/value structures used to bootstrap ELF-based dynamic linker.

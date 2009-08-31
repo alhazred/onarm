@@ -42,7 +42,7 @@
 	To do:
 	- display resolved TXTRecord
 
-ident	"@(#)BrowserApp.java	1.1	07/08/13 SMI"
+ident	"%Z%%M%	%I%	%E% SMI"
 
  */
 

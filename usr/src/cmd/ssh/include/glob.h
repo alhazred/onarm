@@ -4,7 +4,7 @@
 #ifndef	_GLOB_H
 #define	_GLOB_H
 
-#pragma ident	"@(#)glob.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

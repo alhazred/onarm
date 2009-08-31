@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)hdr2map.sh	1.4	06/03/09 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #

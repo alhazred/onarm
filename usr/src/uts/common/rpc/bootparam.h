@@ -26,7 +26,7 @@
 #ifndef	_RPC_BOOTPARAM_H
 #define	_RPC_BOOTPARAM_H
 
-#pragma ident	"@(#)bootparam.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _KERNEL
 #include <rpc/types.h>

@@ -27,7 +27,7 @@
 #ifndef	_LOWLEVEL_IMPL_H
 #define	_LOWLEVEL_IMPL_H
 
-#pragma ident	"@(#)lowlevel_impl.h	1.4	05/08/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "libscf_impl.h"
 

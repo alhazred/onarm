@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ktutil_funcs.c	1.6	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

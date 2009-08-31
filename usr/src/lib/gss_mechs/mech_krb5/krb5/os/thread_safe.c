@@ -1,4 +1,4 @@
-#pragma ident	"@(#)thread_safe.c	1.1	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/os/thread_safec
  *

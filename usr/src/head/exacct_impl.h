@@ -27,7 +27,7 @@
 #ifndef	_EXACCT_IMPL_H
 #define	_EXACCT_IMPL_H
 
-#pragma ident	"@(#)exacct_impl.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/exacct.h>
 #include <stdio.h>

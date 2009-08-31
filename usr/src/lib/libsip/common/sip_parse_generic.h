@@ -27,7 +27,7 @@
 #ifndef	_SIP_PARSE_GENERIC_H
 #define	_SIP_PARSE_GENERIC_H
 
-#pragma ident	"@(#)sip_parse_generic.h	1.3	07/09/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

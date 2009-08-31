@@ -27,7 +27,7 @@
  * Copyright  (c) 1985 AT&T
  *	All Rights Reserved
  */
-#ident	"@(#)if_ascii.c	1.7	05/06/08 SMI"       /* SVr4.0 1.11 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.11 */
 
 #include <stdio.h>
 #include <sys/types.h>

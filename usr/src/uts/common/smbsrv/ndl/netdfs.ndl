@@ -26,7 +26,7 @@
 #ifndef _NETDFS_NDL_
 #define	_NETDFS_NDL_
 
-#pragma ident	"@(#)netdfs.ndl	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * NT Distributed File Service (NETDFS) RPC interface definition.

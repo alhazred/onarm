@@ -9,7 +9,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)vmstat.c	1.35	07/10/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* from UCB 5.4 5/17/86 */
 /* from SunOS 4.1, SID 1.31 */

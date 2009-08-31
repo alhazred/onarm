@@ -30,7 +30,7 @@
 #ifndef _SYS_ELF_SPARC_H
 #define	_SYS_ELF_SPARC_H
 
-#pragma ident	"@(#)elf_SPARC.h	1.35	06/09/28 SMI"	/* SVr4.0 1.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2 */
 
 #ifdef	__cplusplus
 extern "C" {

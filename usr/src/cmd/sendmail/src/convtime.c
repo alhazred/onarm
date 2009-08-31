@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)convtime.c	1.15	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 

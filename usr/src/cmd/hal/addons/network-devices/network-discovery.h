@@ -5,7 +5,7 @@
  * Licensed under the Academic Free License version 2.1
  */
 
-#pragma ident	"@(#)network-discovery.h	1.1	07/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef NETWORK_DEVICE_COMMON_H
 #define	NETWORK_DEVICE_COMMON_H

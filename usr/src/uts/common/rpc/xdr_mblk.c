@@ -31,7 +31,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)xdr_mblk.c	1.34	06/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * xdr_mblk.c, XDR implementation on kernel streams mblks.

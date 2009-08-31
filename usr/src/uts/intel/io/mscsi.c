@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mscsi.c	1.6	06/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	HBA to MSCSI BUS nexus driver
@@ -103,7 +103,7 @@ struct dev_ops mscsi_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module */
-	"scsi mscsi_bus nexus driver 1.6",
+	"scsi mscsi_bus nexus driver %I%",
 	&mscsi_ops,	/* driver ops */
 };
 

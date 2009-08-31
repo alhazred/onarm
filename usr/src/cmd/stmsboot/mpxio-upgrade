@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)mpxio-upgrade	1.8	07/04/23 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 . /lib/svc/share/fs_include.sh
 . /lib/svc/share/net_include.sh

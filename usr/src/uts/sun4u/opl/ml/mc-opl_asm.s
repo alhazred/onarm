@@ -26,7 +26,7 @@
  * All Rights Reserved, Copyright (c) FUJITSU LIMITED 2006
  */
 
-#pragma ident	"@(#)mc-opl_asm.s	1.1	06/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(lint)
 #include <sys/types.h>

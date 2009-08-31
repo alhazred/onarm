@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_USBSER_DSDI_H
 #define	_SYS_USB_USBSER_DSDI_H
 
-#pragma ident	"@(#)usbser_dsdi.h	1.4	06/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * USB-to-serial device-specific driver interface (DSDI)

@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)usbsacm.c	1.2	07/11/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * USB Serial CDC ACM driver
@@ -402,7 +402,7 @@ extern struct mod_ops mod_driverops;
 /* modldrv structure */
 static struct modldrv modldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"USB Serial CDC ACM driver 1.2",
+	"USB Serial CDC ACM driver %I%",
 	&usbsacm_ops,
 };
 

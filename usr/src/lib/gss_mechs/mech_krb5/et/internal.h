@@ -1,4 +1,4 @@
-#pragma ident	"@(#)internal.h	1.1	99/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * internal include file for com_err package
  */

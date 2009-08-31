@@ -26,7 +26,7 @@
 #ifndef _SYS_DUMPHDR_H
 #define	_SYS_DUMPHDR_H
 
-#pragma ident	"@(#)dumphdr.h	1.21	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

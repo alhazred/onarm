@@ -45,7 +45,7 @@
 #ifndef _ECL_EXP_H
 #define _ECL_EXP_H
 
-#pragma ident	"@(#)ecl-exp.h	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Curve field type */
 typedef enum {

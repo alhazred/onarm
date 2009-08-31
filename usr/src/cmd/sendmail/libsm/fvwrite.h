@@ -14,7 +14,7 @@
  * $Id: fvwrite.h,v 1.7 2001/03/02 00:18:19 ca Exp $
  */
 
-#pragma ident	"@(#)fvwrite.h	1.1	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* I/O descriptors for sm_fvwrite() */
 struct sm_iov

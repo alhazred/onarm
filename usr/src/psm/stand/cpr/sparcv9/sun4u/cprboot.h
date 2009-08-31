@@ -26,7 +26,7 @@
 #ifndef _CPRBOOT_H
 #define	_CPRBOOT_H
 
-#pragma ident	"@(#)cprboot.h	1.9	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

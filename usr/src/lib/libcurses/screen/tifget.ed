@@ -1,7 +1,7 @@
 H
 !rm -f tifget.c
 0a
-#pragma ident	"@(#)tifget.ed	1.9	06/05/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines to retrieve a value based on the short terminfo name.

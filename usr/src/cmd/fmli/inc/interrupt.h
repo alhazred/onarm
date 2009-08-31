@@ -28,7 +28,7 @@
  * Copyright  (c) 1988 AT&T
  *	All Rights Reserved
  */
-#ident	"@(#)interrupt.h	1.7	05/06/08 SMI"       /* SVr4.0 1.1 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.1 */
 
 
 #define DEF_ONINTR "`message Operation interrupted!`NOP"

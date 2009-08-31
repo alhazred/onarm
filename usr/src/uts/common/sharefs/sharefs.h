@@ -27,7 +27,7 @@
 #ifndef _SHAREFS_SHAREFS_H
 #define	_SHAREFS_SHAREFS_H
 
-#pragma ident	"@(#)sharefs.h	1.1	07/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header provides service for the sharefs module.

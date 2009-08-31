@@ -19,7 +19,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)KdcGui.java	1.6	06/09/17 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.

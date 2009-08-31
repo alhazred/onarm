@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ldap_acct_mgmt.c	1.6	05/12/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ldap_headers.h"
 

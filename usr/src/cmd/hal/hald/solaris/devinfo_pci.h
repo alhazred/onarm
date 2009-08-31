@@ -9,7 +9,7 @@
  *
  **************************************************************************/
 
-#pragma ident	"@(#)devinfo_pci.h	1.2	06/10/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef DEVINFO_PCI_H
 #define DEVINFO_PCI_H

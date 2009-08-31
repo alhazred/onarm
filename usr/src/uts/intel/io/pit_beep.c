@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pit_beep.c	1.13	07/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Simple beeper support for PC platform, using standard timer 2 beeper.
@@ -97,7 +97,7 @@ static struct dev_ops pit_beep_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, 		/* This one is a driver */
-	"Intel Pit_beep Driver 1.13",    /* Name of the module. */
+	"Intel Pit_beep Driver %I%",    /* Name of the module. */
 	&pit_beep_ops,			/* Driver ops */
 };
 

@@ -167,7 +167,7 @@
 #ifndef _VNTSD_H
 #define	_VNTSD_H
 
-#pragma ident	"@(#)vntsd.h	1.3	06/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

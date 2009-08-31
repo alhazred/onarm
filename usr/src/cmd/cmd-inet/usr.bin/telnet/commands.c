@@ -1,4 +1,4 @@
-#pragma ident	"@(#)commands.c	1.38	05/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1988, 1990, 1993

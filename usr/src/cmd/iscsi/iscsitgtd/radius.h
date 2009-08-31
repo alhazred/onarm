@@ -27,7 +27,7 @@
 #ifndef	_RADIUS_H
 #define	_RADIUS_H
 
-#pragma ident	"@(#)radius.h	1.1	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

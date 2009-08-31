@@ -26,7 +26,7 @@
 #ifndef	__YPV1_PROT_H
 #define	__YPV1_PROT_H
 
-#pragma ident	"@(#)ypv1_prot.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

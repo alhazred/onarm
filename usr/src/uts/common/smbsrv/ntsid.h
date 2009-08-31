@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_NTSID_H
 #define	_SMBSRV_NTSID_H
 
-#pragma ident	"@(#)ntsid.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * NT Security Identifier (SID) interface definition.

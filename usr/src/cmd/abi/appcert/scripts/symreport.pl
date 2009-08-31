@@ -24,7 +24,7 @@
 # Copyright (c) 1996-2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)symreport.pl	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #

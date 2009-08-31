@@ -26,7 +26,7 @@ Change line endings for CVS.
 Revision 1.1  2004/04/30 16:29:35  rpantos
 First checked in.
 
-ident	"@(#)BaseListener.java	1.1	07/08/13 SMI"
+ident	"%Z%%M%	%I%	%E% SMI"
 
  */
 

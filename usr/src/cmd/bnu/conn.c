@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)conn.c	1.20	05/10/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include "uucp.h"

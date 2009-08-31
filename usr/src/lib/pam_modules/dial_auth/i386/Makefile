@@ -25,7 +25,7 @@
 #
 # usr/src/lib/pam_modules/dial_auth/i386/Makefile
 #
-#ident	"@(#)Makefile	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 include ../Makefile.com
 

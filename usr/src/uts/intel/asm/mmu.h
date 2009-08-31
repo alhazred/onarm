@@ -26,7 +26,7 @@
 #ifndef _ASM_MMU_H
 #define	_ASM_MMU_H
 
-#pragma ident	"@(#)mmu.h	1.4	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

@@ -12,7 +12,7 @@
  * code.
  */
 
-#pragma ident	"@(#)ip_rcmd_pxy.c	1.4	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	IPF_RCMD_PROXY
 

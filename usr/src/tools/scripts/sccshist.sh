@@ -24,7 +24,7 @@
 # Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 # 
-#ident	"@(#)sccshist.sh	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #  Print sccs history of a file with
 #  comment and differences for each delta.

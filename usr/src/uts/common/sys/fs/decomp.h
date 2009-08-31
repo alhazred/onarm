@@ -26,7 +26,7 @@
 #ifndef	_SYS_DECOMP_H
 #define	_SYS_DECOMP_H
 
-#pragma ident	"@(#)decomp.h	1.1	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
 #ifndef _AVAILDEVS_H
 #define	_AVAILDEVS_H
 
-#pragma ident	"@(#)availdevs.h	1.5	07/11/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

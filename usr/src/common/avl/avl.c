@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)avl.c	1.14	06/10/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

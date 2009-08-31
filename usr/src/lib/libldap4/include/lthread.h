@@ -5,7 +5,7 @@
  *
  */
 
-#pragma ident	"@(#)lthread.h	1.3	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* lthread.h - ldap threads header file */
 

@@ -27,7 +27,7 @@
 
 /* $Id: service.c 171 2006-05-20 06:00:32Z njacobs $ */
 
-#pragma ident	"@(#)service.c	1.1	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

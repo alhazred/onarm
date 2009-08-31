@@ -34,7 +34,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getline.c	1.2	06/06/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Standard headers.

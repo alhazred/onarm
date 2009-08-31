@@ -27,7 +27,7 @@
  *  nisplus/getprinter.c
  */
 
-#pragma ident	"@(#)getprinter.c	1.5	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak _nss_nisplus__printers_constr = _nss_nisplus_printers_constr
 

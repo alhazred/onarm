@@ -26,7 +26,7 @@
 #ifndef	_BROWSER_H_
 #define	_BROWSER_H_
 
-#pragma ident	"@(#)smbns_browser.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * NetBIOS name types describe the functionality of the registration.

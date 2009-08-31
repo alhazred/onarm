@@ -40,7 +40,7 @@
 #ifndef _VM_REBOOT_H
 #define	_VM_REBOOT_H
 
-#pragma ident	"@(#)reboot.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Arguments to reboot system call and flags to init.

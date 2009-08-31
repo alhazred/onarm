@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)refclock_leitch.c	1.3	06/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * refclock_leitch - clock driver for the Leitch CSD-5300 Master Clock

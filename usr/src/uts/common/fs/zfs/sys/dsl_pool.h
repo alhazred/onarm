@@ -30,7 +30,7 @@
 #ifndef	_SYS_DSL_POOL_H
 #define	_SYS_DSL_POOL_H
 
-#pragma ident	"@(#)dsl_pool.h	1.4	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/spa.h>
 #include <sys/txg.h>

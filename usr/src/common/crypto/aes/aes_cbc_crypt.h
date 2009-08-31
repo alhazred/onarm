@@ -26,7 +26,7 @@
 #ifndef	_AES_CBC_CRYPT_H
 #define	_AES_CBC_CRYPT_H
 
-#pragma ident	"@(#)aes_cbc_crypt.h	1.6	07/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

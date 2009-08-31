@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)cw.c	1.25	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Wrapper for the GNU C compiler to make it accept the Sun C compiler
@@ -1903,7 +1903,7 @@ main(int argc, char **argv)
 	 *		ask each for its version if we know how.
 	 */
 	if (argc > 1 && strcmp(argv[1], "-_versions") == 0) {
-		(void) printf("%s", "cw version 1.25");
+		(void) printf("%s", "cw version %I%");
 		if (!do_shadow)
 			(void) printf(" (SHADOW MODE DISABLED)");
 		(void) printf("\n");

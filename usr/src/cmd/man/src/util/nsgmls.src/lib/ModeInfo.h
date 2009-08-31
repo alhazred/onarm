@@ -8,7 +8,7 @@
  * See the file COPYING for copying permission.
  */
 
-#pragma ident	"@(#)ModeInfo.h	1.5	05/08/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _MODEINFO_H
 #define	_MODEINFO_H

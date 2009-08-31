@@ -27,7 +27,7 @@
 #ifndef	_DIS_TARGET_H
 #define	_DIS_TARGET_H
 
-#pragma ident	"@(#)dis_target.h	1.1	06/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -39,7 +39,7 @@
 #ifndef _SYS_PARAM_H
 #define	_SYS_PARAM_H
 
-#pragma ident	"@(#)param.h	1.89	08/03/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM		/* Avoid typedef headaches for assembly files */
 #include <sys/types.h>

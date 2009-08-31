@@ -22,7 +22,7 @@
 #
 # Copyright (c) 1989 by Sun Microsystems, Inc.
 # All rights reserved.
-#ident	"@(#)Makefile	1.14	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/nametoaddr/Makefile
 #

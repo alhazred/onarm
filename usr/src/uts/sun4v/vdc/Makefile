@@ -25,7 +25,7 @@
 #
 # uts/sun4v/vdc/Makefile
 #
-#ident	"@(#)Makefile	1.4	07/12/07 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the vdc driver module.
 #

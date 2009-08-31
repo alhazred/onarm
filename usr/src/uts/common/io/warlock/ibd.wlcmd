@@ -21,7 +21,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)ibd.wlcmd	1.5	06/11/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 one	ibd_state_s
 

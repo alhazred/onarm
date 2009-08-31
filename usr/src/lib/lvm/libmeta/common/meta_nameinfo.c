@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)meta_nameinfo.c	2.19	06/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dlfcn.h>
 #include <meta.h>

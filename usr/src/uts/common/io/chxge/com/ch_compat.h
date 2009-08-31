@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)ch_compat.h	1.3	07/03/15 SMI"	/* ch_compat.h */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* ch_compat.h */
 
 #ifndef CHELSIO_T1_COMPAT_H
 #define	CHELSIO_T1_COMPAT_H

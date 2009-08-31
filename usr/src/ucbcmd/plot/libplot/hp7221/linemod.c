@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)linemod.c	1.3	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "hp7221.h"
 

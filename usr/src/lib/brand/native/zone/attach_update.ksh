@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)attach_update.ksh	1.1	08/01/14 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # This script runs within the scratch zone and updates the dependent files and

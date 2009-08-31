@@ -24,7 +24,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)intrd.pl	1.6	07/06/04 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 require 5.6.1;

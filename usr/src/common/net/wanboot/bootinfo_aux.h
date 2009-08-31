@@ -27,7 +27,7 @@
 #ifndef	_BOOTINFO_AUX_H
 #define	_BOOTINFO_AUX_H
 
-#pragma ident	"@(#)bootinfo_aux.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

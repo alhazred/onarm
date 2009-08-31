@@ -27,7 +27,7 @@
 #ifndef _SYS_FEATURE_TESTS_H
 #define	_SYS_FEATURE_TESTS_H
 
-#pragma ident	"@(#)feature_tests.h	1.26	06/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ccompile.h>
 #include <sys/isa_defs.h>

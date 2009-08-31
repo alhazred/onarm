@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)schpc.c	1.29	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Starcat IOSRAM/Tunnel PCI Hot Plug Controller Driver
@@ -255,7 +255,7 @@ static struct dev_ops schpc_dev_ops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"PCI Hot Plug Controller Driver (schpc) 1.29",
+	"PCI Hot Plug Controller Driver (schpc) %I%",
 	&schpc_dev_ops,
 };
 

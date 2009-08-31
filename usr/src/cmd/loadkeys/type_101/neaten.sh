@@ -21,7 +21,7 @@
 # CDDL HEADER END
 #
 #
-#pragma ident	"@(#)neaten.sh	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright (c) 1999 by Sun Microsystems, Inc.
 # All rights reserved.

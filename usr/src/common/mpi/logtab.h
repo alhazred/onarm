@@ -44,7 +44,7 @@
 #ifndef _LOGTAB_H
 #define _LOGTAB_H
 
-#pragma ident	"@(#)logtab.h	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 const float s_logv_2[] = {
    0.000000000f, 0.000000000f, 1.000000000f, 0.630929754f,  /*  0  1  2  3 */

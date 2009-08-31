@@ -27,7 +27,7 @@
 #ifndef	_TOPO_LIST_H
 #define	_TOPO_LIST_H
 
-#pragma ident	"@(#)topo_list.h	1.1	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/libtopo.h>
 

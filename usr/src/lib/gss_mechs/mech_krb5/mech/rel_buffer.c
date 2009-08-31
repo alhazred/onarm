@@ -1,4 +1,4 @@
-#pragma ident	"@(#)rel_buffer.c	1.3	07/09/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 1996 by Sun Microsystems, Inc.

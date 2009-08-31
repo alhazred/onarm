@@ -26,7 +26,7 @@
 #ifndef	_SYS_NVPAIR_H
 #define	_SYS_NVPAIR_H
 
-#pragma ident	"@(#)nvpair.h	1.15	07/10/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/errno.h>

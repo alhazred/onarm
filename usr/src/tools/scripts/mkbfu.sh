@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 # 
-# ident	"@(#)mkbfu.sh	1.17	07/11/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Make archives suitable for bfu
 

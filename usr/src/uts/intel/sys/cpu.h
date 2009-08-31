@@ -26,7 +26,7 @@
 #ifndef _SYS_CPU_H
 #define	_SYS_CPU_H
 
-#pragma ident	"@(#)cpu.h	1.15	08/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING:

@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
   
-#pragma ident	"@(#)t3.c	1.6	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /* t3.c: interpret commands affecting whole table */
 # include "t..c"

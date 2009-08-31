@@ -24,7 +24,7 @@
  *	All Rights Reserved
  */
 
-#ident	"@(#)postreverse.h	1.7	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 /**
  * Structures and definitions needed for PostScript page manipulation

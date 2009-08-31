@@ -23,7 +23,7 @@
 # Copyright 1999-2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.3	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/gss_mechs/mech_spnego/i386/Makefile
 

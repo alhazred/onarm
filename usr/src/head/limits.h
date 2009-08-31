@@ -31,7 +31,7 @@
 #ifndef _LIMITS_H
 #define	_LIMITS_H
 
-#pragma ident	"@(#)limits.h	1.62	08/01/16 SMI"	/* SVr4.0 1.34  */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.34  */
 
 #include <sys/feature_tests.h>
 #include <sys/isa_defs.h>

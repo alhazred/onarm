@@ -26,7 +26,7 @@
 #ifndef _SYS_ASYNCH_H
 #define	_SYS_ASYNCH_H
 
-#pragma ident	"@(#)asynch.h	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

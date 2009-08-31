@@ -6,7 +6,7 @@
 #ifndef ISC_CTL_H
 #define ISC_CTL_H
 
-#pragma ident	"@(#)ctl.h	1.2	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1998,1999 by Internet Software Consortium.

@@ -26,7 +26,7 @@
 #ifndef _LX_SIGNUM_H
 #define	_LX_SIGNUM_H
 
-#pragma ident	"@(#)lx_signum.h	1.1	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

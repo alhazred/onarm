@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)audio1575.c	1.5	07/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * audio1575 Audio Driver
@@ -270,7 +270,7 @@ static struct dev_ops audio1575_dev_ops = {
 /* Linkage structure for loadable drivers */
 static struct modldrv audio1575_modldrv = {
 	&mod_driverops,		/* drv_modops */
-	M1575_MOD_NAME " 1.5",	/* drv_linkinfo */
+	M1575_MOD_NAME " %I%",	/* drv_linkinfo */
 	&audio1575_dev_ops,	/* drv_dev_ops */
 };
 

@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.11	07/04/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #	This makefile drives the production of the gl_kmech_krb5 kernel module.

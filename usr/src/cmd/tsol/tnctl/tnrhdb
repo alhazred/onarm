@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)tnrhdb	1.1	07/05/24 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # The following are the boot-time defaults.  These establish all IPv4 and
 # IPv6 addresses as unlabeled.  Both are removed if this file contains any

@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)crti.s	1.2	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"crti.s"
+	.file	"%M%"
 
 /*
  * These crt*.o modules are provided as the bare minimum required

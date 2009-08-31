@@ -1,4 +1,4 @@
-#pragma ident	"@(#)hash_func.c	1.2	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*-
  * Copyright (c) 1990, 1993

@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)col.c	1.21	07/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  *	col - filter reverse carraige motions
  *

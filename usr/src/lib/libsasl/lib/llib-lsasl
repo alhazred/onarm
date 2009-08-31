@@ -6,7 +6,7 @@
  * Use is subject to license terms.
  */
  
-#ident	"@(#)llib-lsasl	1.1	03/07/16 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sasl/sasl.h>
 #include <sasl/saslplug.h>

@@ -5,7 +5,7 @@
  *
  */
 
-#pragma ident	"@(#)friendly.c	1.6	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  Copyright (c) 1990 Regents of the University of Michigan.

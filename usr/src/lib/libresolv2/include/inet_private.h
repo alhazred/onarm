@@ -6,7 +6,7 @@
 #ifndef	_INET_PRIVATE_H
 #define	_INET_PRIVATE_H
 
-#pragma ident	"@(#)inet_private.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Functions defined by the ISC for BIND 8.2, but which do not appear

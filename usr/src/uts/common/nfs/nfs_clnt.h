@@ -30,7 +30,7 @@
 #ifndef	_NFS_NFS_CLNT_H
 #define	_NFS_NFS_CLNT_H
 
-#pragma ident	"@(#)nfs_clnt.h	1.94	05/12/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/utsname.h>
 #include <sys/kstat.h>

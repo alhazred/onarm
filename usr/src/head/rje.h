@@ -26,7 +26,7 @@
 #ifndef _RJE_H
 #define	_RJE_H
 
-#pragma ident	"@(#)rje.h	1.10	05/06/08 SMI"	/* SVr4.0 1.4.1.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4.1.1 */
 
 #ifdef	__cplusplus
 extern "C" {

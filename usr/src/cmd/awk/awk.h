@@ -30,7 +30,7 @@
 #ifndef AWK_H
 #define	AWK_H
 
-#pragma ident	"@(#)awk.h	1.15	06/07/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <ctype.h>

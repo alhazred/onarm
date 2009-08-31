@@ -27,7 +27,7 @@
 #ifndef _VOLUME_NVPAIR_H
 #define	_VOLUME_NVPAIR_H
 
-#pragma ident	"@(#)volume_nvpair.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

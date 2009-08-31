@@ -28,7 +28,7 @@
 #ifndef _NPD_SVCSUBR_H
 #define	_NPD_SVCSUBR_H
 
-#pragma ident	"@(#)npd_svcsubr.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpcsvc/yppasswd.h>
 

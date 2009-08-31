@@ -49,7 +49,7 @@
  * via the "#include BNINCLUDE" mechanism.
  */
  
-#pragma ident	"@(#)lbn80386.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define BN_LITTLE_ENDIAN 1
 

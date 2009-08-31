@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)dk.h	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _BNU_DK_H
 #define _BNU_DK_H

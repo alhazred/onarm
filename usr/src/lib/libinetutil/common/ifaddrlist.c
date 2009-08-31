@@ -38,7 +38,7 @@
  * @(#) $Header: ifaddrlist.c,v 1.2 97/04/22 13:31:05 leres Exp $ (LBL)
  */
 
-#pragma ident	"@(#)ifaddrlist.c	1.10	06/01/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <alloca.h>
 #include <errno.h>

@@ -26,7 +26,7 @@
 #ifndef _BOOT_VGA_H
 #define	_BOOT_VGA_H
 
-#pragma ident	"@(#)boot_vga.h	1.9	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Interface to the bootstrap's internal VGA driver.

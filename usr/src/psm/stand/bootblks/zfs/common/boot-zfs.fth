@@ -1,6 +1,6 @@
 
 
-\ ident	"@(#)boot-zfs.fth	1.1	07/11/29 SMI"
+\ ident	"%Z%%M%	%I%	%E% SMI"
 \ Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 \ Use is subject to license terms.
 \
@@ -25,7 +25,7 @@
 \
 
 
-id: @(#)boot-zfs.fth	1.1	07/11/29 SMI
+id: %Z%%M%	%I%	%E% SMI
 purpose: ZFS bootblock
 copyright: Copyright 2006 Sun Microsystems, Inc. All Rights Reserved
 

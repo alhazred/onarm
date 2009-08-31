@@ -27,7 +27,7 @@
 #ifndef	_SUN_MSGFMT_H
 #define	_SUN_MSGFMT_H
 
-#pragma ident	"@(#)sun_msgfmt.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include <locale.h>

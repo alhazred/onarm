@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)WinScrollbar.java	1.2	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  *
  * Copyright (c) 1994-1995, 2001 by Sun Microsystems, Inc. 

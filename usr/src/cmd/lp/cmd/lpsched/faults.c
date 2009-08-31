@@ -29,7 +29,7 @@
 
 
 
-#pragma ident	"@(#)faults.c	1.13	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "lpsched.h"

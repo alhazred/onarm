@@ -26,7 +26,7 @@
 #ifndef _SYS_RWLOCK_H
 #define	_SYS_RWLOCK_H
 
-#pragma ident	"@(#)rwlock.h	1.11	08/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Public interface to readers/writer locks.  See rwlock(9F) for details.

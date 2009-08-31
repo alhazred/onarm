@@ -13,7 +13,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)refer..c	1.3	05/06/02 SMI" 
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 
 
 #include <stdio.h>
 #include <ctype.h>

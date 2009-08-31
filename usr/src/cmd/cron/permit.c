@@ -28,7 +28,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)permit.c	1.8	05/06/08 SMI"	/* SVr4.0 1.6 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6 */
 
 #include <sys/types.h>
 #include <sys/stat.h>

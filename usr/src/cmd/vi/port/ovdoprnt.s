@@ -33,7 +33,7 @@
 # contributors.
 #
 
-#pragma ident	"@(#)ovdoprnt.s	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 / #ident	"@(#)vi:port/ovdoprnt.s	1.5"
 / C library -- conversions

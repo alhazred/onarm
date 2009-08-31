@@ -16,7 +16,7 @@
  * University may not be used to endorse or promote products derived
  * from this software without specific prior written permission.
  */
-#pragma ident	"@(#)main.c	1.15	05/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "defs.h"
 #include <string.h>

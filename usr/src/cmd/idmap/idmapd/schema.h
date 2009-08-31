@@ -26,7 +26,7 @@
 #ifndef _SCHEMA_H
 #define	_SCHEMA_H
 
-#pragma ident	"@(#)schema.h	1.1	07/12/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

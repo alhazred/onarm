@@ -26,7 +26,7 @@
 #ifndef	_SYS_AUDIOHD_H_
 #define	_SYS_AUDIOHD_H_
 
-#pragma ident	"@(#)audiohd.h	1.3	07/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)acltext.c	1.23	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*LINTLIBRARY*/
 
 #include <grp.h>

@@ -28,7 +28,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-#ident	"@(#)Makefile	1.5	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 PROG =		svcs
 OBJS =		svcs.o explain.o

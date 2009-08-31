@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
  
-#pragma ident	"@(#)swtch.s	1.61	08/02/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Process switching routines.

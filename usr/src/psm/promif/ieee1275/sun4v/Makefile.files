@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile.files	1.5	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # psm/promif/ieee1275/sun4u/Makefile.files
 #

@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.com	1.9	05/08/18 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #

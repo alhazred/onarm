@@ -26,7 +26,7 @@
 #ifndef _RESOLV_COMMON_H
 #define	_RESOLV_COMMON_H
 
-#pragma ident	"@(#)ypserv_resolv_common.h	1.10	08/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

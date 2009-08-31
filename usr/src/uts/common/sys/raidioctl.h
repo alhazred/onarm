@@ -27,7 +27,7 @@
 #ifndef	_SYS_RAIDIOCTL_H
 #define	_SYS_RAIDIOCTL_H
 
-#pragma ident	"@(#)raidioctl.h	1.6	05/11/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

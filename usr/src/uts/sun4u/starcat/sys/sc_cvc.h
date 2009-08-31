@@ -27,7 +27,7 @@
 #ifndef _SYS_SC_CVC_H
 #define	_SYS_SC_CVC_H
 
-#pragma ident	"@(#)sc_cvc.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

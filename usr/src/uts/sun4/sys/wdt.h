@@ -26,7 +26,7 @@
 #ifndef _SYS_WDT_H
 #define	_SYS_WDT_H
 
-#pragma ident	"@(#)wdt.h	1.2	07/01/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

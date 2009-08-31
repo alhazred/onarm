@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)print.c	1.14	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <string.h>

@@ -27,7 +27,7 @@
 #ifndef	_METADYN_H
 #define	_METADYN_H
 
-#pragma ident	"@(#)metadyn.h	2.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

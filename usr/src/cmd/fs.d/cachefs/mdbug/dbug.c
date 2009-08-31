@@ -33,7 +33,7 @@
  *    package written by Fred Fish.
  *
  */
-#pragma ident	"@(#)dbug.c	1.8	05/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef DBUG_OFF
 

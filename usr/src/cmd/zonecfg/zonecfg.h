@@ -27,7 +27,7 @@
 #ifndef _ZONECFG_H
 #define	_ZONECFG_H
 
-#pragma ident	"@(#)zonecfg.h	1.12	08/02/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * header file for zonecfg command

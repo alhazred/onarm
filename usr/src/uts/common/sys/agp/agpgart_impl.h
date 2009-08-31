@@ -6,7 +6,7 @@
 #ifndef	_SYS_AGPGART_IMPL_H
 #define	_SYS_AGPGART_IMPL_H
 
-#pragma ident	"@(#)agpgart_impl.h	1.2	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

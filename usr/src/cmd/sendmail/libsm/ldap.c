@@ -7,7 +7,7 @@
  * the sendmail distribution.
  */
 
-#pragma ident	"@(#)ldap.c	1.13	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* some "deprecated" calls are used, e.g., ldap_get_values() */
 #define LDAP_DEPRECATED	1

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ftpd.c	1.89	07/05/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /****************************************************************************  
  

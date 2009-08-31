@@ -5,7 +5,7 @@
  * No ISC copyright for this file.
  */
 
-#pragma ident	"@(#)res_sendsigned.c	1.3	04/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "port_before.h"
 #include "fd_setsize.h"

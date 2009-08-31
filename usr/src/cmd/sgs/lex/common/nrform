@@ -23,7 +23,7 @@
  * Copyright (c) 1993 by Sun Microsystems, Inc.
  */
 
-#pragma ident	"@(#)nrform	6.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 block data
 integer cshift, csize, yynlin

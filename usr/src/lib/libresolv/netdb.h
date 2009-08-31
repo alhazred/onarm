@@ -41,7 +41,7 @@
 #ifndef _NETDB_H
 #define	_NETDB_H
 
-#pragma ident	"@(#)netdb.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

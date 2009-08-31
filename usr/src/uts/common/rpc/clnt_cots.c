@@ -33,7 +33,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)clnt_cots.c	1.125	07/06/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Implements a kernel based, client side RPC over Connection Oriented

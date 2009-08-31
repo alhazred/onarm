@@ -27,7 +27,7 @@
 #ifndef	_GELF_H
 #define	_GELF_H
 
-#pragma ident	"@(#)gelf.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

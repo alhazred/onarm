@@ -26,7 +26,7 @@
 #ifndef _CMD_H
 #define	_CMD_H
 
-#pragma ident	"@(#)cmd.h	1.14	07/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdarg.h>
 #include <fm/fmd_api.h>

@@ -37,7 +37,7 @@
 #ifndef _I915_DRV_H
 #define _I915_DRV_H
 
-#pragma ident	"@(#)i915_drv.h	1.5	08/02/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* General customization:
  */

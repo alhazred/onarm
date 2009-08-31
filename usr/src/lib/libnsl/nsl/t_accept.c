@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)t_accept.c	1.31	06/01/04 SMI"	/* SVr4.0 1.5.2.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5.2.1 */
 
 #include "mt.h"
 #include <stdlib.h>

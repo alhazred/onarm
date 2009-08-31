@@ -35,7 +35,7 @@
 #ifndef	_RPCSEC_GSS_H
 #define	_RPCSEC_GSS_H
 
-#pragma ident	"@(#)rpcsec_gss.h	1.27	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

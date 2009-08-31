@@ -27,7 +27,7 @@
 #ifndef	_SYS_FDVAR_H
 #define	_SYS_FDVAR_H
 
-#pragma ident	"@(#)fdvar.h	1.45	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

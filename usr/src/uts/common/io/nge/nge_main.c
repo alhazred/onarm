@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nge_main.c	1.30	08/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "nge.h"
 
@@ -154,7 +154,7 @@ static const nge_desc_attr_t nge_hot_desc = {
 	nge_hot_txd_check,
 };
 
-static char nge_ident[] = "nVidia 1Gb Ethernet 1.30";
+static char nge_ident[] = "nVidia 1Gb Ethernet %I%";
 static char clsize_propname[] = "cache-line-size";
 static char latency_propname[] = "latency-timer";
 static char debug_propname[]	= "nge-debug-flags";

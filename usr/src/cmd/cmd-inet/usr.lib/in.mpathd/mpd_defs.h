@@ -26,7 +26,7 @@
 #ifndef	_MPD_DEFS_H
 #define	_MPD_DEFS_H
 
-#pragma ident	"@(#)mpd_defs.h	1.13	07/07/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

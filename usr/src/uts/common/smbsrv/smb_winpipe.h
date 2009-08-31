@@ -26,7 +26,7 @@
 #ifndef _SMB_WINPIPE_H_
 #define	_SMB_WINPIPE_H_
 
-#pragma ident	"@(#)smb_winpipe.h	1.4	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _KERNEL
 #include <stddef.h>

@@ -25,7 +25,7 @@
 # All rights reserved.
 #
 
-#pragma ident	"@(#)sbdgenerr.pl	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 sub trim {
 	my ($line) = @_;

@@ -24,7 +24,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: dispatch.c,v 1.15 2002/01/11 13:39:36 markus Exp $");
 
-#pragma ident	"@(#)dispatch.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ssh1.h"
 #include "ssh2.h"

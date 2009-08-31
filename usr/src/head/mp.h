@@ -35,7 +35,7 @@
 #ifndef _MP_H
 #define	_MP_H
 
-#pragma ident	"@(#)mp.h	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

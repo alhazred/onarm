@@ -24,7 +24,7 @@
  */
 
 
-#pragma ident	"@(#)npi_fflp.c	1.2	07/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <npi_fflp.h>
 #include <nxge_common.h>

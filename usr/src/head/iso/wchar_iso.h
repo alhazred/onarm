@@ -43,7 +43,7 @@
 #ifndef	_ISO_WCHAR_ISO_H
 #define	_ISO_WCHAR_ISO_H
 
-#pragma ident	"@(#)wchar_iso.h	1.12	06/06/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(_AEABI_PORTABILITY_LEVEL)
 #error "not supported AEABI."

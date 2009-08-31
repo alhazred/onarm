@@ -27,7 +27,7 @@
 #ifndef _STDUSERS_H
 #define	_STDUSERS_H
 
-#pragma ident	"@(#)stdusers.h	1.3	06/02/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

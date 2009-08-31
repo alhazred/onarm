@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)yppoll.c	1.11	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is a user command which asks a particular ypserv which version of a

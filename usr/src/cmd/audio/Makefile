@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.6	05/12/05 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/audio/Makefile
 #

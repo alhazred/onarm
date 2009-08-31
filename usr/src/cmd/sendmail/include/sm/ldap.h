@@ -9,7 +9,7 @@
  *	$Id: ldap.h,v 1.33 2007/10/10 00:06:44 ca Exp $
  */
 
-#pragma ident	"@(#)ldap.h	1.7	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	SM_LDAP_H
 # define SM_LDAP_H

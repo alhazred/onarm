@@ -1,4 +1,4 @@
-#pragma ident	"@(#)dsparse.c	1.2	02/10/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

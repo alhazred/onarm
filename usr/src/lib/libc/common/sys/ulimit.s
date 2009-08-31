@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ulimit.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"ulimit.s"
+	.file	"%M%"
 
 /* C library -- ulimit						*/
 /* long ulimit (int cmd, long newlimit);			*/

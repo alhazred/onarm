@@ -28,7 +28,7 @@
 #ifndef _RPCSVC_REX_H
 #define	_RPCSVC_REX_H
 
-#ident	"@(#)rex.h	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 /*	@(#)rex.h 1.7 89/10/02 Copyr 1985 SMI */
 
 #define	REXPROG		100017

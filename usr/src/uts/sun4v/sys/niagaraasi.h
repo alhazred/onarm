@@ -26,7 +26,7 @@
 #ifndef _SYS_NIAGARAASI_H
 #define	_SYS_NIAGARAASI_H
 
-#pragma ident	"@(#)niagaraasi.h	1.4	07/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * alternate address space identifiers

@@ -27,7 +27,7 @@
 # All rights reserved.
 #
 #
-# ident	"@(#)devices-local	1.7	06/06/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # Initiate the device reconfiguration process in case we need some
 # device links established so that we can successfully perform our

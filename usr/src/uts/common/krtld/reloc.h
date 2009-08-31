@@ -31,7 +31,7 @@
 #ifndef	_RELOC_DOT_H
 #define	_RELOC_DOT_H
 
-#pragma ident	"@(#)reloc.h	1.41	07/10/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(_KERNEL)
 #include <sys/machelf.h>

@@ -27,7 +27,7 @@
 #ifndef _IB_H
 #define	_IB_H
 
-#pragma ident	"@(#)ib.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ib.h, rpcib plugin interface.

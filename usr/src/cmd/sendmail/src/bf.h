@@ -12,7 +12,7 @@
  *
  */
 
-#pragma ident	"@(#)bf.h	1.4	02/07/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef BF_H
 # define BF_H 1

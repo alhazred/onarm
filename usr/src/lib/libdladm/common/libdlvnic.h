@@ -26,7 +26,7 @@
 #ifndef _LIBDLVNIC_H
 #define	_LIBDLVNIC_H
 
-#pragma ident	"@(#)libdlvnic.h	1.2	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <netinet/in.h>

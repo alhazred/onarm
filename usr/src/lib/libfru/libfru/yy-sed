@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#pragma ident	"@(#)yy-sed	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 s/yyact/fruact/g

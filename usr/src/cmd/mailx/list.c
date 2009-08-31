@@ -36,7 +36,7 @@
  * software developed by the University of California, Berkeley, and its
  * contributors.
  */
-#pragma ident	"@(#)list.c	1.20	06/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "rcv.h"
 #include <locale.h>

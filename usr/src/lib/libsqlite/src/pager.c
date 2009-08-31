@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pager.c	1.3	05/04/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 ** 2001 September 15

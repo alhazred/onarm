@@ -8,7 +8,7 @@
  * See the file COPYING for copying permission.
  */
 
-#pragma ident	"@(#)RastEventHandler.cxx	1.5	05/08/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __GNUG__
 #pragma implementation

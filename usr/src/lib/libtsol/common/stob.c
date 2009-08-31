@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)stob.c	1.2	07/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	String to binary label translations.

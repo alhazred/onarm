@@ -26,7 +26,7 @@
 #ifndef	_SYS_SCSI_IMPL_TRANSPORT_H
 #define	_SYS_SCSI_IMPL_TRANSPORT_H
 
-#pragma ident	"@(#)transport.h	1.49	07/12/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Include the loadable module wrapper.

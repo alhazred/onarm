@@ -30,7 +30,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ex_data.c	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ex.h"
 #include "ex_tty.h"

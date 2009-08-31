@@ -27,7 +27,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)consms.c	5.55	06/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Console mouse driver for Sun.
@@ -221,7 +221,7 @@ static struct dev_ops consms_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"Mouse Driver for Sun 'consms' 5.55",
+	"Mouse Driver for Sun 'consms' %I%",
 	&consms_ops,	/* driver ops */
 };
 

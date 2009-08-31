@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nxge_serialize.c	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include <sys/nxge/nxge_impl.h>
 #include <sys/proc.h>
 

@@ -21,7 +21,7 @@ CDDL HEADER END
 Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 Use is subject to license terms.
 
-ident	"@(#)SUNWSolarisCA	1.3	05/06/10 SMI"
+ident	"%Z%%M%	%I%	%E% SMI"
 
 -----BEGIN CERTIFICATE-----
 MIIESTCCAzGgAwIBAgIEFAA4xjANBgkqhkiG9w0BAQUFADBLMSowKAYDVQQDEyFT

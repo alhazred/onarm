@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tls_get_addr.s	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"tls_get_addr.s"
+	.file	"%M%"
 
 /*
  * To make thread-local storage accesses as fast as possible, we

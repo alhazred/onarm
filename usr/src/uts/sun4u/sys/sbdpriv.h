@@ -27,7 +27,7 @@
 #ifndef _SYS_SBDPRIV_H
 #define	_SYS_SBDPRIV_H
 
-#pragma ident	"@(#)sbdpriv.h	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -22,7 +22,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.common	1.47	08/02/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # MDB modules used for debugging user processes that every ISA's build
 # subdirectory will need to build.

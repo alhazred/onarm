@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smbus.c	1.12	07/03/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the nexus driver for SMBUS devices.  It mostly does not use
@@ -140,7 +140,7 @@ static struct dev_ops smbus_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module. This one is a driver */
-	"SMBUS nexus Driver 1.12",	/* Name of the module. */
+	"SMBUS nexus Driver %I%",	/* Name of the module. */
 	&smbus_ops,		/* driver ops */
 };
 

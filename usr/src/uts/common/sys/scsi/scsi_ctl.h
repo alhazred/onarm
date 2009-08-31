@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCSI_SCSI_CTL_H
 #define	_SYS_SCSI_SCSI_CTL_H
 
-#pragma ident	"@(#)scsi_ctl.h	1.26	05/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/scsi/scsi_types.h>
 

@@ -34,7 +34,7 @@
 #ifndef _SYS_FS_LOFS_INFO_H
 #define	_SYS_FS_LOFS_INFO_H
 
-#pragma ident	"@(#)lofs_info.h	1.20	06/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

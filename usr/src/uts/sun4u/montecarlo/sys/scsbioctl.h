@@ -27,7 +27,7 @@
 #ifndef	_MONTERCARLO_SYS_SCSBIOCTL_H
 #define	_MONTERCARLO_SYS_SCSBIOCTL_H
 
-#pragma ident	"@(#)scsbioctl.h	1.8	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

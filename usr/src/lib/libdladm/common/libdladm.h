@@ -26,7 +26,7 @@
 #ifndef _LIBDLADM_H
 #define	_LIBDLADM_H
 
-#pragma ident	"@(#)libdladm.h	1.11	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dls.h>
 #include <sys/dlpi.h>

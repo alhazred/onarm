@@ -27,7 +27,7 @@
 #ifndef	_REG_SUBTREE_H
 #define	_REG_SUBTREE_H
 
-#pragma ident	"@(#)reg_subtree.h	1.13	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

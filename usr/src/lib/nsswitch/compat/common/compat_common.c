@@ -28,7 +28,7 @@
  * the "files" backend;  this file is no exception.
  */
 
-#pragma ident	"@(#)compat_common.c	1.27	07/01/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

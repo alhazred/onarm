@@ -27,7 +27,7 @@
 #ifndef	_SYS_SRAM_H
 #define	_SYS_SRAM_H
 
-#pragma ident	"@(#)sram.h	1.4	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef	_CURS_GETTEXT_H
 #define	_CURS_GETTEXT_H
 
-#pragma ident	"@(#)_curs_gettext.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

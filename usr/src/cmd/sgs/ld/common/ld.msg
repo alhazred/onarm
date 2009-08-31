@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)ld.msg	1.45	06/08/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 @ _START_
 

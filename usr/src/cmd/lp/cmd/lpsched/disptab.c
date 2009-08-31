@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)disptab.c	1.17	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 # include	"dispatch.h"
 #include <syslog.h>

@@ -27,7 +27,7 @@
 #ifndef _HB_SUN4_H
 #define	_HB_SUN4_H
 
-#pragma ident	"@(#)hb_sun4.h	1.3	06/11/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/topo_mod.h>
 #include <sys/types.h>

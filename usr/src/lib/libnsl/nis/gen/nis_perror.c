@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nis_perror.c	1.21	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sccsid[] = "@(#)nis_perror.c 1.11 91/03/14 Copyr 1990 Sun Micro";

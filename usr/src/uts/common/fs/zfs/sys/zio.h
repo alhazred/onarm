@@ -30,7 +30,7 @@
 #ifndef _ZIO_H
 #define	_ZIO_H
 
-#pragma ident	"@(#)zio.h	1.19	07/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zfs_context.h>
 #include <sys/spa.h>

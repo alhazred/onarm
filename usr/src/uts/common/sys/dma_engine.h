@@ -34,7 +34,7 @@
 #ifndef	_SYS_DMAENGINE_H
 #define	_SYS_DMAENGINE_H
 
-#pragma ident	"@(#)dma_engine.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/dditypes.h>

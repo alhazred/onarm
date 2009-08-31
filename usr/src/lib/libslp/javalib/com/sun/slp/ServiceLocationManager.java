@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ServiceLocationManager.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -45,7 +45,7 @@ import java.lang.reflect.*;
  * Location facility. In addition, it provides access to known
  * scopes.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author Erik Guttman
  *
  */

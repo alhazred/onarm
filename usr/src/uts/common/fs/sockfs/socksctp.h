@@ -27,7 +27,7 @@
 #ifndef	_SOCKSCTP_H_
 #define	_SOCKSCTP_H_
 
-#pragma ident	"@(#)socksctp.h	1.5	05/07/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
 #ifndef	_SYS_LIBPRTDIAG_H
 #define	_SYS_LIBPRTDIAG_H
 
-#pragma ident	"@(#)libprtdiag.h	1.14	06/04/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -32,7 +32,7 @@
  * $Id: cflib.h,v 1.1.1.1 2001/06/09 00:28:11 zarzycki Exp $
  */
 
-#pragma ident	"@(#)cflib.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _CFLIB_H_
 #define	_CFLIB_H_

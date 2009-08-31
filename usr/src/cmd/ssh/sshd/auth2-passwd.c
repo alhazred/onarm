@@ -29,7 +29,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: auth2-passwd.c,v 1.2 2002/05/31 11:35:15 markus Exp $");
 
-#pragma ident	"@(#)auth2-passwd.c	1.3	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "xmalloc.h"
 #include "packet.h"

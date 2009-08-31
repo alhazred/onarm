@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)main.c	1.37	06/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "rcv.h"
 #ifndef preSVr4

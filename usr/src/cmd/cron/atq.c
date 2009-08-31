@@ -13,7 +13,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)atq.c	1.12	07/06/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

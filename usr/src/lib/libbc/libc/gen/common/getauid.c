@@ -23,7 +23,7 @@
  * Copyright (c) 1987 by Sun Microsystems, Inc.
  */
 
-#pragma ident	"@(#)getauid.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 int
 getauid(void)

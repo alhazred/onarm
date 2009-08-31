@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xlate.m4	1.29	07/10/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak elf32_fsize = _elf32_fsize
 #pragma weak elf_version = _elf_version

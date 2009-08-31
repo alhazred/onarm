@@ -29,7 +29,7 @@
 #
 #
 #
-# ident	"@(#)Makefile.com	1.6	06/08/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY =	libstraddr.a

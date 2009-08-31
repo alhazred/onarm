@@ -27,7 +27,7 @@
 #ifndef	_SYS_MACHTRAP_H
 #define	_SYS_MACHTRAP_H
 
-#pragma ident	"@(#)machtrap.h	1.18	05/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

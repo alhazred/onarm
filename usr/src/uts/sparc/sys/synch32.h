@@ -27,7 +27,7 @@
 #ifndef _SYS_SYNCH32_H
 #define	_SYS_SYNCH32_H
 
-#pragma ident	"@(#)synch32.h	1.28	08/02/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
 #ifndef	_SYS_DDI_ISA_H
 #define	_SYS_DDI_ISA_H
 
-#pragma ident	"@(#)ddi_isa.h	1.22	07/10/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/dditypes.h>

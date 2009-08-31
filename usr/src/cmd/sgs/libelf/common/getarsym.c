@@ -29,7 +29,7 @@
  */
 
 
-#pragma ident	"@(#)getarsym.c	1.14	05/06/08 SMI" 	/* SVr4.0 1.6	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.6	*/
 
 #pragma weak	elf_getarsym = _elf_getarsym
 

@@ -26,7 +26,7 @@
 #ifndef	_ARP_IMPL_H
 #define	_ARP_IMPL_H
 
-#pragma ident	"@(#)arp_impl.h	1.19	07/02/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
 -- Use is subject to license terms.
 --
 
--- ident	"@(#)SUN-FM-MIB.mib	1.1	06/01/18 SMI"
+-- ident	"%Z%%M%	%I%	%E% SMI"
 
 SUN-FM-MIB DEFINITIONS ::= BEGIN
 

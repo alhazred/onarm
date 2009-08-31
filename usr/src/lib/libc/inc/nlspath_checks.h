@@ -27,7 +27,7 @@
 #ifndef _NLSPATH_CHECKS_H
 #define	_NLSPATH_CHECKS_H
 
-#pragma ident	"@(#)nlspath_checks.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>
 

@@ -27,7 +27,7 @@
 #ifndef _DHCPTAB_H
 #define	_DHCPTAB_H
 
-#pragma ident	"@(#)dhcptab.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Implementation-specific data structures and constants for the binary

@@ -22,7 +22,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.114	08/02/25 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Copyright (c) 2006-2008 NEC Corporation

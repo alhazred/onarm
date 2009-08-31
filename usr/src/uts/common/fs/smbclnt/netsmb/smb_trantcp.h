@@ -34,7 +34,7 @@
 #ifndef _NETSMB_SMB_TRANTCP_H_
 #define	_NETSMB_SMB_TRANTCP_H_
 
-#pragma ident	"@(#)smb_trantcp.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 enum nbstate {
 	NBST_CLOSED,

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)amd64.il	1.2	07/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /
 / Inline functions specific to the i86pc kernel running on bare metal.

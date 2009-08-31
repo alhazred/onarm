@@ -18,7 +18,7 @@
 #ifndef	_DEFS_H
 #define	_DEFS_H
 
-#pragma ident	"@(#)defs.h	1.10	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

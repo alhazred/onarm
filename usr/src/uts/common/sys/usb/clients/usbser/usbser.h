@@ -27,7 +27,7 @@
 #ifndef _SYS_USB_USBSER_H
 #define	_SYS_USB_USBSER_H
 
-#pragma ident	"@(#)usbser.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * USB-to-serial generic driver functions

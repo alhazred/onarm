@@ -27,7 +27,7 @@
 #ifndef	_CHECKDEV_H
 #define	_CHECKDEV_H
 
-#pragma ident	"@(#)checkdev.h	1.8	05/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

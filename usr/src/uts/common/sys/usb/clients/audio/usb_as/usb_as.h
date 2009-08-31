@@ -27,7 +27,7 @@
 #ifndef _SYS_USB_AS_H
 #define	_SYS_USB_AS_H
 
-#pragma ident	"@(#)usb_as.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/usb/usba/usbai_private.h>
 

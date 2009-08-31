@@ -34,7 +34,7 @@
 #ifndef _RPC_SVC_AUTH_H
 #define	_RPC_SVC_AUTH_H
 
-#pragma ident	"@(#)svc_auth.h	1.23	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * svc_auth.h, Service side of rpc authentication.

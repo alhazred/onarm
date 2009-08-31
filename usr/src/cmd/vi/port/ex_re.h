@@ -24,7 +24,7 @@
 
 
 /* Copyright (c) 1981 Regents of the University of California */
-#ident	"@(#)ex_re.h	1.8	05/06/08 SMI"	/* SVr4.0 1.6	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 
 #include <regexpr.h>
 /*

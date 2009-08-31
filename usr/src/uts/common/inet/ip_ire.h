@@ -31,7 +31,7 @@
 #ifndef	_INET_IP_IRE_H
 #define	_INET_IP_IRE_H
 
-#pragma ident	"@(#)ip_ire.h	1.70	08/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

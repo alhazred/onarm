@@ -49,7 +49,7 @@
  * and netdir_getbyYY are lurking somewhere here.
  */
 
-#pragma ident	"@(#)netdir_inet.c	1.76	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <ctype.h>

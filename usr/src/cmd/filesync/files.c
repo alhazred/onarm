@@ -47,7 +47,7 @@
  *	file, we must be careful to escape any embedded blanks that
  *	cause trouble when we re-lex that file later.
  */
-#ident	"@(#)files.c	1.7	05/06/08 SMI"
+#ident	"%W%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

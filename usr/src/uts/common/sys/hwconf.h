@@ -27,7 +27,7 @@
 #ifndef _SYS_HWCONF_H
 #define	_SYS_HWCONF_H
 
-#pragma ident	"@(#)hwconf.h	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dditypes.h>
 #include <sys/ddipropdefs.h>

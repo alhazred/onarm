@@ -23,7 +23,7 @@
  * Copyright (c) 1987 Sun Microsystems, Inc.
  */
 
-#ident	"@(#)stret.s	1.19	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 	.file	"stret.s"
 

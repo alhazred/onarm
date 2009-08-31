@@ -26,7 +26,7 @@
 #ifndef _MLSVC_LSA_NDL_
 #define _MLSVC_LSA_NDL_
 
-#pragma ident	"@(#)lsarpc.ndl	1.2	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  ***********************************************************************

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smcp.c	1.18	05/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * smcp -- Upper MAC driver for SMC PCI adapters
@@ -197,7 +197,7 @@ static struct dev_ops smcg_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	SMCG_IDENT " 1.18",	/* short description */
+	SMCG_IDENT " %I%",	/* short description */
 	&smcg_ops		/* driver specific ops */
 };
 

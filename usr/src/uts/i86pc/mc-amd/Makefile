@@ -25,7 +25,7 @@
 #
 
 #
-# ident	"@(#)Makefile	1.5	07/10/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #

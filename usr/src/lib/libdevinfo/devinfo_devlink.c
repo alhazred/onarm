@@ -26,7 +26,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)devinfo_devlink.c	1.24	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "libdevinfo.h"
 #include "devinfo_devlink.h"

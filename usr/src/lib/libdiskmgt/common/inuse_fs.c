@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)inuse_fs.c	1.10	07/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dirent.h>
 #include <stdlib.h>

@@ -24,7 +24,7 @@
 # Copyright (c) 1998 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-# ident	"@(#)adbgen.sh	1.21	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 USAGE="adbgen [-d] [-m ilp32|lp64] [-w] <adb macro file>"
 cflags=

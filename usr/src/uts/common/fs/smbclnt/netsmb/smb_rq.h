@@ -34,7 +34,7 @@
 #ifndef _NETSMB_SMB_RQ_H_
 #define	_NETSMB_SMB_RQ_H_
 
-#pragma ident	"@(#)smb_rq.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netsmb/mchain.h>
 #include <sys/queue.h>

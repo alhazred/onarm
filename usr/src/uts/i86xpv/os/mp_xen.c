@@ -89,7 +89,7 @@
  * dropping into HYPERVISOR_block().
  */
 
-#pragma ident	"@(#)mp_xen.c	1.3	07/11/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/systm.h>

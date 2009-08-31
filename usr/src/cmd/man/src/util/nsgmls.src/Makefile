@@ -6,7 +6,7 @@
 # Copyright 1994, 1995 James Clark
 #
 
-#ident	"@(#)Makefile	1.7	05/08/24 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 include ../../../../Makefile.cmd
 prefix=$(ROOTLIB)

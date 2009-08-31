@@ -27,7 +27,7 @@
 #ifndef _SYS_RWSTLOCK_H
 #define	_SYS_RWSTLOCK_H
 
-#pragma ident	"@(#)rwstlock.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Alternate rwlock that is interruptible and can be released by a thread

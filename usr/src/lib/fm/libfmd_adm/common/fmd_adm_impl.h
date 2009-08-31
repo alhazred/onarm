@@ -27,7 +27,7 @@
 #ifndef	_FMD_ADM_IMPL_H
 #define	_FMD_ADM_IMPL_H
 
-#pragma ident	"@(#)fmd_adm_impl.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/rpc.h>
 

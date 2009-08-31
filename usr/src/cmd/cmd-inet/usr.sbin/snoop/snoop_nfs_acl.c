@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)snoop_nfs_acl.c	1.5	05/08/23 SMI"	/* SunOS */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS */
 
 #include <sys/types.h>
 #include <sys/errno.h>

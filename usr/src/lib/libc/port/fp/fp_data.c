@@ -32,7 +32,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)fp_data.c	1.16	05/06/08 SMI"	/* SVr4.0 1.8	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8	*/
 
 /*
  * contains the definitions

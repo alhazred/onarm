@@ -26,7 +26,7 @@
 #ifndef	_SYMS_H
 #define	_SYMS_H
 
-#pragma ident	"@(#)syms.h	1.10	05/06/08 SMI"	/* SVr4.0 2.8	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 2.8	*/
 
 /*		Storage Classes are defined in storclass.h  */
 #include <storclass.h>

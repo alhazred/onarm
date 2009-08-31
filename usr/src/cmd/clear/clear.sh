@@ -26,7 +26,7 @@
 #	Copyright (c) 1987, 1988 Microsoft Corporation
 #	  All Rights Reserved
 
-#ident	"@(#)clear.sh	1.10	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # clear the screen with terminfo.
 # if an argument is given, print the clear string for that tty type

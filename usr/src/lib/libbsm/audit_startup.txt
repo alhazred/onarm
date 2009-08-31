@@ -24,7 +24,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)audit_startup.txt	1.2	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 /usr/bin/echo "Starting BSM services."
 /usr/sbin/auditconfig -setpolicy +cnt

@@ -27,7 +27,7 @@
 /*	  All rights reserved.  	*/
 
 
-#pragma ident	"@(#)prioctl.c	1.133	07/10/25 SMI"	/* SVr4.0 1.29	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.29	*/
 
 #include <sys/types.h>
 #include <sys/param.h>

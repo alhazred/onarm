@@ -29,7 +29,7 @@
 #ifndef _NPD_CACHE_H
 #define	_NPD_CACHE_H
 
-#pragma ident	"@(#)npd_cache.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpcsvc/nis.h>
 

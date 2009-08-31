@@ -3,7 +3,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)parse.c	1.5	99/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * /src/NTP/REPOSITORY/v4/libparse/parse.c,v 3.43 1997/01/26 18:12:21 kardel Exp

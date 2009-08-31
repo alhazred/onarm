@@ -27,7 +27,7 @@
 #ifndef	_SYS_LWP_H
 #define	_SYS_LWP_H
 
-#pragma ident	"@(#)lwp.h	1.35	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/synch.h>
 #include <sys/ucontext.h>

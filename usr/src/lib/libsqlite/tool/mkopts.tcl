@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)mkopts.tcl	1.1	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #!/usr/bin/tclsh
 #

@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-	ident	"@(#)ipfilter.xml	1.5	07/09/04 SMI"
+	ident	"%Z%%M%	%I%	%E% SMI"
 
 	NOTE:  This service description is not editable; its contents
 	may be overwritten by package or patch operations, including

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)softKeystore.c	1.10	07/04/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <crypt.h>
 #include <cryptoutil.h>

@@ -27,7 +27,7 @@
 #ifndef _SYS_CLADM_H
 #define	_SYS_CLADM_H
 
-#pragma ident	"@(#)cladm.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

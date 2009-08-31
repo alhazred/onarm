@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sysinfo.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"sysinfo.s"
+	.file	"%M%"
 
 /* C library -- sysinfo						*/
 /* int sysinfo(cmd, buf, count)					*/

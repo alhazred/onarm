@@ -28,7 +28,7 @@
  * Data Link API - Make Address
  */
 
-#pragma ident	"@(#)dl_addr.c	1.5	05/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stream.h>

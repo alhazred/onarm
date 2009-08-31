@@ -27,7 +27,7 @@
 #ifndef	_SYS_PIXRECT_H
 #define	_SYS_PIXRECT_H
 
-#pragma ident	"@(#)pixrect.h	1.56	05/06/08 SMI"	/* SunOS4.1.2 1.51 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS4.1.2 1.51 */
 
 #include <sys/types.h>	/* system type defs */
 

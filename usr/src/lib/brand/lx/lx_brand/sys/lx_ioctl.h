@@ -26,7 +26,7 @@
 #ifndef _SYS_LX_IOCTL_H
 #define	_SYS_LX_IOCTL_H
 
-#pragma ident	"@(#)lx_ioctl.h	1.2	07/04/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_lgrp_home_fast.s	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file "_lgrp_home_fast.s"
+	.file "%M%"
 
 /*
  * C library -- gethomelgroup

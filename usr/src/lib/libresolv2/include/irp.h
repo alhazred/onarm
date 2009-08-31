@@ -28,7 +28,7 @@
 #ifndef _IRP_H_INCLUDED
 #define _IRP_H_INCLUDED
 
-#pragma ident	"@(#)irp.h	1.3	03/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define IRPD_TIMEOUT 30			/* seconds */
 #define IRPD_MAXSESS 50			/* number of simultaneous sessions. */

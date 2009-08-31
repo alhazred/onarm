@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tst.ufuncsort.c	1.2	07/04/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef void f(int x);
 

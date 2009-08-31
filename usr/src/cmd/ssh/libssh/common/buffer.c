@@ -13,7 +13,7 @@
 
 /* $OpenBSD: buffer.c,v 1.31 2006/08/03 03:34:41 deraadt Exp $ */
 
-#pragma ident	"@(#)buffer.c	1.7	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "includes.h"
 

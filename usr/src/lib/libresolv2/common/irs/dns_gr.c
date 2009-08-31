@@ -21,7 +21,7 @@
  */
 
 
-#pragma ident	"@(#)dns_gr.c	1.5	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(LIBC_SCCS) && !defined(lint)
 static const char rcsid[] = "$Id: dns_gr.c,v 1.21 2002/07/08 06:26:09 marka Exp $";

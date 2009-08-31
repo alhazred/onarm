@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ip6ddi.c	1.11	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -37,7 +37,7 @@
 
 #define	INET_NAME	"ip6"
 #define	INET_DEVSTRTAB	ipinfov6
-#define	INET_DEVDESC	"IP6 STREAMS driver 1.11"
+#define	INET_DEVDESC	"IP6 STREAMS driver %I%"
 #define	INET_DEVMINOR	0
 #define	INET_DEVMTFLAGS	IP_DEVMTFLAGS	/* since we're really ip */
 

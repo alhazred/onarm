@@ -25,7 +25,7 @@
 
 /*	Copyright (c) 1989 by Sun Microsystems, Inc.		*/
 
-.ident	"@(#)fpsetrnd.s	1.10	05/06/08 SMI"	/* SVr4.0 1.5.1.9	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5.1.9	*/
 
 	.file	"fpsetrnd.s"
 

@@ -26,7 +26,7 @@
 #ifndef _SYS_DKTP_DADK_H
 #define	_SYS_DKTP_DADK_H
 
-#pragma ident	"@(#)dadk.h	1.15	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

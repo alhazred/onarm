@@ -47,7 +47,7 @@
 #ifndef	_ISO_WCTYPE_ISO_H
 #define	_ISO_WCTYPE_ISO_H
 
-#pragma ident	"@(#)wctype_iso.h	1.4	06/06/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(_AEABI_PORTABILITY_LEVEL)
 #error "not supported AEABI."

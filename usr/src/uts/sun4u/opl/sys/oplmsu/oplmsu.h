@@ -25,7 +25,7 @@
 #ifndef _OPLMSU_H
 #define	_OPLMSU_H
 
-#pragma ident	"@(#)oplmsu.h	1.1	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

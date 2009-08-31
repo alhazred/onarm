@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cfga_rcm.c	1.1	06/01/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "cfga_sata.h"
 

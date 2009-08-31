@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fd.c	1.134	05/09/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Intel 82077 Floppy Disk Driver
@@ -558,7 +558,7 @@ static int tosec = 16;  /* long timeouts for sundiag for now */
 extern struct mod_ops mod_driverops;
 static struct modldrv modldrv = {
 	&mod_driverops, 		/* Type of module. driver here */
-	"Floppy Driver v1.134", 	/* Name of the module. */
+	"Floppy Driver v%I%", 	/* Name of the module. */
 	&fd_ops, 		/* Driver ops vector */
 };
 

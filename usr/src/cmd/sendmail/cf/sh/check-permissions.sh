@@ -29,8 +29,8 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# @(#)check-permissions.sh	1.10 (Sun) 07/25/06
-# ident	"@(#)check-permissions.sh	1.10	06/07/25 SMI"
+# %W% (Sun) %G%
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 PATH=/bin
 

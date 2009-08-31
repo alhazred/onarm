@@ -1,4 +1,4 @@
-#pragma ident	"@(#)logwtmp.c	1.17	01/06/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /****************************************************************************    
   Copyright (c) 1999,2000 WU-FTPD Development Group.  

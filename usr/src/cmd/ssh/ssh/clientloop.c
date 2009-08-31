@@ -65,7 +65,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: clientloop.c,v 1.104 2002/08/22 19:38:42 stevesk Exp $");
 
-#pragma ident	"@(#)clientloop.c	1.15	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ssh.h"
 #include "ssh1.h"

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)frudefs.c	1.16	08/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * FRUID Tag Registry
@@ -36,7 +36,7 @@
 
 
 static const char *registry_version
-	= "@(#)frudefs.c  1.16  08/01/09  SMI";
+	= "%Z%%M%  %I%  %E%  SMI";
 
 fru_enum_t Vendor[] = {
 	{ 0x0, "NO JEDEC CODE FOR THIS VENDOR" },

@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)freeclass.c	1.6	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* LINTLIBRARY */
 
 #include <syslog.h>

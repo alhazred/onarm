@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)xpak.c	1.3	07/03/15 SMI"	/* xpak.c */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* xpak.c */
 
 #include "cphy.h"
 #include "elmer0.h"

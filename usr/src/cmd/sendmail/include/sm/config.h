@@ -9,7 +9,7 @@
  *	$Id: config.h,v 1.47 2004/10/26 21:41:07 gshapiro Exp $
  */
 
-#pragma ident	"@(#)config.h	1.4	04/12/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  libsm configuration macros.

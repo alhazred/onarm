@@ -22,7 +22,7 @@
 !
 ! CDDL HEADER END
 !
-#ident	"@(#)sparc.il	1.10	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 !
 ! In-line functions for sparc kernels.
 !

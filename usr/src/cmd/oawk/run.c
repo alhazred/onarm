@@ -28,7 +28,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)run.c	1.20	05/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	DEBUG
 #define	tempfree(a)	{if (istemp(a)) {xfree(a->sval); a->tval = 0; }}

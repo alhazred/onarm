@@ -26,7 +26,7 @@
 #ifndef _SOURCE_H
 #define	_SOURCE_H
 
-#pragma ident	"@(#)source.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Declarations

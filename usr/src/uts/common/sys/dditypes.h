@@ -27,7 +27,7 @@
 #ifndef	_SYS_DDITYPES_H
 #define	_SYS_DDITYPES_H
 
-#pragma ident	"@(#)dditypes.h	1.45	07/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #ifndef	_ASM

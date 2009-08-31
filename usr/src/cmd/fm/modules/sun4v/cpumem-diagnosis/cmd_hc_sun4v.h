@@ -26,7 +26,7 @@
 #ifndef _CMD_HC_SUN4V_H
 #define	_CMD_HC_SUN4V_H
 
-#pragma ident	"@(#)cmd_hc_sun4v.h	1.3	07/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/fmd_api.h>
 #include <sys/nvpair.h>

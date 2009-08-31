@@ -25,7 +25,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)mk.rc0.d.sh	1.43	06/06/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 COMMON_STOPLST="27boot.server"

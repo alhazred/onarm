@@ -27,7 +27,7 @@
 #ifndef	_SIP_DIALOG_H
 #define	_SIP_DIALOG_H
 
-#pragma ident	"@(#)sip_dialog.h	1.4	08/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

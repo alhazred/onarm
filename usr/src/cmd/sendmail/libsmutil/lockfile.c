@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)lockfile.c	1.4	04/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 

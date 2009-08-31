@@ -93,7 +93,7 @@
  * $Id: ipv6cp.h,v 1.3 1999/09/30 19:57:45 masputra Exp $
  */
 
-#pragma ident	"@(#)ipv6cp.h	1.1	00/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Options.

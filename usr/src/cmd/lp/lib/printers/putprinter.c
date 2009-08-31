@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)putprinter.c	1.13	05/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 

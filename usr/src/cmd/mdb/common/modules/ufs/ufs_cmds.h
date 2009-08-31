@@ -27,7 +27,7 @@
 #ifndef	_UFS_CMDS_H
 #define	_UFS_CMDS_H
 
-#pragma ident	"@(#)ufs_cmds.h	1.1	06/03/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 

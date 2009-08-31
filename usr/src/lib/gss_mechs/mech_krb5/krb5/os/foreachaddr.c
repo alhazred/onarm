@@ -2,7 +2,7 @@
  * Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)foreachaddr.c	1.1	04/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * include/foreachaddr.c
  *

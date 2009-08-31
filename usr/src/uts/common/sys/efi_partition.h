@@ -26,7 +26,7 @@
 #ifndef	_SYS_EFI_PARTITION_H
 #define	_SYS_EFI_PARTITION_H
 
-#pragma ident	"@(#)efi_partition.h	1.10	07/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/uuid.h>
 

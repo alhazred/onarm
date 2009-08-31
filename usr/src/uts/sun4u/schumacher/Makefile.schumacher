@@ -21,7 +21,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile.schumacher	1.2	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	Global definitions for sun4u implementation specific modules.
 #

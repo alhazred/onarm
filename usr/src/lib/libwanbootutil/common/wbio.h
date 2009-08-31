@@ -27,7 +27,7 @@
 #ifndef	_WBIO_H
 #define	_WBIO_H
 
-#pragma ident	"@(#)wbio.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

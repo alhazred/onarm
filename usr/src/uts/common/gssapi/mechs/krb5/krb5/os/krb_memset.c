@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)krb_memset.c	1.1	03/01/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <k5-int.h>
 

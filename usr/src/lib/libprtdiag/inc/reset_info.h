@@ -27,7 +27,7 @@
 #ifndef	_RESET_INFO_H
 #define	_RESET_INFO_H
 
-#pragma ident	"@(#)reset_info.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

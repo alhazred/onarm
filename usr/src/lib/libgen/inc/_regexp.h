@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma	ident	"@(#)_regexp.h	1.10	05/06/08 SMI"	/* SVr4.0 1.1.2.1 */
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1.2.1 */
 
 #define	CBRA	2
 #define	CCHR	4

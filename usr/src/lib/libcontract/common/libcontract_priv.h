@@ -26,7 +26,7 @@
 #ifndef	_LIBCONTRACT_PRIV_H
 #define	_LIBCONTRACT_PRIV_H
 
-#pragma ident	"@(#)libcontract_priv.h	1.3	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/contract.h>
 #include <libcontract.h>

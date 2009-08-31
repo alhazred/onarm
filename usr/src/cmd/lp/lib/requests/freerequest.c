@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)freerequest.c	1.6	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "sys/types.h"

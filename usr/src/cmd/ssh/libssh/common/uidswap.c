@@ -18,7 +18,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: uidswap.c,v 1.23 2002/07/15 17:15:31 stevesk Exp $");
 
-#pragma ident	"@(#)uidswap.c	1.6	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "log.h"
 #include "uidswap.h"

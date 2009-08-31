@@ -30,7 +30,7 @@
 #ifndef _SYS_DKIO_H
 #define	_SYS_DKIO_H
 
-#pragma ident	"@(#)dkio.h	5.71	07/09/17 SMI"	/* SunOS-4.0 5.19 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS-4.0 5.19 */
 
 #include <sys/dklabel.h>	/* Needed for NDKMAP define */
 

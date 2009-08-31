@@ -30,7 +30,7 @@
 #ifndef	_AUDIT_PLUGIN_H
 #define	_AUDIT_PLUGIN_H
 
-#pragma ident	"@(#)audit_plugin.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 

@@ -6,7 +6,7 @@
 
         Licensed under the Academic Free License version 2.1
 
-	ident	"@(#)hal.xml	1.1	06/10/10 SMI"
+	ident	"%Z%%M%	%I%	%E% SMI"
 
 	NOTE:  This service manifest is not editable; its contents will
 	be overwritten by package or patch operations, including

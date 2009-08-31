@@ -1,4 +1,4 @@
-#ident	"@(#)README.grub	1.1	05/04/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 The current version of GRUB is based on
 	grub-0.95 from ftp://alpha.gnu.org/gnu/grub/

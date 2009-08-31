@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)getutx.c	1.46	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines to read and write the /etc/utmpx file. Also contains

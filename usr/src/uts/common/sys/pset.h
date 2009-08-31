@@ -27,7 +27,7 @@
 #ifndef	_SYS_PSET_H
 #define	_SYS_PSET_H
 
-#pragma ident	"@(#)pset.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

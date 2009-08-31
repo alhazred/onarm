@@ -26,7 +26,7 @@
 #ifndef	_SYS_MMU_H
 #define	_SYS_MMU_H
 
-#pragma ident	"@(#)mmu.h	1.44	08/02/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -28,7 +28,7 @@
 #ifndef	_FMD_XPRT_H
 #define	_FMD_XPRT_H
 
-#pragma ident	"@(#)fmd_xprt.h	1.1	05/12/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pthread.h>
 #include <libnvpair.h>

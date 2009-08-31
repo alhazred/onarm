@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)memcluster.c	1.4	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* When this symbol is defined allocations via memget are made slightly 
    bigger and some debugging info stuck before and after the region given 

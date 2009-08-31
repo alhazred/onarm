@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 #
-# ident	"@(#)Makefile	1.1	07/03/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the Sun
 #	10G/1G Ethernet leaf driver kernel module.

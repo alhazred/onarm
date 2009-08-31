@@ -27,7 +27,7 @@
 #ifndef	_LM75_H
 #define	_LM75_H
 
-#pragma ident	"@(#)lm75.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

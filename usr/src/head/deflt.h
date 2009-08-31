@@ -33,7 +33,7 @@
 #ifndef	_DEFLT_H
 #define	_DEFLT_H
 
-#pragma ident	"@(#)deflt.h	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

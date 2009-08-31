@@ -26,7 +26,7 @@
 #ifndef _META_ATTRMASTERS_H
 #define	_META_ATTRMASTERS_H
 
-#pragma ident	"@(#)metaAttrMasters.h	1.3	07/05/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

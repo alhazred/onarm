@@ -27,7 +27,7 @@
 #ifndef	_ANALYZE_H
 #define	_ANALYZE_H
 
-#pragma ident	"@(#)analyze.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

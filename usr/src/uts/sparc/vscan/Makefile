@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile	1.1	07/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	This makefile drives the production of the vscan service

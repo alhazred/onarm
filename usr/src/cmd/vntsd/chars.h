@@ -27,7 +27,7 @@
 #ifndef _CHARS_H
 #define	_CHARS_H
 
-#pragma ident	"@(#)chars.h	1.2	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

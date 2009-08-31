@@ -27,7 +27,7 @@
 #ifndef	_SYS_1394_TARGETS_DCAM1394_PARAM_H
 #define	_SYS_1394_TARGETS_DCAM1394_PARAM_H
 
-#pragma ident	"@(#)dcam_param.h	1.3	05/06/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

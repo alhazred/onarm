@@ -7,7 +7,7 @@
 #ifndef	_NETINET_TCP_DEBUG_H
 #define	_NETINET_TCP_DEBUG_H
 
-#pragma ident	"@(#)tcp_debug.h	1.2	93/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* tcp_debug.h 1.8 88/08/19 SMI; from UCB 7.1 6/5/86	*/
 
 #ifdef	__cplusplus

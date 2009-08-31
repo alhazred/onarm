@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)malloc.c	1.7	05/06/08 SMI"	/* SVr4.0 1.3	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 #ifdef debug
 #define ASSERT(p) if(!(p))botch("p");else
 botch(s)

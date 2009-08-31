@@ -30,7 +30,7 @@
 #ifndef _SYS_VDEV_H
 #define	_SYS_VDEV_H
 
-#pragma ident	"@(#)vdev.h	1.16	07/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/spa.h>
 #include <sys/zio.h>

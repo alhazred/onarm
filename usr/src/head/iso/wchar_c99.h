@@ -38,7 +38,7 @@
 #ifndef	_ISO_WCHAR_C99_H
 #define	_ISO_WCHAR_C99_H
 
-#pragma ident	"@(#)wchar_c99.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

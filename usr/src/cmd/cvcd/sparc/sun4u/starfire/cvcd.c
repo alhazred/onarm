@@ -34,7 +34,7 @@
  * disconnect and break ioctl's to the kernel CVC drivers.
  */
 
-#pragma ident	"@(#)cvcd.c	1.35	05/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <stdio.h>

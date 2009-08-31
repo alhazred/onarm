@@ -31,7 +31,7 @@
 #ifndef	_STROPTS_H
 #define	_STROPTS_H
 
-#pragma ident	"@(#)stropts.h	1.12	05/06/08 SMI"	/* SVr4.0 1.6	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 
 /*
  * Streams user options definitions.

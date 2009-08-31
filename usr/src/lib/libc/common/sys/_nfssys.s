@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_nfssys.s	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_nfssys.s"
+	.file	"%M%"
 
 /* C library -- nfssys						*/
 /* int nfssys(int opcode, int arg)				*/

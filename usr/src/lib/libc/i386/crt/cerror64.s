@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)cerror64.s	1.8	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"cerror64.s"
+	.file	"%M%"
 
 / C return sequence which sets errno, returns -1.
 

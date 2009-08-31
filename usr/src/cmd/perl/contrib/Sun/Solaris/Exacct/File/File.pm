@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)File.pm	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # File.pm contains wrappers for the exacct file manipulation routines.
 # 
@@ -33,7 +33,7 @@ use warnings;
 
 package Sun::Solaris::Exacct::File;
 
-our $VERSION = '1.3';
+our $VERSION = '%I%';
 use XSLoader;
 XSLoader::load(__PACKAGE__, $VERSION);
 

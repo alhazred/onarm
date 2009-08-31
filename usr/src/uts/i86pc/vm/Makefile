@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile	1.16	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # uts/i86pc/vm/Makefile
 #

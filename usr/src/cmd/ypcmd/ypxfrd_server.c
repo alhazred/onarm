@@ -25,7 +25,7 @@
  */
 /* Portions Copyright 2005 Juergen Keil */
 
-#pragma ident	"@(#)ypxfrd_server.c	1.14	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <signal.h>

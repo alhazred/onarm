@@ -26,7 +26,7 @@
 #ifndef	_SYS_CRYPTO_API_H
 #define	_SYS_CRYPTO_API_H
 
-#pragma ident	"@(#)api.h	1.7	06/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

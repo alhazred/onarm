@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nres_rcv.c	1.6	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Taken from 4.1.3 ypserv resolver code. */
 

@@ -31,7 +31,7 @@
  */
 
 
-#pragma ident	"@(#)tmsig.c	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<stdio.h>
 #include	<signal.h>

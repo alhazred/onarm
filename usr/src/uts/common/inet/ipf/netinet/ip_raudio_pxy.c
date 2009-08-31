@@ -13,7 +13,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ip_raudio_pxy.c	1.4	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	IPF_RAUDIO_PROXY
 

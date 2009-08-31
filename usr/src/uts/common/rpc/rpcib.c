@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)rpcib.c	1.29	06/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The rpcib plugin. Implements the interface for RDMATF's
@@ -134,7 +134,7 @@ static struct dev_ops rpcib_ops = {
 
 static struct modldrv rib_modldrv = {
 	&mod_driverops,			    /* Driver module */
-	"RPCIB plugin driver, ver 1.29", /* Driver name and version */
+	"RPCIB plugin driver, ver %I%", /* Driver name and version */
 	&rpcib_ops,		    /* Driver ops */
 };
 

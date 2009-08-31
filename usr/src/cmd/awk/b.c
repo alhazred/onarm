@@ -28,7 +28,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)b.c	1.12	05/07/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	DEBUG
 

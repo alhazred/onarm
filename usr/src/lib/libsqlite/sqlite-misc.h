@@ -6,7 +6,7 @@
 #ifndef	_SQLITE_MISC_H
 #define	_SQLITE_MISC_H
 
-#pragma ident	"@(#)sqlite-misc.h	1.1	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -28,7 +28,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)cook.c	1.19	05/06/08 SMI" 	/* SVr4.0 1.10	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.10	*/
 
 #include "syn.h"
 #include <string.h>

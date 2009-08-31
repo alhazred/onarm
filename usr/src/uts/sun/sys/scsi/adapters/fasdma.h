@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCSI_ADAPTERS_FASDMA_H
 #define	_SYS_SCSI_ADAPTERS_FASDMA_H
 
-#pragma ident	"@(#)fasdma.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SCSI	Channel	Engine (fas SCSI DVMA) definitions

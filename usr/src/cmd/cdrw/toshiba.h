@@ -27,7 +27,7 @@
 #ifndef	_TOSHIBA_H
 #define	_TOSHIBA_H
 
-#pragma ident	"@(#)toshiba.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

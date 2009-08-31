@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)tl.c	1.79	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Multithreaded STREAMS Local Transport Provider.
@@ -742,7 +742,7 @@ DDI_DEFINE_STREAM_OPS(tl_devops, nulldev, nulldev, tl_attach, tl_detach,
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module -- pseudo driver here */
-	"TPI Local Transport (tl) 1.79",
+	"TPI Local Transport (tl) %I%",
 	&tl_devops,		/* driver ops */
 };
 

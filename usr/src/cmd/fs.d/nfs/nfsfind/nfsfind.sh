@@ -22,7 +22,7 @@
 #
 # Copyright (c) 1993 by Sun Microsystems, Inc.
 
-#ident	"@(#)nfsfind.sh	1.8	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Check shared NFS filesystems for .nfs* files that 
 # are more than a week old.

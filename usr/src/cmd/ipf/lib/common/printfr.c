@@ -9,7 +9,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)printfr.c	1.6	08/01/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ipf.h"
 

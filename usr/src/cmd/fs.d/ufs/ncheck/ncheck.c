@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)ncheck.c	1.30	05/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ncheck -- obtain file names from reading filesystem

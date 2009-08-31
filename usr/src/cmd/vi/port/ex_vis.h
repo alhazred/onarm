@@ -32,7 +32,7 @@
 #ifndef _EX_VIS_H
 #define	_EX_VIS_H
 
-#pragma ident	"@(#)ex_vis.h	1.12	07/03/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

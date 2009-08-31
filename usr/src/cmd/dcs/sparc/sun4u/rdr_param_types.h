@@ -27,7 +27,7 @@
 #ifndef _RDR_PARAM_TYPES_H
 #define	_RDR_PARAM_TYPES_H
 
-#pragma ident	"@(#)rdr_param_types.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING: The contents of this file are shared by all projects
@@ -37,8 +37,8 @@
  *
  *	Project	    Location
  *	-------	    --------
- *	Solaris	    usr/src/cmd/dcs/sparc/sun4u/rdr_param_types.h
- *	SMS	    src/sms/lib/librdr/rdr_param_types.h
+ *	Solaris	    usr/src/cmd/dcs/sparc/sun4u/%M%
+ *	SMS	    src/sms/lib/librdr/%M%
  *
  * In order for proper communication to occur,  the files in the
  * above locations must match exactly. Any changes that are made

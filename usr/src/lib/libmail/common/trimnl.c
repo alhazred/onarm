@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)trimnl.c	1.7	06/01/04 SMI" 	/* SVr4.0 1.3	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.3	*/
 /*LINTLIBRARY*/
 
 #include "c_synonyms.h"

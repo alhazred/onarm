@@ -34,7 +34,7 @@
  */
 
 
-#pragma ident	"@(#)err.D_DECL_INCOMPLETE.simple.d	1.1	06/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #pragma D option quiet
 
 

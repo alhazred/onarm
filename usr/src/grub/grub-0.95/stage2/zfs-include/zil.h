@@ -24,7 +24,7 @@
 #ifndef	_SYS_ZIL_H
 #define	_SYS_ZIL_H
 
-#pragma ident	"@(#)zil.h	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Intent log format:

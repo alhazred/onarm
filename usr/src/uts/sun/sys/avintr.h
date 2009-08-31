@@ -27,7 +27,7 @@
 #ifndef _SYS_AVINTR_H
 #define	_SYS_AVINTR_H
 
-#pragma ident	"@(#)avintr.h	1.16	05/06/08 SMI"	/* SVr4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4 */
 
 #ifdef	__cplusplus
 extern "C" {

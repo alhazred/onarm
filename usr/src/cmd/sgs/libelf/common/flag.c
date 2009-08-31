@@ -28,7 +28,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)flag.c	1.10	05/06/08 SMI" 	/* SVr4.0 1.6	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.6	*/
 
 #pragma weak	elf_flagdata = _elf_flagdata
 #pragma weak	elf_flagehdr = _elf_flagehdr

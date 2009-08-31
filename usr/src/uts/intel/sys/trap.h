@@ -27,7 +27,7 @@
 #ifndef _SYS_TRAP_H
 #define	_SYS_TRAP_H
 
-#pragma ident	"@(#)trap.h	1.13	05/09/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(__i386) || defined(__amd64)
 

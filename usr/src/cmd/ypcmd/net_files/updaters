@@ -30,7 +30,7 @@
 #
 #	Update file for yellow pages
 
-#ident	"@(#)updaters	1.6	05/06/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # where the yp files live
 DIR=/etc

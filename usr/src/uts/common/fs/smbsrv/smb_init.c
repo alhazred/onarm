@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)smb_init.c	1.3	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/ddi.h>
@@ -113,7 +113,7 @@ static struct dev_ops devops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,					/* drv_modops */
-	"CIFS Server Protocol 1.3",			/* drv_linkinfo */
+	"CIFS Server Protocol %I%",			/* drv_linkinfo */
 	&devops,
 };
 

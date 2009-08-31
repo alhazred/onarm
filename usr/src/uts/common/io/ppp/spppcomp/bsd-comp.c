@@ -40,7 +40,7 @@
  * SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)bsd-comp.c	1.2	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This version is for use with STREAMS in Solaris 2

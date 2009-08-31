@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)TemplateRegistry.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)TemplateRegistry.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  TemplateRegistry.java:
 //  Author:           James Kempf
 //  Created On:       Fri Jul  4 11:38:39 1997
@@ -47,7 +47,7 @@ import java.util.*;
  * template attributes.
  *
  * @author James Kempf
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  *
  */
 

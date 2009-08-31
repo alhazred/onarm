@@ -21,7 +21,7 @@
 # Copyright 2000 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)local.cshrc	1.4	05/06/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 umask 022
 set path=(/bin /usr/bin /usr/ucb /etc .)
 if ( $?prompt ) then

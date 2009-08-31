@@ -32,7 +32,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)ptem.c	1.44	05/06/08 SMI" /* from S5R4 1.13 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* from S5R4 1.13 */
 
 /*
  * Description:

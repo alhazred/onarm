@@ -26,7 +26,7 @@
 #ifndef	_LX_MOUNT_H
 #define	_LX_MOUNT_H
 
-#pragma ident	"@(#)lx_mount.h	1.2	07/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

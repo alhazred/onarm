@@ -27,7 +27,7 @@
 #ifndef	_HTBL_H
 #define	_HTBL_H
 
-#pragma ident	"@(#)htbl.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

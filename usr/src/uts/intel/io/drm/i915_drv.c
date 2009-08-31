@@ -49,7 +49,7 @@
  * I915 driver is a device dependent driver only, it depends on a misc module
  * named drm for generic DRM operations.
  */
-#pragma ident	"@(#)i915_drv.c	1.5	08/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "drmP.h"
 #include "i915_drm.h"

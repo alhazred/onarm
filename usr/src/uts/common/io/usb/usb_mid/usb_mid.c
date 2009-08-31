@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)usb_mid.c	1.44	07/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * usb multi interface and common class driver
@@ -188,7 +188,7 @@ static struct dev_ops usb_mid_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module. This one is a driver */
-	"USB Multi Interface Driver 1.44", /* Name of the module. */
+	"USB Multi Interface Driver %I%", /* Name of the module. */
 	&usb_mid_ops,	/* driver ops */
 };
 

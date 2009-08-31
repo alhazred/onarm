@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)f_cksum.c	1.7	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * des_cbc_cksum.c - compute an 8 byte checksum using DES in CBC mode

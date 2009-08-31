@@ -32,7 +32,7 @@
 #ifndef _SYS_HOOK_EVENT_H
 #define	_SYS_HOOK_EVENT_H
 
-#pragma ident	"@(#)hook_event.h	1.2	08/01/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/neti.h>
 #include <sys/hook.h>

@@ -3,7 +3,7 @@
 #ifndef	_MKTEMP_H
 #define	_MKTEMP_H
 
-#pragma ident	"@(#)mktemp.h	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

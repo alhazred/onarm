@@ -24,7 +24,7 @@
 #ifndef	_SYS_DMU_OBJSET_H
 #define	_SYS_DMU_OBJSET_H
 
-#pragma ident	"@(#)dmu_objset.h	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef struct objset_phys {
 	dnode_phys_t os_meta_dnode;

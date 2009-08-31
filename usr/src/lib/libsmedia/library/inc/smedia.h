@@ -27,7 +27,7 @@
 #ifndef _SMEDIA_H_
 #define	_SMEDIA_H_
 
-#pragma ident	"@(#)smedia.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * smedia.h header for libsmedia library

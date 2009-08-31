@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)keyspan_dsd.c	1.6	07/11/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

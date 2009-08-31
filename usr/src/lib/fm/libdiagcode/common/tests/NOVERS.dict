@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#pragma ident	"@(#)NOVERS.dict	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #
 # NOVERS diagcode dictionary -- used by "make test" target only

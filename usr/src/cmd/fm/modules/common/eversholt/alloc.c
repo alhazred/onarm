@@ -27,7 +27,7 @@
  *
  */
 
-#pragma ident	"@(#)alloc.c	1.6	07/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <string.h>

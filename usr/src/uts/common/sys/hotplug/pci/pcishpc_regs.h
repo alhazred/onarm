@@ -27,7 +27,7 @@
 #ifndef	_SYS_HOTPLUG_PCI_PCISHPC_REGS_H
 #define	_SYS_HOTPLUG_PCI_PCISHPC_REGS_H
 
-#pragma ident	"@(#)pcishpc_regs.h	1.1	06/11/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

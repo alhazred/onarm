@@ -42,7 +42,7 @@
  * Sun elects to use this software under the MPL license.
  */
 
-#pragma ident	"@(#)ec2_test.c	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef _KERNEL
 #include <sys/types.h>

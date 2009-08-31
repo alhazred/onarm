@@ -17,7 +17,7 @@
  * purpose.  It is provided "as is" without express or implied warranty.
  */
 
-#pragma ident	"@(#)ntptime.c	1.10	08/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Modification history kern_ntptime.c

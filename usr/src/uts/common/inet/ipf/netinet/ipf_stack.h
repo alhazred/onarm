@@ -7,7 +7,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ipf_stack.h	1.5	07/08/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	__IPF_STACK_H__
 #define	__IPF_STACK_H__

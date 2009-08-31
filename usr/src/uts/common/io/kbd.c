@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)kbd.c	1.125	07/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 						/* SunOS-4.0 1.60	*/
 /*	From:	SunOS4.0	sundev/kbd.c	*/
 

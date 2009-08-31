@@ -2,7 +2,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)zic.c	1.17	07/05/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 static char	elsieid[] = "@(#)zic.c	7.128.1";
 

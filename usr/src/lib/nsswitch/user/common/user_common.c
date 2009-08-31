@@ -26,7 +26,7 @@
  * Much of this was taken directly from the files_common.c source.
  */
 
-#pragma ident	"@(#)user_common.c	1.6	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * An implementation that used mmap() sensibly would be a wonderful thing,

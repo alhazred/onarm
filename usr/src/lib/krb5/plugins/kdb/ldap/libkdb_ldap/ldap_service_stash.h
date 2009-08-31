@@ -31,7 +31,7 @@
 #ifndef LDAP_SERVICE_STASH_H
 #define LDAP_SERVICE_STASH_H 1
 
-#pragma ident	"@(#)ldap_service_stash.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define RECORDLEN 1024
 struct data{

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)aclcheck.c	1.10	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*LINTLIBRARY*/
 
 /*

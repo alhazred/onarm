@@ -37,7 +37,7 @@
  */
 
 
-#pragma ident	"@(#)ufs_alloc.c	2.126	07/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/condvar_impl.h>
 #include <sys/types.h>

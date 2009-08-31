@@ -30,7 +30,7 @@
 #ifndef _SYS_SIGINFO_H
 #define	_SYS_SIGINFO_H
 
-#pragma ident	"@(#)siginfo.h	1.61	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

@@ -14,7 +14,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)ls.c	1.20	06/07/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ls

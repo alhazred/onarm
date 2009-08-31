@@ -58,7 +58,7 @@
  * change these function to use locked unswappable memory.
  */
 
-#pragma ident	"@(#)lbnmem.c	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "port_before.h"
 

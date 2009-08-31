@@ -35,7 +35,7 @@
 #ifndef _NSSWITCH_H
 #define	_NSSWITCH_H
 
-#pragma ident	"@(#)nsswitch.h	1.22	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _SYS_SCSI_CONF_AUTOCONF_H
 #define	_SYS_SCSI_CONF_AUTOCONF_H
 
-#pragma ident	"@(#)autoconf.h	1.35	05/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

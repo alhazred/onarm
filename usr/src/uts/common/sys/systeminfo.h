@@ -31,7 +31,7 @@
 #ifndef _SYS_SYSTEMINFO_H
 #define	_SYS_SYSTEMINFO_H
 
-#pragma ident	"@(#)systeminfo.h	1.21	05/06/08 SMI"	/* SVr4.0 1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4 */
 
 #ifdef	__cplusplus
 extern "C" {

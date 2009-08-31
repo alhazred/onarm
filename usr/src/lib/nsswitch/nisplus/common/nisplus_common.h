@@ -27,7 +27,7 @@
  *	Common code used by name-service-switch "nisplus" backends
  */
 
-#pragma ident	"@(#)nisplus_common.h	1.20	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _NISPLUS_COMMON_H
 #define	_NISPLUS_COMMON_H

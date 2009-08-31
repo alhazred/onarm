@@ -26,7 +26,7 @@
 #ifndef _LIBDLVLAN_H
 #define	_LIBDLVLAN_H
 
-#pragma ident	"@(#)libdlvlan.h	1.1	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file includes structures, macros and routines used by VLAN link

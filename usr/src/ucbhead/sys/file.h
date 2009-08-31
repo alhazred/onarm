@@ -40,7 +40,7 @@
 #ifndef _SYS_FILE_H
 #define	_SYS_FILE_H
 
-#pragma ident	"@(#)file.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SYS_TYPES_H
 #include <sys/types.h>

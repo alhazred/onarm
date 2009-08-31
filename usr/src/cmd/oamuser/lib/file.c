@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)file.c	1.5	05/06/08 SMI"       /* SVr4.0 1.3 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.3 */
 
 #include	<sys/types.h>
 #include	<sys/stat.h>

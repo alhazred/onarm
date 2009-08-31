@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)showjournal.c	1.2	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 ** A utility for printing an SQLite database journal.

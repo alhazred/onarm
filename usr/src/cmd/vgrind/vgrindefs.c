@@ -4,7 +4,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)vgrindefs.c	1.11	05/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	BUFSIZ	1024
 #define MAXHOP	32	/* max number of tc= indirections */

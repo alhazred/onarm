@@ -31,7 +31,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)malloc.c	1.32	06/03/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Simplified version of malloc(), calloc() and free(), to be linked with

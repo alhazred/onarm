@@ -3,7 +3,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)kclient.sh	1.10	04/06/22 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This script is used to setup the Kerberos client by
 # supplying information about the Kerberos realm and kdc.

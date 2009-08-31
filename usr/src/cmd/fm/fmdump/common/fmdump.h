@@ -27,7 +27,7 @@
 #ifndef	_FMDUMP_H
 #define	_FMDUMP_H
 
-#pragma ident	"@(#)fmdump.h	1.5	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

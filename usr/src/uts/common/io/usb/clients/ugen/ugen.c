@@ -27,7 +27,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)ugen.c	1.17	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * UGEN: USB Generic Driver
@@ -118,7 +118,7 @@ static struct dev_ops ugen_skel_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* Module type */
-	"USB Generic driver 1.17",	/* Name of the module. */
+	"USB Generic driver %I%",	/* Name of the module. */
 	&ugen_skel_ops,			/* driver ops */
 };
 

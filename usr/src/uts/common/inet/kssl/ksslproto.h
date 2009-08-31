@@ -27,7 +27,7 @@
 #ifndef	_INET_KSSL_KSSLPROTO_H
 #define	_INET_KSSL_KSSLPROTO_H
 
-#pragma ident	"@(#)ksslproto.h	1.1	05/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

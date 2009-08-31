@@ -32,7 +32,7 @@
  * $Id: rcfile.c,v 1.1.1.2 2001/07/06 22:38:43 conrad Exp $
  */
 
-#pragma ident	"@(#)rcfile.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fcntl.h>
 #include <sys/types.h>

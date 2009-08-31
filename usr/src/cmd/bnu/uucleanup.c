@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)uucleanup.c	1.13	05/10/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	uucleanup - This is a program based on the heuristics

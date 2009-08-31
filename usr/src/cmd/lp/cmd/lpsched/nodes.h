@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)nodes.h	1.12	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef struct alert_node	ALERT;
 typedef struct cstat_node	CSTATUS;

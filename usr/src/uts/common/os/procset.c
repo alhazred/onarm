@@ -30,7 +30,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)procset.c	1.30	07/01/30 SMI"	/* from SVr4.0 1.25 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVr4.0 1.25 */
 
 #include <sys/types.h>
 #include <sys/sysmacros.h>

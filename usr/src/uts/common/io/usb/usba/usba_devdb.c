@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)usba_devdb.c	1.10	05/11/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	USBA_FRAMEWORK
 #include <sys/ksynch.h>

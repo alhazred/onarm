@@ -22,7 +22,7 @@
  * All Rights Reserved, Copyright (c) FUJITSU LIMITED 2006
  */
 
-#pragma ident	"@(#)oplmsu.c	1.3	06/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errno.h>
 #include <sys/modctl.h>
@@ -141,7 +141,7 @@ static struct dev_ops oplmsu_ops = {
 
 struct modldrv modldrv = {
 	&mod_driverops,
-	"OPL serial mux driver 1.3",
+	"OPL serial mux driver %I%",
 	&oplmsu_ops
 };
 

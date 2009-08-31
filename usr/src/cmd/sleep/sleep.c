@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)sleep.c	1.16	05/06/08 SMI"	/* SVr4.0 1.3	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 /*
 **	sleep -- suspend execution for an interval
 **

@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)ladd.s	1.5	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"ladd.s"
+	.file	"%M%"
 
 / Double long add routine.
 

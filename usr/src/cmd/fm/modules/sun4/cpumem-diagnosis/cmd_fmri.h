@@ -27,7 +27,7 @@
 #ifndef _CMD_FMRI_H
 #define	_CMD_FMRI_H
 
-#pragma ident	"@(#)cmd_fmri.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Each general-purpose state structure is named by an FMRI - the FMRI of the

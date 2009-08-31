@@ -27,7 +27,7 @@
 #ifndef _SYS_MEMREG_H
 #define	_SYS_MEMREG_H
 
-#pragma ident	"@(#)memreg.h	1.24	05/06/08 SMI"	/* SunOS4.1.2 1.16 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS4.1.2 1.16 */
 
 #ifdef	__cplusplus
 extern "C" {

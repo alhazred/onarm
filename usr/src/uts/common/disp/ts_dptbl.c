@@ -32,7 +32,7 @@
  * Copyright (c) 2006-2007 NEC Corporation
  */
 
-#pragma ident	"@(#)ts_dptbl.c	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/proc.h>
 #include <sys/priocntl.h>

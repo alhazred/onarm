@@ -7,7 +7,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-#ident	"@(#)solaris8.m4	1.3	01/08/27 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This ostype file is suitable for use on Solaris 8 and later systems,
 #	taking advantage of mail.local's LMTP support, the existence of

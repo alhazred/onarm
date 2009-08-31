@@ -27,7 +27,7 @@
 #ifndef	_AVL_H
 #define	_AVL_H
 
-#pragma ident	"@(#)avl.h	1.12	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is a private header file.  Applications should not directly include

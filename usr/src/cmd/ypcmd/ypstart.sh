@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)ypstart.sh	1.17	06/03/09 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Enable appropriate NIS daemons based on the current configuration.
 

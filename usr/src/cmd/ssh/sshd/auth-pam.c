@@ -52,7 +52,7 @@ extern Authmethod method_kbdint;
 
 RCSID("$Id: auth-pam.c,v 1.54 2002/07/28 20:24:08 stevesk Exp $");
 
-#pragma ident	"@(#)auth-pam.c	1.18	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define NEW_AUTHTOK_MSG \
 	"Warning: Your password has expired, please change it now."

@@ -27,7 +27,7 @@
 #ifndef	_SYS_MACE_H
 #define	_SYS_MACE_H
 
-#pragma ident	"@(#)mace.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

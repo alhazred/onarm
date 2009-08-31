@@ -28,7 +28,7 @@
 #ifndef	_FMD_SUBR_H
 #define	_FMD_SUBR_H
 
-#pragma ident	"@(#)fmd_subr.h	1.4	05/12/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pthread.h>
 #include <stdarg.h>

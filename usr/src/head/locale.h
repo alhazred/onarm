@@ -27,7 +27,7 @@
 #ifndef _LOCALE_H
 #define	_LOCALE_H
 
-#pragma ident	"@(#)locale.h	1.22	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <iso/locale_iso.h>
 

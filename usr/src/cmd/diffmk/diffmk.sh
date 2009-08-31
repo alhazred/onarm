@@ -31,7 +31,7 @@
 
 #     Makefile for echo
 
-#ident	"@(#)diffmk.sh	1.7	05/06/08 SMI"        /* SVr4.0 1.2  */
+#ident	"%Z%%M%	%I%	%E% SMI"        /* SVr4.0 1.2  */
 
 PATH=/usr/bin
 if test -z "$3" -o "$3" = "$1" -o "$3" = "$2"; then

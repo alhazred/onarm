@@ -24,10 +24,10 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)nis_multival.c	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef LINT
-static char SCCSID[] = "@(#)nis_multival.c	1.7	05/06/08 SMI";
+static char SCCSID[] = "%Z%%M%	%I%	%E% SMI";
 #endif
 
 #include <stdio.h>

@@ -21,7 +21,7 @@
 #
 # uts/sparc/qfe/Makefile
 #
-# ident	"@(#)Makefile	1.1	07/08/24 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.

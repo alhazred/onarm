@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)snmp_msg.h	1.10	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifndef _SNMP_MSG_H_

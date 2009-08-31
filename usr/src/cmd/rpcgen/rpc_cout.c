@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rpc_cout.c	1.25	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rpc_cout.c, XDR routine outputter for the RPC protocol compiler

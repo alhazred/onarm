@@ -24,7 +24,7 @@ static const char rcsid[] = "$Id: hesiod.c,v 1.23 2002/07/18 02:07:45 marka Exp 
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)hesiod.c	1.6	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file is primarily maintained by <tytso@mit.edu> and <ghudson@mit.edu>.

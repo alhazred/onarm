@@ -24,7 +24,7 @@
 #ifndef _SYS_SPA_H
 #define	_SYS_SPA_H
 
-#pragma ident	"@(#)spa.h	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * General-purpose 32-bit and 64-bit bitfield encodings.

@@ -26,7 +26,7 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-#pragma ident	"@(#)iwk2.c	1.1	08/03/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Driver for Intel PRO/Wireless 4965AGN(kedron) 802.11 network adapters.

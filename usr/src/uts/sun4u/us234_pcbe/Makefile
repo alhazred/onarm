@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.3	06/11/02 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This Makefile builds the UltraSPARC 2 - 4 Performance Counter BackEnd (PCBE).
 #

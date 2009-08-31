@@ -26,7 +26,7 @@
 #ifndef	_MDB_GELF_H
 #define	_MDB_GELF_H
 
-#pragma ident	"@(#)mdb_gelf.h	1.8	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_nv.h>
 #include <mdb/mdb_io.h>

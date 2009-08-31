@@ -27,7 +27,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)tphci.c	1.10	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The tphci driver can be used to exercise the mpxio framework together
@@ -142,7 +142,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"test phci driver 1.10",
+	"test phci driver %I%",
 	&tphci_ops
 };
 

@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)encode.c	1.1	01/09/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*-
  *

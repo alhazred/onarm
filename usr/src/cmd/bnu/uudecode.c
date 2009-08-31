@@ -25,7 +25,7 @@
 /*	Copyright 2004 Sun Microsystems, Inc.  All rights reserved. */
 /*	Use is subject to license terms. */
 
-#pragma ident	"@(#)uudecode.c	1.22	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * uudecode [-o outfile | -p] [input]

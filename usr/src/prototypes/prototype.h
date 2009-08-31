@@ -27,7 +27,7 @@
 #ifndef _HEADER_H
 #define	_HEADER_H
 
-#pragma ident	"@(#)prototype.h	1.16	08/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Block comment that describes the contents of this file.

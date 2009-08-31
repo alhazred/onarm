@@ -24,7 +24,7 @@
 # Copyright 1998-2002 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)mkroot.sh	1.7	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Script to create an MDB "root" from a given set of BFU archives.  The root

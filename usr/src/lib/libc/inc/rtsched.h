@@ -27,7 +27,7 @@
 #ifndef _RTSCHED_H
 #define	_RTSCHED_H
 
-#pragma ident	"@(#)rtsched.h	1.1	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/priocntl.h>
 

@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)tst.static2.ksh	1.2	06/09/26 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # Rebuilding an object file containing DOF changes slightly when the object
 # files containing the probes have already been modified. This tests that

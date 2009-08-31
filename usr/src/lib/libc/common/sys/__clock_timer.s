@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)__clock_timer.s	1.13	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"__clock_timer.s"
+	.file	"%M%"
 
 #include "SYS.h"
 

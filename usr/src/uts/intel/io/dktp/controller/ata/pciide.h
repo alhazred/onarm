@@ -27,7 +27,7 @@
 #ifndef _PCIIDE_H
 #define	_PCIIDE_H
 
-#pragma ident	"@(#)pciide.h	1.4	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef	_PCIEX_PCI_NVIDIA_H
 #define	_PCIEX_PCI_NVIDIA_H
 
-#pragma ident	"@(#)pcie_nvidia.h	1.6	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

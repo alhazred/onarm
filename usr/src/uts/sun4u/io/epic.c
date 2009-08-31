@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)epic.c	1.2	05/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Driver to control Alert and Power LEDs  for the Seattle platform.
@@ -120,7 +120,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"epic_client driver v1.2",
+	"epic_client driver v%I%",
 	&epic_dev_ops
 };
 

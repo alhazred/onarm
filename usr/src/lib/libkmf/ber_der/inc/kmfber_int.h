@@ -33,7 +33,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kmfber_int.h	1.2	07/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 

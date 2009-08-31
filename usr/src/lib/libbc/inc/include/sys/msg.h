@@ -30,7 +30,7 @@
 #ifndef _sys_msg_h
 #define	_sys_msg_h
 
-#pragma ident	"@(#)msg.h	1.17	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	IPC Message Facility.

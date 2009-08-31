@@ -30,7 +30,7 @@
 #ifndef _SYS_STRSTAT_H
 #define	_SYS_STRSTAT_H
 
-#pragma ident	"@(#)strstat.h	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _TFTPCOMMON_H
 #define	_TFTPCOMMON_H
 
-#pragma ident	"@(#)tftpcommon.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Defines and function declarations common to tftp and in.tftpd.

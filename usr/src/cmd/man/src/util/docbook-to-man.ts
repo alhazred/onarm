@@ -2,7 +2,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)docbook-to-man.ts	1.40	04/08/12 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #	solbook-to-man.ts
 #
 #############################################################################

@@ -31,7 +31,7 @@
 #ifndef _SYS_HRTCNTL_H
 #define	_SYS_HRTCNTL_H
 
-#pragma ident	"@(#)hrtcntl.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
 #	This makefile drives the production of the audio mixer
 #	sample rate conversion routine #1 (amsrc2).
 #
-#ident	"@(#)Makefile	1.6	07/07/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	Path to the base of the uts directory tree (usually /usr/src/uts).

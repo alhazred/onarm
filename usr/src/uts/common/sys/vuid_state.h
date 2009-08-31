@@ -36,7 +36,7 @@
 #ifndef _SYS_VUID_STATE_H
 #define	_SYS_VUID_STATE_H
 
-#pragma ident	"@(#)vuid_state.h	1.7	05/06/08 SMI"	/* SunOS 1.5 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS 1.5 */
 
 #ifdef	__cplusplus
 extern "C" {

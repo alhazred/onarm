@@ -27,7 +27,7 @@
  * used.
  */
 
-#pragma ident	"@(#)rpc.c	1.37	06/01/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sysmacros.h>
 #include <rpc/types.h>

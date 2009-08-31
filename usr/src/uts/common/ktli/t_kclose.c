@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)t_kclose.c	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Much like closef().

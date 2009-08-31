@@ -27,7 +27,7 @@
 #ifndef	_SYS_DDI_INTR_H
 #define	_SYS_DDI_INTR_H
 
-#pragma ident	"@(#)ddi_intr.h	1.4	05/10/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Sun DDI interrupt support definitions

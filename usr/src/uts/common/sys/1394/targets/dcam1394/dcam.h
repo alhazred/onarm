@@ -27,7 +27,7 @@
 #ifndef _SYS_1394_TARGETS_DCAM1394_DCAM_H
 #define	_SYS_1394_TARGETS_DCAM1394_DCAM_H
 
-#pragma ident	"@(#)dcam.h	1.6	05/06/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/modctl.h>
 #include <sys/ksynch.h>

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)misc_link_sparc.c	1.30	07/07/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <regex.h>
 #include <devfsadm.h>

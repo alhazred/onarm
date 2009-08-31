@@ -40,7 +40,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ath_main.c	1.8	07/11/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Driver for the Atheros Wireless LAN controller.

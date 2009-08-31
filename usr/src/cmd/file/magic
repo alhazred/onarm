@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)magic	1.59	08/02/21 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This file contains the dictionary of file format identifiers (magic strings)
 # used by file(1).  The fields of this file are as follows:

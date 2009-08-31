@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pca9556.c	1.7	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>
 #include <sys/file.h>
@@ -130,7 +130,7 @@ static struct dev_ops pca9556_dev_ops = {
 
 static struct modldrv pca9556_modldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"pca9556 device driver v1.7",
+	"pca9556 device driver v%I%",
 	&pca9556_dev_ops,
 };
 

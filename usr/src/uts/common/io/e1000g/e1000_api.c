@@ -23,7 +23,7 @@
  * Use is subject to license terms of the CDDLv1.
  */
 
-#pragma ident	"@(#)e1000_api.c	1.2	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * IntelVersion: HSD_2343720b_DragonLake3 v2007-06-14_HSD_2343720b_DragonLake3

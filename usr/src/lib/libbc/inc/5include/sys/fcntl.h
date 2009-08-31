@@ -23,7 +23,7 @@
  * Copyright 1989 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)fcntl.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	__sys_fcntl_h
 #define	__sys_fcntl_h

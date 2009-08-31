@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nfs.d	1.2	08/02/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma	D depends_on library ip.d
 #pragma	D depends_on library net.d

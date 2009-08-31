@@ -26,7 +26,7 @@
 #ifndef	_LX_DEBUG_H
 #define	_LX_DEBUG_H
 
-#pragma ident	"@(#)lx_debug.h	1.1	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

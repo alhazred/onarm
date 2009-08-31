@@ -37,7 +37,7 @@
  * error messages are spewed as appropriate and exit value is non-zero.
  */
 
-#pragma ident	"@(#)diagcode_test.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

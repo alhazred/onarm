@@ -31,10 +31,10 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)shim_ancil.c	1.4	06/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	lint
-static	char sccsid[] = "@(#)shim_ancil.c 1.4     06/06/02 SMI";
+static	char sccsid[] = "%Z%%M% %I%     %E% SMI";
 #endif
 
 #include <stdlib.h>

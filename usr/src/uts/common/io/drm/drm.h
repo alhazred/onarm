@@ -65,7 +65,7 @@
 #ifndef _DRM_H_
 #define _DRM_H_
 
-#pragma ident	"@(#)drm.h	1.3	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types32.h>
 

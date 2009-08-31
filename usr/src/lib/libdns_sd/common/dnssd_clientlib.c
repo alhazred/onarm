@@ -68,7 +68,7 @@ like Muse Research who want to be able to use mDNS/DNS-SD from GPL-licensed code
 
  */
 
-#pragma ident	"@(#)dnssd_clientlib.c	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <string.h>

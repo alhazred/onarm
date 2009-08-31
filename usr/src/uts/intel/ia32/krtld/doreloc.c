@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)doreloc.c	1.23	07/10/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if	defined(_KERNEL)
 #include	<sys/types.h>

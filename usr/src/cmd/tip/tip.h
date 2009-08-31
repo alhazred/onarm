@@ -11,7 +11,7 @@
 #ifndef	_TIP_H
 #define	_TIP_H
 
-#pragma ident	"@(#)tip.h	1.28	05/09/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * tip - terminal interface program

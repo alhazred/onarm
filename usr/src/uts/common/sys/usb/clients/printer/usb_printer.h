@@ -27,7 +27,7 @@
 #ifndef _SYS_USB_PRINTER_H
 #define	_SYS_USB_PRINTER_H
 
-#pragma ident	"@(#)usb_printer.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

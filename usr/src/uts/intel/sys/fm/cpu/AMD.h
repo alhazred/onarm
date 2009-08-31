@@ -27,7 +27,7 @@
 #ifndef _SYS_FM_CPU_AMD_H
 #define	_SYS_FM_CPU_AMD_H
 
-#pragma ident	"@(#)AMD.h	1.3	07/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

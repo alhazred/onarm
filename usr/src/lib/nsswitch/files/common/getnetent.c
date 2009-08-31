@@ -25,7 +25,7 @@
  * files/getnetent.c -- "files" backend for nsswitch "networks" database
  */
 
-#pragma ident	"@(#)getnetent.c	1.10	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/types.h>

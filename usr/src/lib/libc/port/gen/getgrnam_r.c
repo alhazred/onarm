@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getgrnam_r.c	1.43	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak endgrent = _endgrent
 #pragma weak setgrent = _setgrent

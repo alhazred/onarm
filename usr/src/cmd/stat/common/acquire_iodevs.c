@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)acquire_iodevs.c	1.8	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "statcommon.h"
 #include "dsr.h"

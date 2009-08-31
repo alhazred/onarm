@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)n2piupc_asm.s	1.1	06/12/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Assembly language support for the n2piupc N2 PIU performance counter driver.

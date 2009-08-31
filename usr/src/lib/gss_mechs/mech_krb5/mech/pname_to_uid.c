@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pname_to_uid.c	1.7	07/09/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  krb5 mechanism specific routine for pname_to_uid

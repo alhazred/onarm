@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.1	06/02/11 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 include ../Makefile.com
 include ../../Makefile.targ

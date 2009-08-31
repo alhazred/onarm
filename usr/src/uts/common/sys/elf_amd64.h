@@ -27,7 +27,7 @@
 #ifndef _SYS_ELF_AMD64_H
 #define	_SYS_ELF_AMD64_H
 
-#pragma ident	"@(#)elf_amd64.h	1.7	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

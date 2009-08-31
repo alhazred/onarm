@@ -30,7 +30,7 @@
 #ifndef _SYS_FP_H
 #define	_SYS_FP_H
 
-#pragma ident	"@(#)fp.h	1.17	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

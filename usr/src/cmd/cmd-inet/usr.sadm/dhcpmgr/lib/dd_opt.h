@@ -27,7 +27,7 @@
 #ifndef _DD_OPT_H
 #define	_DD_OPT_H
 
-#pragma ident	"@(#)dd_opt.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

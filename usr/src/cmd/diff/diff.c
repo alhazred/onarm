@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)diff.c	1.55	05/07/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	diff - differential file comparison

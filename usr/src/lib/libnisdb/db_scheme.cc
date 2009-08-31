@@ -26,7 +26,7 @@
  *	All Rights Reserved.
  */
 
-#pragma ident	"@(#)db_scheme.cc	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include "db_headers.h"

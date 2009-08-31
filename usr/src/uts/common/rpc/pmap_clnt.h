@@ -34,7 +34,7 @@
 #ifndef _RPC_PMAP_CLNT_H
 #define	_RPC_PMAP_CLNT_H
 
-#pragma ident	"@(#)pmap_clnt.h	1.17	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

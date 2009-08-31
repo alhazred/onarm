@@ -37,7 +37,7 @@
 #ifndef _EX_DSCP_H
 #define	_EX_DSCP_H
 
-#pragma ident	"@(#)ex_dscp.h	1.5	06/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

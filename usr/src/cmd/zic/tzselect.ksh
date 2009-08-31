@@ -3,7 +3,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)tzselect.ksh	1.3	05/12/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # '@(#)tzselect.ksh	1.8'
 

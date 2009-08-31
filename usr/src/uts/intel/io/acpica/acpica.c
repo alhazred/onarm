@@ -26,7 +26,7 @@
  * Solaris x86 ACPI CA services
  */
 
-#pragma ident	"@(#)acpica.c	1.9	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/file.h>

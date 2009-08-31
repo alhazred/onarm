@@ -33,7 +33,7 @@
 #ifndef	_SYS_FS_HSFS_IMPL_H
 #define	_SYS_FS_HSFS_IMPL_H
 
-#pragma ident	"@(#)hsfs_impl.h	1.15	07/08/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -3,7 +3,7 @@
 #ifndef	_CIPHER_H
 #define	_CIPHER_H
 
-#pragma ident	"@(#)cipher.h	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

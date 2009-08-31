@@ -26,7 +26,7 @@
  *	All rights reserved.
  */
 
-#pragma ident	"@(#)smbfs_client.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/systm.h>

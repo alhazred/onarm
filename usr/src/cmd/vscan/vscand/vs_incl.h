@@ -31,7 +31,7 @@
 #ifndef _VS_INCL_H
 #define	_VS_INCL_H
 
-#pragma ident	"@(#)vs_incl.h	1.2	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

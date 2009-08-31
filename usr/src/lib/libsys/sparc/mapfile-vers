@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)mapfile-vers	1.3	07/05/21 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 SISCD_2.3 {
     global:

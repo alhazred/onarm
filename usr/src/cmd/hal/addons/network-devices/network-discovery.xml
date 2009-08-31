@@ -6,7 +6,7 @@
 
         Licensed under the Academic Free License version 2.1
 
-	ident	"@(#)network-discovery.xml	1.1	07/10/23 SMI"
+	ident	"%Z%%M%	%I%	%E% SMI"
 
 	NOTE:  This service manifest is not editable; its contents will
 	be overwritten by package or patch operations, including

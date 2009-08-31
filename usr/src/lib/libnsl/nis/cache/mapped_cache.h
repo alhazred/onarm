@@ -27,7 +27,7 @@
 #ifndef	__MAPPED_CACHE_H
 #define	__MAPPED_CACHE_H
 
-#pragma ident	"@(#)mapped_cache.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef __cplusplus

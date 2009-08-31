@@ -42,7 +42,7 @@
 #ifndef	_SYS_TYPES_H
 #define	_SYS_TYPES_H
 
-#pragma ident	"@(#)types.h	1.32	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Include fixed width type declarations proposed by the ISO/JTC1/SC22/WG14 C

@@ -29,7 +29,7 @@
 #ifndef _E1000_80003ES2LAN_H_
 #define	_E1000_80003ES2LAN_H_
 
-#pragma ident	"@(#)e1000_80003es2lan.h	1.1	07/08/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)names.c	1.32	05/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * mailx -- a modified version of a University of California at Berkeley

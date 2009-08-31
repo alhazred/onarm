@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 
-# ident	"@(#)Makefile	1.2	08/03/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This makefile drives the production of the iwk driver kernel module.
 #

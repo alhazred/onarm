@@ -28,7 +28,7 @@
 #ifndef _SYS_XDB_H
 #define	_SYS_XDB_H
 
-#pragma ident	"@(#)xdb.h	1.3	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

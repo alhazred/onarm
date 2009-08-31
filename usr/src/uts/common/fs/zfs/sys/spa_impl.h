@@ -30,7 +30,7 @@
 #ifndef _SYS_SPA_IMPL_H
 #define	_SYS_SPA_IMPL_H
 
-#pragma ident	"@(#)spa_impl.h	1.17	07/11/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/spa.h>
 #include <sys/vdev.h>

@@ -26,7 +26,7 @@
 #ifndef	_SYS_MEMLIST_PLAT_H
 #define	_SYS_MEMLIST_PLAT_H
 
-#pragma ident	"@(#)memlist_plat.h	1.8	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Boot time configuration information objects

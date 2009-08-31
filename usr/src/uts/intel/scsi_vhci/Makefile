@@ -25,7 +25,7 @@
 #
 
 #
-#pragma ident	"@(#)Makefile	1.1	07/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This makefile drives the production of SCSI vHCI Driver
 # intel architecture dependent

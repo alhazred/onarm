@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)envctrltwo.c	1.21	06/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ENVCTRLTWO_ Environment Monitoring driver for i2c on Javelin
@@ -225,7 +225,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv envctrlmodldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"I2C ENVCTRLTWO_driver: 1.21",
+	"I2C ENVCTRLTWO_driver: %I%",
 	&envctrltwo_ops,
 };
 

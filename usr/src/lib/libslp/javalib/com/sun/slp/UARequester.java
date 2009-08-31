@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)UARequester.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)UARequester.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  UARequester.java: Requester operations for UA.
 //  Author:           James Kempf
 //  Created On:       Thu Jan  8 15:17:35 1998
@@ -48,7 +48,7 @@ import java.util.*;
  * If no DA is present, and convergence is used to gather
  * results, these will be merged into one result.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author Erik Guttman, James Kempf
  */
 

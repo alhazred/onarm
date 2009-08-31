@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.com	1.11	06/08/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 include $(SRC)/lib/cfgadm_plugins/Makefile.com

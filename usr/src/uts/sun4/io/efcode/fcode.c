@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fcode.c	1.9	06/01/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * fcode helper driver -- provide priv. access and kernel communication
@@ -117,7 +117,7 @@ static struct dev_ops fcode_ops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"FCode driver 1.9",
+	"FCode driver %I%",
 	&fcode_ops
 };
 

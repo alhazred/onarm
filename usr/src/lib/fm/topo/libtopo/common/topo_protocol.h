@@ -26,7 +26,7 @@
 #ifndef _TOPO_PROTOCOL_H
 #define	_TOPO_PROTOCOL_H
 
-#pragma ident	"@(#)topo_protocol.h	1.1	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/nvpair.h>
 

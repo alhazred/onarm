@@ -1,4 +1,4 @@
-\ #pragma ident	"@(#)access.fth	1.3	05/06/08 SMI"
+\ #pragma ident	"%Z%%M%	%I%	%E% SMI"
 \ Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 \ Use is subject to license terms.
 \

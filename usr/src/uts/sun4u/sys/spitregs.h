@@ -27,7 +27,7 @@
 #ifndef _SYS_SPITREGS_H
 #define	_SYS_SPITREGS_H
 
-#pragma ident	"@(#)spitregs.h	1.39	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

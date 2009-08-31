@@ -24,7 +24,7 @@
    *
    * CDDL HEADER END
    *
-   * ident	"@(#)metassist.xml.dfl	1.2	05/06/08 SMI"
+   * ident	"%Z%%M%	%I%	%E% SMI"
    *
    * Specifies the default settings for volume requests used by
    * metassist(1M).

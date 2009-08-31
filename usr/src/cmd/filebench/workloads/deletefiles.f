@@ -22,7 +22,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)deletefiles.f	1.2	08/02/21 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 set $dir=/tmp
 set $nfiles=50000

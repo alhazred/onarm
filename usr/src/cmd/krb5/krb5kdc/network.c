@@ -30,7 +30,7 @@
  *
  * Network code for Kerberos v5 KDC.
  */
-#pragma ident	"@(#)network.c	1.6	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define NEED_SOCKETS
 #include "k5-int.h"

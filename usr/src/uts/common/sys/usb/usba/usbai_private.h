@@ -30,7 +30,7 @@
 #ifndef	_SYS_USB_USBA_USBAI_PRIVATE_H
 #define	_SYS_USB_USBA_USBAI_PRIVATE_H
 
-#pragma ident	"@(#)usbai_private.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Unstable interfaces not part of USBAI but used by Solaris client drivers.

@@ -29,7 +29,7 @@
 #ifndef _LP_LP_H
 #define	_LP_LP_H
 
-#pragma ident	"@(#)lp.h	1.20	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

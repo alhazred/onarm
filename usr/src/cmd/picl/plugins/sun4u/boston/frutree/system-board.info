@@ -25,7 +25,7 @@
  */
 
 /*
- * ident	"@(#)system-board.info	1.5	07/11/20 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * This file creates the system board structure
  */
@@ -37,7 +37,7 @@
 #ifndef id
 #define	id(s)	#ident s
 #endif
-id("@(#)system-board.info	1.5	07/11/20 SMI")
+id("%Z%%M%	%I%	%E% SMI")
 
 /*
  * motherboard seeprom source

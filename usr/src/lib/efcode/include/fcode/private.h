@@ -27,7 +27,7 @@
 #ifndef	_FCODE_PRIVATE_H
 #define	_FCODE_PRIVATE_H
 
-#pragma ident	"@(#)private.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef DEBUG
 #include <fcode/debug.h>

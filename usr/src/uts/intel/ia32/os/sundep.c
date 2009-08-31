@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989, 1990 AT&T   */
 /*	All Rights Reserved   */
 
-#pragma ident	"@(#)sundep.c	1.144	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

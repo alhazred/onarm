@@ -24,7 +24,7 @@
 #
 # lib/libdscp/svc/Makefile.com
 #
-#ident	"@(#)Makefile	1.2	06/11/02 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 MANIFEST=	dscp.xml

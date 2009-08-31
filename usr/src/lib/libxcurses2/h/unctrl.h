@@ -27,7 +27,7 @@
 #ifndef	_UNCTRL_H
 #define	_UNCTRL_H
 
-#pragma ident	"@(#)unctrl.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * unctrl.h

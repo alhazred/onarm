@@ -31,7 +31,7 @@
  * Someone may want to make them into gcc inlines (__inline__ + __asm__).
  */
 
-#pragma ident	"@(#)__quad.s	1.1	05/11/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 

@@ -21,7 +21,7 @@
 # Copyright 1996 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 
-#pragma ident	"@(#)postinstall	1.15	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Postinstall script for mibii daemon package

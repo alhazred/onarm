@@ -26,7 +26,7 @@
 #ifndef	__MGR_CACHE_H
 #define	__MGR_CACHE_H
 
-#pragma ident	"@(#)mgr_cache.h	1.7	06/03/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mapped_cache.h"
 

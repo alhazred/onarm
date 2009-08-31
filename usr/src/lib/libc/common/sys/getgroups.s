@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getgroups.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"getgroups.s"
+	.file	"%M%"
 
 /* C library -- getgroups					*/
 /* int getgroups(int gidsetsize, uid_t grouplist[]);		*/

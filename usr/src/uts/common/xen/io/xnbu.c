@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xnbu.c	1.5	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Xen inter-domain backend - GLDv3 driver edition.
@@ -508,7 +508,7 @@ DDI_DEFINE_STREAM_OPS(ops, nulldev, nulldev, xnbu_attach, xnbu_detach,
     nodev, NULL, D_MP, NULL);
 
 static struct modldrv modldrv = {
-	&mod_driverops, "xnbu driver 1.5", &ops
+	&mod_driverops, "xnbu driver %I%", &ops
 };
 
 static struct modlinkage modlinkage = {

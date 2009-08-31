@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)ucblinks.sh	1.12	06/09/11 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 PATH=/sbin:/usr/sbin:/usr/bin:/etc
 export PATH

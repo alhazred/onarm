@@ -32,7 +32,7 @@
  * $Id: cfopt.c,v 1.1.1.1 2001/06/09 00:28:12 zarzycki Exp $
  */
 
-#pragma ident	"@(#)cfopt.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 

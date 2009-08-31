@@ -26,7 +26,7 @@
 #ifndef _IA32_SYS_MACHTYPES_H
 #define	_IA32_SYS_MACHTYPES_H
 
-#pragma ident	"@(#)machtypes.h	1.4	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

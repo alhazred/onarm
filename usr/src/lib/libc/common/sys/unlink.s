@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)unlink.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"unlink.s"
+	.file	"%M%"
 
 /* C library -- unlink						*/
 /* int unlink (const char *path);				*/

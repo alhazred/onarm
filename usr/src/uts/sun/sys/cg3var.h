@@ -26,7 +26,7 @@
 #ifndef	_SYS_CG3VAR_H
 #define	_SYS_CG3VAR_H
 
-#pragma ident	"@(#)cg3var.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

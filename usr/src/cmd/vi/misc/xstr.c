@@ -32,7 +32,7 @@
  *	All rights reserved.
  */
 
-#pragma ident	"@(#)xstr.c	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * University Copyright- Copyright (c) 1982, 1986, 1988

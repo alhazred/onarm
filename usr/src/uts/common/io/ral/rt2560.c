@@ -25,7 +25,7 @@
  * http://www.ralinktech.com/
  */
 
-#pragma ident	"@(#)rt2560.c	1.2	07/10/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/byteorder.h>
@@ -166,7 +166,7 @@ DDI_DEFINE_STREAM_OPS(ral_dev_ops, nulldev, nulldev, rt2560_attach,
 
 static struct modldrv ral_modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"Ralink RT2500 driver v1.2",	/* short description */
+	"Ralink RT2500 driver v%I%",	/* short description */
 	&ral_dev_ops		/* driver specific ops */
 };
 

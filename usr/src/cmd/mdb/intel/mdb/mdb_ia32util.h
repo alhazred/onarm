@@ -26,7 +26,7 @@
 #ifndef _MDB_IA32UTIL_H
 #define	_MDB_IA32UTIL_H
 
-#pragma ident	"@(#)mdb_ia32util.h	1.6	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_kreg.h>
 #include <mdb/mdb_target_impl.h>

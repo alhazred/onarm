@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#ident	"@(#)resolvepath.c	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 1997 by Sun Microsystems, Inc.

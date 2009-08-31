@@ -26,7 +26,7 @@
 #ifndef _AUTH_H
 #define	_AUTH_H
 
-#pragma ident	"@(#)auth.h	1.1	06/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

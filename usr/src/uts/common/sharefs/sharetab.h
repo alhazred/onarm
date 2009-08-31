@@ -27,7 +27,7 @@
 #ifndef _SHAREFS_SHARETAB_H
 #define	_SHAREFS_SHARETAB_H
 
-#pragma ident	"@(#)sharetab.h	1.1	07/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header defines the glue to keeping a sharetab in memory.

@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)mgetputm.c	1.9	05/06/08 SMI"	/* SVr4.0 1.6	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 
 # include	<unistd.h>
 # include	<errno.h>

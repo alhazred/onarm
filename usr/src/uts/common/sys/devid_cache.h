@@ -26,7 +26,7 @@
 #ifndef	_SYS_DEVID_CACHE_H
 #define	_SYS_DEVID_CACHE_H
 
-#pragma ident	"@(#)devid_cache.h	1.1	06/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)rmon.java	1.2	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -38,7 +38,7 @@ import java.util.Iterator;
  * Simple CLI to test ResourceMonitor class. Prints the current user, projects
  * and processor sets metrics on the stdout.
  * @author Sun Microsystems, Inc.
- * @version 1.2 06/08/05
+ * @version %I% %G%
  */
 public class rmon {
 

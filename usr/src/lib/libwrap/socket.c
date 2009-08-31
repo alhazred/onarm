@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)socket.c	1.2	04/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /*
   * This module determines the type of socket (datagram, stream), the client

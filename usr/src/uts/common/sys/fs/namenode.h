@@ -34,7 +34,7 @@
 #ifndef	_SYS_FS_NAMENODE_H
 #define	_SYS_FS_NAMENODE_H
 
-#pragma ident	"@(#)namenode.h	1.25	05/06/08 SMI"	/* SVr4.0 1.4	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4	*/
 
 #if defined(_KERNEL)
 #include <sys/vnode.h>

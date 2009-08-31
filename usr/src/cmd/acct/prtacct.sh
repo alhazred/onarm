@@ -24,7 +24,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)prtacct.sh	1.5	05/06/08 SMI"	/* SVr4.0 1.9	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9	*/
 #	"print daily/summary total accounting (any file in tacct.h format)"
 #	"prtacct file [heading]"
 PATH=/usr/lib/acct:/usr/bin:/usr/sbin

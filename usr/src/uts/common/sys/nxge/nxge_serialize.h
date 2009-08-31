@@ -26,7 +26,7 @@
 #ifndef	_SYS_NXGE_NXGE_SERIALIZE_H
 #define	_SYS_NXGE_NXGE_SERIALIZE_H
 
-#pragma ident	"@(#)nxge_serialize.h	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

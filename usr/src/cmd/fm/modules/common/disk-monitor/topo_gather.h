@@ -27,7 +27,7 @@
 #ifndef	_TOPO_GATHER_H
 #define	_TOPO_GATHER_H
 
-#pragma ident	"@(#)topo_gather.h	1.4	07/07/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * bay/disk libtopo plugin property consumer

@@ -23,7 +23,7 @@
 # Copyright (c) 2000-2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)Makefile	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/libfru/libfrureg/sparcv9/Makefile
 #

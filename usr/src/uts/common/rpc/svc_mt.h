@@ -27,7 +27,7 @@
 #ifndef _RPC_SVC_MT_H
 #define	_RPC_SVC_MT_H
 
-#pragma ident	"@(#)svc_mt.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <synch.h>		/* needed for mutex_t declaration */
 

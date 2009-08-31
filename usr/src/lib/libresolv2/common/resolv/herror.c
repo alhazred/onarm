@@ -53,7 +53,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)herror.c	1.7	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(LIBC_SCCS) && !defined(lint)
 static const char sccsid[] = "@(#)herror.c	8.1 (Berkeley) 6/4/93";

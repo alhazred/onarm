@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_EHCI_H
 #define	_SYS_USB_EHCI_H
 
-#pragma ident	"@(#)ehci.h	1.17	06/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

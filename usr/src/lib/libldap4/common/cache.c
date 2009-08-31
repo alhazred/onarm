@@ -2,7 +2,7 @@
  * Portions Copyright 1998 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)cache.c	1.6	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  *  Copyright (c) 1993 The Regents of the University of Michigan.
  *  All rights reserved.

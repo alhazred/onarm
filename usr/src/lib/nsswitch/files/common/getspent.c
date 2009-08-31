@@ -25,7 +25,7 @@
  * files/getspent.c -- "files" backend for nsswitch "shadow" database
  */
 
-#pragma ident	"@(#)getspent.c	1.12	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <shadow.h>
 #include "files_common.h"

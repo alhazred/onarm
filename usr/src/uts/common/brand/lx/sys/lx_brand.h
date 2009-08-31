@@ -26,7 +26,7 @@
 #ifndef _LX_BRAND_H
 #define	_LX_BRAND_H
 
-#pragma ident	"@(#)lx_brand.h	1.7	07/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM
 #include <sys/types.h>

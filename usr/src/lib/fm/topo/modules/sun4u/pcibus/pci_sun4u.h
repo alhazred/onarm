@@ -27,7 +27,7 @@
 #ifndef _PCI_SUN4U_H
 #define	_PCI_SUN4U_H
 
-#pragma ident	"@(#)pci_sun4u.h	1.2	06/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pcibus_labels.h>
 

@@ -32,7 +32,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)asy.c	1.116	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Serial I/O driver for 8250/16450/16550A/16650/16750 chips.
@@ -362,7 +362,7 @@ struct dev_ops asy_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a driver */
-	"ASY driver 1.116",
+	"ASY driver %I%",
 	&asy_ops,	/* driver ops */
 };
 

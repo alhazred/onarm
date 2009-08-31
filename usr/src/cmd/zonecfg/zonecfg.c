@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)zonecfg.c	1.35	08/02/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * zonecfg is a lex/yacc based command interpreter used to manage zone

@@ -7,7 +7,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-# ident	"@(#)dnsbl.m4	1.10	07/02/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 ifdef(`DNSBL_MAP', `', `define(`DNSBL_MAP', `dns -R A')')

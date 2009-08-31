@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.com	1.3	06/04/23 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 OBJECTS	= init.o interface.o signal.o forth.o fcode.o interp.o debug.o  \

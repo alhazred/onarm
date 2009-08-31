@@ -26,7 +26,7 @@
 #ifndef	_SYS_DLD_IMPL_H
 #define	_SYS_DLD_IMPL_H
 
-#pragma ident	"@(#)dld_impl.h	1.15	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>

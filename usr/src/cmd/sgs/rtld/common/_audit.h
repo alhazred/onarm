@@ -27,7 +27,7 @@
 #ifndef	__AUDIT_DOT_H
 #define	__AUDIT_DOT_H
 
-#pragma ident	"@(#)_audit.h	1.16	07/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifndef _ASM

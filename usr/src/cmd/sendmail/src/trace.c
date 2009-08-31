@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)trace.c	1.19	02/12/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 #include <sm/debug.h>

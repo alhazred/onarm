@@ -1,6 +1,6 @@
 // Copyright (c) 1994, 1995 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)PosixStorage.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef PosixStorage_INCLUDED
 #define PosixStorage_INCLUDED 1

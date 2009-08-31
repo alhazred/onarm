@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)blabel.c	1.2	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	bl.c - Binary label operations for kernel and user.

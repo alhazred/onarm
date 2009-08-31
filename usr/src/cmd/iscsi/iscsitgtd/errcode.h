@@ -27,7 +27,7 @@
 #ifndef _TARGET_ERRCODE_H
 #define	_TARGET_ERRCODE_H
 
-#pragma ident	"@(#)errcode.h	1.3	07/05/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Block comment which describes the contents of this file.

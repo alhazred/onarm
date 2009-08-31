@@ -27,7 +27,7 @@
 #ifndef	_VM_SEG_KP_H
 #define	_VM_SEG_KP_H
 
-#pragma ident	"@(#)seg_kp.h	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * segkp (as in kernel pageable) is a segment driver that supports allocation

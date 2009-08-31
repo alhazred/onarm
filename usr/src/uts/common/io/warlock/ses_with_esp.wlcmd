@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)ses_with_esp.wlcmd	1.9	06/11/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 one scsi_device
 one esp 

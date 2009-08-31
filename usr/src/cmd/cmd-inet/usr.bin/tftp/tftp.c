@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)tftp.c	1.17	06/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * TFTP User Program -- Protocol Machines

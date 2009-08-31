@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tst.stackdepth.d	1.2	06/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma D option switchrate=100hz
 

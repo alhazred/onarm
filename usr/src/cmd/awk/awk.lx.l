@@ -31,7 +31,7 @@
 %}
 
 %{
-#pragma ident	"@(#)awk.lx.l	1.11	05/07/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %}
 
 %Start A str sc reg comment

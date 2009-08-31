@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)whline.c	1.10	05/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<sys/types.h>
 #include	<stdlib.h>

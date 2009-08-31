@@ -26,7 +26,7 @@
 #ifndef _LIBDISKMGT_H
 #define	_LIBDISKMGT_H
 
-#pragma ident	"@(#)libdiskmgt.h	1.13	07/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

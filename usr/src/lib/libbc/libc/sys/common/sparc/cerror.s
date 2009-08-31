@@ -19,7 +19,7 @@
 !
 ! CDDL HEADER END
 !
-!	"@(#)cerror.s	1.17	05/06/10 SMI"
+!	"%Z%%M%	%I%	%E% SMI"
 !	Copyright (c) 1986 by Sun Microsystems, Inc.
 !
 !	Note this routine used to be called cerror, the

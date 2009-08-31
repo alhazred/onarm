@@ -6,7 +6,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dhcptab.c	1.71	05/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Copyright 1988, 1991 by Carnegie Mellon University

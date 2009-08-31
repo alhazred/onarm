@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)mapfile	1.1	06/09/11 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Scope everything local -- our .init section is our only public interface.

@@ -27,7 +27,7 @@
 #ifndef _rpc_xdr_h
 #define	_rpc_xdr_h
 
-#pragma ident	"@(#)xdr.h	1.31	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * xdr.h, External Data Representation Serialization Routines.

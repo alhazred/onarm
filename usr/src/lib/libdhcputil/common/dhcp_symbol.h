@@ -26,7 +26,7 @@
 #ifndef	_DHCP_SYMBOL_H
 #define	_DHCP_SYMBOL_H
 
-#pragma ident	"@(#)dhcp_symbol.h	1.4	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file, along with <dhcp_symbol_common.h>, contains the DHCP symbol

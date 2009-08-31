@@ -26,7 +26,7 @@
 #ifndef _SYS_KDI_REGS_H
 #define	_SYS_KDI_REGS_H
 
-#pragma ident	"@(#)kdi_regs.h	1.6	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM
 #include <sys/types.h>

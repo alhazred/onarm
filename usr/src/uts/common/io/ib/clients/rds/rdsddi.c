@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rdsddi.c	1.2	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -55,7 +55,7 @@
 
 #define	RDS_NAME	"rds"
 #define	RDS_STRTAB	rdsinfo
-#define	RDS_DEVDESC	"RDS STREAMS driver 1.2"
+#define	RDS_DEVDESC	"RDS STREAMS driver %I%"
 #define	RDS_DEVMINOR	0
 #define	RDS_DEVMTFLAGS D_MP | D_SYNCSTR
 #define	RDS_DEFAULT_PRIV_MODE	0666

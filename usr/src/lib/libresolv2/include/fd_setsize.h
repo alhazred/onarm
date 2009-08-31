@@ -8,7 +8,7 @@
 #ifndef _FD_SETSIZE_H
 #define _FD_SETSIZE_H
 
-#pragma ident	"@(#)fd_setsize.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * If you need a bigger FD_SETSIZE, this is NOT the place to set it.

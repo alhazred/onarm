@@ -15,7 +15,7 @@
 #ifndef	_CURSES_H
 #define	_CURSES_H
 
-#pragma ident	"@(#)curses.h	1.6	05/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

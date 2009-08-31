@@ -37,7 +37,7 @@
  * File: rdn_parser.c
  */
 
-#pragma ident	"@(#)rdn_parser.c	1.3	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <strings.h>

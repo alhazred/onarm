@@ -27,7 +27,7 @@
 #ifndef	_LLT_H
 #define	_LLT_H
 
-#pragma ident	"@(#)llt.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef struct ll {
 	struct ll *n;

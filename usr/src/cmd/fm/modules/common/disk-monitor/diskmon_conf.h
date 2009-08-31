@@ -27,7 +27,7 @@
 #ifndef _DISKMOND_CONF_H
 #define	_DISKMOND_CONF_H
 
-#pragma ident	"@(#)diskmon_conf.h	1.2	07/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Configuration File data

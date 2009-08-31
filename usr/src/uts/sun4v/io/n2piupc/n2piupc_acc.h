@@ -27,7 +27,7 @@
 #ifndef	_N2PIUPC_ACC_H
 #define	_N2PIUPC_ACC_H
 
-#pragma ident	"@(#)n2piupc_acc.h	1.1	06/12/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Hypervisor and function definitions needed to access the device.

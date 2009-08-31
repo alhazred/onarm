@@ -27,7 +27,7 @@
 
 /* $Id: strings.c 151 2006-04-25 16:55:34Z njacobs $ */
 
-#pragma ident	"@(#)strings.c	1.1	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

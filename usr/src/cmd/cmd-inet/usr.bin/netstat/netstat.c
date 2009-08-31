@@ -29,7 +29,7 @@
  * MROUTING Revision 3.5
  */
 
-#pragma ident	"@(#)netstat.c	1.93	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * simple netstat based on snmp/mib-2 interface to the TCP/IP stack

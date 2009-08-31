@@ -29,7 +29,7 @@
 #ifndef	_PKGSTRCT_H
 #define	_PKGSTRCT_H
 
-#pragma ident	"@(#)pkgstrct.h	1.18	07/12/07 SMI"	/* SVr4.0 1.9	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9	*/
 
 #include <time.h>
 

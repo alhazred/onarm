@@ -63,7 +63,7 @@
  *	$Id: cdefs.h,v 1.1 1996/11/22 02:20:19 vixie Exp $
  */
 
-#pragma ident	"@(#)cdefs.h	1.2	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_CDEFS_H_
 #define	_CDEFS_H_

@@ -27,7 +27,7 @@
 
 /* $Id: lp.c 179 2006-07-17 18:24:07Z njacobs $ */
 
-#pragma ident	"@(#)lp.c	1.4	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

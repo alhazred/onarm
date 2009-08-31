@@ -6,7 +6,7 @@
 #ifndef _GSSUTIL_H
 #define	_GSSUTIL_H
 
-#pragma ident	"@(#)gssutil.h	1.3	04/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

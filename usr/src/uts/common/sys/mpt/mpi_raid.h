@@ -6,7 +6,7 @@
 #ifndef	_SYS_MPI_RAID_H
 #define	_SYS_MPI_RAID_H
 
-#pragma ident	"@(#)mpi_raid.h	1.1	02/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

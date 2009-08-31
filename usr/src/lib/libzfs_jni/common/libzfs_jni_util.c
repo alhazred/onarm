@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)libzfs_jni_util.c	1.3	06/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "libzfs_jni_util.h"
 #include <strings.h>

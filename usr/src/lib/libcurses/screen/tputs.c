@@ -29,7 +29,7 @@
 
 /* Copyright (c) 1979 Regents of the University of California */
 
-#pragma ident	"@(#)tputs.c	1.13	05/06/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

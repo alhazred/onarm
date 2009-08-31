@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)_BSMparse.pm	1.5	06/11/20 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # WARNING -- this package implements a Sun private interface; it may
 # change without notice.

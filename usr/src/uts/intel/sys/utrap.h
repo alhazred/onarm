@@ -27,7 +27,7 @@
 #ifndef _UTRAP_H
 #define	_UTRAP_H
 
-#pragma ident	"@(#)utrap.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

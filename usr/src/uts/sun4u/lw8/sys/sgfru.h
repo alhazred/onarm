@@ -27,7 +27,7 @@
 #ifndef _SGFRU_H
 #define	_SGFRU_H
 
-#pragma ident	"@(#)sgfru.h	1.3	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

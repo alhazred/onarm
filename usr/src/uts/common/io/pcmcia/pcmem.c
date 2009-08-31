@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)pcmem.c	1.31	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  PCMCIA Memory Nexus Driver
@@ -133,7 +133,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv md = {
 	&mod_driverops,			/* Type of module */
-	"PCMCIA Memory Nexus V2.0 1.31",	/* Name of the module */
+	"PCMCIA Memory Nexus V2.0 %I%",	/* Name of the module */
 	&pcmem_ops,			/* Device Operation Structure */
 };
 

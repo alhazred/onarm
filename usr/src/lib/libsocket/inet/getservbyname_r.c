@@ -45,7 +45,7 @@
  *   enumeration state, between getservbyYY_r() and getservent_r();
  */
 
-#pragma ident	"@(#)getservbyname_r.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netdb.h>
 #include <netdir.h>

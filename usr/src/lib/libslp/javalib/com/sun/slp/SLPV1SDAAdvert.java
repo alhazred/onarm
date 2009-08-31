@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SLPV1SDAAdvert.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)SLPV1SDAAdvert.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SLPV1SDAAdvert.java: SLPv1 DAAdvert, server side.
 //  Author:           James Kempf
 //  Created On:       Thu Sep 10 11:00:26 1998
@@ -46,7 +46,7 @@ import java.io.*;
 /**
  * The SLPV1SDAAdvert class models the SLPv1 DAAdvert message.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

@@ -22,7 +22,7 @@
  * Copyright 1997 Sun Microsystems, Inc.  All Rights Reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)agent_msg.h	1.7	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _AGENT_MSG_H_
 #define _AGENT_MSG_H_

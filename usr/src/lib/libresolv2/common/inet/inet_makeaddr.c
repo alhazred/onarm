@@ -36,7 +36,7 @@
  * SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)inet_makeaddr.c	1.3	01/04/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(LIBC_SCCS) && !defined(lint)
 static const char sccsid[] = "@(#)inet_makeaddr.c	8.1 (Berkeley) 6/4/93";

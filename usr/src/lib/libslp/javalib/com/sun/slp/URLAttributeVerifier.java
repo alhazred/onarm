@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)URLAttributeVerifier.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)URLAttributeVerifier.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  URLAttributeVerifier.java: Parse a service template from a URL
 //  Author:           James Kempf
 //  Created On:       Mon Jun 23 11:52:04 1997
@@ -47,7 +47,7 @@ import java.io.*;
  * a URL. Most of the work is done by the superclass. This class
  * takes care of opening the Reader on the URL.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  *
  */

@@ -30,7 +30,7 @@
 #ifndef	_SYS_FS_AUTOFS_H
 #define	_SYS_FS_AUTOFS_H
 
-#pragma ident	"@(#)autofs.h	1.33	07/04/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/clnt.h>
 #include <gssapi/gssapi.h>

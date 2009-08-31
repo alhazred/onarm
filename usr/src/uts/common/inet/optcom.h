@@ -27,7 +27,7 @@
 #ifndef	_INET_OPTCOM_H
 #define	_INET_OPTCOM_H
 
-#pragma ident	"@(#)optcom.h	1.25	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)bringovercheck.sh	1.2	06/04/28 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #

@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)wtmpfix.c	1.15	05/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * wtmpfix - adjust wtmpx file and remove date changes.
  *	wtmpfix <wtmpx1 >wtmpx2

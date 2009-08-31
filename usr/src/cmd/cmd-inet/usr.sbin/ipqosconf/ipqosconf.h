@@ -27,7 +27,7 @@
 #ifndef	_IPQOS_CONF_H
 #define	_IPQOS_CONF_H
 
-#pragma ident	"@(#)ipqosconf.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>
 #include <sys/types.h>

@@ -31,7 +31,7 @@
 #ifndef	_KB8042_H
 #define	_KB8042_H
 
-#pragma ident	"@(#)kb8042.h	1.24	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

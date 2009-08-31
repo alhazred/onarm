@@ -24,7 +24,7 @@
 
 RCSID("$Id: bsd-waitpid.c,v 1.3 2001/03/26 05:35:34 mouring Exp $");
 
-#pragma ident	"@(#)bsd-waitpid.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef HAVE_WAITPID 
 #include <errno.h>

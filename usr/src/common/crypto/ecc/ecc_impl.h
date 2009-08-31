@@ -45,7 +45,7 @@
 #ifndef _ECC_IMPL_H
 #define	_ECC_IMPL_H
 
-#pragma ident	"@(#)ecc_impl.h	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

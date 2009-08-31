@@ -27,7 +27,7 @@
 #ifndef	_MTLIB_H
 #define	_MTLIB_H
 
-#pragma ident	"@(#)mtlib.h	1.40	08/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <thread.h>
 

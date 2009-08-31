@@ -30,7 +30,7 @@
 #ifndef _sys_stropts_h
 #define	_sys_stropts_h
 
-#pragma ident	"@(#)stropts.h	1.5	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Read options

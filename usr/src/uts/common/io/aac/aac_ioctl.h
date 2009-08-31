@@ -38,7 +38,7 @@
 #ifndef	_AAC_IOCTL_H_
 #define	_AAC_IOCTL_H_
 
-#pragma ident	"@(#)aac_ioctl.h	1.3	07/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

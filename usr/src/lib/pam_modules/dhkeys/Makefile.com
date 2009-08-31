@@ -25,7 +25,7 @@
 #
 # usr/src/lib/pam_modules/dhkeys/Makefile.com
 #
-# ident	"@(#)Makefile.com	1.4	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 LIBRARY=	pam_dhkeys.a
 VERS=		.1

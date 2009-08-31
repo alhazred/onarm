@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)fpcw.s	1.10	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"fpcw.s"
+	.file	"%M%"
 
 #include <SYS.h>
 

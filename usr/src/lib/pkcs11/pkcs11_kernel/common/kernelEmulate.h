@@ -27,7 +27,7 @@
 #ifndef	_KERNEL_EMULATE_H
 #define	_KERNEL_EMULATE_H
 
-#pragma ident	"@(#)kernelEmulate.h	1.2	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

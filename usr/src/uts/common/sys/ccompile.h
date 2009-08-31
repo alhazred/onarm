@@ -31,7 +31,7 @@
 #ifndef	_SYS_CCOMPILE_H
 #define	_SYS_CCOMPILE_H
 
-#pragma ident	"@(#)ccompile.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains definitions designed to enable different compilers

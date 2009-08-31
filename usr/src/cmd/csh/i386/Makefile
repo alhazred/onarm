@@ -8,7 +8,7 @@
 # All rights reserved.  The Berkeley Software License Agreement
 # specifies the terms and conditions for redistribution.
 
-# ident	"@(#)Makefile	1.17	07/05/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # C Shell with process control; VM/UNIX VAX Makefile

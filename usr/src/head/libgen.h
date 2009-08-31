@@ -35,7 +35,7 @@
 #ifndef _LIBGEN_H
 #define	_LIBGEN_H
 
-#pragma ident	"@(#)libgen.h	1.18	05/06/08 SMI"	/* SVr4.0 2.4.2.8 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 2.4.2.8 */
 
 #include <sys/feature_tests.h>
 

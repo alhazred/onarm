@@ -31,7 +31,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#ident	"@(#)grades.c	1.7	05/06/08 SMI"	/* from SVR4 bnu:grades.c 1.7 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:grades.c 1.7 */
 
 #include "uucp.h"
 #include <grp.h>

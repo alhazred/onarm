@@ -28,7 +28,7 @@
  * UltraSPARC Performance Counter Backend
  */
 
-#pragma ident	"@(#)us234_pcbe.c	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cpuvar.h>
 #include <sys/systm.h>
@@ -765,7 +765,7 @@ us_pcbe_free(void *config)
 
 static struct modlpcbe modlpcbe = {
 	&mod_pcbeops,
-	"UltraSPARC Performance Counters v1.7",
+	"UltraSPARC Performance Counters v%I%",
 	&us_pcbe_ops
 };
 

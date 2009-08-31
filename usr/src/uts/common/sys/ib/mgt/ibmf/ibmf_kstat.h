@@ -27,7 +27,7 @@
 #ifndef _SYS_IB_MGT_IBMF_IBMF_KSTAT_H
 #define	_SYS_IB_MGT_IBMF_IBMF_KSTAT_H
 
-#pragma ident	"@(#)ibmf_kstat.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the IBMF kstat structures and defines.

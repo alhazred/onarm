@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)acctcms.c	1.17	05/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	acctcms [-a] [-c] [-j] [-n] [-s] [-p] [-o] [-t] [file...]

@@ -41,7 +41,7 @@
 #ifndef	_CTL_H
 #define	_CTL_H
 
-#pragma ident	"@(#)ctl.h	1.7	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ctl.h describes the structure that talk and talkd pass back

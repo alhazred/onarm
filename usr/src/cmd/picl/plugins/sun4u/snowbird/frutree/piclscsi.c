@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)piclscsi.c	1.4	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* implementation specific to scsi nodes probing */
 

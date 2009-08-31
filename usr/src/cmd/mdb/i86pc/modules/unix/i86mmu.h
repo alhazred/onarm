@@ -26,7 +26,7 @@
 #ifndef	_I86MMU_H
 #define	_I86MMU_H
 
-#pragma ident	"@(#)i86mmu.h	1.5	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

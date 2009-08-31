@@ -26,7 +26,7 @@
 #	Use is subject to license terms.
 
 
-#ident	"@(#)runacct.sh	1.17	05/06/08 SMI"	/* SVr4.0 1.9	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9	*/
 #       "nitely accounting shell, should be run from cron (adm) at 4am"
 #	"does process, connect, disk, and fee accounting"
 #	"prepares command summaries"

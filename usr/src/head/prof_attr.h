@@ -26,7 +26,7 @@
 #ifndef	_PROF_ATTR_H
 #define	_PROF_ATTR_H
 
-#pragma ident	"@(#)prof_attr.h	1.5	08/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

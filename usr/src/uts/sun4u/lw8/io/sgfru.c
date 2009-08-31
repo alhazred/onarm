@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sgfru.c	1.6	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -108,13 +108,13 @@ static struct dev_ops sgfru_ops = {
 
 /*
  * Loadable module support. This is located in sgfru.c so as to
- * pick up the 1.6 version of sgfru.c.
+ * pick up the %I% version of sgfru.c.
  */
 extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,	/* Type of module.  This one is a pseudo driver */
-	"FRU Driver 1.6",
+	"FRU Driver %I%",
 	&sgfru_ops,	/* driver ops */
 };
 

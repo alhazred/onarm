@@ -46,7 +46,7 @@
  * containing the Foundations Suite are the sole responsibility of the licensee.
  */
  
-#pragma ident	"@(#)kludge.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Kludges for not-quite-ANSI systems.

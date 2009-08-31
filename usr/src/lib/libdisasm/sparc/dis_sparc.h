@@ -33,7 +33,7 @@
 #ifndef _DIS_SPARC_H
 #define	_DIS_SPARC_H
 
-#pragma ident	"@(#)dis_sparc.h	1.1	07/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

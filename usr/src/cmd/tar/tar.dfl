@@ -22,7 +22,7 @@
 # Copyright 1992 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)tar.dfl	1.7	05/06/10 SMI"	/* SVr4.0 1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 # The block size and the number of blocks are put for completion 
 # purpose. The tape size is infinite and is defined at usage time
 # directly from tape.  Tape size should be non-zero for non-tape devices

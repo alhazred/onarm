@@ -31,7 +31,7 @@
 #ifndef _SEARCH_H
 #define	_SEARCH_H
 
-#pragma ident	"@(#)search.h	1.19	05/06/08 SMI"	/* SVr4.0 1.3.1.11 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3.1.11 */
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

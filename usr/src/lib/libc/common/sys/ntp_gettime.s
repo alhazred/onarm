@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ntp_gettime.s	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"ntp_gettime.s"
+	.file	"%M%"
 
 /* C library -- ntp_gettime					*/
 /* int ntp_gettime (struct ntptimeval *);			*/

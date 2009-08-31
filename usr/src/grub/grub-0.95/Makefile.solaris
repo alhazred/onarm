@@ -2,7 +2,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.solaris	1.2	05/08/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 include ../Makefile.grub
 include Makefile.solaris.defs

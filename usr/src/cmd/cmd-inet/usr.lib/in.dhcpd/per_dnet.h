@@ -27,7 +27,7 @@
 #ifndef	_PER_DSTORE_H
 #define	_PER_DSTORE_H
 
-#pragma ident	"@(#)per_dnet.h	1.22	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

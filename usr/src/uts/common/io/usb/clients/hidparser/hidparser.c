@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)hidparser.c	1.17	06/12/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/usb/usba/usbai_version.h>
 #include <sys/usb/usba.h>
@@ -58,7 +58,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc	= {
 	&mod_miscops,	/* Type	of module */
-	"HID Parser"
+	"HID PARSER %I%"
 };
 
 static struct modlinkage modlinkage = {

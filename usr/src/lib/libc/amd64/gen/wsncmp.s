@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)wsncmp.s	1.2	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"wsncmp.s"
+	.file	"%M%"
 
 /
 / Wide character wcsncpy() implementation

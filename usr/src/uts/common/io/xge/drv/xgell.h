@@ -37,7 +37,7 @@
 #ifndef _SYS_XGELL_H
 #define	_SYS_XGELL_H
 
-#pragma ident	"@(#)xgell.h	1.10	07/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/errno.h>
@@ -69,7 +69,7 @@
 extern "C" {
 #endif
 
-#define	XGELL_DESC		"Xframe I/II 10Gb Ethernet 1.10"
+#define	XGELL_DESC		"Xframe I/II 10Gb Ethernet %I%"
 #define	XGELL_IFNAME		"xge"
 #define	XGELL_TX_LEVEL_LOW	8
 #define	XGELL_TX_LEVEL_HIGH	32

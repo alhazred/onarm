@@ -27,7 +27,7 @@
 #ifndef _SYS_ENVMON_H
 #define	_SYS_ENVMON_H
 
-#pragma ident	"@(#)envmon.h	1.9	05/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef	_MDESCPLUGIN_H
 #define	_MDESCPLUGIN_H
 
-#pragma ident	"@(#)mdescplugin.h	1.3	06/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

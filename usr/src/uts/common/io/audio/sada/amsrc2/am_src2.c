@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)am_src2.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Audio Mixer Sample Rate Conversion Routine 2
@@ -94,7 +94,7 @@ am_ad_src_entry_t am_src2 = {
 /* Linkage structure for loadable drivers */
 static struct modlmisc amsrc2_modlmisc = {
 	&mod_miscops,			/* drv_modops */
-	AM_SRC2_MOD_NAME " 1.3",	/* drv_linkinfo */
+	AM_SRC2_MOD_NAME " %I%",	/* drv_linkinfo */
 };
 
 static struct modlinkage amsrc2_modlinkage =

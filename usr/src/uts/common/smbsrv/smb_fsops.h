@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_SMB_FSOPS_H
 #define	_SMBSRV_SMB_FSOPS_H
 
-#pragma ident	"@(#)smb_fsops.h	1.4	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header file contains all the functions for the interface between

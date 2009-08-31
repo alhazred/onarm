@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.4	07/07/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 sparc_SUBDIRS =	sun4u \
 		sun4v \

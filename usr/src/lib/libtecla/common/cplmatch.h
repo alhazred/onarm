@@ -32,7 +32,7 @@
  * of the copyright holder.
  */
 
-#pragma ident	"@(#)cplmatch.h	1.1	04/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header is not for use by external applicatons. It contains

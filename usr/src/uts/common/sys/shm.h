@@ -35,7 +35,7 @@
 #ifndef	_SYS_SHM_H
 #define	_SYS_SHM_H
 
-#pragma ident	"@(#)shm.h	1.52	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ipc.h>
 

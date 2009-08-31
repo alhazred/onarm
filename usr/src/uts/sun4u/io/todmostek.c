@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)todmostek.c	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * tod driver module for Mostek M48T59 part
@@ -61,7 +61,7 @@ extern uint64_t find_cpufrequency(volatile uchar_t *);
  * Module linkage information for the kernel.
  */
 static struct modlmisc modlmisc = {
-	&mod_miscops, "tod module for Mostek M48T59 1.12"
+	&mod_miscops, "tod module for Mostek M48T59 %I%"
 };
 
 static struct modlinkage modlinkage = {

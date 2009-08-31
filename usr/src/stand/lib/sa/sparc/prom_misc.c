@@ -27,7 +27,7 @@
 #include <sys/salib.h>
 #include <sys/promimpl.h>
 
-#pragma ident	"@(#)prom_misc.c	1.3	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 void
 prom_create_encoded_prop(char *propname, void *prop_data, int prop_datalen,

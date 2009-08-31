@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)lintodev.c	1.5	05/06/08 SMI"	/* SVr4.0 1.9	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9	*/
 /*
  *	convert linename to device
  *	return -1 if nonexistent or not character device

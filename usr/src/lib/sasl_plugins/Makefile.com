@@ -27,7 +27,7 @@
 # Copyright (c) 2007 NEC Corporation
 #
 
-# ident	"@(#)Makefile.com	1.5	06/08/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 COMMONOBJS=	plugin_common.o

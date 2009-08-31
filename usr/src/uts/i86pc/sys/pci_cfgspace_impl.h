@@ -27,7 +27,7 @@
 #ifndef _SYS_PCI_CFGSPACE_IMPL_H
 #define	_SYS_PCI_CFGSPACE_IMPL_H
 
-#pragma ident	"@(#)pci_cfgspace_impl.h	1.1	05/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines to support particular PCI chipsets

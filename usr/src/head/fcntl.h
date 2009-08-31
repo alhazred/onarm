@@ -30,7 +30,7 @@
 #ifndef	_FCNTL_H
 #define	_FCNTL_H
 
-#pragma ident	"@(#)fcntl.h	1.22	06/01/09 SMI"	/* SVr4.0 1.6.1.7 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6.1.7 */
 
 #include <sys/feature_tests.h>
 #if defined(__EXTENSIONS__) || defined(_XPG4)

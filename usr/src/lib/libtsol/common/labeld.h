@@ -26,7 +26,7 @@
 #ifndef	_LABELD_H
 #define	_LABELD_H
 
-#pragma ident	"@(#)labeld.h	1.1	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <tsol/label.h>

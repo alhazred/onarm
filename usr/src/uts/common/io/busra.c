@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)busra.c	1.38	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(DEBUG)
 #define	BUSRA_DEBUG
@@ -144,7 +144,7 @@ static int ra_map_exist(dev_info_t *dip, char *type);
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,		/* Type of module. This one is a module */
-	"Bus Resource Allocator (BUSRA) 1.38",	/* Name of the module. */
+	"Bus Resource Allocator (BUSRA) %I%",	/* Name of the module. */
 };
 
 static struct modlinkage modlinkage = {

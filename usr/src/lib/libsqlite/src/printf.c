@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)printf.c	1.2	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 ** The "printf" code that follows dates from the 1980's.  It is in

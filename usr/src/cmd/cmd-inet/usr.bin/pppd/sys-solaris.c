@@ -39,7 +39,7 @@
  * OR MODIFICATIONS.
  */
 
-#pragma ident	"@(#)sys-solaris.c	1.12	05/10/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define	RCSID	"$Id: sys-solaris.c,v 1.2 2000/04/21 01:27:57 masputra Exp $"
 
 #include <limits.h>

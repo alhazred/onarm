@@ -30,7 +30,7 @@
 #ifndef	_UDP_IMPL_H
 #define	_UDP_IMPL_H
 
-#pragma ident	"@(#)udp_impl.h	1.21	07/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * UDP implementation private declarations.  These interfaces are

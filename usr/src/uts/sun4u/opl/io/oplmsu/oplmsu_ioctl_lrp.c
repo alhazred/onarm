@@ -22,7 +22,7 @@
  * All Rights Reserved, Copyright (c) FUJITSU LIMITED 2006
  */
 
-#pragma ident	"@(#)oplmsu_ioctl_lrp.c	1.2	06/04/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errno.h>
 #include <sys/modctl.h>

@@ -31,7 +31,7 @@
 #ifndef _PEM_H
 #define	_PEM_H
 
-#pragma ident	"@(#)pem.h	1.15	06/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

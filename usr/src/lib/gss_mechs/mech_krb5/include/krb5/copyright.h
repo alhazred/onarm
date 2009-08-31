@@ -1,4 +1,4 @@
-#pragma ident	"@(#)copyright.h	1.1	99/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Copyright (C) 1989-1994 by the Massachusetts Institute of Technology,
  * Cambridge, MA, USA.  All Rights Reserved.

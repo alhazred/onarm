@@ -34,7 +34,7 @@
  * implementation of file-based credentials cache
  */
 
-#pragma ident	"@(#)cc_file.c	1.3	07/05/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 If OPENCLOSE is defined, each of the functions opens and closes the

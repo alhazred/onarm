@@ -25,7 +25,7 @@
 /*	All rights reserved. */
 
 
-#ident	"@(#)diskusg.c	1.9	05/06/08 SMI"	/* SVr4.0 1.18	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.18	*/
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/param.h>

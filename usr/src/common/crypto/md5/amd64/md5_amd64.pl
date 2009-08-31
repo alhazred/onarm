@@ -10,7 +10,7 @@ my $code .= <<EOF;
 / in the public domain.
 /
 
-	.ident	"@(#)md5_amd64.pl	1.1	08/01/02 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
 /
 / The following is Marc Bevand's MD5 implementation optimized for

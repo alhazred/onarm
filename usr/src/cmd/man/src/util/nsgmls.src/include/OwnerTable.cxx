@@ -8,7 +8,7 @@
  * See the file COPYING for copying permission.
  */
 
-#pragma ident	"@(#)OwnerTable.cxx	1.5	05/08/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef OwnerTable_DEF_INCLUDED
 #define	OwnerTable_DEF_INCLUDED 1

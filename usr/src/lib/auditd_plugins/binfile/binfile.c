@@ -24,7 +24,7 @@
  *
  * write binary audit records directly to a file.
  */
-#pragma ident	"@(#)binfile.c	1.8	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	DEBUG   0
 

@@ -40,7 +40,7 @@
  * real MFN (!).
  */
 
-#pragma ident	"@(#)mdb_kb.c	1.2	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <strings.h>
 #include <stdio.h>

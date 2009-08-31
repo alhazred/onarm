@@ -1,4 +1,4 @@
-#pragma ident	"@(#)wu_config.h	1.4	04/03/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* config.h.  Generated automatically by configure.  */
 /****************************************************************************  

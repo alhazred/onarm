@@ -24,7 +24,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 # 
-#ident	"@(#)keywords.sh	1.14	05/10/07 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Checks the list of files to make sure that each given file has a SMI
 # standard ident string.

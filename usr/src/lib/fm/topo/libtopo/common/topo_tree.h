@@ -27,7 +27,7 @@
 #ifndef _TOPO_TREE_H
 #define	_TOPO_TREE_H
 
-#pragma ident	"@(#)topo_tree.h	1.4	08/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/topo_mod.h>
 

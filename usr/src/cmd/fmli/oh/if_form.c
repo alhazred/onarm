@@ -32,7 +32,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)if_form.c	1.10	05/09/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<ctype.h>
 #include	<stdio.h>

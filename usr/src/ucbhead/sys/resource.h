@@ -40,7 +40,7 @@
 #ifndef _SYS_RESOURCE_H
 #define	_SYS_RESOURCE_H
 
-#pragma ident	"@(#)resource.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SYS_RUSAGE_H
 #include <sys/rusage.h>

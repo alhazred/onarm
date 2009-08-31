@@ -30,7 +30,7 @@
 #ifndef _STRING_H
 #define	_STRING_H
 
-#pragma ident	"@(#)string.h	1.31	06/11/13 SMI"	/* SVr4.0 1.7.1.12 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7.1.12 */
 
 #include <iso/string_iso.h>
 

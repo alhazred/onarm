@@ -26,7 +26,7 @@
 #ifndef	_SYS_CONTRACT_H
 #define	_SYS_CONTRACT_H
 
-#pragma ident	"@(#)contract.h	1.5	08/02/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

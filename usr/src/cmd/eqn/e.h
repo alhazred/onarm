@@ -15,7 +15,7 @@
 #ifndef	_E_H
 #define	_E_H
 
-#pragma ident	"@(#)e.h	1.6	05/08/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

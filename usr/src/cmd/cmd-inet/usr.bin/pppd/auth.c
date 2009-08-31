@@ -35,7 +35,7 @@
  * WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-#pragma ident	"@(#)auth.c	1.5	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define RCSID	"$Id: auth.c,v 1.65 2000/04/15 01:27:10 masputra Exp $"
 
 /* Pull in crypt() definition. */

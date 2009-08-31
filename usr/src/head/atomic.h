@@ -27,7 +27,7 @@
 #ifndef	_ATOMIC_H
 #define	_ATOMIC_H
 
-#pragma ident	"@(#)atomic.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/atomic.h>
 

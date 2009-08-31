@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)unix_login.c	1.35	05/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	BSD_COMP
 #include <errno.h>

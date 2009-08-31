@@ -25,7 +25,7 @@
  * files/getgrent.c -- "files" backend for nsswitch "group" database
  */
 
-#pragma ident	"@(#)getgrent.c	1.13	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <grp.h>
 #include <unistd.h>		/* for GF_PATH */

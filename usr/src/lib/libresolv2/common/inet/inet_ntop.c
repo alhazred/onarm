@@ -19,7 +19,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)inet_ntop.c	1.8	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(LIBC_SCCS) && !defined(lint)
 static const char rcsid[] = "$Id: inet_ntop.c,v 1.11 2001/09/27 15:12:57 marka Exp $";

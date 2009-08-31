@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)phdr.msg	1.15	07/04/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 @ MSG_PT_NULL		"[ PT_NULL ]"

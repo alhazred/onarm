@@ -41,7 +41,7 @@
 #ifndef	_ESC_COMMON_LITERALS_H
 #define	_ESC_COMMON_LITERALS_H
 
-#pragma ident	"@(#)literals.h	1.6	06/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

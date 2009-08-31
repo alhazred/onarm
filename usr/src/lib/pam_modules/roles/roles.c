@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)roles.c	1.18	07/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <syslog.h>
 #include <pwd.h>

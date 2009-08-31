@@ -31,7 +31,7 @@
 #ifndef	_DAT_H_
 #define	_DAT_H_
 
-#pragma ident	"@(#)dat.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

@@ -23,7 +23,7 @@
 # Copyright 1991 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)drvload.sh	1.3	05/06/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 modpath=$*
 for drvpath in `echo $modpath`

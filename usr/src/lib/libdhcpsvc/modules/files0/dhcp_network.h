@@ -27,7 +27,7 @@
 #ifndef _DHCP_NETWORK_H
 #define	_DHCP_NETWORK_H
 
-#pragma ident	"@(#)dhcp_network.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 

@@ -26,7 +26,7 @@
 #ifndef _SYS_MACHSYSTM_H
 #define	_SYS_MACHSYSTM_H
 
-#pragma ident	"@(#)machsystm.h	1.109	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Numerous platform-dependent interfaces that don't seem to belong

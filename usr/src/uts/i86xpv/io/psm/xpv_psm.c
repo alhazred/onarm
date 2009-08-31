@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xpv_psm.c	1.3	07/11/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	PSMI_1_5
 
@@ -1208,7 +1208,7 @@ static struct psm_info xen_psm_info = {
 	PSM_OWN_SYS_DEFAULT,	/* ownership				*/
 	&xen_psm_ops,		/* operation				*/
 	"xVM_psm",		/* machine name				*/
-	"platform module 1.3"	/* machine descriptions			*/
+	"platform module %I%"	/* machine descriptions			*/
 };
 
 static void *xen_psm_hdlp;

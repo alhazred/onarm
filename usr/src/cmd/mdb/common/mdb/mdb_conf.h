@@ -27,7 +27,7 @@
 #ifndef	_MDB_CONF_H
 #define	_MDB_CONF_H
 
-#pragma ident	"@(#)mdb_conf.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/utsname.h>
 

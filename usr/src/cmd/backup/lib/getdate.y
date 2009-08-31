@@ -3,7 +3,7 @@
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)getdate.y	1.15	05/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* $OrigRevision: 2.1 $
 **

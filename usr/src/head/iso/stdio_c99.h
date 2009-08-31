@@ -38,7 +38,7 @@
 #ifndef _ISO_STDIO_C99_H
 #define	_ISO_STDIO_C99_H
 
-#pragma ident	"@(#)stdio_c99.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

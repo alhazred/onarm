@@ -26,7 +26,7 @@
 #ifndef	_SYS_DDIMAPREQ_H
 #define	_SYS_DDIMAPREQ_H
 
-#pragma ident	"@(#)ddimapreq.h	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/mman.h>
 #include <sys/dditypes.h>

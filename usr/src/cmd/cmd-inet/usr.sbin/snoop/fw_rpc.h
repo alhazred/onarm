@@ -32,7 +32,7 @@
 #ifndef _FW_RPC_H
 #define	_FW_RPC_H
 
-#pragma ident	"@(#)fw_rpc.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

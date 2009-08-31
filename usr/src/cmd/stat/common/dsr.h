@@ -26,7 +26,7 @@
 #ifndef	_STAT_DSR_H
 #define	_STAT_DSR_H
 
-#pragma ident	"@(#)dsr.h	1.4	06/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

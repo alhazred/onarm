@@ -12,7 +12,7 @@
 #ifndef	__SYS_FCNTLCOM_H
 #define	__SYS_FCNTLCOM_H
 
-#pragma ident	"@(#)fcntlcom.h	1.15	01/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

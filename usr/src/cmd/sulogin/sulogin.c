@@ -32,7 +32,7 @@
  *	All rights reserved.
  */
 
-#pragma ident	"@(#)sulogin.c	1.45	05/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 2007 NEC Corporation

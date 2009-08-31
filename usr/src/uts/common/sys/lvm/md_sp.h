@@ -27,7 +27,7 @@
 #ifndef _SYS__MD_SP_H
 #define	_SYS__MD_SP_H
 
-#pragma ident	"@(#)md_sp.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/lvm/mdvar.h>
 

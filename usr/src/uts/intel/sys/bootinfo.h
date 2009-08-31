@@ -27,7 +27,7 @@
 #ifndef	_SYS_BOOTINFO_H
 #define	_SYS_BOOTINFO_H
 
-#pragma ident	"@(#)bootinfo.h	1.3	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

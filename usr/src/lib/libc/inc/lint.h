@@ -27,7 +27,7 @@
 #ifndef _LIBC_LINT_H
 #define	_LIBC_LINT_H
 
-#pragma ident	"@(#)lint.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)interface.c	1.15	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*	interface( label )
 	provide alternate definitions for the I/O functions through global
 	interfaces.

@@ -26,7 +26,7 @@
 #ifndef	_DHCP_HOSTCONF_H
 #define	_DHCP_HOSTCONF_H
 
-#pragma ident	"@(#)dhcp_hostconf.h	1.8	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <time.h>

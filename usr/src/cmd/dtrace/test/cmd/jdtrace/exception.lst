@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)exception.lst	1.2	08/03/03 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # Exception list: names tests that are bypassed when running in Java
 # mode (relative to /opt/SUNWdtrt/tst)

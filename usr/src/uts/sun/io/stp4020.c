@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)stp4020.c	1.85	05/10/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * DRT device/interrupt handler
@@ -218,7 +218,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module. This one is a driver */
-	"STP4020 (SUNW,pcmcia) adapter driver 1.85", /* Name of the module. */
+	"STP4020 (SUNW,pcmcia) adapter driver %I%", /* Name of the module. */
 	&drt_devops,		/* driver ops */
 };
 

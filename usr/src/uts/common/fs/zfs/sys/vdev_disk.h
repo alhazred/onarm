@@ -27,7 +27,7 @@
 #ifndef _SYS_VDEV_DISK_H
 #define	_SYS_VDEV_DISK_H
 
-#pragma ident	"@(#)vdev_disk.h	1.1	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/vdev.h>
 #ifdef _KERNEL

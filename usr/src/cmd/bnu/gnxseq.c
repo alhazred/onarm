@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)gnxseq.c	1.6	05/06/08 SMI"	/* from SVR4 bnu:gnxseq.c 2.5 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:gnxseq.c 2.5 */
 
 #include "uucp.h"
 

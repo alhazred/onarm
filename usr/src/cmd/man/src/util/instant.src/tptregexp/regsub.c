@@ -18,7 +18,7 @@
  *	3. Altered versions must be plainly marked as such, and must not
  *		be misrepresented as being the original software.
  */
-#pragma ident	"@(#)regsub.c	1.2	00/05/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include <stdio.h>
 #include <tptregexp.h>
 #include "regmagic.h"

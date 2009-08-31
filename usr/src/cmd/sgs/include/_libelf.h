@@ -27,7 +27,7 @@
 #ifndef	__LIBELF_H
 #define	__LIBELF_H
 
-#pragma ident	"@(#)_libelf.h	1.2	07/10/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Version of libelf.h that supplies definitions for APIs that

@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)mc5.h	1.3	07/03/15 SMI"	/* mc5.h */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* mc5.h */
 
 #ifndef CHELSIO_MC5_H
 #define CHELSIO_MC5_H

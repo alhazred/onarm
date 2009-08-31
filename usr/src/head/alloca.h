@@ -31,7 +31,7 @@
 #ifndef	_ALLOCA_H
 #define	_ALLOCA_H
 
-#pragma ident	"@(#)alloca.h	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

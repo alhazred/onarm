@@ -27,7 +27,7 @@
 /*      Copyright (c) 1988 AT&T */
 /*        All Rights Reserved   */
 
-#pragma ident	"@(#)stdlib.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * stdlib.h

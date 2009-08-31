@@ -26,7 +26,7 @@
 #ifndef _KDI_H
 #define	_KDI_H
 
-#pragma ident	"@(#)kdi.h	1.8	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

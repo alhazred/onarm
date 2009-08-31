@@ -26,7 +26,7 @@
 #ifndef	_SYS_NIUMX_VAR_H
 #define	_SYS_NIUMX_VAR_H
 
-#pragma ident	"@(#)niumx_var.h	1.4	07/03/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

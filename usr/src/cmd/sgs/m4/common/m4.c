@@ -28,7 +28,7 @@
 /*	Copyright (c) 1988 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)m4.c	6.28	05/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<signal.h>
 #include	<unistd.h>

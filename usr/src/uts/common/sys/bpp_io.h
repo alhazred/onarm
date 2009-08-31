@@ -27,7 +27,7 @@
 #ifndef	_SYS_BPP_IO_H
 #define	_SYS_BPP_IO_H
 
-#pragma ident	"@(#)bpp_io.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	I/O header file for the bidirectional parallel port

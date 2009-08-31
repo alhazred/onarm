@@ -2,7 +2,7 @@
 # Copyright 2001-2002 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)README	1.2	02/01/24 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 This directory contains utilities that help port and patch a standard perl

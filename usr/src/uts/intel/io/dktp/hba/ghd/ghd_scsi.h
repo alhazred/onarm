@@ -28,7 +28,7 @@
 #ifndef _GHD_SCSI_H
 #define	_GHD_SCSI_H
 
-#pragma ident	"@(#)ghd_scsi.h	1.4	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

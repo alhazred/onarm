@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.hb	1.3	08/01/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 MODULE = hostbridge
 CLASS = arch

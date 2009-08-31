@@ -6,7 +6,7 @@
 #ifndef _SOLARISPRIV_H
 #define	_SOLARISPRIV_H
 
-#pragma ident	"@(#)solaris-priv.h	1.1	02/07/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * solaris-priv.h - items not exposed to outside but used by solaris clients

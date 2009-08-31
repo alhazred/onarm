@@ -27,7 +27,7 @@
 #ifndef _SA_STDLIB_H
 #define	_SA_STDLIB_H
 
-#pragma ident	"@(#)stdlib.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

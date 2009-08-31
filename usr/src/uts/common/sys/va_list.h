@@ -31,7 +31,7 @@
 #ifndef	_SYS_VA_LIST_H
 #define	_SYS_VA_LIST_H
 
-#pragma ident	"@(#)va_list.h	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * An application should not include this header directly.  Instead it

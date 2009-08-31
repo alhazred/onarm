@@ -2,7 +2,7 @@
  * Copyright (c) 1996,1997, by Sun Microsystems, Inc.
  * All rights reserved.
  */
-#pragma ident	"@(#)g_oid_ops.c	1.11	98/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/gssapi/mechglue/g_oid_ops.c
  *

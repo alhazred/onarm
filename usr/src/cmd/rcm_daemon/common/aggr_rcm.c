@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)aggr_rcm.c	1.1	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This RCM module adds support to the RCM framework for AGGR links
@@ -193,7 +193,7 @@ rcm_mod_info(void)
 {
 	rcm_log_message(RCM_TRACE1, "AGGR: mod_info\n");
 
-	return ("AGGR module version 1.1");
+	return ("AGGR module version %I%");
 }
 
 /*

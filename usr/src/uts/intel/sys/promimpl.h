@@ -27,7 +27,7 @@
 #ifndef	_SYS_PROMIMPL_H
 #define	_SYS_PROMIMPL_H
 
-#pragma ident	"@(#)promimpl.h	1.26	05/09/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Promif implementation functions and variables.

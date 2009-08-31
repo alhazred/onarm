@@ -30,7 +30,7 @@
 #ifndef	_SYS_SUDEV_H
 #define	_SYS_SUDEV_H
 
-#pragma ident	"@(#)sudev.h	1.28	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

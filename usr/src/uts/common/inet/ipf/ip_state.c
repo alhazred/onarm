@@ -11,7 +11,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ip_state.c	1.15	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(KERNEL) || defined(_KERNEL)
 # undef KERNEL

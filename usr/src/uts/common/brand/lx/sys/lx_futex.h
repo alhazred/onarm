@@ -26,7 +26,7 @@
 #ifndef _SYS_LX_FUTEX_H
 #define	_SYS_LX_FUTEX_H
 
-#pragma ident	"@(#)lx_futex.h	1.4	07/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)nameSyntaxYacc.y	1.3	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* This is the yacc grammar for the libfru NamingSyntax */
 #include <assert.h>

@@ -35,7 +35,7 @@
 #ifndef _PROTOCOLS_DUMPRESTORE_H
 #define	_PROTOCOLS_DUMPRESTORE_H
 
-#pragma ident	"@(#)dumprestore.h	1.20	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile	1.12	06/04/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/prtfru/Makefile
 #

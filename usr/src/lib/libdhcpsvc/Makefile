@@ -23,7 +23,7 @@
 # Copyright (c) 2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/libdhcpsvc/Makefile
 #

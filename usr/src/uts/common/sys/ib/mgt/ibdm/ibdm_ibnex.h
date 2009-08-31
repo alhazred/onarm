@@ -27,7 +27,7 @@
 #ifndef _SYS_IB_MGT_IBDM_IBDM_IBNEX_H
 #define	_SYS_IB_MGT_IBDM_IBDM_IBNEX_H
 
-#pragma ident	"@(#)ibdm_ibnex.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the definitions of private interfaces

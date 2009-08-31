@@ -24,7 +24,7 @@
 
 
 /* Copyright (c) 1979 Regents of the University of California */
-#ident	"@(#)ovprintf.c	1.7	05/06/08 SMI"	/* SVr4.0 1.5	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5	*/
 
 /*
  * This version of printf calls doprnt, and as such is not portable,

@@ -45,7 +45,7 @@
 #ifndef _EC2_H
 #define _EC2_H
 
-#pragma ident	"@(#)ec2.h	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ecl-priv.h"
 

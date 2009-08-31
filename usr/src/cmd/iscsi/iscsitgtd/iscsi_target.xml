@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-	ident	"@(#)iscsi_target.xml	1.4	07/09/27 SMI"
+	ident	"%Z%%M%	%I%	%E% SMI"
 
 
 	NOTE:  This service manifest is not editable; its contents will

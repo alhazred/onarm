@@ -26,7 +26,7 @@
 #ifndef _E1000G_DEBUG_H
 #define	_E1000G_DEBUG_H
 
-#pragma ident	"@(#)e1000g_debug.h	1.7	07/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

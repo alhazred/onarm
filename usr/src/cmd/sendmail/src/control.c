@@ -8,7 +8,7 @@
  *
  */
 
-#pragma ident	"@(#)control.c	1.13	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 

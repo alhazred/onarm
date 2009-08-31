@@ -26,7 +26,7 @@
 #ifndef _TNF_TRACE_H
 #define	_TNF_TRACE_H
 
-#pragma ident	"@(#)tnf_trace.h	1.25	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <tnf/probe.h>
 #include "tnf_buf.h"

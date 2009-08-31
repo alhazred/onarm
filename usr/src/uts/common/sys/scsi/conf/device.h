@@ -36,7 +36,7 @@
 #ifndef	_SYS_SCSI_CONF_DEVICE_H
 #define	_SYS_SCSI_CONF_DEVICE_H
 
-#pragma ident	"@(#)device.h	1.22	05/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/scsi/scsi_types.h>
 

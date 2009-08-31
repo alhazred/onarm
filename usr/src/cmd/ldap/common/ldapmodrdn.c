@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ldapmodrdn.c	1.9	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* ldapmodrdn.c - generic program to modify an entry's RDN using LDAP */
 

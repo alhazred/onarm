@@ -28,7 +28,7 @@
  *
  */
 
-#pragma ident	"@(#)getconf.c	1.15	07/04/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * getconf -- POSIX.2 compatible utility to query configuration specific

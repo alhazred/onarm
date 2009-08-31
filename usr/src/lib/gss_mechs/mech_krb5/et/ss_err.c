@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)ss_err.c	1.2	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
  
 #include <locale.h>
 const char *

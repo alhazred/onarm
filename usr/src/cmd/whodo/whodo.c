@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)whodo.c	1.36	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the new whodo command which takes advantage of

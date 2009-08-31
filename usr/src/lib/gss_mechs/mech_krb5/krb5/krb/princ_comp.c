@@ -1,4 +1,4 @@
-#pragma ident	"@(#)princ_comp.c	1.5	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/krb/princ_comp.c
  *

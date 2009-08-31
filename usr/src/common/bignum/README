@@ -22,7 +22,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)README	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 A note on the file mont_mulf.c. It is used as a starting point
 for the following hand optimized assembly files.

@@ -23,7 +23,7 @@
  * Copyright 1996 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)snmpdx_stub.h	1.4	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SNMPDX_STUB_H_
 #define _SNMPDX_STUB_H_

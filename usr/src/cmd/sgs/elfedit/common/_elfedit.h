@@ -27,7 +27,7 @@
 #ifndef	__ELFEDIT_H
 #define	__ELFEDIT_H
 
-#pragma ident	"@(#)_elfedit.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<setjmp.h>
 #include	<libtecla.h>

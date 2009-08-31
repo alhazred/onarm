@@ -26,7 +26,7 @@
 #ifndef _SYS_PCICMU_H
 #define	_SYS_PCICMU_H
 
-#pragma ident	"@(#)pcicmu.h	1.2	07/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

@@ -13,7 +13,7 @@
 #ifndef _netinet_if_ether_h
 #define	_netinet_if_ether_h
 
-#pragma ident	"@(#)if_ether.h	1.33	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The following include is for compatibility with SunOS 3.x and

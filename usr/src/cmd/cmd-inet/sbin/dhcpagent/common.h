@@ -27,7 +27,7 @@
 #ifndef _COMMON_H
 #define	_COMMON_H
 
-#pragma ident	"@(#)common.h	1.1	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

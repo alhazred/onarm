@@ -20,7 +20,7 @@
 
 /*	$OpenBSD: packet.h,v 1.35 2002/06/19 18:01:00 markus Exp $	*/
 
-#pragma ident	"@(#)packet.h	1.6	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

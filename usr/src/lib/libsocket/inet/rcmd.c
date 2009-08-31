@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rcmd.c	1.49	06/07/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <limits.h>
 #include <stdio.h>

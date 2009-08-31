@@ -8,7 +8,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)ifconfig.c	1.125	08/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 2008 NEC Corporation

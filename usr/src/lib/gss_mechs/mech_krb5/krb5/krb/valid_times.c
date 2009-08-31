@@ -1,4 +1,4 @@
-#pragma ident	"@(#)valid_times.c	1.1	99/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/krb/valid_times.c
  *

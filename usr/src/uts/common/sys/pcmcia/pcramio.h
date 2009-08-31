@@ -27,7 +27,7 @@
 #ifndef	_PCRAMIO_H
 #define	_PCRAMIO_H
 
-#pragma ident	"@(#)pcramio.h	1.17	05/06/08 SMI"
+#pragma ident	"%W%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.com	1.4	06/03/28 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 LIBRARY=	crypt_bsdmd5.a
 VERS= 		.1

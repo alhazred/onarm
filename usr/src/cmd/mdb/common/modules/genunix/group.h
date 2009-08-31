@@ -27,7 +27,7 @@
 #ifndef _MDB_GROUP_H
 #define	_MDB_GROUP_H
 
-#pragma ident	"@(#)group.h	1.1	07/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Block comment that describes the contents of this file.

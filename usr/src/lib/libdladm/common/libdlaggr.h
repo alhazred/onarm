@@ -26,7 +26,7 @@
 #ifndef _LIBDLAGGR_H
 #define	_LIBDLAGGR_H
 
-#pragma ident	"@(#)libdlaggr.h	1.5	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file includes structures, macros and routines used by aggregation link

@@ -27,7 +27,7 @@
 #ifndef	_WCHAR_IMPL_H
 #define	_WCHAR_IMPL_H
 
-#pragma ident	"@(#)wchar_impl.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 

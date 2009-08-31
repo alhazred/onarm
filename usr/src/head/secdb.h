@@ -26,7 +26,7 @@
 #ifndef	_SECDB_H
 #define	_SECDB_H
 
-#pragma ident	"@(#)secdb.h	1.9	08/02/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

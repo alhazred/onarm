@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)sysidpm.sh	1.13	07/12/11 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # The -c and -u options are used by system configruation.
 USAGE="$0 [-c|-u]"

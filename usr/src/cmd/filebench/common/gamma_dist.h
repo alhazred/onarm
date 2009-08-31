@@ -26,7 +26,7 @@
 #ifndef	_FB_GAMMA_DIST_H
 #define	_FB_GAMMA_DIST_H
 
-#pragma ident	"@(#)gamma_dist.h	1.1	07/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -34,7 +34,7 @@
 
 #ifndef _SYS_IOCTL_H
 
-#pragma ident	"@(#)sgtty.h	1.4	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 #include <sys/ioctl.h>
 

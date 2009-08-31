@@ -22,7 +22,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)usb_ms_bulkonly.c	1.16	08/01/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * scsa2usb_ms_bulkonly.c:

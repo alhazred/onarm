@@ -5,7 +5,7 @@
  * Licensed under the Academic Free License version 2.1
  */
 
-#pragma ident	"@(#)probe-snmp.c	1.1	07/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/socket.h>

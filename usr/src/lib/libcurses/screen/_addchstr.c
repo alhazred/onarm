@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)_addchstr.c	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

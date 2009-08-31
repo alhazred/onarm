@@ -35,7 +35,7 @@
 #ifndef _SETJMP_H
 #define	_SETJMP_H
 
-#pragma ident	"@(#)setjmp.h	1.40	05/06/08 SMI"	/* SVr4.0 1.9.2.9 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9.2.9 */
 
 #include <iso/setjmp_iso.h>
 

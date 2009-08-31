@@ -26,7 +26,7 @@
 #ifndef _SYS_PX_VAR_H
 #define	_SYS_PX_VAR_H
 
-#pragma ident	"@(#)px_var.h	1.23	07/02/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/callb.h>
 

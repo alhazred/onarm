@@ -5,7 +5,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)hash_auto.h	1.2	98/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef ham_AUTO_H
 #define ham_AUTO_H

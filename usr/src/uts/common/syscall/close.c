@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#ident	"@(#)close.c	1.5	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/isa_defs.h>

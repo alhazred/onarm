@@ -28,7 +28,7 @@
 #ifndef _RPCSVC_YPPASSWD_H
 #define	_RPCSVC_YPPASSWD_H
 
-#pragma ident	"@(#)yppasswd.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _PWD_H
 #include <pwd.h>

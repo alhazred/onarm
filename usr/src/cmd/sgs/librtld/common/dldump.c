@@ -25,7 +25,7 @@
  *
  * dldump(3c) creates a new file image from the specified input file.
  */
-#pragma ident	"@(#)dldump.c	1.40	06/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<sys/param.h>
 #include	<sys/procfs.h>

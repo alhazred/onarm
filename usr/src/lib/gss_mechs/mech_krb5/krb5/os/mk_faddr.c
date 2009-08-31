@@ -1,4 +1,4 @@
-#pragma ident	"@(#)mk_faddr.c	1.4	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/os/full_ipadr.c
  *

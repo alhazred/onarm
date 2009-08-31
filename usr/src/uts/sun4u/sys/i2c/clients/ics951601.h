@@ -27,7 +27,7 @@
 #ifndef	_ICS951601_H
 #define	_ICS951601_H
 
-#pragma ident	"@(#)ics951601.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

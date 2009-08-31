@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.20	06/11/02 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This file makes the pcmcia nexus for an intel system
 #

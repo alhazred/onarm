@@ -28,7 +28,7 @@
  * Solaris x86 ACPI ThermalZone Monitor
  */
 
-#pragma ident	"@(#)tzmon.c	1.5	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errno.h>
 #include <sys/conf.h>

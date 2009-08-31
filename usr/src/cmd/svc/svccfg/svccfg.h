@@ -27,7 +27,7 @@
 #ifndef	_CMD_SVCCFG_H
 #define	_CMD_SVCCFG_H
 
-#pragma ident	"@(#)svccfg.h	1.15	08/01/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

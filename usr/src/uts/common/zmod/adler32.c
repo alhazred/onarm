@@ -3,7 +3,7 @@
  * For conditions of distribution and use, see copyright notice in zlib.h
  */
 
-#pragma ident	"@(#)adler32.c	1.2	07/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define ZLIB_INTERNAL
 #include "zlib.h"

@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
   
-#pragma ident	"@(#)tg.c	1.7	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /* tg.c: process included text blocks */
 # include "t..c"

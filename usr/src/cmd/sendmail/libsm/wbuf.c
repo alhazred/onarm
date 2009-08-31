@@ -12,7 +12,7 @@
  * the sendmail distribution.
  */
 
-#pragma ident	"@(#)wbuf.c	1.1	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sm/gen.h>
 SM_RCSID("@(#)$Id: wbuf.c,v 1.19 2001/03/05 03:22:41 ca Exp $")

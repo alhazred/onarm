@@ -26,7 +26,7 @@
 #ifndef _DEVINFO_DEVLINK_H
 #define	_DEVINFO_DEVLINK_H
 
-#pragma ident	"@(#)devinfo_devlink.h	1.9	07/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

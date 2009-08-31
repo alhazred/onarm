@@ -26,7 +26,7 @@
  *      All Rights Reserved.
  */
  
-#pragma ident	"@(#)nisaddcred.h	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	MAXIPRINT	(11)	/* max length of printed integer */
 #define	CRED_TABLE "cred.org_dir"

@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)cspi.h	1.3	07/03/15 SMI"	/* cspi.h */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* cspi.h */
 
 #ifndef CHELSIO_CSPI_H
 #define CHELSIO_CSPI_H

@@ -75,7 +75,7 @@ First checked in.
 	It is used to shim through to the underlying <dns_sd.h> API.
  */
 
-#pragma ident	"@(#)JNISupport.c	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 // AUTO_CALLBACKS should be set to 1 if the underlying mDNS implementation fires response
 // callbacks automatically (as in the early Windows prototypes).

@@ -27,7 +27,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-# ident	"@(#)Makefile.com	1.5	07/05/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY =	librestart.a

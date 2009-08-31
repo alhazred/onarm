@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# ident	"@(#)idsconfig.sh	1.24	07/10/24 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # CDDL HEADER START
 #

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma	ident	"@(#)tst.signedkeys.d	1.1	06/09/26 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)mkdemo.pl	1.4	07/05/18 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 require 5.005;
 

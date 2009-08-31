@@ -27,7 +27,7 @@
 #ifndef _SYS_IB_MGT_IB_DM_ATTR_H
 #define	_SYS_IB_MGT_IB_DM_ATTR_H
 
-#pragma ident	"@(#)ib_dm_attr.h	1.3	05/12/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ib_dm_attr.h

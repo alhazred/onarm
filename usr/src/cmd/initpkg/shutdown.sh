@@ -30,7 +30,7 @@
 # Copyright (c) 2006-2007 NEC Corporation
 #
 
-#ident	"@(#)shutdown.sh	1.21	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #	Sequence performed to change the init state of a machine.  Only allows
 #	transitions to states 0,1,5,6,s,S (i.e.: down or administrative states).

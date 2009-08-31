@@ -23,5 +23,5 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)prototype.Makefile	1.17	08/02/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #

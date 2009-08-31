@@ -28,7 +28,7 @@
 /*	  All Rights Reserved					*/
 /*								*/
 
-#pragma ident	"@(#)mkfifo.c	1.11	05/09/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<stdlib.h>
 #include	<sys/types.h>

@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)mapfile-vers	1.1	07/06/27 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # information generated from usr/src/lib/libdll/i386/src/lib/libdll/dlldefs.h

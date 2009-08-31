@@ -29,7 +29,7 @@
  *	LD_PRELOAD=0@0.so.1 program args ...
  *
  */
-#pragma ident	"@(#)0@0.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* LINTLIBRARY */
 

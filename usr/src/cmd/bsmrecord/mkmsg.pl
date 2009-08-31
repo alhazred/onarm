@@ -24,7 +24,7 @@
 # Copyright (c) 2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-# ident	"@(#)mkmsg.pl	1.2	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # mkmsg.pl -- generate message file content for strings that
 # originate in audit_record_attr and audit_event

@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)auth_none.c	1.25	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * auth_none.c

@@ -26,7 +26,7 @@
 #ifndef	_NETINET_IGMP_VAR_H
 #define	_NETINET_IGMP_VAR_H
 
-#pragma ident	"@(#)igmp_var.h	1.19	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

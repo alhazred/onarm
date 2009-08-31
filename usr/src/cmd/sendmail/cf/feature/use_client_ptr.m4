@@ -7,7 +7,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-# ident	"@(#)use_client_ptr.m4	1.1	04/06/21 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 divert(0)

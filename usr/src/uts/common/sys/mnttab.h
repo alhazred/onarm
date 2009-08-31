@@ -31,7 +31,7 @@
 #ifndef _SYS_MNTTAB_H
 #define	_SYS_MNTTAB_H
 
-#pragma ident	"@(#)mnttab.h	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

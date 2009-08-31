@@ -27,7 +27,7 @@
 #ifndef	_SUBR_H
 #define	_SUBR_H
 
-#pragma ident	"@(#)subr.h	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

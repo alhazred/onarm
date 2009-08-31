@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)FMD.dict	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 FMDICT: name=FMD version=1 maxkey=1
 

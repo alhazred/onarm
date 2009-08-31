@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dboot_grub.s	1.3	07/11/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(__lint)
 

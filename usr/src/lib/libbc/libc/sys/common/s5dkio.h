@@ -27,7 +27,7 @@
 #ifndef _SYS5_DKIO_H
 #define	_SYS5_DKIO_H
 
-#pragma ident	"@(#)s5dkio.h	1.5	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

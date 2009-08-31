@@ -31,7 +31,7 @@
  * replaced.
  */
 
-#pragma ident	"@(#)lut.c	1.6	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include "alloc.h"

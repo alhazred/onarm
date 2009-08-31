@@ -31,7 +31,7 @@
 #ifndef _USER_COMMON_H
 #define	_USER_COMMON_H
 
-#pragma ident	"@(#)user_common.h	1.6	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "c_synonyms.h"
 #include <nss_common.h>

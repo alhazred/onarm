@@ -26,7 +26,7 @@
 #ifndef	_STORCLASS_H
 #define	_STORCLASS_H
 
-#pragma ident	"@(#)storclass.h	1.9	05/06/08 SMI"	/* SVr4.0 1.6 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6 */
 
 #ifdef	__cplusplus
 extern "C" {

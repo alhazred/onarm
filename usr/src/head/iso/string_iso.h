@@ -43,7 +43,7 @@
 #ifndef _ISO_STRING_ISO_H
 #define	_ISO_STRING_ISO_H
 
-#pragma ident	"@(#)string_iso.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

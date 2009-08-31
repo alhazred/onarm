@@ -13,7 +13,7 @@
 struct uio;
 #endif
 
-#pragma ident	"@(#)misc.c	1.3	06/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/systm.h>
 #include <sys/types.h>

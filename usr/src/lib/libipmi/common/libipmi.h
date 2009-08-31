@@ -26,7 +26,7 @@
 #ifndef	_LIBIPMI_H
 #define	_LIBIPMI_H
 
-#pragma ident	"@(#)libipmi.h	1.6	08/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/bmc_intf.h>
 #include <sys/byteorder.h>

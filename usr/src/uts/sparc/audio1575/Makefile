@@ -24,7 +24,7 @@
 #
 # uts/sparc/audio1575/Makefile
 #
-#ident	"@(#)Makefile	1.4	07/07/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the M1575 audio driver
 #	(audio1575) kernel module.

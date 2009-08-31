@@ -29,7 +29,7 @@
 #ifndef _E1000_HW_H_
 #define	_E1000_HW_H_
 
-#pragma ident	"@(#)e1000_hw.h	1.10	07/08/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

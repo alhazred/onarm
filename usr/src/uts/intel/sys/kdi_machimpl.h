@@ -26,7 +26,7 @@
 #ifndef _SYS_KDI_MACHIMPL_H
 #define	_SYS_KDI_MACHIMPL_H
 
-#pragma ident	"@(#)kdi_machimpl.h	1.9	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The Kernel/Debugger interface.  The operations provided by the kdi_t,

@@ -27,7 +27,7 @@
 #ifndef _ATA_DEBUG_H
 #define	_ATA_DEBUG_H
 
-#pragma ident	"@(#)ata_debug.h	1.2	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

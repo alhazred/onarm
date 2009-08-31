@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sc_gptwocfg.c	1.22	07/07/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *     Starcat Specific Glue for Safari Configurator
@@ -95,7 +95,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops, /* Type of module */
-	"Sun Fire 15000 gptwocfg 1.22"
+	"Sun Fire 15000 gptwocfg %I%"
 };
 
 static struct modlinkage modlinkage = {

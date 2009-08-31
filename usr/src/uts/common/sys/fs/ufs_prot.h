@@ -32,7 +32,7 @@
 #ifndef _SYS_FS_UFS_PROT_H
 #define	_SYS_FS_UFS_PROT_H
 
-#pragma ident	"@(#)ufs_prot.h	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/rpc.h>
 

@@ -30,7 +30,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-#ident	"@(#)iu.ap.sh	1.43	07/09/25 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 case "$MACH" in
   "i386" )

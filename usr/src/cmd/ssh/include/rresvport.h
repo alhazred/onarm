@@ -3,7 +3,7 @@
 #ifndef	_RRESVPORT_H
 #define	_RRESVPORT_H
 
-#pragma ident	"@(#)rresvport.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

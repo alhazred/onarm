@@ -31,7 +31,7 @@
  *
  */
 
-#pragma ident	"@(#)pelton.c	1.3	07/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

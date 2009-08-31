@@ -35,7 +35,7 @@
 #ifndef _NETSMB_NETBIOS_H_
 #define	_NETSMB_NETBIOS_H_
 
-#pragma ident	"@(#)netbios.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _NETINET_IN_H_
 #include <netinet/in.h>

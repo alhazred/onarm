@@ -25,7 +25,7 @@
 # Copyright (c) 1996-1999 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)Makefile	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the pset syscall module.
 #

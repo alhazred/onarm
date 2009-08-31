@@ -24,7 +24,7 @@
 #
 # uts/sparc/FX/Makefile
 #
-#ident	"@(#)Makefile	1.4	06/11/02 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the FX scheduling class
 #	kernel module.

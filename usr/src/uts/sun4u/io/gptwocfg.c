@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gptwocfg.c	1.15	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Safari Configurator  (gptwocfg)
@@ -101,7 +101,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops, /* Type of module */
-	"gptwo configurator 1.15",
+	"gptwo configurator %I%",
 };
 
 static struct modlinkage modlinkage = {

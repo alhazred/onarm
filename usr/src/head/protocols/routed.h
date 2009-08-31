@@ -50,7 +50,7 @@
 #ifndef _PROTOCOLS_ROUTED_H
 #define	_PROTOCOLS_ROUTED_H
 
-#pragma ident	"@(#)routed.h	1.14	06/12/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

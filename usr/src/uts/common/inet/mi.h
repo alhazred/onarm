@@ -28,7 +28,7 @@
 #ifndef	_INET_MI_H
 #define	_INET_MI_H
 
-#pragma ident	"@(#)mi.h	1.51	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)pcie.c	1.19	07/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sysmacros.h>
 #include <sys/types.h>
@@ -84,7 +84,7 @@ uint32_t pcie_aer_suce_mask = 0;
 extern struct mod_ops mod_miscops;
 struct modlmisc modlmisc	= {
 	&mod_miscops,	/* Type	of module */
-	"PCIE: PCI Express Architecture 1.19"
+	"PCIE: PCI Express Architecture %I%"
 };
 
 struct modlinkage modlinkage = {

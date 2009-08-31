@@ -33,7 +33,7 @@
 #ifndef	_DMAN_H
 #define	_DMAN_H
 
-#pragma ident	"@(#)dman.h	1.15	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

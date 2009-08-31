@@ -42,7 +42,7 @@
 #ifndef	_CHANNELS_H
 #define	_CHANNELS_H
 
-#pragma ident	"@(#)channels.h	1.8	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

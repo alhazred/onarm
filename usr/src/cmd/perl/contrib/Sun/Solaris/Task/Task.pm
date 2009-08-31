@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)Task.pm	1.4	07/01/22 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Task.pm provides the bootstrap for the Sun::Solaris::Task module.
 #
@@ -32,7 +32,7 @@ use warnings;
 
 package Sun::Solaris::Task;
 
-our $VERSION = '1.4';
+our $VERSION = '%I%';
 use XSLoader;
 XSLoader::load(__PACKAGE__, $VERSION);
 

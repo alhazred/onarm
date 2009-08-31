@@ -33,7 +33,7 @@
 
 RCSID("$Id: bsd-cygwin_util.c,v 1.8 2002/04/15 22:00:52 stevesk Exp $");
 
-#pragma ident	"@(#)bsd-cygwin_util.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef HAVE_CYGWIN
 

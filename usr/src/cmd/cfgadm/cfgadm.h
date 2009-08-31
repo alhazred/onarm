@@ -27,7 +27,7 @@
 #ifndef	_CFGADM_H
 #define	_CFGADM_H
 
-#pragma ident	"@(#)cfgadm.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

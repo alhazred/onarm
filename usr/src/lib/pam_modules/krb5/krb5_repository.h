@@ -27,7 +27,7 @@
 #ifndef	_KRB5_REPOSITORY_H
 #define	_KRB5_REPOSITORY_H
 
-#pragma ident	"@(#)krb5_repository.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

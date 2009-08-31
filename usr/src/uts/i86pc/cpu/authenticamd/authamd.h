@@ -27,7 +27,7 @@
 #ifndef _AUTHAMD_H
 #define	_AUTHAMD_H
 
-#pragma ident	"@(#)authamd.h	1.3	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/mca_amd.h>

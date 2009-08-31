@@ -30,7 +30,7 @@
 #ifndef	_FTW_H
 #define	_FTW_H
 
-#pragma ident	"@(#)ftw.h	1.25	07/01/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

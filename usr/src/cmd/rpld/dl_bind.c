@@ -28,7 +28,7 @@
  * Data Link API - Bind
  */
 
-#pragma ident	"@(#)dl_bind.c	1.5	05/08/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stream.h>

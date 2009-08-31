@@ -26,7 +26,7 @@
 #if defined(SMARTCARD) && defined(USE_SECTOK)
 RCSID("$OpenBSD: scard.c,v 1.26 2002/06/23 03:30:17 deraadt Exp $");
 
-#pragma ident	"@(#)scard.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <openssl/evp.h>
 #include <sectok.h>

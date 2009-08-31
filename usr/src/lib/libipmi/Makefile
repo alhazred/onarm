@@ -22,13 +22,13 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.1	07/03/09 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.1	07/03/09 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 include		../Makefile.lib
 

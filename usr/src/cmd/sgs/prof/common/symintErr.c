@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)symintErr.c	6.7	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "symint.h"
 

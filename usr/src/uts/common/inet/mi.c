@@ -24,7 +24,7 @@
  */
 /* Copyright (c) 1990 Mentat Inc. */
 
-#pragma ident	"@(#)mi.c	1.78	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <inet/common.h>	/* for various inet/mi.h and inet/nd.h needs */

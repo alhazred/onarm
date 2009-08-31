@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)ypupdated.c	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
 static char sccsid[] = "@(#)rpc.ypupdated.c 1.9 87/10/30 Copyr 1986 Sun Micro";

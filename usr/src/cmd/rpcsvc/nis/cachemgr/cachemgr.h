@@ -28,7 +28,7 @@
 #ifndef	__CACHEMGR_H
 #define	__CACHEMGR_H
 
-#pragma ident	"@(#)cachemgr.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern int xdr_fd_result(XDR *, fd_result *);
 extern int xdr_directory_obj(XDR *, directory_obj *);

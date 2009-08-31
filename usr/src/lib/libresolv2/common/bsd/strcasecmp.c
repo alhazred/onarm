@@ -42,7 +42,7 @@ static const char rcsid[] = "$Id: strcasecmp.c,v 8.5 1999/10/13 16:39:21 vixie E
  */
 
 
-#pragma ident	"@(#)strcasecmp.c	1.2	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "port_before.h"
 

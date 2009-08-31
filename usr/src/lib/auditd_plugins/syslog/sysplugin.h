@@ -27,7 +27,7 @@
 #ifndef	_SYSPLUGIN_H
 #define	_SYSPLUGIN_H
 
-#pragma ident	"@(#)sysplugin.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

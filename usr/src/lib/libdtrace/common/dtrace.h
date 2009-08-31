@@ -27,7 +27,7 @@
 #ifndef	_DTRACE_H
 #define	_DTRACE_H
 
-#pragma ident	"@(#)dtrace.h	1.17	07/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dtrace.h>
 #include <stdarg.h>

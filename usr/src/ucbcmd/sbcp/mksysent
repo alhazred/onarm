@@ -24,7 +24,7 @@
 # Copyright 1993-2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)mksysent	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	mksysent - generate the sysent table from the list of system calls
 #

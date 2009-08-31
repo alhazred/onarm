@@ -1,6 +1,6 @@
 /*	from UCB 7.1 6/5/86	*/
 
-#pragma ident	"@(#)syslog.h	1.2	00/05/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1982, 1986 Regents of the University of California.

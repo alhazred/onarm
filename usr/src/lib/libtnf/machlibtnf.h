@@ -27,7 +27,7 @@
 #ifndef _MACHLIBTNF_H
 #define	_MACHLIBTNF_H
 
-#pragma ident	"@(#)machlibtnf.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 

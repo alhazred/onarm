@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rmclomv.c	1.26	07/11/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stat.h>
@@ -162,7 +162,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* Type of module. This is a driver */
-	"rmclomv control driver v1.26",	/* Name of the module */
+	"rmclomv control driver v%I%",	/* Name of the module */
 	&rmclomv_ops			/* pointer to the dev_ops structure */
 };
 

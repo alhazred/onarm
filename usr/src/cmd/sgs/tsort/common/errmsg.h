@@ -32,7 +32,7 @@
 #ifndef _ERRMSG_H
 #define	_ERRMSG_H
 
-#pragma ident	"@(#)errmsg.h	6.6	05/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * errmsg.h

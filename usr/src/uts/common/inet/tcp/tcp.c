@@ -29,8 +29,8 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)tcp.c	1.541	08/03/02 SMI"
-const char tcp_version[] = "@(#)tcp.c	1.541	08/03/02 SMI";
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
+const char tcp_version[] = "%Z%%M%	%I%	%E% SMI";
 
 
 #include <sys/types.h>

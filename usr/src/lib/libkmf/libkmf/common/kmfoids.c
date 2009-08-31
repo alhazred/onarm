@@ -6,7 +6,7 @@
  * Copyright(c) 1995-2000 Intel Corporation. All rights reserved.
  */
 
-#pragma ident	"@(#)kmfoids.c	1.4	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kmfapi.h>
 

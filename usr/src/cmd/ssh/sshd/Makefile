@@ -24,7 +24,7 @@
 #
 # Copyright (c) 2008 NEC Corporation
 #
-# ident	"@(#)Makefile	1.21	07/11/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/ssh/sshd/Makefile
 

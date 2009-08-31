@@ -27,7 +27,7 @@
 #ifndef _SYS_ATEXIT_H
 #define _SYS_ATEXIT_H
 
-#pragma ident	"@(#)atexit.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Functions to call - called by the C++ runtimes */
 

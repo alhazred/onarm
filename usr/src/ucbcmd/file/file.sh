@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)file.sh	1.3	06/06/09 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # This script invokes /usr/bin/file with -h option by default and

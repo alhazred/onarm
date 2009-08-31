@@ -2,7 +2,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)vfont.h	1.2	05/06/02 SMI"	/* SVr4.0 1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /*
  * Copyright (c) 1980 Regents of the University of California.

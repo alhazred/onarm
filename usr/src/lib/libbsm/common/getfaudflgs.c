@@ -18,7 +18,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)getfaudflgs.c	1.10	07/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.

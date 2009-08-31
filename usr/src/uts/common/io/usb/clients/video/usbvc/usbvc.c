@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)usbvc.c	1.4	07/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * USB video class driver (usbvc(7D))
@@ -287,7 +287,7 @@ static struct dev_ops usbvc_ops = {
 
 static struct modldrv usbvc_modldrv =	{
 	&mod_driverops,
-	"USB video class driver 1.4",
+	"USB video class driver %I%",
 	&usbvc_ops
 };
 

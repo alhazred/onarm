@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)audio_support.c	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Audio Support Module
@@ -151,7 +151,7 @@ static int audio_sup_wioctl(queue_t *, mblk_t *, audio_ch_t *);
 /* Linkage structure for loadable drivers */
 static struct modlmisc audio_modlmisc = {
 	&mod_miscops,		/* drv_modops */
-	AUDIO_MOD_NAME " 1.24",	/* drv_linkinfo */
+	AUDIO_MOD_NAME " %I%",	/* drv_linkinfo */
 };
 
 static struct modlinkage audio_modlinkage =

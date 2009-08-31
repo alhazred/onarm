@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_stack_grow.s	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_stack_grow.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 #include "SYS.h"

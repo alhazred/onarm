@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)space_used.tcl	1.1	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 # Run this TCL script using "testfixture" in order get a report that shows
 # how much disk space is used by a particular data to actually store data

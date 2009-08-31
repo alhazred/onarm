@@ -22,7 +22,7 @@
  * Copyright 1992 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)dlhdr.h	1.3	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * types used internally to DL library

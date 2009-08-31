@@ -22,7 +22,7 @@
 # Copyright (c) 1995-1998 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-# ident	"@(#)mknames.awk	1.6	05/06/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # mknames.awk	
 #
@@ -39,7 +39,7 @@ print " * Copyright (c) 1998 by Sun Microsystems, Inc." > file
 print " * All rights reserved." > file
 print " */" > file
 print > file
-print "#pragma ident	\"@(#)" file "\t1.6\t05/06/10 SMI\"" > file
+print "#pragma ident	\"@(#)" file "\t%I%\t%E% SMI\"" > file
 print > file
 print "/*" > file
 printf " * %s\n", file > file

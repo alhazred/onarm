@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)waitforzone.ksh	1.1	07/05/24 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 user=$1

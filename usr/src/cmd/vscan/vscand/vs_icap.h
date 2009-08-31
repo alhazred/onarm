@@ -30,7 +30,7 @@
 #ifndef _VS_ICAP_H_
 #define	_VS_ICAP_H_
 
-#pragma ident	"@(#)vs_icap.h	1.1	07/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

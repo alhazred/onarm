@@ -5,7 +5,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)log_auto.h	1.2	98/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef log_AUTO_H
 #define log_AUTO_H

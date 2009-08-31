@@ -27,7 +27,7 @@
 #ifndef	_SYS_NGE_H
 #define	_SYS_NGE_H
 
-#pragma ident	"@(#)nge.h	1.28	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

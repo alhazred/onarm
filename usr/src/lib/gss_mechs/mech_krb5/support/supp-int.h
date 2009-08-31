@@ -29,7 +29,7 @@
 #ifndef KRB5_SUPP_INT_H__
 #define KRB5_SUPP_INT_H__
 
-#pragma ident	"@(#)supp-int.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern int krb5int_call_thread_support_init (void);
 

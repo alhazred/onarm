@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#ident	"@(#)interface.h	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 struct interface {
 	struct	interface *int_next;

@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)chown.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"chown.s"
+	.file	"%M%"
 
 /* C library -- chown						*/
 /* int chown(char *path, uid_t owner, gid_t group)		*/

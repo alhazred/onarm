@@ -30,7 +30,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)mvdir.sh	1.11	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 if [ $# != 2 ]
 then

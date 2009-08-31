@@ -45,9 +45,9 @@
  * regulations applicable in licensee's jurisdiction.
  */
 
-	.ident	"@(#)memset.s	1.3	05/07/18 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"memset.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

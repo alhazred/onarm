@@ -26,7 +26,7 @@
 #ifndef _SYS_FSID_H
 #define	_SYS_FSID_H
 
-#pragma ident	"@(#)fsid.h	1.12	05/06/08 SMI"	/* SVr4.0 11.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.2	*/
 
 #ifdef	__cplusplus
 extern "C" {

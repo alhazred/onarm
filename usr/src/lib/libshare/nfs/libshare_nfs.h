@@ -31,7 +31,7 @@
 #ifndef _LIBSHARE_NFS_H
 #define	_LIBSHARE_NFS_H
 
-#pragma ident	"@(#)libshare_nfs.h	1.1	06/10/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

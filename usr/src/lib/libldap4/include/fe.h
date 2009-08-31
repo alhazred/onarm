@@ -5,7 +5,7 @@
  *
  */
 
-#pragma ident	"@(#)fe.h	1.5	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _FE_H
 #define _FE_H

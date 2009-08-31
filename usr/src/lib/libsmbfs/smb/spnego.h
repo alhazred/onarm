@@ -22,7 +22,7 @@
 //
 /////////////////////////////////////////////////////////////
 
-#pragma ident	"@(#)spnego.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __SPNEGO_H__
 #define __SPNEGO_H__

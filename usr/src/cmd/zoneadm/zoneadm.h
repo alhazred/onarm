@@ -27,7 +27,7 @@
 #ifndef _ZONEADM_H
 #define	_ZONEADM_H
 
-#pragma ident	"@(#)zoneadm.h	1.5	08/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	CMD_HELP	0
 #define	CMD_BOOT	1

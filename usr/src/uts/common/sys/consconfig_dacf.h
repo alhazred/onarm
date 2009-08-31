@@ -27,7 +27,7 @@
 #ifndef	_SYS_CONSCONFIG_DACF_H
 #define	_SYS_CONSCONFIG_DACF_H
 
-#pragma ident	"@(#)consconfig_dacf.h	1.17	08/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

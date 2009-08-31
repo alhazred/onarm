@@ -3,7 +3,7 @@
 #ifndef	_DH_H
 #define	_DH_H
 
-#pragma ident	"@(#)dh.h	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

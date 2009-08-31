@@ -27,7 +27,7 @@
 #ifndef _THREAD_DB_H
 #define	_THREAD_DB_H
 
-#pragma ident	"@(#)thread_db.h	1.32	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

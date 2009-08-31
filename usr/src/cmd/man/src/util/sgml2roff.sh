@@ -3,7 +3,7 @@
 # Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)sgml2roff.sh	1.6	03/11/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #############################################################################
 #

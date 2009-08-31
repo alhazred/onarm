@@ -29,7 +29,7 @@
 #ifndef	_ESC_COMMON_EFTREAD_H
 #define	_ESC_COMMON_EFTREAD_H
 
-#pragma ident	"@(#)eftread.h	1.3	06/10/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

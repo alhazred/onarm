@@ -27,7 +27,7 @@
 #ifndef	_SYS_I8272A_H
 #define	_SYS_I8272A_H
 
-#pragma ident	"@(#)i8272A.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

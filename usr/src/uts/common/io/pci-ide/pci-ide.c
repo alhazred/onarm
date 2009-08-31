@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)pci-ide.c	1.23	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	PCI-IDE bus nexus driver
@@ -172,7 +172,7 @@ struct dev_ops pciide_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This is PCI-IDE bus driver */
-	"pciide nexus driver for 'PCI-IDE' 1.23",
+	"pciide nexus driver for 'PCI-IDE' %I%",
 	&pciide_ops,	/* driver ops */
 };
 

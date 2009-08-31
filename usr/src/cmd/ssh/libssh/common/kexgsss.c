@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kexgsss.c	1.5	08/01/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "includes.h"
 

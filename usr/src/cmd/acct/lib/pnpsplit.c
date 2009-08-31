@@ -28,7 +28,7 @@
 /*	  All Rights Reserved	*/
 
 
-#pragma ident	"@(#)pnpsplit.c	1.13	05/08/24 SMI"	/* SVr4.0 1.7	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7	*/
 
 /*
  * pnpsplit splits interval into prime & nonprime portions

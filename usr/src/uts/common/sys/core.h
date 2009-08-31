@@ -27,7 +27,7 @@
 #ifndef	_SYS_CORE_H
 #define	_SYS_CORE_H
 
-#pragma ident	"@(#)core.h	1.40	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _KERNEL
 #include <sys/reg.h>

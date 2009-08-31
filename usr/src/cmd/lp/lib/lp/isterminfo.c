@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)isterminfo.c	1.6	05/06/08 SMI"	/* SVr4.0 1.9	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9	*/
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "fcntl.h"

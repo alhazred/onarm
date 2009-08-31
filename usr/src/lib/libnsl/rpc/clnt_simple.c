@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)clnt_simple.c	1.28	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Simplified front end to client rpc.

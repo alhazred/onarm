@@ -24,7 +24,7 @@
 #
 # uts/intel/cardbus/Makefile
 #
-#ident	"@(#)Makefile	1.3	06/11/02 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the cardbus kernel module.
 #

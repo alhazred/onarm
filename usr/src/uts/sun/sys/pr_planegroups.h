@@ -26,7 +26,7 @@
 #ifndef _SYS_PR_PLANEGROUPS_H
 #define	_SYS_PR_PLANEGROUPS_H
 
-#pragma ident	"@(#)pr_planegroups.h	1.14	05/06/08 SMI"	/* SunOS 1.13 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS 1.13 */
 
 #ifdef	__cplusplus
 extern "C" {

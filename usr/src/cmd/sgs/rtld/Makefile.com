@@ -27,7 +27,7 @@
 # Copyright (c) 2007-2009 NEC Corporation
 #
 
-# ident	"@(#)Makefile.com	1.73	07/11/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 RTLD=		ld.so.1

@@ -26,7 +26,7 @@
 #ifndef	_SYS_PFMOD_H
 #define	_SYS_PFMOD_H
 
-#pragma ident	"@(#)pfmod.h	1.8	06/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

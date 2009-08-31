@@ -27,7 +27,7 @@
 #ifndef _SYS_FLOCK_IMPL_H
 #define	_SYS_FLOCK_IMPL_H
 
-#pragma ident	"@(#)flock_impl.h	1.27	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/fcntl.h>		/* flock definition */

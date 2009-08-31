@@ -26,7 +26,7 @@
 #ifndef	_INET_SADB_H
 #define	_INET_SADB_H
 
-#pragma ident	"@(#)sadb.h	1.30	07/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

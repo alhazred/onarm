@@ -27,7 +27,7 @@
 #ifndef	_SYS_DB21554_CONFIG_H
 #define	_SYS_DB21554_CONFIG_H
 
-#pragma ident	"@(#)db21554_config.h	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

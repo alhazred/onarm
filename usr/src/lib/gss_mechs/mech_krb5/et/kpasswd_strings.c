@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kpasswd_strings.c	1.5	06/02/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
  
 #include <locale.h>
 const char *

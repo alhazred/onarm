@@ -27,7 +27,7 @@
 #ifndef _NB5000_H
 #define	_NB5000_H
 
-#pragma ident	"@(#)nb5000.h	1.5	08/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)diffdb.c	1.1	04/07/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 ** A utility for printing the differences between two SQLite database files.

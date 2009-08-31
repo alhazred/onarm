@@ -60,7 +60,7 @@
 #ifndef CYLINK_H  /* Prevent multiple inclusions of same header file */
 #define CYLINK_H
 
-#pragma ident	"@(#)cylink.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #if (!defined(BSD)) || (BSD < 199306)

@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)sata.c	1.31	08/03/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SATA Framework
@@ -365,7 +365,7 @@ extern uchar_t	scsi_cdb_size[];
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,			/* Type of module */
-	"SATA Module v1.31"		/* module name */
+	"SATA Module v%I%"		/* module name */
 };
 
 

@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)swapgeneric.c	5.142	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* ONC_PLUS EXTRACT END */
 
 /*

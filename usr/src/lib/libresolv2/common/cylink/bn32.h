@@ -47,7 +47,7 @@
  * bn32.h - interface to 32-bit bignum routines.
  */
 
-#pragma ident	"@(#)bn32.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 struct BigNum;
 

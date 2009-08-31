@@ -35,7 +35,7 @@
 #ifndef	_RPCSVC_YPCLNT_H
 #define	_RPCSVC_YPCLNT_H
 
-#pragma ident	"@(#)ypclnt.h	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _BOOT_H
 #define	_BOOT_H
 
-#pragma ident	"@(#)boot.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Platform-independent declarations for the secondary bootloader

@@ -24,7 +24,7 @@
 ##
 ## CDDL HEADER END
 ##
-## ident	"@(#)audit_record_attr.txt	1.25	08/01/11 SMI"
+## ident	"%Z%%M%	%I%	%E% SMI"
 ##
 
 # source file for describing audit records.

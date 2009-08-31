@@ -27,7 +27,7 @@
 #ifndef _SYS_1394_CMD1394_H
 #define	_SYS_1394_CMD1394_H
 
-#pragma ident	"@(#)cmd1394.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * cmd1394.h

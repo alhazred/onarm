@@ -41,7 +41,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: ssh-add.c,v 1.63 2002/09/19 15:51:23 markus Exp $");
 
-#pragma ident	"@(#)ssh-add.c	1.8	04/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <openssl/evp.h>
 

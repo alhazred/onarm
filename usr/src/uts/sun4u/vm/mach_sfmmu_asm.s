@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mach_sfmmu_asm.s	1.8	08/02/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SFMMU primitives.  These primitives should only be used by sfmmu

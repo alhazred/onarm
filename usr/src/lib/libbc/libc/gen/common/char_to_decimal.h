@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma	ident	"@(#)char_to_decimal.h	1.3	05/06/08 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the common part of string_to_decimal, func_to_decimal,

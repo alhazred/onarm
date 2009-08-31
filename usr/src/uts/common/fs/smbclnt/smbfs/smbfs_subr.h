@@ -40,7 +40,7 @@
 #ifndef _FS_SMBFS_SMBFS_SUBR_H_
 #define	_FS_SMBFS_SMBFS_SUBR_H_
 
-#pragma ident	"@(#)smbfs_subr.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* This defines terms used in the error messages */
 #include <sys/cmn_err.h>

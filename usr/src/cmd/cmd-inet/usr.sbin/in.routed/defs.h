@@ -41,7 +41,7 @@
 #ifndef	_DEFS_H
 #define	_DEFS_H
 
-#pragma ident	"@(#)defs.h	2.23	07/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Definitions for RIPv2 routing process.

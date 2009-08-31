@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Solaris_ActiveUser.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -46,7 +46,7 @@ import java.util.Vector;
  * Provider of the Solaris_ActiveUser class. This class represents
  * a ActiveUser that is actively running on an OperatingSystem.
  * @author Sun Microsystems
- * @version 1.3 06/08/05
+ * @version %I% %G%
  */
 public class Solaris_ActiveUser extends SRMProvider
 	implements Authorizable, Solaris_ActiveUserProperties {

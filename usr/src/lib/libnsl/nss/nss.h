@@ -26,7 +26,7 @@
 #ifndef	_NSS_H
 #define	_NSS_H
 
-#pragma ident	"@(#)nss.h	1.4	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/socket.h>
 #include <netinet/in.h>

@@ -41,7 +41,7 @@
 #ifndef _RPCBIND_H
 #define	_RPCBIND_H
 
-#pragma ident	"@(#)rpcbind.h	1.19	06/06/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef PORTMAP
 #include <rpc/pmap_prot.h>

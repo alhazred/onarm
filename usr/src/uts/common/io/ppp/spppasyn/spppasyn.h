@@ -48,7 +48,7 @@
 #ifndef __SPPPASYN_H
 #define	__SPPPASYN_H
 
-#pragma ident	"@(#)spppasyn.h	1.3	02/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

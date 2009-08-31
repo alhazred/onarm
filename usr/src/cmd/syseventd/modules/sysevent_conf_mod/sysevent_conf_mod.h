@@ -28,7 +28,7 @@
 #ifndef	_SYSEVENT_CONF_MOD_H
 #define	_SYSEVENT_CONF_MOD_H
 
-#pragma ident	"@(#)sysevent_conf_mod.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

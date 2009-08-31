@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 #
-#ident	"@(#)Makefile	1.12	06/03/20 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #     This makefile drives the production of all MonteCarlo system
 #     dependent modules for the sun4u architecture.

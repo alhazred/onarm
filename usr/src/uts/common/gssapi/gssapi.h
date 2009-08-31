@@ -28,7 +28,7 @@
 #ifndef	_GSSAPI_H_
 #define	_GSSAPI_H_
 
-#pragma ident	"@(#)gssapi.h	1.30	04/03/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

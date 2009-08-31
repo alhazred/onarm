@@ -27,7 +27,7 @@
 #ifndef	_MDB_CTF_H
 #define	_MDB_CTF_H
 
-#pragma ident	"@(#)mdb_ctf.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_target.h>
 #include <libctf.h>

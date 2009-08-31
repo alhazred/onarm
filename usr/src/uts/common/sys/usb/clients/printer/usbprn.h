@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_USBPRN_H
 #define	_SYS_USB_USBPRN_H
 
-#pragma ident	"@(#)usbprn.h	1.14	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

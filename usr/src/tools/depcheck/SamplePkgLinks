@@ -22,7 +22,7 @@
 # Copyright 2000 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)SamplePkgLinks	1.3	05/06/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 1 s none usr/openwin/lib/openwin-menu-demo=openwin-menu-demo-fulldemo
 1 s none usr/lib/libami.so.1=libami-global.so.1

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ldappr-threads.c	1.5	04/10/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

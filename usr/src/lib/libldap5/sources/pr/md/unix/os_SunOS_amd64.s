@@ -5,7 +5,7 @@
 
 / XX64 - fix me - this is a copy of the x86 version
 
-        .ident	"@(#)os_SunOS_amd64.s	1.1	04/09/28 SMI"
+        .ident	"%Z%%M%	%I%	%E% SMI"
 
 / -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 2 -*-
 / 

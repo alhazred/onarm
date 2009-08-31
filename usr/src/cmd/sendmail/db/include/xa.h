@@ -7,7 +7,7 @@
  *	@(#)xa.h	10.1 (Sleepycat) 6/22/98
  */
 
-#pragma ident	"@(#)xa.h	1.1	00/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Start of xa.h header

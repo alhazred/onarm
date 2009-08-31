@@ -26,7 +26,7 @@
 #ifndef	_BOOT_SERIAL_H
 #define	_BOOT_SERIAL_H
 
-#pragma ident	"@(#)boot_serial.h	1.6	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

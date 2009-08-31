@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)hmac-md5.h	1.1	03/07/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* hmac-md5.h -- HMAC_MD5 functions
  */

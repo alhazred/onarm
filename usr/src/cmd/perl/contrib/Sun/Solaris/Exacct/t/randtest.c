@@ -27,7 +27,7 @@
  * See README for details.
  */
 
-#pragma ident	"@(#)randtest.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Turn largefile support on. */
 #define	_FILE_OFFSET_BITS 64

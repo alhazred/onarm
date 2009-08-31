@@ -26,7 +26,7 @@
 #ifndef _SOFTKEYSTOREUTIL_H
 #define	_SOFTKEYSTOREUTIL_H
 
-#pragma ident	"@(#)softKeystoreUtil.h	1.3	06/05/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Structures and function prototypes for the keystore

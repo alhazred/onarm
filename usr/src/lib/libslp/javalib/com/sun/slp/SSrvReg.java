@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SSrvReg.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999, 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)SSrvReg.java	1.4	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SSrvReg.java:      Message class for SLP service registration request.
 //  Author:           James Kempf
 //  Created On:       Thu Oct  9 14:47:48 1997
@@ -47,7 +47,7 @@ import java.io.*;
  * default class does SLPv2 regs, but subclasses can do other versions
  * by redefining the initialize() and makeReply() messages.
  *
- * @version 1.4 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

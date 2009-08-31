@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Assert.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -28,7 +28,7 @@
  */
 
 //
-// Assert.java : Handles assertions in a central fashion.
+// %M% : Handles assertions in a central fashion.
 //
 //  Author:           Erik Guttman
 //
@@ -44,7 +44,7 @@ import java.text.*;
  * execution if the assertion fails.
  *
  * @author  Erik Guttman
- * @version @(#)Assert.java	1.4 06/08/05
+ * @version %W% %G%
  */
 
 class Assert {

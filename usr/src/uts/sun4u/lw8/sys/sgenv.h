@@ -27,7 +27,7 @@
 #ifndef _SYS_SGENV_H
 #define	_SYS_SGENV_H
 
-#pragma ident	"@(#)sgenv.h	1.5	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _FSCK_PCFS_H
 #define	_FSCK_PCFS_H
 
-#pragma ident	"@(#)fsck_pcfs.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Structures used by the pcfs file system checker.

@@ -31,7 +31,7 @@
 #ifndef _SYS_PR_IMPL_UTIL_H
 #define	_SYS_PR_IMPL_UTIL_H
 
-#pragma ident	"@(#)pr_impl_util.h	1.23	05/06/08 SMI"	/* SunOS 1.10 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS 1.10 */
 
 #ifdef	__cplusplus
 extern "C" {

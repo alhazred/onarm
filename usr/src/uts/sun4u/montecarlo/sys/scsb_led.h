@@ -34,7 +34,7 @@
 #ifndef	_SYS_SCSB_LED_H
 #define	_SYS_SCSB_LED_H
 
-#pragma ident	"@(#)scsb_led.h	1.5	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
  * Copyright (c) 1987 Sun Microsystems, Inc.
  */
 
-#ident	"@(#)alloca.s	1.13	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 	.file	"alloca.s"
 

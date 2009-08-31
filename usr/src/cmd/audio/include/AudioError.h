@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIOERROR_H
 #define	_MULTIMEDIA_AUDIOERROR_H
 
-#pragma ident	"@(#)AudioError.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <locale.h>
 #include <errno.h>

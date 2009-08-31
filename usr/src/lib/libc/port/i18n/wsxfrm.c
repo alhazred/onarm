@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)wsxfrm.c	1.20	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* This is Sun's propriatry implementation of wsxfrm() and wscoll()	*/
 /* using dynamic linking.  It is probably free from AT&T copyright.	*/

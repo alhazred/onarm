@@ -33,7 +33,7 @@
  * OF SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)sa2400reg.h	1.1	07/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SA2400REG_H_
 #define	_SA2400REG_H_

@@ -23,7 +23,7 @@
  * Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
- * #ident	"@(#)piclfrutree.info	1.16	05/06/08 SMI"
+ * #ident	"%Z%%M%	%I%	%E% SMI"
  *
  * supported prop types: void, int, uint, float, string
  * supported prop access_modes: r, w, rw
@@ -63,7 +63,7 @@
 #ifndef id
 #define	id(s)	#ident s
 #endif
-id("@(#)piclfrutree.info 1.16     05/06/08 SMI")
+id("%Z%%M% %I%     %E% SMI")
 
 /*
  * There are a lot of nodes below the rmclomv node, define a shortname

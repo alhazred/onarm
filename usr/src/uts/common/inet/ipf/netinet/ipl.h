@@ -10,7 +10,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ipl.h	1.4	06/07/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifndef	__IPL_H__

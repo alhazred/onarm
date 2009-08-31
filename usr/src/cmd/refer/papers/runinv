@@ -1,7 +1,7 @@
 #       Copyright(c) 1988, Sun Microsystems, Inc.
 #       All Rights Reserved
 
-#pragma ident	"@(#)runinv	1.3	98/06/26 SMI" 
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 
 
 
 /usr/lib/refer/mkey R* | /usr/lib/refer/inv -v -h997 -n Xind

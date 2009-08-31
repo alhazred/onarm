@@ -28,7 +28,7 @@
 #define	_BUSSTAT_H
 
 
-#pragma ident	"@(#)busstat.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * busstat works by reading and writing from/to kstat's which are

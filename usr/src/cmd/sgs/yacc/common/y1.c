@@ -26,7 +26,7 @@
 /* Copyright (c) 1988 AT&T */
 /* All Rights Reserved */
 
-#pragma ident	"@(#)y1.c	6.29	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "dextern.h"
 #include <sys/param.h>

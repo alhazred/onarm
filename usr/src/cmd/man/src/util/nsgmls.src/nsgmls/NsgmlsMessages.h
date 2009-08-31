@@ -1,5 +1,5 @@
 // This file was automatically generated from nsgmls\NsgmlsMessages.msg by msggen.pl.
-#pragma ident	"@(#)NsgmlsMessages.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include "Message.h"
 
 #ifdef SP_NAMESPACE

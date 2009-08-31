@@ -34,7 +34,7 @@
  * California.
  */
 
-#pragma ident	"@(#)yperr_string.c	1.9	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <rpcsvc/ypclnt.h>

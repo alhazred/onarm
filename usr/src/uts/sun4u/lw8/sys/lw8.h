@@ -27,7 +27,7 @@
 #ifndef _SYS_LW8_H
 #define	_SYS_LW8_H
 
-#pragma ident	"@(#)lw8.h	1.2	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

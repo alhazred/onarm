@@ -30,7 +30,7 @@
 #ifndef	_EFT_FME_H
 #define	_EFT_FME_H
 
-#pragma ident	"@(#)fme.h	1.11	07/07/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/fmd_api.h>
 

@@ -27,7 +27,7 @@
  * functions.
  */
 
-#pragma ident	"@(#)Ucred.xs	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Solaris includes. */
 #include <ucred.h>

@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Solaris_ProcessStatistics.java	1.5	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2001-2002 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
@@ -43,7 +43,7 @@ import java.util.Vector;
  * Solaris_ProcessStatisticalInformation instance a raw resource utilization
  * measurements for a process.
  * @author Sun Microsystems, Inc.
- * @version 1.5 06/08/05
+ * @version %I% %G%
  */
 public class Solaris_ProcessStatistics extends SRMProvider {
 

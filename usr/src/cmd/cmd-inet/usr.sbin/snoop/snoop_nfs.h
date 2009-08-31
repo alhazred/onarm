@@ -27,7 +27,7 @@
 #ifndef _SNOOP_NFS_H
 #define	_SNOOP_NFS_H
 
-#pragma ident	"@(#)snoop_nfs.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Definitions that are shared among the NFS-related interpreters.

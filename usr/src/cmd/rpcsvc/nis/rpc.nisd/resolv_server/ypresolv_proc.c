@@ -29,7 +29,7 @@
  *
  */
 
-#pragma ident	"@(#)ypresolv_proc.c	1.15	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* ******************** include headers ****************************** */
 #include <netdb.h>

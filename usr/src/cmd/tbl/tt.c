@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
      
-#pragma ident	"@(#)tt.c	1.4	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /* tt.c: subroutines for drawing horizontal lines */
 # include "t..c"

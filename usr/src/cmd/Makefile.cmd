@@ -27,7 +27,7 @@
 # Copyright (c) 2007-2009 NEC Corporation
 #
 
-# ident	"@(#)Makefile.cmd	1.92	08/02/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Definitions common to command source.
 #

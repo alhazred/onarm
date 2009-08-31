@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fstatat.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(_LP64) && _FILE_OFFSET_BITS == 64
 #pragma weak fstatat64 = _fstatat64

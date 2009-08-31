@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)fcntl.c	1.38	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* ONC_PLUS EXTRACT END */
 
 #include <sys/param.h>

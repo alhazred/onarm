@@ -33,7 +33,7 @@
 #ifndef _SYS_ELF_H
 #define	_SYS_ELF_H
 
-#pragma ident	"@(#)elf.h	1.69	07/10/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/elftypes.h>
 

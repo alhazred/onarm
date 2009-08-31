@@ -28,7 +28,7 @@
 /*        All Rights Reserved   */
 
 
-#pragma ident	"@(#)getdev.c	1.9	05/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  getdev.c

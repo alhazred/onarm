@@ -33,7 +33,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)sgen.c	1.19	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sgen - SCSI generic device driver
@@ -198,7 +198,7 @@ static struct dev_ops sgen_dev_ops = {
 static void *sgen_soft_state = NULL;
 
 static struct modldrv modldrv = {
-	&mod_driverops, "SCSI generic driver 1.19", &sgen_dev_ops
+	&mod_driverops, "SCSI generic driver %I%", &sgen_dev_ops
 };
 
 static struct modlinkage modlinkage = {

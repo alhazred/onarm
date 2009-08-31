@@ -26,7 +26,7 @@
 #ifndef	_FMD_MSG_H
 #define	_FMD_MSG_H
 
-#pragma ident	"@(#)fmd_msg.h	1.1	07/02/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

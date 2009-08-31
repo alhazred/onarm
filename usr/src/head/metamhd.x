@@ -23,7 +23,7 @@
 % * CDDL HEADER END
 % */
 %
-%#pragma ident	"@(#)metamhd.x	2.2	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 
 /* pick up multihost ioctl definitions */

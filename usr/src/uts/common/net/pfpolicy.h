@@ -26,7 +26,7 @@
 #ifndef	_NET_PFPOLICY_H
 #define	_NET_PFPOLICY_H
 
-#pragma ident	"@(#)pfpolicy.h	1.9	06/11/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Definitions and structures for PF_POLICY version 1.

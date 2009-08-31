@@ -26,7 +26,7 @@
 #ifndef	_TOPO_ERROR_H
 #define	_TOPO_ERROR_H
 
-#pragma ident	"@(#)topo_error.h	1.8	07/09/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <topo_tree.h>
 #include <topo_module.h>

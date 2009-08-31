@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)tar.xcl	1.4	07/06/18 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 msgid ""
 msgid " %-12.12s %-4.4s "

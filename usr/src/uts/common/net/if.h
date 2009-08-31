@@ -12,7 +12,7 @@
 #ifndef	_NET_IF_H
 #define	_NET_IF_H
 
-#pragma ident	"@(#)if.h	1.43	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* if.h 1.26 90/05/29 SMI; from UCB 7.1 6/4/86		*/
 
 #include <sys/feature_tests.h>

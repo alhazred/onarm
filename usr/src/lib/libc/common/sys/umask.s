@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)umask.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"umask.s"
+	.file	"%M%"
 
 /* C library -- umask						*/
 /* mode_t umask (mode_t cmask);					*/

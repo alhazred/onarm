@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)getpwinfo.c	1.6	05/06/08 SMI"	/* from SVR4 bnu:getpwinfo.c 2.8 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:getpwinfo.c 2.8 */
 
 #include "uucp.h"
 

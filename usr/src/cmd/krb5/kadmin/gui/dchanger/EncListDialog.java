@@ -2,7 +2,7 @@
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
- * ident	"@(#)EncListDialog.java	1.1	05/06/24 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  */
 
 import java.awt.*;

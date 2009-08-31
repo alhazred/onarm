@@ -31,7 +31,7 @@
  * of the copyright holder.
  */
 
-#pragma ident	"@(#)stringrp.h	1.1	04/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * StringGroup objects provide memory for modules that need to

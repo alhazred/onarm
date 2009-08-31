@@ -40,7 +40,7 @@
  * Such things are indicative of typing errors, not intentional configuration.
  */
 
-#pragma ident	"@(#)tsol_sgetzcent.c	1.2	07/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <ctype.h>
 #include <stdlib.h>

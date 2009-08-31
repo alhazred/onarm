@@ -33,10 +33,10 @@ SM_UNUSED(static char copyright[]) =
 @(#) Use is subject to license terms.\n";
 #endif /* ! lint */
 
-#pragma ident	"@(#)main.c	1.103	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 SM_RCSID("@(#)$Id: main.c,v 8.963 2007/06/29 20:07:37 ca Exp $")
-SM_IDSTR(i2, "@(#)main.c	1.103 (Sun) 11/02/07")
+SM_IDSTR(i2, "%W% (Sun) %G%")
 
 #if NETINET || NETINET6
 # include <arpa/inet.h>

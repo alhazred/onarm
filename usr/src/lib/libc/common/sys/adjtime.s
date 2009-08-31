@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)adjtime.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"adjtime.s"
+	.file	"%M%"
 
 /* C Library -- adjtime						*/
 /* int adjtime(struct timeval *delta, struct timeval *olddelta)	*/

@@ -8,7 +8,7 @@
  *
  */
 
-#pragma ident	"@(#)getref.c	1.5	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

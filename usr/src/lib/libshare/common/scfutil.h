@@ -31,7 +31,7 @@
 #ifndef _SCFUTIL_H
 #define	_SCFUTIL_H
 
-#pragma ident	"@(#)scfutil.h	1.3	07/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

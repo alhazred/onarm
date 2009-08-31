@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#ident	"@(#)bdev_dsort.c	2.20	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 /* from ufs_dsort.c	2.12	89/07/24 SMI"	*/
 /*
  * Seek sort for disks.  We depend on the driver

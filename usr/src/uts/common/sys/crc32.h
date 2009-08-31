@@ -27,7 +27,7 @@
 #ifndef _SYS_CRC32_H
 #define	_SYS_CRC32_H
 
-#pragma ident	"@(#)crc32.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * CRC32, the 32-bit Cyclic Redundancy Check, is a well-known way to

@@ -27,7 +27,7 @@
 #ifndef _SYS_RSM_RSM_H
 #define	_SYS_RSM_RSM_H
 
-#pragma ident	"@(#)rsm.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

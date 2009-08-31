@@ -27,7 +27,7 @@
  * All rights reserved.
  */
 
-#ident	"@(#)mailst.c	1.10	05/06/08 SMI"	/* from SVR4 bnu:mailst.c 2.7 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:mailst.c 2.7 */
 
 #include "uucp.h"
 

@@ -1,6 +1,6 @@
 /*	from UCB 7.3 12/30/87 */
 
-#pragma ident	"@(#)socketvar.h	1.2	00/05/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1982, 1986 Regents of the University of California.

@@ -26,7 +26,7 @@
 #ifndef	_VM_VPM_H
 #define	_VM_VPM_H
 
-#pragma ident	"@(#)vpm.h	1.1	06/04/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

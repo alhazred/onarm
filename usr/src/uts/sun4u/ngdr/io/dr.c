@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dr.c	1.28	07/01/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * PIM-DR layer of DR driver.  Provides interface between user
@@ -423,7 +423,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"Dynamic Reconfiguration 1.28",
+	"Dynamic Reconfiguration %I%",
 	&dr_dev_ops
 };
 

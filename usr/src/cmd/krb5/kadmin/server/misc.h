@@ -6,7 +6,7 @@
 #ifndef _MISC_H
 #define	_MISC_H
 
-#pragma ident	"@(#)misc.h	1.2	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

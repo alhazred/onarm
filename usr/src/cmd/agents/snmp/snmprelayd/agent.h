@@ -31,7 +31,7 @@
 #ifndef _AGENT_H_
 #define _AGENT_H_
 
-#pragma ident	"@(#)agent.h	1.10	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "snmpdx_stub.h"
 

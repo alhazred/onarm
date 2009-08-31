@@ -30,7 +30,7 @@
 #ifndef _IA32_SYS_TRAP_H
 #define	_IA32_SYS_TRAP_H
 
-#pragma ident	"@(#)trap.h	1.13	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _SYS_SYSIOSBUS_H
 #define	_SYS_SYSIOSBUS_H
 
-#pragma ident	"@(#)sysiosbus.h	1.76	05/11/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM
 #include <sys/avintr.h>

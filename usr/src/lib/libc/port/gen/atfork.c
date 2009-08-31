@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)atfork.c	1.6	07/08/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "thr_uberdata.h"
 #include "mtlib.h"

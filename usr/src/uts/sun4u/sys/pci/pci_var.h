@@ -26,7 +26,7 @@
 #ifndef _SYS_PCI_VAR_H
 #define	_SYS_PCI_VAR_H
 
-#pragma ident	"@(#)pci_var.h	1.76	06/04/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

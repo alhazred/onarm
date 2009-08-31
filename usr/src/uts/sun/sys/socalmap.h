@@ -26,7 +26,7 @@
 #ifndef _SYS_SOCALMAP_H
 #define	_SYS_SOCALMAP_H
 
-#pragma ident	"@(#)socalmap.h	1.4	05/10/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

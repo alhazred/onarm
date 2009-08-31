@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)strfind.c	1.13	06/01/04 SMI" /* SVr4.0 1.1.2.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* SVr4.0 1.1.2.2 */
 
 /*LINTLIBRARY*/
 

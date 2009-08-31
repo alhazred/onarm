@@ -27,7 +27,7 @@
 #ifndef	_SGCN_H
 #define	_SGCN_H
 
-#pragma ident	"@(#)sgcn.h	1.5	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

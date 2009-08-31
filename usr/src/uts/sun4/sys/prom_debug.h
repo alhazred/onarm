@@ -27,7 +27,7 @@
 #ifndef	_SYS_PROM_DEBUG_H
 #define	_SYS_PROM_DEBUG_H
 
-#pragma ident	"@(#)prom_debug.h	1.13	05/11/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/promif.h>
 

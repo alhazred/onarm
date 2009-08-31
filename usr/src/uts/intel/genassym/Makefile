@@ -28,7 +28,7 @@
 #
 
 #
-# ident	"@(#)Makefile	1.1	06/09/11 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of genassym.h through
 #	compile time intialized data.

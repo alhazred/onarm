@@ -26,7 +26,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)crontab.c	1.40	07/06/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stat.h>

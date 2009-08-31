@@ -27,7 +27,7 @@
 #ifndef _SYS_MD_TRANS_H
 #define	_SYS_MD_TRANS_H
 
-#pragma ident	"@(#)md_trans.h	2.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/lvm/mdvar.h>
 #include <sys/buf.h>

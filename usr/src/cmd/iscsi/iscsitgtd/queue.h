@@ -27,7 +27,7 @@
 #ifndef _TARGET_QUEUE_H
 #define	_TARGET_QUEUE_H
 
-#pragma ident	"@(#)queue.h	1.9	07/08/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

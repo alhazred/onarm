@@ -26,7 +26,7 @@
 #ifndef	_SYS_CRYPTO_IMPL_H
 #define	_SYS_CRYPTO_IMPL_H
 
-#pragma ident	"@(#)impl.h	1.30	07/06/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Kernel Cryptographic Framework private implementation definitions.

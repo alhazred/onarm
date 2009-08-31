@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)auth_sys.c	1.30	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * auth_sys.c, Implements UNIX (system) style authentication parameters.

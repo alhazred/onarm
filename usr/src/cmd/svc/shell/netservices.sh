@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 
-# ident	"@(#)netservices.sh	1.5	07/03/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 DT_CHANGED=0
 

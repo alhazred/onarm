@@ -1,5 +1,5 @@
 // This file was automatically generated from nsgmls\RastEventHandlerMessages.msg by msggen.pl.
-#pragma ident	"@(#)RastEventHandlerMessages.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include "Message.h"
 
 #ifdef SP_NAMESPACE

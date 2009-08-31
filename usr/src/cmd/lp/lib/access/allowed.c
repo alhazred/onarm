@@ -22,7 +22,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)allowed.c	1.6	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 2006 Sun Microsystems, Inc.  All rights reserved.

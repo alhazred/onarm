@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 	
-#pragma ident	"@(#)cpr_wakecode.s	1.2	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 #include <sys/asm_misc.h>

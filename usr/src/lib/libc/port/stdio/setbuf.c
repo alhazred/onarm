@@ -27,7 +27,7 @@
 /*	Copyright (c) 1988 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)setbuf.c	1.19	06/04/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include "synonyms.h"

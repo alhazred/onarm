@@ -24,7 +24,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)req.flg	1.5	05/12/31 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 echo_file usr/src/lib/Makefile.lib
 echo_file usr/src/stand/lib/Makefile.com

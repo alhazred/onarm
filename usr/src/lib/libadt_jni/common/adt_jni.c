@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  *
  */
-#pragma ident	"@(#)adt_jni.c	1.5	06/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <bsm/adt.h>
 #include "adt_jni.h"

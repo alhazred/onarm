@@ -27,7 +27,7 @@
 #ifndef	_SCAT_PA_SPACE_H
 #define	_SCAT_PA_SPACE_H
 
-#pragma ident	"@(#)scat_pa_space.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains definitions related to the Starcat

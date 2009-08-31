@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)atomic_asm_weak.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 ANSI_PRAGMA_WEAK(atomic_inc_8,function)
 ANSI_PRAGMA_WEAK(atomic_inc_uchar,function)

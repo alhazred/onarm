@@ -6,7 +6,7 @@
 # All rights reserved. The Berkeley software License Agreement
 # specifies the terms and conditions for redistribution.
 #
-# ident	"@(#)Makefile	1.13	06/04/18 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # make file for tip device drivers
 #

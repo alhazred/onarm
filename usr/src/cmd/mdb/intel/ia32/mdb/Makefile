@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.10	07/09/18 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 SRCS =	kvm_ia32dep.c \
 	kvm_isadep.c \

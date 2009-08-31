@@ -27,7 +27,7 @@
 #ifndef _IPP_IPGPC_FILTERS_H
 #define	_IPP_IPGPC_FILTERS_H
 
-#pragma ident	"@(#)filters.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <ipp/ipgpc/classifier-objects.h>
 

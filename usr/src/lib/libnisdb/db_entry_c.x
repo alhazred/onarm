@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-%#pragma ident	"@(#)db_entry_c.x	1.9	05/10/11 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Some manifest constants, chosen to maximize flexibility without

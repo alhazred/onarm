@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)arpadate.c	1.25	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 

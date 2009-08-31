@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)Makefile	1.5	06/11/02 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # uts/intel/ipp/Makefile
 #

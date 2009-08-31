@@ -27,7 +27,7 @@
 #ifndef	_ERRORQ_IMPL_H
 #define	_ERRORQ_IMPL_H
 
-#pragma ident	"@(#)errorq_impl.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errorq.h>
 #include <sys/dditypes.h>

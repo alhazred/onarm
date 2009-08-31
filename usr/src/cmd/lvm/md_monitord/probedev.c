@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)probedev.c	2.13	05/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "md_monitord.h"
 

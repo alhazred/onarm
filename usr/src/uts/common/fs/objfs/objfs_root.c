@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)objfs_root.c	1.7	07/12/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <fs/fs_subr.h>

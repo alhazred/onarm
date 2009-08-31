@@ -27,7 +27,7 @@
 #ifndef _CLASS_CACHE_H
 #define	_CLASS_CACHE_H
 
-#pragma ident	"@(#)class_cache.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <jni.h>
 

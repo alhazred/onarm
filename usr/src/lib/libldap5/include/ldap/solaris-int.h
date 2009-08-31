@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)solaris-int.h	1.5	03/09/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SOLARISINT_H
 #define _SOLARISINT_H

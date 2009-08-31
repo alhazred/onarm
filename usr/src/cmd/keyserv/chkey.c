@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)chkey.c	1.35	06/04/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <assert.h>
 #include <stdio.h>

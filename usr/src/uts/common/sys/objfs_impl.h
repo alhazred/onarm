@@ -26,7 +26,7 @@
 #ifndef	_OBJFS_IMPL_H
 #define	_OBJFS_IMPL_H
 
-#pragma ident	"@(#)objfs_impl.h	1.4	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/modctl.h>
 #include <sys/vfs.h>

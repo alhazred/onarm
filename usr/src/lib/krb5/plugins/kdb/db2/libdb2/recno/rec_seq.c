@@ -1,4 +1,4 @@
-#pragma ident	"@(#)rec_seq.c	1.2	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*-
  * Copyright (c) 1991, 1993, 1994

@@ -29,7 +29,7 @@
  * of the copyright holder.
  */
 
-#pragma ident	"@(#)freelist.c	1.1	04/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

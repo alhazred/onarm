@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)svc-power	1.15	08/01/21 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # If the /etc/power.conf file does not have a "statefile" entry
 # to specify the pathname of the cpr statefile, build one and

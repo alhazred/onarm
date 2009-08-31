@@ -27,7 +27,7 @@
 #ifndef	_SYS_TIMER_H
 #define	_SYS_TIMER_H
 
-#pragma ident	"@(#)timer.h	1.26	07/04/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/proc.h>

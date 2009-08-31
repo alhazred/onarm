@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIOEXTENT_H
 #define	_MULTIMEDIA_AUDIOEXTENT_H
 
-#pragma ident	"@(#)AudioExtent.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <values.h>
 #include <Audio.h>

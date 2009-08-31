@@ -26,7 +26,7 @@
 #ifndef	_SYS_DEVINFO_IMPL_H
 #define	_SYS_DEVINFO_IMPL_H
 
-#pragma ident	"@(#)devinfo_impl.h	1.24	07/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file is separate from libdevinfo.h because the devinfo driver

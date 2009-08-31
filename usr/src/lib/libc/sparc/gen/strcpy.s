@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)strcpy.s	1.11	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"strcpy.s"
+	.file	"%M%"
 
 /*
  * strcpy(s1, s2)

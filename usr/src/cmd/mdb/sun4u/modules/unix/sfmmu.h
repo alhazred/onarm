@@ -27,7 +27,7 @@
 #ifndef	_SFMMU_H
 #define	_SFMMU_H
 
-#pragma ident	"@(#)sfmmu.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

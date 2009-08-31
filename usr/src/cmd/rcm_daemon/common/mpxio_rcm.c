@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mpxio_rcm.c	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * RCM module supporting multiplexed I/O controllers (MPxIO).
@@ -152,7 +152,7 @@ rcm_mod_info()
 {
 	rcm_log_message(RCM_TRACE1, "MPXIO: rcm_mod_info()\n");
 
-	return (gettext("RCM MPxIO module 1.5"));
+	return (gettext("RCM MPxIO module %I%"));
 }
 
 /*

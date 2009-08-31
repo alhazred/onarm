@@ -27,7 +27,7 @@
 #ifndef	_RDPROT_H
 #define	_RDPROT_H
 
-#pragma ident	"@(#)rdprot.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

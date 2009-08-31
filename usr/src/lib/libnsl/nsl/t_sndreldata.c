@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)t_sndreldata.c	1.5	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * t_sndrel.c and t_sndreldata.c are very similar and contain common code.

@@ -27,7 +27,7 @@
 #ifndef	_PCIEX_PCIE_ERROR_H
 #define	_PCIEX_PCIE_ERROR_H
 
-#pragma ident	"@(#)pcie_error.h	1.5	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

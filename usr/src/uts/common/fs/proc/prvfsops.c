@@ -30,7 +30,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)prvfsops.c	1.61	07/05/23 SMI"	/* SVr4.0 1.25  */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.25  */
 
 #include <sys/types.h>
 #include <sys/param.h>

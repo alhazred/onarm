@@ -28,7 +28,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)allocate3.c	1.23	07/06/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <auth_attr.h>
 #include <auth_list.h>

@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gmatch.c	1.12	06/01/04 SMI"	/* SVr4.0 1.1.5.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1.5.2 */
 
 /*LINTLIBRARY*/
 

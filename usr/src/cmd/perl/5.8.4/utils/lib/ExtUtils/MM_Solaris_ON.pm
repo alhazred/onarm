@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)MM_Solaris_ON.pm	1.3	06/10/25 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #
@@ -45,7 +45,7 @@ package ExtUtils::MM_Solaris_ON;
 use strict;
 use warnings;
 our ($VERSION, @ISA);
-$VERSION = '1.3';
+$VERSION = '%I%';
 require ExtUtils::MM_Any;
 require ExtUtils::MM_Unix;
 @ISA = qw(ExtUtils::MM_Any ExtUtils::MM_Unix);

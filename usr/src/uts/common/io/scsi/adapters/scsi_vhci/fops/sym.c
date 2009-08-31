@@ -22,7 +22,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)sym.c	1.13	07/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Implementation of "scsi_vhci_f_sym" symmetric failover_ops.
@@ -69,7 +69,7 @@ char *symmetric_dev_table[] = {
 };
 
 /* Failover module plumbing. */
-SCSI_FAILOVER_OP(SFO_NAME_SYM, symmetric, "1.13");
+SCSI_FAILOVER_OP(SFO_NAME_SYM, symmetric, "%I%");
 
 /* ARGSUSED */
 static int

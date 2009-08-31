@@ -31,7 +31,7 @@
 /*	Copyright (c) 1988, 1989 Intel Corp.			*/
 /*	All Rights Reserved	*/
 
-#pragma ident	"@(#)i8237A.c	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Set features for each architecture.  List of features:

@@ -19,12 +19,12 @@
 \ CDDL HEADER END
 \
 \
-\ ident	"@(#)boot.fth	1.2	07/12/19 SMI"
+\ ident	"%Z%%M%	%I%	%E% SMI"
 \ Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 \ Use is subject to license terms.
 \
 
-id: @(#)boot.fth	1.2	07/12/19 SMI
+id: %Z%%M%	%I%	%E% SMI
 purpose: boot block for OBP systems
 copyright: Copyright 2007 Sun Microsystems, Inc. All Rights Reserved
 

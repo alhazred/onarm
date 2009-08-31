@@ -12,7 +12,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: auth-options.c,v 1.26 2002/07/30 17:03:55 markus Exp $");
 
-#pragma ident	"@(#)auth-options.c	1.5	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "xmalloc.h"
 #include "match.h"

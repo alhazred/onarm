@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.com	1.30	07/01/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 include $(SRCDIR)/../Makefile.cmd
 include $(SRCDIR)/../../Makefile.psm

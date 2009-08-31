@@ -26,7 +26,7 @@
 
 
 %{#
-# ident	"@(#)e.y	1.6	05/06/10 SMI"	/* "@(#)ucbeqn:e.y 1.1" */
+# ident	"%Z%%M%	%I%	%E% SMI"	/* "@(#)ucbeqn:e.y 1.1" */
 #include "e.h"
 #include <locale.h>
 #

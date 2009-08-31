@@ -30,7 +30,7 @@
 #ifndef _MALLINT_H
 #define	_MALLINT_H
 
-#pragma ident	"@(#)mallint.h	1.13	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*	From:	SVr4.0	libmalloc:mallint.h	1.3		*/
 

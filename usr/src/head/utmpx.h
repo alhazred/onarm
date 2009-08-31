@@ -35,7 +35,7 @@
 #ifndef _UTMPX_H
 #define	_UTMPX_H
 
-#pragma ident	"@(#)utmpx.h	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

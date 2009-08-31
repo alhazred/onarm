@@ -35,7 +35,7 @@
 #include <getopt.h>
 #include "cmdparse.h"
 
-#pragma ident	"@(#)cmdparse.c	1.1	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /* Usage types */

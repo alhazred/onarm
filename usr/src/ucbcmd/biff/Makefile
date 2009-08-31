@@ -20,7 +20,7 @@
 # CDDL HEADER END
 #
 #
-#ident	"@(#)Makefile	1.5	05/06/08 SMI"        /* SVr4.0
+#ident	"%Z%%M%	%I%	%E% SMI"        /* SVr4.0
 #
 
 PROG= biff

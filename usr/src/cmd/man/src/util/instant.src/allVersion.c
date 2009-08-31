@@ -1,5 +1,5 @@
 /* version summary file created by makeVersionFile on Mon Jun 29  0:14:15 1998 */
-#pragma ident	"@(#)allVersion.c	1.3	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 char _HeadVeRsIoN_[] = "$Id: general.h 1.6 1997/08/26 04:04:40;
 translate.h 1.5 1998/06/29 04:13:40;
 main.c 1.12 1998/06/28 20:10:39;

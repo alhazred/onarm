@@ -34,7 +34,7 @@
  * This is very simple implementation of RAP protocol.
  */
 
-#pragma ident	"@(#)rap.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/errno.h>

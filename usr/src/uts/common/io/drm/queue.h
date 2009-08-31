@@ -34,7 +34,7 @@
 #ifndef _SYS_QUEUE_H_
 #define	_SYS_QUEUE_H_
 
-#pragma ident	"@(#)queue.h	1.1	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines four types of data structures: singly-linked lists,

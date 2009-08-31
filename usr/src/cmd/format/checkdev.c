@@ -24,7 +24,7 @@
  */
 
 
-#pragma ident	"@(#)checkdev.c	1.18	06/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains miscellaneous device validation routines.

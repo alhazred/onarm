@@ -46,4 +46,4 @@ mount_smbfs		cmd/fs.d/smbclnt/mount
 smbutil			cmd/fs.d/smbclnt/smbutil
 idl_compiler		cmd/idlgen
 
-[ ident	"@(#)README	1.1	08/02/13 SMI" ]
+[ ident	"%Z%%M%	%I%	%E% SMI" ]

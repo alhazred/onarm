@@ -25,7 +25,7 @@
 #
 # usr/src/lib/pam_modules/sample/sparcv9/Makefile
 #
-#ident	"@(#)Makefile	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 include ../Makefile.com
 include ../../../Makefile.lib.64

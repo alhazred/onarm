@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rootnex.c	1.144	07/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * x86 root nexus driver
@@ -257,7 +257,7 @@ static struct dev_ops rootnex_ops = {
 
 static struct modldrv rootnex_modldrv = {
 	&mod_driverops,
-	"i86pc root nexus 1.144",
+	"i86pc root nexus %I%",
 	&rootnex_ops
 };
 

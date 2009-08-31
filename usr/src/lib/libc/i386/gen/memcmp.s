@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)memcmp.s	1.10	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"memcmp.s"
+	.file	"%M%"
 
 /
 / memcmp(s1, s2, n)

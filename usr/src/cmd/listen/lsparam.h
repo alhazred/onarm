@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)lsparam.h	1.5	05/06/08 SMI"	/* SVr4.0 1.11.2.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.11.2.1	*/
 
 /*
  * lsparam.h:	listener parameters.  Includes default pathnames.

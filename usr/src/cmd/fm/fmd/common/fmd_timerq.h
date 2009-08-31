@@ -27,7 +27,7 @@
 #ifndef	_FMD_TIMERQ_H
 #define	_FMD_TIMERQ_H
 
-#pragma ident	"@(#)fmd_timerq.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pthread.h>
 #include <time.h>

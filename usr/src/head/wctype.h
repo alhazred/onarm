@@ -31,7 +31,7 @@
 #ifndef	_WCTYPE_H
 #define	_WCTYPE_H
 
-#pragma ident	"@(#)wctype.h	1.20	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <iso/wctype_iso.h>
 #if !defined(__XOPEN_OR_POSIX) && !defined(_STRICT_STDC) || \

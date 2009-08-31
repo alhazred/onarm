@@ -26,7 +26,7 @@
 #ifndef	_VM_HAT_I86_H
 #define	_VM_HAT_I86_H
 
-#pragma ident	"@(#)hat_i86.h	1.70	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

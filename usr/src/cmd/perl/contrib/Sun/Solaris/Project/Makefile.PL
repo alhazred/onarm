@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.PL	1.6	07/02/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Makefile.PL for ::Project
 #

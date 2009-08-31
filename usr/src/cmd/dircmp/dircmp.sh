@@ -26,7 +26,7 @@
 #
 #	Copyright (c) 1996-2000 by Sun Microsystems, Inc.
 #	All rights reserved.
-#ident	"@(#)dircmp.sh	1.21	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 PATH=/usr/bin
 USAGE="usage: dircmp [-d] [-s] [-wn] dir1 dir2"
 trap "rm -f /usr/tmp/dc$$*;exit" 1 2 3 15

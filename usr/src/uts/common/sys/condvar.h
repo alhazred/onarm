@@ -35,7 +35,7 @@
 #ifndef _SYS_CONDVAR_H
 #define	_SYS_CONDVAR_H
 
-#pragma ident	"@(#)condvar.h	1.17	07/04/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_ASM
 #include <sys/types.h>

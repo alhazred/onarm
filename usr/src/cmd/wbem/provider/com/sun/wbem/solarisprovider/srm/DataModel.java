@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)DataModel.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -39,7 +39,7 @@ import java.util.Iterator;
  * Aggregation of all users, projects, and sets metrics data.
  * Implements the singleton pattern
  * @author Sun Microsystems, Inc.
- * @version 1.3 06/08/05
+ * @version %I% %G%
  */
 class DataModel {
 

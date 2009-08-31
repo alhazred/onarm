@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)cs_strncmp.c	1.5	05/06/08 SMI"	/* SVr4.0 1.5	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5	*/
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "ctype.h"

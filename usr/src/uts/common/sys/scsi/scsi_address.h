@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCSI_SCSI_ADDRESS_H
 #define	_SYS_SCSI_SCSI_ADDRESS_H
 
-#pragma ident	"@(#)scsi_address.h	1.19	05/07/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/scsi/scsi_types.h>
 

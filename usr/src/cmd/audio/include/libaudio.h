@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_LIBAUDIO_H
 #define	_MULTIMEDIA_LIBAUDIO_H
 
-#pragma ident	"@(#)libaudio.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <audio_types.h>
 #include <audio_hdr.h>

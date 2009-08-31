@@ -31,7 +31,7 @@
 #ifndef _DAT_VENDOR_SPECIFIC_H_
 #define	_DAT_VENDOR_SPECIFIC_H_
 
-#pragma ident	"@(#)dat_vendor_specific.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

@@ -27,7 +27,7 @@
 #ifndef	_SYS_AUDIOVAR_H
 #define	_SYS_AUDIOVAR_H
 
-#pragma ident	"@(#)audiovar.h	1.35	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The audio driver is divided into generic (device-independent) and

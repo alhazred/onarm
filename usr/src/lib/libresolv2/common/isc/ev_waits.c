@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)ev_waits.c	1.5	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* ev_waits.c - implement deferred function calls for the eventlib
  * vix 05dec95 [initial]

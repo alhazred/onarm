@@ -20,7 +20,7 @@
 # CDDL HEADER END
 #
 #
-# ident	"@(#)inetd-upgrade.sh	1.6	07/05/24 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.

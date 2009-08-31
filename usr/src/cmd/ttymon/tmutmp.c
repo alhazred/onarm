@@ -40,7 +40,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)tmutmp.c	1.19	07/09/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<unistd.h>
 #include	<stdlib.h>

@@ -26,7 +26,7 @@
 #ifndef _KBTRANS_STREAMS_H
 #define	_KBTRANS_STREAMS_H
 
-#pragma ident	"@(#)kbtrans_streams.h	1.13	07/01/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

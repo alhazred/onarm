@@ -23,7 +23,7 @@
 #ifndef _FSYS_ZFS_H
 #define	_FSYS_ZFS_H
 
-#pragma ident	"@(#)fsys_zfs.h	1.4	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	FSYS_ZFS
 

@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)__getcontext.s	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"__getcontext.s"
+	.file	"%M%"
 
 /*
  * __getcontext() must be implemented in assembler, as opposed

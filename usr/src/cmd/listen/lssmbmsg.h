@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)lssmbmsg.h	1.4	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 /*
  * lssmbmsg.h:	The listener checks that a message is an SMB

@@ -96,7 +96,7 @@
  * $Id: ipv6cp.c,v 1.9 2000/04/15 01:27:11 masputra Exp $ 
  */
 
-#pragma ident	"@(#)ipv6cp.c	1.5	04/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define RCSID	"$Id: ipv6cp.c,v 1.9 2000/04/15 01:27:11 masputra Exp $"
 
 /*

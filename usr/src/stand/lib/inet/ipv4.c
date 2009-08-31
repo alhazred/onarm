@@ -25,7 +25,7 @@
  * ipv4.c, Code implementing the IPv4 internet protocol.
  */
 
-#pragma ident	"@(#)ipv4.c	1.10	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <socket_impl.h>

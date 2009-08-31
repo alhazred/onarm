@@ -35,7 +35,7 @@
 #ifndef _ADT_JNI_H
 #define	_ADT_JNI_H
 
-#pragma ident	"@(#)adt_jni.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <jni.h>
 #include <libintl.h>

@@ -26,7 +26,7 @@
 #ifndef _KAIF_H
 #define	_KAIF_H
 
-#pragma ident	"@(#)kaif.h	1.9	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	sun4v
 #include <sys/spitregs.h>

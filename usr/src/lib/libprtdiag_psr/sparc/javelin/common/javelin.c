@@ -30,7 +30,7 @@
  *
  */
 
-#pragma ident	"@(#)javelin.c	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

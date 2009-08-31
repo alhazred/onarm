@@ -39,7 +39,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)pr.c	1.33	05/12/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	PR command (print files in pages and columns, with headings)

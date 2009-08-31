@@ -27,7 +27,7 @@
 #ifndef _SYS_SC_GPTWOCFG_H
 #define	_SYS_SC_GPTWOCFG_H
 
-#pragma ident	"@(#)sc_gptwocfg.h	1.2	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

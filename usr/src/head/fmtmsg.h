@@ -31,7 +31,7 @@
 #ifndef	_FMTMSG_H
 #define	_FMTMSG_H
 
-#pragma ident	"@(#)fmtmsg.h	1.13	05/06/08 SMI"	/* SVr4.0 1.3	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 
 #include <sys/feature_tests.h>
 

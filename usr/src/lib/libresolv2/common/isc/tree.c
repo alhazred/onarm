@@ -43,7 +43,7 @@ static const char rcsid[] = "$Id: tree.c,v 8.10 2001/11/01 05:33:46 marka Exp $"
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)tree.c	1.4	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*#define		DEBUG	"tree"*/
 

@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)vm_rm.c	1.48	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/t_lock.h>

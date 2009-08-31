@@ -27,7 +27,7 @@
 #ifndef	_THREAD_POOL_H_
 #define	_THREAD_POOL_H_
 
-#pragma ident	"@(#)thread_pool.h	1.1	06/04/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <thread.h>

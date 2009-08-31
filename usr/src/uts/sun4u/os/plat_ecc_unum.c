@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)plat_ecc_unum.c	1.17	06/09/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/plat_ecc_unum.h>
 #include <sys/utsname.h>

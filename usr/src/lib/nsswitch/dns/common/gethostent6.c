@@ -31,7 +31,7 @@
  *	gethostent6.c
  */
 
-#pragma ident	"@(#)gethostent6.c	1.9	07/10/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the DNS backend for IPv6 addresses.

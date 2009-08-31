@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)access.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"access.s"
+	.file	"%M%"
 
 /* C library -- access						*/
 /* int access(char *path, int amode)				*/

@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)winlockio.c	1.52	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the lock device driver.
@@ -1674,7 +1674,7 @@ seglock_dump_all(void)
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"Winlock Driver v1.52",	/* Name of the module */
+	"Winlock Driver v%I%",	/* Name of the module */
 	&winlock_ops,		/* driver ops */
 };
 

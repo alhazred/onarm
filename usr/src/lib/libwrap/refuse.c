@@ -2,7 +2,7 @@
  * Copyright 2001 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)refuse.c	1.2	05/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /*
   * refuse() reports a refused connection, and takes the consequences: in

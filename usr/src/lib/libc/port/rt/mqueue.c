@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mqueue.c	1.41	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak mq_open = _mq_open
 #pragma weak mq_close = _mq_close

@@ -27,7 +27,7 @@
 #ifndef _FEATURE_H
 #define	_FEATURE_H
 
-#pragma ident	"@(#)iscsi_ffp.h	1.1	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include "iscsi_conn.h"

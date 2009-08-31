@@ -8,7 +8,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getsumd.c	1.2	06/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ipf.h"
 

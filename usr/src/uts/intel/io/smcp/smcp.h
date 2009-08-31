@@ -27,7 +27,7 @@
 #ifndef	_SMCP_H
 #define	_SMCP_H
 
-#pragma ident	"@(#)smcp.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Driver declarations for the SMC Generic UMAC	driver

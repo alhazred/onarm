@@ -26,7 +26,7 @@
 #ifndef _LIBDLLINK_H
 #define	_LIBDLLINK_H
 
-#pragma ident	"@(#)libdllink.h	1.4	08/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file includes structures, macros and routines used by general

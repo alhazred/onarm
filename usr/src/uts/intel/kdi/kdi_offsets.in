@@ -21,7 +21,7 @@
 \
 \ CDDL HEADER END
 \
-\ ident	"@(#)kdi_offsets.in	1.5	07/01/10 SMI"
+\ ident	"%Z%%M%	%I%	%E% SMI"
 \
 \ CPU-save structure offsets for use in assembly code.
 \

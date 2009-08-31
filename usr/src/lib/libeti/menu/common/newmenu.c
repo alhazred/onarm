@@ -28,7 +28,7 @@
  * All rights reserved.
  */
 
-#pragma	ident	"@(#)newmenu.c	1.6	05/06/08 SMI"	/* SVr4.0 1.7	*/
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7	*/
 
 /*LINTLIBRARY*/
 

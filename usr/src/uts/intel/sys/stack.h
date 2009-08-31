@@ -27,7 +27,7 @@
 #ifndef _SYS_STACK_H
 #define	_SYS_STACK_H
 
-#pragma ident	"@(#)stack.h	1.14	05/09/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(__i386) || defined(__amd64)
 

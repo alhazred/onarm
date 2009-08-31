@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)hwmuldiv.s	1.8	05/09/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"hwmuldiv.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

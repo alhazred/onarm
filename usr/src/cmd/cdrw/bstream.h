@@ -26,7 +26,7 @@
 #ifndef	_BSTREAM_H
 #define	_BSTREAM_H
 
-#pragma ident	"@(#)bstream.h	1.8	07/05/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

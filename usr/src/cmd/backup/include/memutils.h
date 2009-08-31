@@ -26,7 +26,7 @@
 #ifndef _MEMUTILS_H
 #define	_MEMUTILS_H
 
-#pragma ident	"@(#)memutils.h	1.7	06/05/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <note.h>
 

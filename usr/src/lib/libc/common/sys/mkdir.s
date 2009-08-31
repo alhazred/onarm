@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mkdir.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"mkdir.s"
+	.file	"%M%"
 
 /* C library -- mkdir						*/
 /* int mkdir (const char *path, mode_t mode);			*/

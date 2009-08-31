@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)xdr_rec.c	1.5	05/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * xdr_rec.c, Implements TCP/IP based XDR streams with a "record marking"

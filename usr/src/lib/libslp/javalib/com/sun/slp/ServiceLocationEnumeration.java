@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ServiceLocationEnumeration.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)ServiceLocationEnumeration.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ServiceLocationEnumeration.java:
 //  Author:           James Kempf
 //  Created On:       Wed May 13 17:38:01 1998
@@ -44,7 +44,7 @@ import java.util.*;
  * The ServiceLocationEnumeration interface extends Enumeration
  * with a method that can throw an exception.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

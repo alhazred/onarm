@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 
-# ident	"@(#)Makefile	1.3	06/11/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/oplhpd/Makefile
 #

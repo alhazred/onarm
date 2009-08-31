@@ -29,7 +29,7 @@
 
 #ifdef GSSAPI
 
-#pragma ident	"@(#)gss-clnt.c	1.3	08/01/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ssh.h"
 #include "ssh2.h"

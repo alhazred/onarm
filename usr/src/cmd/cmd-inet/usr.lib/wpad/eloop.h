@@ -11,7 +11,7 @@
 #ifndef __ELOOP_H
 #define	__ELOOP_H
 
-#pragma ident	"@(#)eloop.h	1.1	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)plat_ecc_dimm.c	1.3	06/04/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ddi.h>
 #include <sys/plat_ecc_dimm.h>

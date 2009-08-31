@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-# ident	"@(#)generic_copy.s	1.6	07/10/25 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/errno.h>

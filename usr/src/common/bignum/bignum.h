@@ -27,7 +27,7 @@
 #ifndef _BIGNUM_H
 #define	_BIGNUM_H
 
-#pragma ident	"@(#)bignum.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

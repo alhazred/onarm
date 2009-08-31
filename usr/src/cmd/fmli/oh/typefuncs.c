@@ -28,7 +28,7 @@
  *	All Rights Reserved
  */
 
-#ident	"@(#)typefuncs.c	1.6	05/06/08 SMI"       /* SVr4.0 1.5 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.5 */
 
 #include <stdio.h>
 #include <string.h>

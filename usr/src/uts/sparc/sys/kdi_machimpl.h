@@ -26,7 +26,7 @@
 #ifndef _SYS_KDI_MACHIMPL_H
 #define	_SYS_KDI_MACHIMPL_H
 
-#pragma ident	"@(#)kdi_machimpl.h	1.6	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/modctl.h>
 #include <sys/types.h>

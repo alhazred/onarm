@@ -34,7 +34,7 @@
  * For further details - see bug#4433015
  */
 
-	.ident	"@(#)crti.s	1.2	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 	.file	"crti.s"
 
 /*

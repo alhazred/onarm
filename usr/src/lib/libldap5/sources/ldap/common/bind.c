@@ -1,4 +1,4 @@
-#pragma ident	"@(#)bind.c	1.1	01/09/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The contents of this file are subject to the Netscape Public

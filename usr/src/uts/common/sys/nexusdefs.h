@@ -27,7 +27,7 @@
 #ifndef	_SYS_NEXUSDEFS_H
 #define	_SYS_NEXUSDEFS_H
 
-#pragma ident	"@(#)nexusdefs.h	1.21	05/10/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

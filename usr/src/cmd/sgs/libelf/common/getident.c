@@ -27,7 +27,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)getident.c	1.9	05/06/08 SMI" 	/* SVr4.0 1.8	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.8	*/
 
 #pragma weak	elf_getident = _elf_getident
 

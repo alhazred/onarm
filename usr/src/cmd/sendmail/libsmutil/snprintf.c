@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)snprintf.c	1.7	01/09/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 

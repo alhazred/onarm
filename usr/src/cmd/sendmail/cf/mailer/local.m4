@@ -10,7 +10,7 @@ PUSHDIVERT(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-# ident	"@(#)local.m4	1.7	04/12/15 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 _DEFIFNOT(`_DEF_LOCAL_MAILER_FLAGS', `lsDFMAw5:/|@q')
 _DEFIFNOT(`LOCAL_MAILER_FLAGS', `Prmn9')

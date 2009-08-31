@@ -26,7 +26,7 @@
 #ifndef	_SYS_PANIC_H
 #define	_SYS_PANIC_H
 
-#pragma ident	"@(#)panic.h	1.12	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(_ASM)
 #include <sys/types.h>

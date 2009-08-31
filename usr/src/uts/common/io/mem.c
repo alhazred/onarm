@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)mem.c	1.98	08/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Memory special file
@@ -972,7 +972,7 @@ static struct dev_ops mm_ops = {
 };
 
 static struct modldrv modldrv = {
-	&mod_driverops, "memory driver 1.98", &mm_ops,
+	&mod_driverops, "memory driver %I%", &mm_ops,
 };
 
 static struct modlinkage modlinkage = {

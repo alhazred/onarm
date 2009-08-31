@@ -24,7 +24,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)prom_handler.c	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/promif.h>
 #include <sys/promimpl.h>

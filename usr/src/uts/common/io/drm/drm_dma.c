@@ -37,7 +37,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)drm_dma.c	1.3	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "drmP.h"
 

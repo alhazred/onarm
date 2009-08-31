@@ -26,7 +26,7 @@
 #ifndef _SYS_CPU_H
 #define	_SYS_CPU_H
 
-#pragma ident	"@(#)cpu.h	1.22	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Include generic bustype cookies.

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)visinstr.c	1.24	07/09/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* VIS floating point instruction simulator for Sparc FPU simulator. */
 

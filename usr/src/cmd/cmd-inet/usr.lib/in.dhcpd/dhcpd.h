@@ -27,7 +27,7 @@
 #ifndef	_DHCPD_H
 #define	_DHCPD_H
 
-#pragma ident	"@(#)dhcpd.h	1.82	05/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -11,7 +11,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ip_nat.c	1.30	08/01/03 SMI"$
+#pragma ident	"%Z%%M%	%I%	%E% SMI"$
 
 #if defined(KERNEL) || defined(_KERNEL)
 # undef KERNEL

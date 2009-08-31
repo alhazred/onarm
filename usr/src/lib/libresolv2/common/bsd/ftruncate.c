@@ -7,7 +7,7 @@
 static const char rcsid[] = "$Id: ftruncate.c,v 8.4 1999/10/13 16:39:21 vixie Exp $";
 #endif
 
-#pragma ident	"@(#)ftruncate.c	1.2	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ftruncate - set file size, BSD Style

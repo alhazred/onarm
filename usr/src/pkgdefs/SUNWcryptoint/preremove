@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)preremove	1.3	06/11/17 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Preremove script for SUNWcryptoint.
 #

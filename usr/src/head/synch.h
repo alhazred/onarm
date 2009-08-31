@@ -27,7 +27,7 @@
 #ifndef	_SYNCH_H
 #define	_SYNCH_H
 
-#pragma ident	"@(#)synch.h	1.57	07/06/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * synch.h:

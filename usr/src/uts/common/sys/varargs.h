@@ -31,7 +31,7 @@
 #ifndef	_SYS_VARARGS_H
 #define	_SYS_VARARGS_H
 
-#pragma ident	"@(#)varargs.h	1.53	05/06/08 SMI"	/* UCB 4.1 83/05/03 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* UCB 4.1 83/05/03 */
 
 /*
  * This header defines the Solaris system definitions for variable

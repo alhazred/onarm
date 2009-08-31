@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#pragma ident	"@(#)driver_classes	1.29	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 ata	scsi
 mscsi	scsi

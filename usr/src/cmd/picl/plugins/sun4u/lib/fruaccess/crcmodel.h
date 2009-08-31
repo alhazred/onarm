@@ -26,7 +26,7 @@
 #ifndef	_CRCMODEL_H
 #define	_CRCMODEL_H
 
-#pragma ident	"@(#)crcmodel.h	1.3	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef SOLARIS_UNIX
 #include <sys/types.h>

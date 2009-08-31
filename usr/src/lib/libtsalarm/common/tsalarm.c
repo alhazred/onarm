@@ -28,7 +28,7 @@
  * alarms.
  */
 
-#pragma ident	"@(#)tsalarm.c	1.1	07/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

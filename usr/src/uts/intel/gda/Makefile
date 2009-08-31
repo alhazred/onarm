@@ -25,7 +25,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile	1.12	05/11/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the gda "drv"
 #	kernel module.

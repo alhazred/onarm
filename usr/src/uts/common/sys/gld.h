@@ -30,7 +30,7 @@
 #ifndef	_SYS_GLD_H
 #define	_SYS_GLD_H
 
-#pragma ident	"@(#)gld.h	1.50	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ethernet.h>
 

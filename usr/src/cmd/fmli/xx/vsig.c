@@ -29,7 +29,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)vsig.c	1.8	05/09/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* 
  * This short program is called by a co-process if it wishes to 

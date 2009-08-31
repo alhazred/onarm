@@ -30,7 +30,7 @@
 #ifndef	_SYS_DSL_SYNCTASK_H
 #define	_SYS_DSL_SYNCTASK_H
 
-#pragma ident	"@(#)dsl_synctask.h	1.3	07/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/txg.h>
 #include <sys/zfs_context.h>

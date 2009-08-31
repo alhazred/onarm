@@ -40,7 +40,7 @@
  *	Added MS-CHAPv2 support.
  */
 
-#pragma ident	"@(#)chap_ms.c	1.2	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define RCSID	"$Id: chap_ms.c,v 1.15 1999/08/13 06:46:12 paulus Exp $"
 
 #if defined(CHAPMS) || defined(CHAPMSV2)

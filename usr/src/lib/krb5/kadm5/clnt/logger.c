@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)logger.c	1.5	07/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /* KADM5 wants non-syslog log files to contain syslog-like entries */

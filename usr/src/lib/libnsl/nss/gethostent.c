@@ -28,7 +28,7 @@
  * Ye olde non-reentrant interface (MT-unsafe, caveat utor)
  */
 
-#pragma ident	"@(#)gethostent.c	1.28	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <stdlib.h>

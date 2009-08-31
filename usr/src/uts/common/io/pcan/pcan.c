@@ -35,7 +35,7 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)pcan.c	1.2	07/05/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/conf.h>
 #include <sys/ddi.h>

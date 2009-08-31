@@ -28,7 +28,7 @@
 #ifndef	_FRU_DATA_H
 #define	_FRU_DATA_H
 
-#pragma ident	"@(#)fru_data.h	1.3	05/08/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

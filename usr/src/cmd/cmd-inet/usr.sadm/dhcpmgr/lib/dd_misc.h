@@ -27,7 +27,7 @@
 #ifndef _DD_MISC_H
 #define	_DD_MISC_H
 
-#pragma ident	"@(#)dd_misc.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dhcp_svc_private.h>
 #include <sys/types.h>

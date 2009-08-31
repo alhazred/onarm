@@ -30,7 +30,7 @@
  * California.
  */
 
-#pragma ident	"@(#)bzero.c	1.13	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(_KMDB) && !defined(_BOOT)
 #include "synonyms.h"

@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.3	05/10/19 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Note that this Makefile is *not* the Makefile that is installed in the proto

@@ -31,7 +31,7 @@
  * California.
  */
 
-#pragma ident	"@(#)getpagesize.c	1.8	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "synonyms.h"
 #include <unistd.h>

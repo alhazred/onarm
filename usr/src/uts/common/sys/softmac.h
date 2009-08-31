@@ -26,7 +26,7 @@
 #ifndef	_SYS_SOFTMAC_H
 #define	_SYS_SOFTMAC_H
 
-#pragma ident	"@(#)softmac.h	1.1	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sunddi.h>

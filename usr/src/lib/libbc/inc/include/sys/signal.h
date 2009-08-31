@@ -12,7 +12,7 @@
 #ifndef	__sys_signal_h
 #define	__sys_signal_h
 
-#pragma ident	"@(#)signal.h	2.43	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <vm/faultcode.h>
 #define	NSIG	32

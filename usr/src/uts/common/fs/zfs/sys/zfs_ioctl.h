@@ -30,7 +30,7 @@
 #ifndef	_SYS_ZFS_IOCTL_H
 #define	_SYS_ZFS_IOCTL_H
 
-#pragma ident	"@(#)zfs_ioctl.h	1.18	07/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cred.h>
 #include <sys/dmu.h>

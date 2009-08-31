@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_MLSVC_H
 #define	_SMBSRV_MLSVC_H
 
-#pragma ident	"@(#)mlsvc.h	1.3	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * MLSVC RPC layer public interface definitions.

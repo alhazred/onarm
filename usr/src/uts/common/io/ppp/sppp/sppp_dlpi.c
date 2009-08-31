@@ -45,7 +45,7 @@
  * for improved performance and scalability.
  */
 
-#pragma ident	"@(#)sppp_dlpi.c	1.5	04/07/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define	RCSID	"$Id: sppp_dlpi.c,v 1.0 2000/05/08 01:10:12 masputra Exp $"
 
 #include <sys/types.h>

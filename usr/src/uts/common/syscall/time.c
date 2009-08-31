@@ -28,7 +28,7 @@
 /*	All rights reserved.	*/
 
 
-#pragma ident	"@(#)time.c	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

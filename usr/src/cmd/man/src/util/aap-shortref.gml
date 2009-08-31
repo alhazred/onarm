@@ -23,7 +23,7 @@
     CDDL HEADER END
 -->
 <!-- SCCS keyword
-#pragma ident	"@(#)aap-shortref.gml	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 -->
 <!-- Public entity for AAP short reference maps.  Typical invocation:
   <!ENTITY % srmaps PUBLIC "-//USA/AAP//SHORTREF SR-1//EN" >   %srmaps;

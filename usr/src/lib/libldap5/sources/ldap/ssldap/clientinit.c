@@ -25,7 +25,7 @@
  * Contributor(s):
  */
 
-#pragma ident	"@(#)clientinit.c	1.4	04/09/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * clientinit.c

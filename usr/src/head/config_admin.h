@@ -27,7 +27,7 @@
 #ifndef _SYS_CONFIG_ADMIN_H
 #define	_SYS_CONFIG_ADMIN_H
 
-#pragma ident	"@(#)config_admin.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * config_admin.h

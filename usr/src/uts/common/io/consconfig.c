@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)consconfig.c	1.38	07/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Console and mouse configuration
@@ -84,7 +84,7 @@ extern struct mod_ops mod_miscops;
  * Module linkage information for the kernel.
  */
 static struct modlmisc modlmisc = {
-	&mod_miscops, "console configuration 1.38"
+	&mod_miscops, "console configuration %I%"
 };
 
 static struct modlinkage modlinkage = {

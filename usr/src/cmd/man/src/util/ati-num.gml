@@ -23,7 +23,7 @@
     CDDL HEADER END
 -->
 <!-- SCCS keyword
-#pragma ident	"@(#)ati-num.gml	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 -->
 <!-- ArborText character entity set. Typical invocation:
      <!ENTITY % ATInum PUBLIC

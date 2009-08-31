@@ -27,7 +27,7 @@
 #ifndef	_SYS_CRYPTO_DCA_H
 #define	_SYS_CRYPTO_DCA_H
 
-#pragma ident	"@(#)dca.h	1.2	06/11/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

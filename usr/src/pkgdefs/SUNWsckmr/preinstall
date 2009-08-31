@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)preinstall	1.1	06/10/19 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # If sckmd service is being installed on the system for the first time as

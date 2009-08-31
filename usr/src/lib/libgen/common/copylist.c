@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)copylist.c	1.16	06/04/29 SMI"	/* SVr4.0 1.1.3.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1.3.2 */
 
 /*LINTLIBRARY*/
 

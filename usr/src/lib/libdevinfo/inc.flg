@@ -20,7 +20,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)inc.flg	1.4	05/06/10 SMI" 
+# ident	"%Z%%M%	%I%	%E% SMI" 
 
 echo_file usr/src/lib/Makefile.lib
 echo_file usr/src/lib/Makefile.targ

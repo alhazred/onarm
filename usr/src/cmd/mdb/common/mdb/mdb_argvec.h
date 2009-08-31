@@ -27,7 +27,7 @@
 #ifndef	_MDB_ARGVEC_H
 #define	_MDB_ARGVEC_H
 
-#pragma ident	"@(#)mdb_argvec.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

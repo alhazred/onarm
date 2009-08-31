@@ -30,7 +30,7 @@
 #ifndef	_SYS_ETHERNET_H
 #define	_SYS_ETHERNET_H
 
-#pragma ident	"@(#)ethernet.h	1.23	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

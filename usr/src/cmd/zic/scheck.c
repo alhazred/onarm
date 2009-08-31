@@ -1,4 +1,4 @@
-#pragma ident	"@(#)scheck.c	1.14	06/02/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* static char	elsieid[] = "@(#)scheck.c	8.17"; */
 

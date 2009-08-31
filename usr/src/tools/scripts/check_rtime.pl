@@ -24,7 +24,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)check_rtime.pl	1.64	08/01/23 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #

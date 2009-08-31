@@ -25,7 +25,7 @@
  * REQUESTING state of the client state machine.
  */
 
-#pragma ident	"@(#)request.c	1.18	08/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <string.h>

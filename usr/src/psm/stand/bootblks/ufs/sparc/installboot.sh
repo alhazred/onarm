@@ -24,7 +24,7 @@
 # Copyright (c) 1994-1997, by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)installboot.sh	1.14	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 away() {

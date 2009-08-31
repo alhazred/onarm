@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)memchr.s	1.2	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file "memchr.s"
+	.file "%M%"
 /*
  * Return the ptr in sptr at which the character c1 appears;
  * or NULL if not found in n chars; don't stop at \0.

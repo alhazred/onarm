@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)event_port.c	1.4	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak port_create = _port_create
 #pragma weak port_associate = _port_associate

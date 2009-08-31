@@ -31,7 +31,7 @@
 #ifndef _SYS_TS_H
 #define	_SYS_TS_H
 
-#pragma ident	"@(#)ts.h	1.19	07/03/06 SMI"	/* SVr4.0 1.5 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5 */
 
 #include <sys/types.h>
 #include <sys/thread.h>

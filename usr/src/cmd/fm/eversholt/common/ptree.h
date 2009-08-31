@@ -32,7 +32,7 @@
 #ifndef	_ESC_COMMON_PTREE_H
 #define	_ESC_COMMON_PTREE_H
 
-#pragma ident	"@(#)ptree.h	1.4	06/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

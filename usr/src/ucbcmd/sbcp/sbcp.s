@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sbcp.s	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"sbcp.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 #include <sys/syscall.h>

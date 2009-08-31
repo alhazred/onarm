@@ -1,4 +1,4 @@
-#pragma ident	"@(#)f_parity.c	1.2	02/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * These routines check and fix parity of encryption keys for the DES
  * algorithm.

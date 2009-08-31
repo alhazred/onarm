@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)svc-snmpdx	1.2	06/08/15 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Start method script for the Sun Solstice Enterprise Master Agent
 #

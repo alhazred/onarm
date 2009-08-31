@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)seteguid.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"seteguid.s"
+	.file	"%M%"
 
 /* C library -- setegid, seteuid				*/
 /* int setegid (gid_t gid)					*/

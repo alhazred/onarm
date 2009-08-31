@@ -26,7 +26,7 @@
 #ifndef _SYS_IB_MGT_IBMF_IBMF_SAA_IMPL_H
 #define	_SYS_IB_MGT_IBMF_IBMF_SAA_IMPL_H
 
-#pragma ident	"@(#)ibmf_saa_impl.h	1.5	06/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * saa_impl.h

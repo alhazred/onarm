@@ -27,7 +27,7 @@
 #ifndef	_SYS_FC4_FCP_H
 #define	_SYS_FC4_FCP_H
 
-#pragma ident	"@(#)fcp.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Frame format and protocol definitions for transferring

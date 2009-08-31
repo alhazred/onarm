@@ -22,7 +22,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.11	08/01/28 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG = vmstat

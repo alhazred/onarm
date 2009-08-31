@@ -29,7 +29,7 @@
  *
  */
 
-#ident	"@(#)retcodes.h	1.6	05/06/08 SMI"       /* SVr4.0 1.2 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.2 */
 
 #define R_OK	0
 #define R_ERR	1

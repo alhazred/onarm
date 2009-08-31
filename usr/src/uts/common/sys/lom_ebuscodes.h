@@ -27,7 +27,7 @@
 #ifndef _SYS_LOM_EBUSCODES_H
 #define	_SYS_LOM_EBUSCODES_H
 
-#pragma ident	"@(#)lom_ebuscodes.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file enumerates the virtual registers exported by the microcontroller.

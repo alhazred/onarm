@@ -24,7 +24,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)tst.trapstat.ksh	1.1	07/06/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # This script verifies that user-land stacks can be walked safely

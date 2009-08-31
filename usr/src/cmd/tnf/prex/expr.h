@@ -26,7 +26,7 @@
 #ifndef _EXPR_H
 #define	_EXPR_H
 
-#pragma ident	"@(#)expr.h	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Includes

@@ -26,7 +26,7 @@
  *	All Rights Reserved.
  */
 
-%#pragma ident	"@(#)nis_object.x	1.13	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if RPC_HDR
 %

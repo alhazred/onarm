@@ -30,7 +30,7 @@
  * Solaris UID and GIDs.
  */
 
-#pragma ident	"@(#)idmap_kapi.c	1.5	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/ksynch.h>

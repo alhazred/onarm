@@ -1,4 +1,4 @@
-#pragma ident	"@(#)adm.h	1.4	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * include/krb5/adm.h
  *

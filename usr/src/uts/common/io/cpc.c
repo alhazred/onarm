@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)cpc.c	1.22	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * CPU Performance Counter system calls and device driver.
@@ -899,7 +899,7 @@ static struct dev_ops dev_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"cpc sampling driver v1.22",
+	"cpc sampling driver v%I%",
 	&dev_ops
 };
 

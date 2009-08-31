@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xlate64.m4	1.19	07/02/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "syn.h"
 #include <memory.h>

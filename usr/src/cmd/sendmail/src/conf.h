@@ -13,7 +13,7 @@
  *	$Id: conf.h,v 8.574 2006/11/29 00:36:06 ca Exp $
  */
 
-#pragma ident	"@(#)conf.h	1.69	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  CONF.H -- All user-configurable parameters for sendmail

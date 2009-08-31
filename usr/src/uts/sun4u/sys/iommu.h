@@ -27,7 +27,7 @@
 #ifndef _SYS_IOMMU_H
 #define	_SYS_IOMMU_H
 
-#pragma ident	"@(#)iommu.h	1.30	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(_KERNEL) && !defined(_ASM)
 #include <sys/sunddi.h>

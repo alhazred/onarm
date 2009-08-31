@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)shutdown.c	1.24	05/08/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

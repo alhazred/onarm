@@ -26,7 +26,7 @@
 #ifndef	_SSERVICE_H
 #define	_SSERVICE_H
 
-#pragma ident	"@(#)sservice.h	1.53	07/02/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

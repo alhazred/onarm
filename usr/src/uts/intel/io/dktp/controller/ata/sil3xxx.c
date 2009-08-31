@@ -36,7 +36,7 @@
  * 6. Hot Plug Support
  */
 
-#pragma ident	"@(#)sil3xxx.c	1.3	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ata_common.h"
 #include "sil3xxx.h"

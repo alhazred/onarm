@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kill.s	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"kill.s"
+	.file	"%M%"
 
 /* C library -- kill						*/
 /* int kill (pid_t pid, int sig);				*/

@@ -27,7 +27,7 @@
 #ifndef _PCA9556_IMPL_H
 #define	_PCA9556_IMPL_H
 
-#pragma ident	"@(#)pca9556_impl.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

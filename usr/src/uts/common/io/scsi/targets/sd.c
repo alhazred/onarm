@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)sd.c	1.573	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SCSI disk target driver.
@@ -74,10 +74,10 @@
  * Loadable module info.
  */
 #if (defined(__fibre))
-#define	SD_MODULE_NAME	"SCSI SSA/FCAL Disk Driver 1.573"
+#define	SD_MODULE_NAME	"SCSI SSA/FCAL Disk Driver %I%"
 MODDRV_DEPENDS_ON("misc/scsi misc/cmlb drv/fcp");
 #else
-#define	SD_MODULE_NAME	"SCSI Disk Driver 1.573"
+#define	SD_MODULE_NAME	"SCSI Disk Driver %I%"
 MODDRV_DEPENDS_ON("misc/scsi misc/cmlb");
 #endif
 

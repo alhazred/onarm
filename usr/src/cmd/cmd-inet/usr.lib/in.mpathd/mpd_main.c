@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mpd_main.c	1.34	07/07/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mpd_defs.h"
 #include "mpd_tables.h"

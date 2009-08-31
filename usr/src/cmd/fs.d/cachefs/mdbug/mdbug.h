@@ -26,7 +26,7 @@
  *	Include file for the mdbug class.
  */
 
-#pragma ident	"@(#)mdbug.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* Copyright (c) 1994 by Sun Microsystems, Inc. */
 
 /*

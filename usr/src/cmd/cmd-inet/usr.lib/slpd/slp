@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)slp	1.5	06/03/09 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Service Method Support Script for the SLP service
 #

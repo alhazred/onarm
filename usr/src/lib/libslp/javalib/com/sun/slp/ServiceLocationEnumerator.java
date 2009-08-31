@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ServiceLocationEnumerator.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)ServiceLocationEnumerator.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ServiceLocationEnumerator.java: Class implementing SLP enumerator.
 //  Author:           James Kempf
 //  Created On:       Thu May 21 14:36:55 1998
@@ -46,7 +46,7 @@ import java.util.*;
  * method that can (but not in this implementation) throw a
  * ServiceLocationException.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

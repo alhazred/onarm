@@ -35,7 +35,7 @@
  */
 
 
-#pragma ident	"@(#)rtw.c	1.1	07/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/param.h>

@@ -27,7 +27,7 @@
 #ifndef _TARGET_CMD_H
 #define	_TARGET_CMD_H
 
-#pragma ident	"@(#)iscsi_cmd.h	1.3	07/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Block comment which describes the contents of this file.

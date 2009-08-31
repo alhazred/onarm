@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sgsbbc.c	1.15	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * PCI SBBC Device Driver that provides interfaces into
@@ -142,7 +142,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"PCI SBBC 1.15",
+	"PCI SBBC %I%",
 	&sbbc_ops,
 };
 

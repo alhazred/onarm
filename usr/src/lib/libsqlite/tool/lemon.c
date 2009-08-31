@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)lemon.c	1.2	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 ** This file contains all sources (including headers) to the LEMON

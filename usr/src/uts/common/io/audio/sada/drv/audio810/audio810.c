@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)audio810.c	1.10	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * audio810 Audio Driver
@@ -287,7 +287,7 @@ static struct dev_ops audio810_dev_ops = {
 /* Linkage structure for loadable drivers */
 static struct modldrv audio810_modldrv = {
 	&mod_driverops,		/* drv_modops */
-	I810_MOD_NAME" 1.10",	/* drv_linkinfo */
+	I810_MOD_NAME" %I%",	/* drv_linkinfo */
 	&audio810_dev_ops,	/* drv_dev_ops */
 };
 
@@ -2408,7 +2408,7 @@ audio810_chip_init(audio810_state_t *statep, int restore)
 		 * an output pin that manages an optional external audio
 		 * amplifier. AC'97 compliance requires the implementation of
 		 * a dedicated output pin for external audio amplifier control.
-		 * The pin is controlled via the ¡°EAPD¡±(External Amplifier
+		 * The pin is controlled via the ??EAPD??(External Amplifier
 		 * Powerdown) bit in Powerdown Ctrl/Stat Register, bit 15
 		 * (formerly PR7). EAPD = 0 places a 0 on the output pin,
 		 * enabling an external audio amplifier, EAPD = 1 shuts it

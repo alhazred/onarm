@@ -25,9 +25,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_divdi3.s	1.4	05/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_divdi3.s"
+	.file	"%M%"
 
 #include <SYS.h>
 

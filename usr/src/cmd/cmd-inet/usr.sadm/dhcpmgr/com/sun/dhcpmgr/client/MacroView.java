@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)MacroView.java	1.13	05/12/19 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.

@@ -26,7 +26,7 @@
 #ifndef	_SGSRTCID_H
 #define	_SGSRTCID_H
 
-#pragma ident	"@(#)sgsrtcid.h	1.1	06/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

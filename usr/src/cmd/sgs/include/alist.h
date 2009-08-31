@@ -32,7 +32,7 @@
 #ifndef	_ALIST_H
 #define	_ALIST_H
 
-#pragma ident	"@(#)alist.h	1.5	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

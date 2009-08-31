@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fault_iso.c	1.3	07/06/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sun4v Fault Isolation Services Module
@@ -96,7 +96,7 @@ static void fi_fini(void);
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,
-	"sun4v Fault Isolation Services 1.3"
+	"sun4v Fault Isolation Services %I%"
 };
 
 static struct modlinkage modlinkage = {

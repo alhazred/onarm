@@ -27,7 +27,7 @@
 #ifndef	_LIBNVPAIR_H
 #define	_LIBNVPAIR_H
 
-#pragma ident	"@(#)libnvpair.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/nvpair.h>
 #include <stdlib.h>

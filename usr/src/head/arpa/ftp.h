@@ -35,7 +35,7 @@
 #ifndef _ARPA_FTP_H
 #define	_ARPA_FTP_H
 
-#pragma ident	"@(#)ftp.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)acctwtmp.c	1.13	05/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  *	acctwtmp reason /var/adm/wtmpx
  *	writes utmpx.h record (with current time) to specific file

@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)dirs.c	1.33	05/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "restore.h"
 #include <byteorder.h>

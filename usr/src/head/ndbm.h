@@ -39,7 +39,7 @@
 #ifndef _NDBM_H
 #define	_NDBM_H
 
-#pragma ident	"@(#)ndbm.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

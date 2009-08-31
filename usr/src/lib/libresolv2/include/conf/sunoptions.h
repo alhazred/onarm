@@ -6,7 +6,7 @@
 #ifndef	_SUNOPTIONS_H
 #define	_SUNOPTIONS_H
 
-#pragma ident	"@(#)sunoptions.h	1.25	04/02/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The following options are PP flags available in the reference implementation

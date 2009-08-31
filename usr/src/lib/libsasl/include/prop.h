@@ -28,7 +28,7 @@
 #ifndef	_SASL_PROP_H
 #define	_SASL_PROP_H
 
-#pragma ident	"@(#)prop.h	1.1	03/07/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

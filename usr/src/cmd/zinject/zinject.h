@@ -26,7 +26,7 @@
 #ifndef	_ZINJECT_H
 #define	_ZINJECT_H
 
-#pragma ident	"@(#)zinject.h	1.2	06/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zfs_ioctl.h>
 

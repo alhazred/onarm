@@ -22,7 +22,7 @@
  * Reserved.
  */
 
-#pragma ident	"@(#)ber_der.h	1.2	07/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the header file for some Basic Encoding Rules and Distinguished

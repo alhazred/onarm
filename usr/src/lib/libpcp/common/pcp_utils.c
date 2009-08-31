@@ -31,7 +31,7 @@
  * to platforms running Logical Domains (LDoms).
  */
 
-#pragma ident	"@(#)pcp_utils.c	1.4	07/05/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fcntl.h>
 #include <sys/types.h>

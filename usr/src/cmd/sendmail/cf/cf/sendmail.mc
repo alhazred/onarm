@@ -7,7 +7,7 @@ divert(-1)
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)sendmail.mc	1.11	04/06/21 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #  This is a configuration file for SunOS 5.8 (a.k.a. Solaris 8) and later
 #  subsidiary machines.  It has support for local and SMTP mail.  The
@@ -22,7 +22,7 @@ divert(-1)
 #
 
 divert(0)dnl
-VERSIONID(`@(#)sendmail.mc	1.11 (Sun) 06/21/04')
+VERSIONID(`%W% (Sun) %G%')
 OSTYPE(`solaris8')dnl
 DOMAIN(`solaris-generic')dnl
 define(`confFALLBACK_SMARTHOST', `mailhost$?m.$m$.')dnl

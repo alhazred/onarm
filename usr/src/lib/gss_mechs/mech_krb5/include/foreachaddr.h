@@ -1,4 +1,4 @@
-#pragma ident	"@(#)foreachaddr.h	1.1	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * include/foreachaddr.c

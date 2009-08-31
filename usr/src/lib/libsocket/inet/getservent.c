@@ -28,7 +28,7 @@
  * lib/libsocket/inet/getservent.c
  */
 
-#pragma ident	"@(#)getservent.c	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netdb.h>
 #include <nss_dbdefs.h>

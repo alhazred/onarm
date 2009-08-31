@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.files	1.3	06/06/28 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This Makefile defines all file modules for the directory
 #	uts/sun4u/sunfire and its children. These are the source files

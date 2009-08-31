@@ -88,4 +88,4 @@ strsep(char **stringp, const char *delim)
 
 #endif /* !defined(HAVE_STRSEP) */
 
-#pragma ident	"@(#)strsep.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

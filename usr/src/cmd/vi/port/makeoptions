@@ -1,4 +1,4 @@
-#ident	"@(#)makeoptions	1.7	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # CDDL HEADER START
 #
@@ -83,7 +83,7 @@ $i
 
 .
 0a
-#ident	"@(#)makeoptions	1.7	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 .
 w! ex_vars.h
 q

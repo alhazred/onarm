@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip.d.in	1.1	07/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 inline int AF_INET = @AF_INET@;
 #pragma D binding "1.0" AF_INET

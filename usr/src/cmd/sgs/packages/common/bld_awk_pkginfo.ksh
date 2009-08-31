@@ -21,7 +21,7 @@
 # CDDL HEADER END
 #
 #
-#pragma ident	"@(#)bld_awk_pkginfo.ksh	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright (c) 1993-2001 by Sun Microsystems, Inc.
 # All rights reserved.

@@ -37,7 +37,7 @@
  *
  */
 
-#pragma ident	"@(#)drm_memory.c	1.2	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "drmP.h"
 

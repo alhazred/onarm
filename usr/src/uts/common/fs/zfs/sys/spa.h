@@ -30,7 +30,7 @@
 #ifndef _SYS_SPA_H
 #define	_SYS_SPA_H
 
-#pragma ident	"@(#)spa.h	1.30	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/avl.h>
 #include <sys/zfs_context.h>

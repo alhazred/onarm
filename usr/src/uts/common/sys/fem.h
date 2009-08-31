@@ -26,7 +26,7 @@
 #ifndef _SYS_FEM_H
 #define	_SYS_FEM_H
 
-#pragma ident	"@(#)fem.h	1.13	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/mutex.h>

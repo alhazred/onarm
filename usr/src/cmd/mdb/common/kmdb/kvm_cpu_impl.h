@@ -27,7 +27,7 @@
 #ifndef _KVM_CPU_IMPL_H
 #define	_KVM_CPU_IMPL_H
 
-#pragma ident	"@(#)kvm_cpu_impl.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kmdb/kvm_cpu.h>
 #include <mdb/mdb_target.h>

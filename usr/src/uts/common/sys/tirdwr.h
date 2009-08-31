@@ -26,7 +26,7 @@
 #ifndef _SYS_TIRDWR_H
 #define	_SYS_TIRDWR_H
 
-#pragma ident	"@(#)tirdwr.h	1.9	05/06/08 SMI"	/* SVr4.0 1.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1 */
 
 #ifdef	__cplusplus
 extern "C" {

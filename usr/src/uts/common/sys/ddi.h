@@ -31,7 +31,7 @@
 #ifndef _SYS_DDI_H
 #define	_SYS_DDI_H
 
-#pragma ident	"@(#)ddi.h	1.36	05/06/08 SMI"	/* SVr4.0 1.19	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.19	*/
 
 #include <sys/types.h>
 #include <sys/map.h>

@@ -22,9 +22,9 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.61	07/05/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
-# cmd/cmd-inet/usr.lib/in.dhcpd/Makefile
+# cmd/cmd-inet/usr.lib/in.dhcpd/%M%
 #
 
 CMN_DIR = $(SRC)/common/net/dhcp

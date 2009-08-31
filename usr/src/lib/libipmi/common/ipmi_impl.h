@@ -26,7 +26,7 @@
 #ifndef	_IPMI_IMPL_H
 #define	_IPMI_IMPL_H
 
-#pragma ident	"@(#)ipmi_impl.h	1.4	08/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <libipmi.h>

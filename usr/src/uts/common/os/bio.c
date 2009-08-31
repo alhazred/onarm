@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)bio.c	1.116	06/07/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/t_lock.h>

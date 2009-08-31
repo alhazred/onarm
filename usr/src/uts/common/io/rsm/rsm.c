@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)rsm.c	1.17	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Overview of the RSM Kernel Agent:
@@ -413,7 +413,7 @@ static struct dev_ops rsm_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"Remote Shared Memory Driver 1.17",
+	"Remote Shared Memory Driver %I%",
 	&rsm_ops,	/* driver ops */
 };
 

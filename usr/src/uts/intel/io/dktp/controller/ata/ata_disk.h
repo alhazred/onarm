@@ -27,7 +27,7 @@
 #ifndef _ATA_DISK_H
 #define	_ATA_DISK_H
 
-#pragma ident	"@(#)ata_disk.h	1.18	07/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

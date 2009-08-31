@@ -29,7 +29,7 @@
 #ifndef	_DT_IMPL_H
 #define	_DT_IMPL_H
 
-#pragma ident	"@(#)dt_impl.h	1.22	08/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/objfs.h>

@@ -5,7 +5,7 @@
  */
 /* line64.c - routines for dealing with the slapd line format */
 
-#pragma ident	"@(#)line64.c	1.5	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

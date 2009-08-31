@@ -39,7 +39,7 @@
 #ifndef _A_OUT_H
 #define	_A_OUT_H
 
-#pragma ident	"@(#)a.out.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 

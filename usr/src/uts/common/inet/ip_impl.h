@@ -26,7 +26,7 @@
 #ifndef	_INET_IP_IMPL_H
 #define	_INET_IP_IMPL_H
 
-#pragma ident	"@(#)ip_impl.h	1.15	08/01/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * IP implementation private declarations.  These interfaces are

@@ -27,7 +27,7 @@
 #ifndef	_SYS_AFLT_H
 #define	_SYS_AFLT_H
 
-#pragma ident	"@(#)aflt.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dditypes.h>
 

@@ -27,7 +27,7 @@
 #ifndef	_SYS_RMC_COMM_DP_H
 #define	_SYS_RMC_COMM_DP_H
 
-#pragma ident	"@(#)rmc_comm_dp.h	1.3	05/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/rmc_comm_lproto.h>

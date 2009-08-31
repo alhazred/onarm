@@ -26,7 +26,7 @@
 #ifndef	_SYS_DDI_INTR_IMPL_H
 #define	_SYS_DDI_INTR_IMPL_H
 
-#pragma ident	"@(#)ddi_intr_impl.h	1.16	07/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Sun DDI interrupt implementation specific definitions

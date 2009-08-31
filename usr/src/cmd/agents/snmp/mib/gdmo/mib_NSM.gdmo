@@ -1,4 +1,4 @@
--- #ident	"@(#)mib_NSM.gdmo	1.2	05/06/12 SMI"
+-- #ident	"%Z%%M%	%I%	%E% SMI"
 
 MODULE "IIMCAPPLICATION-MIB"
 

@@ -27,7 +27,7 @@
 # Copyright (c) 2006-2008 NEC Corporation
 #
 #
-#pragma ident	"@(#)Makefile	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 include ../../Makefile.cmd
 

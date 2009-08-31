@@ -30,7 +30,7 @@
 #ifndef _sys_termio_h
 #define	_sys_termio_h
 
-#pragma ident	"@(#)termio.h	1.5	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<sys/ioccom.h>
 #include	<sys/termios.h>

@@ -33,7 +33,7 @@
  * Copyright  (c) 1986 AT&T
  *	All Rights Reserved
  */
-#pragma ident	"@(#)terror.c	1.9	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<stdio.h>
 #include	<stdlib.h>

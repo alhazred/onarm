@@ -29,7 +29,7 @@
 #ifndef	_LOGADM_ERR_H
 #define	_LOGADM_ERR_H
 
-#pragma ident	"@(#)err.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <setjmp.h>
 

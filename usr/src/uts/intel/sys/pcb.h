@@ -26,7 +26,7 @@
 #ifndef _SYS_PCB_H
 #define	_SYS_PCB_H
 
-#pragma ident	"@(#)pcb.h	1.25	07/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/regset.h>
 #include <sys/segments.h>

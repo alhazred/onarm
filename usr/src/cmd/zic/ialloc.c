@@ -1,4 +1,4 @@
-#pragma ident	"@(#)ialloc.c	1.12	01/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* static char	elsieid[] = "@(#)ialloc.c	8.29"; */
 

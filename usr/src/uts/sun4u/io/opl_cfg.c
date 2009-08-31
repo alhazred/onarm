@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)opl_cfg.c	1.6	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/conf.h>
 #include <sys/kmem.h>
@@ -54,7 +54,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,				/* Type of module */
-	"OPL opl_cfg 1.6"
+	"OPL opl_cfg %I%"
 };
 
 static struct modlinkage modlinkage = {

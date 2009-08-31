@@ -31,7 +31,7 @@
 /*	  All Rights Reserved  	*/
 
 %{
-#pragma ident	"@(#)m4y.y	6.12	05/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 extern long	evalval;
 #define	YYSTYPE	long
 %}

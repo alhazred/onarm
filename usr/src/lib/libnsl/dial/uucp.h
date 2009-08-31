@@ -31,7 +31,7 @@
 #ifndef _UUCP_H
 #define	_UUCP_H
 
-#pragma ident	"@(#)uucp.h	1.15	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <unistd.h>

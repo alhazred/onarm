@@ -22,7 +22,7 @@
  * Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)audioixp.c	1.4	06/09/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * audioixp Audio Driver
@@ -242,7 +242,7 @@ static struct dev_ops audioixp_dev_ops = {
 /* Linkage structure for loadable drivers */
 static struct modldrv audioixp_modldrv = {
 	&mod_driverops,		/* drv_modops */
-	IXP_MOD_NAME" 1.4",	/* drv_linkinfo */
+	IXP_MOD_NAME" %I%",	/* drv_linkinfo */
 	&audioixp_dev_ops,	/* drv_dev_ops */
 };
 

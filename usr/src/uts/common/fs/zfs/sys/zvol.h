@@ -31,7 +31,7 @@
 #ifndef	_SYS_ZVOL_H
 #define	_SYS_ZVOL_H
 
-#pragma ident	"@(#)zvol.h	1.4	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zfs_context.h>
 

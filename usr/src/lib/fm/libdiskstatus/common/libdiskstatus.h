@@ -26,7 +26,7 @@
 #ifndef	_LIBDISKSTATUS_H
 #define	_LIBDISKSTATUS_H
 
-#pragma ident	"@(#)libdiskstatus.h	1.1	07/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libnvpair.h>
 #include <sys/types.h>

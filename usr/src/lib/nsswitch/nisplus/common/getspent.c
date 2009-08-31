@@ -29,7 +29,7 @@
  *  ("shadow") of the same table that stores vanilla passwd information.
  */
 
-#pragma ident	"@(#)getspent.c	1.19	07/05/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <shadow.h>

@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)lpsystem	1.5	06/08/30 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # This interface is obsolete, do nothing and always succeed for the sake

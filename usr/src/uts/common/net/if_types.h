@@ -38,7 +38,7 @@
 #ifndef	_NET_IF_TYPES_H
 #define	_NET_IF_TYPES_H
 
-#pragma ident	"@(#)if_types.h	1.7	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* from UCB 8.3 (Berkeley) 4/28/95 */
 
 #ifdef	__cplusplus

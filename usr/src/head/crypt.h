@@ -31,7 +31,7 @@
 #ifndef	_CRYPT_H
 #define	_CRYPT_H
 
-#pragma ident	"@(#)crypt.h	1.13	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 #include <pwd.h>
 

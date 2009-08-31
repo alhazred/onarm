@@ -16,7 +16,7 @@
 #ifndef	_NETINET_IP_VAR_H
 #define	_NETINET_IP_VAR_H
 
-#pragma ident	"@(#)ip_var.h	1.5	01/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* ip_var.h 1.11 88/08/19 SMI; from UCB 7.1 6/5/86	*/
 
 #include <sys/isa_defs.h>

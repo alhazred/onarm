@@ -27,7 +27,7 @@
 #ifndef _CUPS_HTTP_PRIVATE_H_
 #define _CUPS_HTTP_PRIVATE_H_
 
-#pragma ident	"@(#)http-private.h	1.1	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Include necessary headers...

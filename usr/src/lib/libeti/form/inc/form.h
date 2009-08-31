@@ -26,7 +26,7 @@
 #ifndef _FORM_H
 #define	_FORM_H
 
-#pragma ident	"@(#)form.h	1.7	05/06/08 SMI"	/* SVr4.0 1.10	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.10	*/
 
 #include <curses.h>
 #include <eti.h>

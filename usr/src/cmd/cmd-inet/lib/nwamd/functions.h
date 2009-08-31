@@ -27,7 +27,7 @@
 #ifndef _FUNCTIONS_H
 #define	_FUNCTIONS_H
 
-#pragma ident	"@(#)functions.h	1.5	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* events.c: event queue handling */
 extern void free_event(struct np_event *);

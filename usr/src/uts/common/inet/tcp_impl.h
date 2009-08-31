@@ -26,7 +26,7 @@
 #ifndef	_INET_TCP_IMPL_H
 #define	_INET_TCP_IMPL_H
 
-#pragma ident	"@(#)tcp_impl.h	1.7	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * TCP implementation private declarations.  These interfaces are

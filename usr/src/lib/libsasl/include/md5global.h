@@ -1,4 +1,4 @@
-#pragma ident	"@(#)md5global.h	1.1	03/07/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* md5global.h - RSAREF types and constants
  */

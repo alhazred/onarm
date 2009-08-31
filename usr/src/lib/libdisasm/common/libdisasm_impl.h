@@ -27,7 +27,7 @@
 #ifndef	_LIBDISASM_IMPL_H
 #define	_LIBDISASM_IMPL_H
 
-#pragma ident	"@(#)libdisasm_impl.h	1.1	06/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

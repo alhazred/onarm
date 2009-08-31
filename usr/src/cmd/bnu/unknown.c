@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)unknown.c	1.15	05/10/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  *	logs attempts by unknown remote machines to run uucico in FOREIGN
  *	("/var/uucp/.Admin/Foreign").  if anything goes wrong,

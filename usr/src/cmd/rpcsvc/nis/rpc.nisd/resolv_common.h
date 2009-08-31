@@ -26,7 +26,7 @@
 #ifndef _RESOLV_COMMON_H
 #define	_RESOLV_COMMON_H
 
-#pragma ident	"@(#)resolv_common.h	1.11	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

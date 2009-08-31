@@ -12,7 +12,7 @@
  *	$Id: pathnames.h,v 8.35 2001/03/23 22:09:44 ca Exp $
  */
 
-#pragma ident	"@(#)pathnames.h	1.6	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef SM_PATHNAMES_H
 # define SM_PATHNAMES_H

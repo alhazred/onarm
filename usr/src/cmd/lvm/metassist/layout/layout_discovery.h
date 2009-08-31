@@ -27,7 +27,7 @@
 #ifndef _LAYOUT_DISCOVERY_H
 #define	_LAYOUT_DISCOVERY_H
 
-#pragma ident	"@(#)layout_discovery.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -30,7 +30,7 @@
 #ifndef _SYS_SAD_H
 #define	_SYS_SAD_H
 
-#pragma ident	"@(#)sad.h	1.28	07/12/26 SMI"	/* SVr4.0 1.5 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5 */
 
 #include <sys/types.h>
 #ifdef	_KERNEL

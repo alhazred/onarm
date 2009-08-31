@@ -27,7 +27,7 @@
 #ifndef	_PRSTAT_H
 #define	_PRSTAT_H
 
-#pragma ident	"@(#)prstat.h	1.11	06/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sysmacros.h>
 #include <sys/time.h>

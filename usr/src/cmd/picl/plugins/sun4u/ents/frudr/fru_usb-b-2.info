@@ -23,7 +23,7 @@
  * Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
- * #ident	"@(#)fru_usb-b-2.info	1.3	05/06/08 SMI" 
+ * #ident	"%Z%%M%	%I%	%E% SMI" 
  *
  * This configuration file is parsed by PICL plugin envmon in response
  * to a PICLEVENT_SYSEVENT_DEVICE_ADDED event for USB2
@@ -66,7 +66,7 @@
 #ifndef id
 #define	id(s)	#ident s
 #endif
-id("@(#)fru_usb-b-2.info 1.3     05/06/08 SMI")
+id("%Z%%M% %I%     %E% SMI")
 
 VERSION 1.1
 VERBOSE 1

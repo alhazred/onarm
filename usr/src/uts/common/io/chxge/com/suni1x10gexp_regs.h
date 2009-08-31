@@ -28,7 +28,7 @@
  */
 
 
-#pragma ident	"@(#)suni1x10gexp_regs.h	1.3	07/03/15 SMI"	/* suni1x10gexp_regs.h */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* suni1x10gexp_regs.h */
 
 #ifndef _SUNI1x10GEXP_REGS_H
 #define _SUNI1x10GEXP_REGS_H

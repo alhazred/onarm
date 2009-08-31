@@ -33,7 +33,7 @@
 #ifndef	_SYS_SCHEDCTL_H
 #define	_SYS_SCHEDCTL_H
 
-#pragma ident	"@(#)schedctl.h	1.12	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

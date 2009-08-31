@@ -36,7 +36,7 @@
 
 /* Portions Copyright 2007 Jeremy Teo */
 /* Portions Copyright 2006 Stephen P. Potter */
-#pragma ident	"@(#)hostname.c	1.2	07/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <unistd.h>
 #include <stdio.h>

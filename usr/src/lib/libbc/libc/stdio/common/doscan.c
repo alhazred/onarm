@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)doscan.c	1.24	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 #include <stdio.h>

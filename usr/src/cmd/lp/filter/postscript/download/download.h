@@ -30,7 +30,7 @@
 #ifndef	_DOWNLOAD_H
 #define	_DOWNLOAD_H
 
-#pragma ident	"@(#)download.h	1.6	05/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cpluplus
 extern {

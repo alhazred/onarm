@@ -42,7 +42,7 @@ static char rcsid[] = "$Id: setenv.c,v 8.4 1997/04/24 22:00:38 vixie Exp $";
  */
 
 
-#pragma ident	"@(#)setenv.c	1.2	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "port_before.h"
 

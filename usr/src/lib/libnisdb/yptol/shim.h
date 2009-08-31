@@ -26,7 +26,7 @@
 #ifndef	__SHIM_H
 #define	__SHIM_H
 
-#pragma ident	"@(#)shim.h	1.3	06/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

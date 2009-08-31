@@ -26,7 +26,7 @@
 #ifndef	_NVPAIR_H
 #define	_NVPAIR_H
 
-#pragma ident	"@(#)nvpair.h	1.4	06/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

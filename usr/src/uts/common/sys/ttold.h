@@ -35,7 +35,7 @@
 #ifndef _SYS_TTOLD_H
 #define	_SYS_TTOLD_H
 
-#pragma ident	"@(#)ttold.h	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

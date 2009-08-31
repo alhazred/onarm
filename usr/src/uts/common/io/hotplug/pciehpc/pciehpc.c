@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)pciehpc.c	1.15	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * PCIEHPC - The Standard PCI Express HotPlug Controller driver module. This
@@ -96,7 +96,7 @@ extern struct mod_ops mod_miscops;
 static struct modlmisc modlmisc =
 {
 	&mod_miscops,
-	"PCIe hotplug driver v1.15",
+	"PCIe hotplug driver v%I%",
 };
 
 static struct modlinkage modlinkage =

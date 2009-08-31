@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_USBSER_PL2303_VAR_H
 #define	_SYS_USB_USBSER_PL2303_VAR_H
 
-#pragma ident	"@(#)pl2303_var.h	1.3	06/06/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * USB PL2303 definitions

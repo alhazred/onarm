@@ -26,7 +26,7 @@
 #ifndef	_SYS_IB_IBTL_IBTL_STATUS_H
 #define	_SYS_IB_IBTL_IBTL_STATUS_H
 
-#pragma ident	"@(#)ibtl_status.h	1.7	07/06/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ibtl_status.h

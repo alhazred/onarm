@@ -24,7 +24,7 @@
 #ifndef	_SYS_ZAP_LEAF_H
 #define	_SYS_ZAP_LEAF_H
 
-#pragma ident	"@(#)zap_leaf.h	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	ZAP_LEAF_MAGIC 0x2AB1EAF
 

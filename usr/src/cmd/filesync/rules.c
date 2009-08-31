@@ -41,7 +41,7 @@
  *	adding/checking restrictions
  *		add_restr, check_restr
  */
-#pragma ident	"@(#)rules.c	1.8	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

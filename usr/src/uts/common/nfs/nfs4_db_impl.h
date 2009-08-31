@@ -27,7 +27,7 @@
 #ifndef	_NFS4_DB_IMPL_H
 #define	_NFS4_DB_IMPL_H
 
-#pragma ident	"@(#)nfs4_db_impl.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is a private header file.  Applications should not directly include

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pcicmu.c	1.5	07/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * OPL CMU-CH PCI nexus driver.
@@ -228,7 +228,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,				/* Type of module - driver */
-	"OPL CMU-CH PCI Nexus driver 1.5",	/* Name of module. */
+	"OPL CMU-CH PCI Nexus driver %I%",	/* Name of module. */
 	&pcmu_ops,				/* driver ops */
 };
 

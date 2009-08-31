@@ -17,7 +17,7 @@
 #ifndef	_LIBMILTER_MFAPI_H
 #define	_LIBMILTER_MFAPI_H
 
-#pragma ident	"@(#)mfapi.h	1.15	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

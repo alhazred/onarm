@@ -25,7 +25,7 @@
  * Program to examine or set process privileges.
  */
 
-#pragma ident	"@(#)ppriv.c	1.11	08/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdio_ext.h>

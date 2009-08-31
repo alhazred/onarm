@@ -29,7 +29,7 @@
  * Ye olde non-reentrant interface (MT-unsafe, caveat utor)
  */
 
-#pragma ident	"@(#)getrpcent.c	1.23	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <rpc/rpcent.h>

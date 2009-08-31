@@ -82,7 +82,7 @@
 #ifndef _KRB5_INT_H
 #define _KRB5_INT_H
 
-#pragma ident	"@(#)k5-int.h	1.26	07/09/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_KERNEL
 #include <osconf.h>

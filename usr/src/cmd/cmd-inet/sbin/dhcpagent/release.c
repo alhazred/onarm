@@ -25,7 +25,7 @@
  * DECLINE/RELEASE configuration functionality for the DHCP client.
  */
 
-#pragma ident	"@(#)release.c	1.8	07/06/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <unistd.h>

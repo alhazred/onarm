@@ -25,7 +25,7 @@
 #
 # lib/libprtdiag/sparc/Makefile
 #
-#ident	"@(#)Makefile	1.5	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 SUBDIRS= sun4u sun4v
 

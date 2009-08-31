@@ -21,7 +21,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)sd_with_mpt.wlcmd	1.6	06/11/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 add scsi_watch_request::swr_callback targets \
 	sd.c:sd_mhd_watch_cb \

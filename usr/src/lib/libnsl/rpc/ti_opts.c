@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)ti_opts.c	1.28	06/07/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <stdio.h>

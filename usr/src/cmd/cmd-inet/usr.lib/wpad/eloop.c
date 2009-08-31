@@ -9,7 +9,7 @@
  * See README for more details.
  */
 
-#pragma ident	"@(#)eloop.c	1.1	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

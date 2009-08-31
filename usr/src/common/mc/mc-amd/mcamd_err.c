@@ -22,7 +22,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mcamd_err.c	1.2	06/11/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mcamd_api.h>
 #include <mcamd_err.h>

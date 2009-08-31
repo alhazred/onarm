@@ -27,7 +27,7 @@
 #ifndef _SMBSRV_LM_H
 #define	_SMBSRV_LM_H
 
-#pragma ident	"@(#)lm.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file provides global Lan Manager definitions.

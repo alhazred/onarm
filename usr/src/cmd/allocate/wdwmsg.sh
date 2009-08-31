@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)wdwmsg.sh	1.1	07/07/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 ################## Check parameters #################################

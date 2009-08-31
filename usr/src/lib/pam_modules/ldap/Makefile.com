@@ -24,7 +24,7 @@
 #
 # usr/src/lib/pam_modules/ldap/Makefile.com
 #
-#ident	"@(#)Makefile.com	1.10	08/01/23 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY=	pam_ldap.a

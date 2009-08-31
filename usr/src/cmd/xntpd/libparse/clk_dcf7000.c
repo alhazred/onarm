@@ -3,7 +3,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)clk_dcf7000.c	1.4	99/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * /src/NTP/REPOSITORY/v4/libparse/clk_dcf7000.c,v 3.18 1997/01/19 12:44:36 kardel Exp

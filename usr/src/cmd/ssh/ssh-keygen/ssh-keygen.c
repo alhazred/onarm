@@ -13,7 +13,7 @@
 
 /* $OpenBSD: ssh-keygen.c,v 1.160 2007/01/21 01:41:54 stevesk Exp $ */
 
-#pragma ident	"@(#)ssh-keygen.c	1.11	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "includes.h"
 #include <openssl/evp.h>

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pcie_error.c	1.19	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Library file that has code for PCIe error handling
@@ -161,7 +161,7 @@ static void	pcie_error_fini(ddi_acc_handle_t, uint16_t, uint16_t);
 
 struct modlmisc modlmisc	= {
 	&mod_miscops,	/* Type	of module */
-	"PCI Express Error Support 1.19"
+	"PCI Express Error Support %I%"
 };
 
 struct modlinkage modlinkage = {

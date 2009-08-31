@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ClientMsgManager.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)ClientMsgManager.java	1.4	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ClientMsgManager.java:Manages versioned client message creation in server
 //  Author:           James Kempf
 //  Created On:       Thu Sep 17 10:16:33 1998
@@ -49,7 +49,7 @@ import java.util.*;
  * sets the header variables. It is up to the caller to set the 
  * instance variables in the object itself.
  *
- * @version 1.4 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

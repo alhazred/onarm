@@ -30,7 +30,7 @@
 # Portions of this source code were derived from Berkeley 4.3 BSD
 # under license from the Regents of the University of California.
 
-#ident	"@(#)troff.sh	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 dev=aps
 oflags= newargs=

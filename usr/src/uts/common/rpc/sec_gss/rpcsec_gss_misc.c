@@ -24,7 +24,7 @@
  * All rights reserved.  Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rpcsec_gss_misc.c	1.25	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 1993 OpenVision Technologies, Inc., All Rights Reserved.

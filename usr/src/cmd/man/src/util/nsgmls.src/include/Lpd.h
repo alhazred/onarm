@@ -1,6 +1,6 @@
 // Copyright (c) 1994 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)Lpd.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef Lpd_INCLUDED
 #define Lpd_INCLUDED 1

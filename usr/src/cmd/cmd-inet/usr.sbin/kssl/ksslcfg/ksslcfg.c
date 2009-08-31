@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ksslcfg.c	1.2	06/05/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <arpa/inet.h> /* inet_addr() */
 #include <ctype.h>
@@ -46,7 +46,7 @@
  * It makes use of kssladm(1M) which does the grunt work.
  */
 
-#define	KSSLCFG_VERSION "v1.2"
+#define	KSSLCFG_VERSION "v%I%"
 
 boolean_t verbose = B_FALSE;
 const char *SERVICE_NAME = "network/ssl/proxy";

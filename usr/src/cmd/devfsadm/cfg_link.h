@@ -28,7 +28,7 @@
 #ifndef	_CFG_LINK_H
 #define	_CFG_LINK_H
 
-#pragma ident	"@(#)cfg_link.h	1.4	07/03/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <devfsadm.h>
 

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nxge_virtual.c	1.10	08/02/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/nxge/nxge_impl.h>
 #include <sys/nxge/nxge_mac.h>

@@ -31,7 +31,7 @@
  * pseudo bus nexus driver
  * hotplug framework test facility
  */
-#pragma ident	"@(#)pshot.c	1.20	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The pshot driver can be used to exercise the i/o framework together
@@ -377,7 +377,7 @@ static struct dev_ops pshot_ops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"pshotnex 1.20",
+	"pshotnex %I%",
 	&pshot_ops,
 };
 

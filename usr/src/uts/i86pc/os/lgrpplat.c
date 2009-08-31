@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lgrpplat.c	1.19	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/archsystm.h>	/* for {in,out}{b,w,l}() */

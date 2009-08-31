@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)isheader.c	1.7	05/06/08 SMI" 	/* SVr4.0 1.	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.	*/
 #include "mail.h"
 /*
  * isheader(lp, ctf) - check if lp is header line and return type

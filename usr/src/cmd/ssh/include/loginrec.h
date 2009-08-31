@@ -37,7 +37,7 @@
 #ifndef	_LOGINREC_H
 #define	_LOGINREC_H
 
-#pragma ident	"@(#)loginrec.h	1.2	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

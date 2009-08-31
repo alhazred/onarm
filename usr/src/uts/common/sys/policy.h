@@ -26,7 +26,7 @@
 #ifndef	_SYS_POLICY_H
 #define	_SYS_POLICY_H
 
-#pragma ident	"@(#)policy.h	1.33	08/03/02 SMI"	/* TSOL 8 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* TSOL 8 */
 
 #include <sys/types.h>
 #include <sys/cred.h>

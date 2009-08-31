@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)chmod.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"chmod.s"
+	.file	"%M%"
 
 /* C library -- chmod						*/
 /* int chmod(char *path, mode_t mode)				*/

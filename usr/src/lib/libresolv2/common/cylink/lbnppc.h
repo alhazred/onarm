@@ -46,7 +46,7 @@
  */
  
 
-#pragma ident	"@(#)lbnppc.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Assembly-language routines for the Power PC processor.

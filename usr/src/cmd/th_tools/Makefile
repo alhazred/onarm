@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.5	05/09/21 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 PROG = th_manage th_define
 SHFILES = th_script

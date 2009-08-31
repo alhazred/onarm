@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)closefrom.c	1.4	07/02/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak closefrom = _closefrom
 #pragma weak fdwalk = _fdwalk

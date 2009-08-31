@@ -27,7 +27,7 @@
 #ifndef _NFS_KEYS_H
 #define	_NFS_KEYS_H
 
-#pragma ident	"@(#)nfs_keys.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

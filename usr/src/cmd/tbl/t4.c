@@ -13,7 +13,7 @@
  * specifies the terms and conditions for redistribution.
  */
   
-#pragma ident	"@(#)t4.c	1.11	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /* t4.c: read table specification */
 # include "t..c"

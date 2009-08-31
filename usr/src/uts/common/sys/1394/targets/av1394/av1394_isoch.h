@@ -27,7 +27,7 @@
 #ifndef _SYS_1394_TARGETS_AV1394_ISOCH_H
 #define	_SYS_1394_TARGETS_AV1394_ISOCH_H
 
-#pragma ident	"@(#)av1394_isoch.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * isoch module definitions

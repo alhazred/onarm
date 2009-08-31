@@ -27,7 +27,7 @@
 #ifndef _SATA_H
 #define	_SATA_H
 
-#pragma ident	"@(#)sata.h	1.11	08/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

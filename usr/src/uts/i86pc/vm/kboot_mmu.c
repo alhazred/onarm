@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kboot_mmu.c	1.3	07/10/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/systm.h>
@@ -53,7 +53,7 @@
  * Joe's debug printing
  */
 #define	DBG(x)    \
-	bop_printf(NULL, "kboot_mmu.c: %s is %" PRIx64 "\n", #x, (uint64_t)(x));
+	bop_printf(NULL, "%M%: %s is %" PRIx64 "\n", #x, (uint64_t)(x));
 #else
 #define	DBG(x)	/* naught */
 #endif

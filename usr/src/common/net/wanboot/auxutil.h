@@ -6,7 +6,7 @@
 #ifndef	_AUXUTIL_H
 #define	_AUXUTIL_H
 
-#pragma ident	"@(#)auxutil.h	1.1	03/04/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

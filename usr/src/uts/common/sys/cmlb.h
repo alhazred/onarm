@@ -30,7 +30,7 @@
 #ifndef _SYS_CMLB_H
 #define	_SYS_CMLB_H
 
-#pragma ident	"@(#)cmlb.h	1.3	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

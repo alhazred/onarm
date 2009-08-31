@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCHPC_H
 #define	_SYS_SCHPC_H
 
-#pragma ident	"@(#)schpc.h	1.6	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

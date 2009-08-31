@@ -27,7 +27,7 @@
 #ifndef	_REPCACHE_PROTOCOL_H
 #define	_REPCACHE_PROTOCOL_H
 
-#pragma ident	"@(#)repcache_protocol.h	1.10	08/02/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The Repository Cache Protocol

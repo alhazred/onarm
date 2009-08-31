@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)RequestHandler.java	1.5	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2001-2002 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
  */
 
-//  SCCS Status:      @(#)RequestHandler.java	1.5	06/08/05
+//  SCCS Status:      %W%	%G%
 //  RequestHandler.java: Handle an incoming request in a separate thread.
 //  Author:           James Kempf
 //  Created On:       Mon May 18 14:00:27 1998
@@ -47,7 +47,7 @@ import java.util.*;
  * may have arrived via datagram, or it may have arrived via
  * stream.
  *
- * @version 1.5 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf, Erik Guttman
  */
 

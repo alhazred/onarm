@@ -1,4 +1,4 @@
-#pragma ident	"@(#)cm.h	1.1	04/03/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * include/cm.h
  *

@@ -27,7 +27,7 @@
  * Definitions for primitive types that are explicitly sized.
  */
 
-%#pragma ident	"@(#)rpc_sztypes.x	1.4	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef unsigned hyper	uint64;
 typedef hyper		int64;

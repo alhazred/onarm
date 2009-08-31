@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getspent.c	1.12	07/04/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <shadow.h>
 #include <stdlib.h>

@@ -27,7 +27,7 @@
 #ifndef	_SYS_PX_PEC_H
 #define	_SYS_PX_PEC_H
 
-#pragma ident	"@(#)px_pec.h	1.6	05/06/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/ontrap.h>

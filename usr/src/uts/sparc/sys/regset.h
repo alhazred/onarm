@@ -30,7 +30,7 @@
 #ifndef	_SYS_REGSET_H
 #define	_SYS_REGSET_H
 
-#pragma ident	"@(#)regset.h	1.31	07/06/21 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 #include <sys/feature_tests.h>
 

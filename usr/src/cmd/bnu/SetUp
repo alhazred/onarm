@@ -20,7 +20,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)SetUp	1.5	05/06/08 SMI"	/* from SVR4 bnu:SetUp 2.3.1.9 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:SetUp 2.3.1.9 */
 
 #	a function to do the dirty work
 #	SYNTAX:

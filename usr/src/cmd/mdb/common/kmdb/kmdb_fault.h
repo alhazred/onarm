@@ -27,7 +27,7 @@
 #ifndef _KMDB_FAULT_H
 #define	_KMDB_FAULT_H
 
-#pragma ident	"@(#)kmdb_fault.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_kreg.h>
 

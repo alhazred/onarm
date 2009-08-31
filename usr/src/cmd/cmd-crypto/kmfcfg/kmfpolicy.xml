@@ -24,7 +24,7 @@
  
  Sample KMF Policy Database file.
 
-        ident	"@(#)kmfpolicy.xml	1.1	06/11/02 SMI"
+        ident	"%Z%%M%	%I%	%E% SMI"
 -->
 <!DOCTYPE kmf-policy-db SYSTEM "/usr/share/lib/xml/dtd/kmfpolicy.dtd">
 <kmf-policy-db>

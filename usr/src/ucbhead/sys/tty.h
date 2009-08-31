@@ -40,7 +40,7 @@
 #ifndef _SYS_TTY_H
 #define	_SYS_TTY_H
 
-#pragma ident	"@(#)tty.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ttychars.h>
 #include <sys/ttydev.h>

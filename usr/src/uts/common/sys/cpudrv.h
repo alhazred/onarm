@@ -26,7 +26,7 @@
 #ifndef _SYS_CPUDRV_H
 #define	_SYS_CPUDRV_H
 
-#pragma ident	"@(#)cpudrv.h	1.10	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/promif.h>
 #include <sys/cpuvar.h>

@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)audiots.c	1.28	06/02/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * audiots Audio Driver
@@ -330,7 +330,7 @@ static struct dev_ops audiots_dev_ops = {
 /* Linkage structure for loadable drivers */
 static struct modldrv audiots_modldrv = {
 	&mod_driverops,		/* drv_modops */
-	TS_MOD_NAME " 1.28",	/* drv_linkinfo */
+	TS_MOD_NAME " %I%",	/* drv_linkinfo */
 	&audiots_dev_ops	/* drv_dev_ops */
 };
 

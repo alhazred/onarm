@@ -23,7 +23,7 @@
 # Copyright 2001 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)README	1.5	05/06/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 These sources should be kept compilable on all OS releases back to
 Solaris 2.6 for patch releases.

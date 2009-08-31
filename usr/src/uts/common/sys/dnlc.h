@@ -39,7 +39,7 @@
 #ifndef _SYS_DNLC_H
 #define	_SYS_DNLC_H
 
-#pragma ident	"@(#)dnlc.h	1.26	06/02/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

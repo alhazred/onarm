@@ -27,7 +27,7 @@
  *
  */
 
-#pragma ident	"@(#)context_establish.c	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include "dh_gssapi.h"

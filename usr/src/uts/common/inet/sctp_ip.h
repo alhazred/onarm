@@ -29,7 +29,7 @@
 #ifndef _INET_SCTP_IP_H
 #define	_INET_SCTP_IP_H
 
-#pragma ident	"@(#)sctp_ip.h	1.7	07/05/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

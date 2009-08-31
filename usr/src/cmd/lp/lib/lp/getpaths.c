@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)getpaths.c	1.10	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* LINTLIBRARY */
 
 #include "stdlib.h"

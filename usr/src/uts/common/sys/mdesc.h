@@ -27,7 +27,7 @@
 #ifndef	_MDESC_H_
 #define	_MDESC_H_
 
-#pragma ident	"@(#)mdesc.h	1.5	06/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

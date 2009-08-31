@@ -183,4 +183,4 @@ _gettemp(path, doopen, domkdir, slen)
 
 #endif /* !HAVE_MKDTEMP */
 
-#pragma ident	"@(#)mktemp.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

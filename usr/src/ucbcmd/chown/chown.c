@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)chown.c	1.8	05/10/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * chown [-fR] uid[.gid] file ...

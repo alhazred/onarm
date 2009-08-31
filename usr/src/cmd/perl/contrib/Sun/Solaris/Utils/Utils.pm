@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Utils.pm	1.3	06/02/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #
@@ -35,7 +35,7 @@ use strict;
 use Exporter;
 use DynaLoader;
 use vars qw($VERSION @ISA @EXPORT_OK);
-$VERSION = '1.3';
+$VERSION = '%I%';
 @ISA = qw(Exporter DynaLoader);
 @EXPORT_OK = qw(gmatch gettext textdomain bindtextdomain dcgettext dgettext);
 bootstrap Sun::Solaris::Utils $VERSION;

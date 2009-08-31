@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)snoop_ipaddr.c	1.15	06/03/24 SMI"	/* SunOS */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS */
 
 #include <stdio.h>
 #include <stdlib.h>

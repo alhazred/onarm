@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)printers.h	1.13	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if	!defined(_LP_PRINTERS_H)
 #define	_LP_PRINTERS_H

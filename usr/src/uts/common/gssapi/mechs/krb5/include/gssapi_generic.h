@@ -28,7 +28,7 @@
 #ifndef _GSSAPI_GENERIC_H_
 #define _GSSAPI_GENERIC_H_
 
-#pragma ident	"@(#)gssapi_generic.h	1.2	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * $Id: gssapi_generic.h,v 1.16 2003/03/06 20:26:35 lxs Exp $

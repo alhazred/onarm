@@ -10,7 +10,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-#ident	"@(#)bestmx_is_local.m4	1.6	01/08/27 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 divert(0)

@@ -33,7 +33,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)i915_mem.c	1.3	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* This memory manager is integrated into the global/local lru
  * mechanisms used by the clients.  Specifically, it operates by

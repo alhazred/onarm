@@ -29,7 +29,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)errexit.c	6.6	05/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include  "errmsg.h"
 

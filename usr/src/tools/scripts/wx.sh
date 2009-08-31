@@ -27,7 +27,7 @@
 # 
 #ident	"@(#)wx	1.12	98/11/09 SMI" (from bonwick)
 #ident  "@(#)wxx 1.26     03/01/23 SMI" (from fiveash)
-#ident	"@(#)wx.sh	1.48	07/05/07 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # wx -- workspace extensions.  Jeff Bonwick, December 1992.
@@ -35,7 +35,7 @@
 # The bugster cat/subcat = consolidation/os-net-tools
 
 version() {
-	echo "@(#)wx.sh	1.48	07/05/07 SMI"
+	echo "%Z%%M%	%I%	%E% SMI"
 }
 
 ring_bell() {

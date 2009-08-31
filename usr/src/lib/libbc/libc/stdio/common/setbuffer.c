@@ -34,7 +34,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)setbuffer.c	1.17	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <malloc.h>

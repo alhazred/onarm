@@ -26,7 +26,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)_setup.c	1.35	07/07/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SPARCV9-specific setup routine  -  relocate ld.so's symbols, setup its

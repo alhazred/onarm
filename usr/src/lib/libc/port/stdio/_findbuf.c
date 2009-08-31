@@ -27,7 +27,7 @@
 /*	Copyright (c) 1988 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)_findbuf.c	1.22	06/04/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #define	_LARGEFILE64_SOURCE	1

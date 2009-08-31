@@ -27,7 +27,7 @@
  * nisplus/getpwnam.c -- NIS+ backend for nsswitch "passwd" database
  */
 
-#pragma ident	"@(#)getpwnam.c	1.16	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <pwd.h>

@@ -25,7 +25,7 @@
  */
 
 
-#pragma ident	"@(#)__get_authtoken_attr.c	1.5	06/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errno.h>
 #include <sys/types.h>

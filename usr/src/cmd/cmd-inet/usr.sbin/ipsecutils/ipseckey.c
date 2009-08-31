@@ -31,7 +31,7 @@
  *	to systems without POSIX threads.
  */
 
-#pragma ident	"@(#)ipseckey.c	1.29	08/02/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stat.h>

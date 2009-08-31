@@ -27,7 +27,7 @@
 #ifndef _PCIBUS_LABELS_H
 #define	_PCIBUS_LABELS_H
 
-#pragma ident	"@(#)pcibus_labels.h	1.6	07/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <hostbridge.h>
 #include <did.h>

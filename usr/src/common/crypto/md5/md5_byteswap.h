@@ -27,7 +27,7 @@
 #ifndef	_MD5_BYTESWAP_H
 #define	_MD5_BYTESWAP_H
 
-#pragma ident	"@(#)md5_byteswap.h	1.2	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * definitions for inline functions for little-endian loads.

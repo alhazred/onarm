@@ -27,7 +27,7 @@
 #ifndef _SHA1_H
 #define	_SHA1_H
 
-#pragma ident	"@(#)sha1.h	1.1	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sha1.h>
 

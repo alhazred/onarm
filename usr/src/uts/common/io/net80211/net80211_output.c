@@ -35,7 +35,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)net80211_output.c	1.4	07/06/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

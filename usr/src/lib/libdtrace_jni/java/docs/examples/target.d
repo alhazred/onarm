@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma	ident	"@(#)target.d	1.1	06/02/16 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 syscall:::entry
 /pid == $target/

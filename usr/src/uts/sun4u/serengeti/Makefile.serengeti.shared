@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.serengeti.shared	1.5	07/07/30 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	Global definitions for sun4u implementation specific modules.

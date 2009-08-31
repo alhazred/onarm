@@ -27,7 +27,7 @@
 #ifndef	_SYS_VUID_WHEEL_H
 #define	_SYS_VUID_WHEEL_H
 
-#pragma ident	"@(#)vuid_wheel.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/vuid_event.h>	/* for VUIOC definition */
 

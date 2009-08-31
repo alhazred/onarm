@@ -30,7 +30,7 @@
 #ifndef	_DECL_H
 #define	_DECL_H
 
-#pragma ident	"@(#)decl.h	1.22	07/02/06 SMI" 	/* SVr4.0 1.9	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.9	*/
 
 #include <thread.h>
 #include <note.h>

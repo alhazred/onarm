@@ -1,4 +1,4 @@
-#ident	"@(#)private.txt	1.2	05/06/10 SMI" mwc
+#ident	"%Z%%M%	%I%	%E% SMI" mwc
 
 CDDL HEADER START
 

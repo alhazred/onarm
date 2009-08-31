@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)wstok.c	1.24	06/01/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*	Copyright (c) 1986 AT&T	*/
 /*	  All Rights Reserved  	*/

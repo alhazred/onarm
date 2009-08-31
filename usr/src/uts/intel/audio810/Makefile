@@ -25,7 +25,7 @@
 # uts/intel/audio810/Makefile
 #
 #
-# ident	"@(#)Makefile	1.6	07/07/05 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of Metropolis audio driver
 #	(audio810) kernel module.

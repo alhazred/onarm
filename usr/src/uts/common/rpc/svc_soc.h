@@ -41,7 +41,7 @@
 #ifndef _RPC_SVC_SOC_H
 #define	_RPC_SVC_SOC_H
 
-#pragma ident	"@(#)svc_soc.h	1.21	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _KERNEL
 

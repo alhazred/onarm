@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)hid.c	1.45	06/06/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Human Interface Device driver (HID)
@@ -239,7 +239,7 @@ static struct dev_ops hid_ops = {
 
 static struct modldrv hidmodldrv =	{
 	&mod_driverops,
-	"USB HID Client Driver 1.45",
+	"USB HID Client Driver %I%",
 	&hid_ops			/* driver ops */
 };
 

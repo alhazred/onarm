@@ -32,7 +32,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)strecpy.c	1.12	06/01/04 SMI"	/* SVr4.0 1.2.5.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2.5.2 */
 
 /*LINTLIBRARY*/
 

@@ -27,7 +27,7 @@
 #ifndef	_PROMPTS_H
 #define	_PROMPTS_H
 
-#pragma ident	"@(#)prompts.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

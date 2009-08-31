@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)audiohd.c	1.13	07/08/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The audiohd driver provides functionality for playing audio on
@@ -352,7 +352,7 @@ static struct dev_ops audiohd_dev_ops = {
 /* Linkage structure for loadable drivers */
 static struct modldrv audiohd_modldrv = {
 	&mod_driverops,		/* drv_modops */
-	AUDIOHD_MOD_NAME"1.13",	/* drv_linkinfo */
+	AUDIOHD_MOD_NAME"%I%",	/* drv_linkinfo */
 	&audiohd_dev_ops,		/* drv_dev_ops */
 };
 

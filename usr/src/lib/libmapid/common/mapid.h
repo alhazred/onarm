@@ -26,7 +26,7 @@
 #ifndef	_MAPID_H
 #define	_MAPID_H
 
-#pragma ident	"@(#)mapid.h	1.8	06/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

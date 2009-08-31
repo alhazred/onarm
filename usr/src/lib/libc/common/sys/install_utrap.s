@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)install_utrap.s	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"install_utrap.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

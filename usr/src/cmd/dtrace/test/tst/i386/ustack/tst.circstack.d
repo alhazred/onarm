@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tst.circstack.d	1.2	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 syscall::getpid:entry
 /pid == $1/

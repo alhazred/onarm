@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)dumpitime.c	1.28	05/03/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "dump.h"
 

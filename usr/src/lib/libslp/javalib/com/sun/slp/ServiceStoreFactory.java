@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ServiceStoreFactory.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)ServiceStoreFactory.java	1.4	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ServiceStoreFactory.java: Factory for creating ServiceStore objects.
 //  Author:           James Kempf
 //  Created On:       Fri Apr 17 12:14:12 1998
@@ -48,7 +48,7 @@ import java.io.*;
  * a connection to an LDAP server, or a persistent object
  * database.
  *
- * @version 1.4 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

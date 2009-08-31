@@ -25,7 +25,7 @@
  * BOUND state of the DHCP client state machine.
  */
 
-#pragma ident	"@(#)bound.c	1.26	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/socket.h>
 #include <sys/types.h>

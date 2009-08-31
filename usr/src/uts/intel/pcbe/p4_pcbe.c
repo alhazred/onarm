@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)p4_pcbe.c	1.14	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Performance Counter Back-End for Pentium 4.
@@ -906,7 +906,7 @@ p4_pcbe_free(void *config)
 
 static struct modlpcbe modlpcbe = {
 	&mod_pcbeops,
-	"Pentium 4 Performance Counters v1.14",
+	"Pentium 4 Performance Counters v%I%",
 	&p4_pcbe_ops
 };
 

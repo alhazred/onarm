@@ -27,7 +27,7 @@
 #ifndef _SNOOP_VLAN_H
 #define	_SNOOP_VLAN_H
 
-#pragma ident	"@(#)snoop_vlan.h	1.1	06/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ethernet.h>
 

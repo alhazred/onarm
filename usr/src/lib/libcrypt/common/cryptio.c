@@ -30,7 +30,7 @@
 
 
 
-#pragma ident	"@(#)cryptio.c	1.21	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak run_setkey = _run_setkey
 #pragma weak run_crypt = _run_crypt

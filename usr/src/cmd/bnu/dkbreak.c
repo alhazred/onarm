@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)dkbreak.c	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef DIAL
 	static char	SCCSID[] = "@(#)dkbreak.c	2.2+BNU DKHOST 86/04/02";

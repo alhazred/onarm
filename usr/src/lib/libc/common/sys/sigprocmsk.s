@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sigprocmsk.s	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"sigprocmsk.s"
+	.file	"%M%"
 
 /* C library -- sigprocmask					*/
 /* int sigprocmask (int how, sigset_t *set, sigset_t *oset)	*/

@@ -27,7 +27,7 @@
 #ifndef	_SORT_FIELDS_H
 #define	_SORT_FIELDS_H
 
-#pragma ident	"@(#)fields.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

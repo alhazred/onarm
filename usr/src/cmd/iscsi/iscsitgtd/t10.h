@@ -27,7 +27,7 @@
 #ifndef _T10_H
 #define	_T10_H
 
-#pragma ident	"@(#)t10.h	1.8	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header file describes the service level between the transport

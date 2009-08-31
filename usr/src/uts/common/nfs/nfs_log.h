@@ -27,7 +27,7 @@
 #ifndef	_NFS_LOG_H
 #define	_NFS_LOG_H
 
-#pragma ident	"@(#)nfs_log.h	1.34	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sghsc.c	1.23	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *
@@ -129,7 +129,7 @@ static struct dev_ops sghsc_dev_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"Serengeti CompactPCI HSC v1.23",
+	"Serengeti CompactPCI HSC v%I%",
 	&sghsc_dev_ops,
 };
 

@@ -27,7 +27,7 @@
 #ifndef	_SYS_GPTWO_PCI_H
 #define	_SYS_GPTWO_PCI_H
 
-#pragma ident	"@(#)gptwo_pci.h	1.2	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Header file for the PCI/Schizo component to the

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nfs4_stub_vnops.c	1.3	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Support for ephemeral mounts, e.g. mirror-mounts. These mounts are

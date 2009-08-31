@@ -27,7 +27,7 @@
 #ifndef	_HPC3130_H
 #define	_HPC3130_H
 
-#pragma ident	"@(#)hpc3130.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

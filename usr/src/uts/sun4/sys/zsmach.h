@@ -27,7 +27,7 @@
 #ifndef _SYS_ZSMACH_H
 #define	_SYS_ZSMACH_H
 
-#pragma ident	"@(#)zsmach.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -7,7 +7,7 @@
 #ifndef	_AUTH2_PAM_H
 #define	_AUTH2_PAM_H
 
-#pragma ident	"@(#)auth2-pam.h	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

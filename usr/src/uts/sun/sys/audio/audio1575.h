@@ -27,7 +27,7 @@
 #ifndef	_SYS_AUDIO1575_H_
 #define	_SYS_AUDIO1575_H_
 
-#pragma ident	"@(#)audio1575.h	1.1	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

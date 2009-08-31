@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)ldap_err.c	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <ldap.h>
 #include <errno.h>

@@ -33,7 +33,7 @@
 #ifndef _COMMON_INC_SYNONYMS_H
 #define	_COMMON_INC_SYNONYMS_H
 
-#pragma ident	"@(#)c_synonyms.h	1.32	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

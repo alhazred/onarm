@@ -26,7 +26,7 @@
 #ifndef	_SYS_PRIV_H
 #define	_SYS_PRIV_H
 
-#pragma ident	"@(#)priv.h	1.8	08/03/02 SMI"	/* from TSOL 8 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from TSOL 8 */
 
 #include <sys/types.h>
 #include <sys/cred.h>

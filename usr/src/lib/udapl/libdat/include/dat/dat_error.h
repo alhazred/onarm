@@ -31,7 +31,7 @@
 #ifndef _DAT_ERROR_H_
 #define	_DAT_ERROR_H_
 
-#pragma ident	"@(#)dat_error.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

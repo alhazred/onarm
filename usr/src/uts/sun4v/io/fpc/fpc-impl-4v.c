@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fpc-impl-4v.c	1.2	06/03/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/file.h>
 #include <sys/hypervisor_api.h>

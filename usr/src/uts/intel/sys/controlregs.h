@@ -26,7 +26,7 @@
 #ifndef	_SYS_CONTROLREGS_H
 #define	_SYS_CONTROLREGS_H
 
-#pragma ident	"@(#)controlregs.h	1.12	07/08/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM
 #include <sys/types.h>

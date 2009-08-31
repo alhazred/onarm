@@ -31,7 +31,7 @@
 
 #ifdef RPC_HDR
 %
-%#pragma ident	"@(#)rstat.x	1.10	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 %/*
 % * Scale factor for scaled integers used to count load averages.

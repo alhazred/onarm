@@ -28,7 +28,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)strconf.c	1.9	05/08/30 SMI"	/* SVr4.0 1.5	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5	*/
 
 /*
  * Streams Command strconf:	display the configuration of the

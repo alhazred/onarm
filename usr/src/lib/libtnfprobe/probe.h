@@ -26,7 +26,7 @@
 #ifndef _TNF_PROBE_H
 #define	_TNF_PROBE_H
 
-#pragma ident	"@(#)probe.h	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <tnf/writer.h>
 #include <sys/tnf_probe.h>

@@ -34,7 +34,7 @@
 #ifndef __KRB5_KDC_UTIL__
 #define __KRB5_KDC_UTIL__
 
-#pragma ident	"@(#)kdc_util.h	1.7	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "kdb.h"
 

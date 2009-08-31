@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)door.s	1.24	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"door.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

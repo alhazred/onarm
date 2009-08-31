@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)siglist.c	1.19	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "synonyms.h"
 #include <sys/types.h>

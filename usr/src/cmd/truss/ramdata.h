@@ -30,7 +30,7 @@
 #ifndef _RAMDATA_H
 #define	_RAMDATA_H
 
-#pragma ident	"@(#)ramdata.h	1.33	06/06/02 SMI"	/* SVr4.0 1.3	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 
 /* $Id: common.c 151 2006-04-25 16:55:34Z njacobs $ */
 
-#pragma ident	"@(#)common.c	1.2	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Shared "unsupported" function implementations that can be overridden

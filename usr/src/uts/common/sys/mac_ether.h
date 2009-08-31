@@ -26,7 +26,7 @@
 #ifndef	_SYS_MAC_ETHER_H
 #define	_SYS_MAC_ETHER_H
 
-#pragma ident	"@(#)mac_ether.h	1.3	07/06/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Ethernet MAC Plugin

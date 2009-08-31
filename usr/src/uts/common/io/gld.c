@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)gld.c	1.104	08/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * gld - Generic LAN Driver Version 2, PSARC/1997/382
@@ -397,7 +397,7 @@ static struct glddevice gld_device_list;  /* Per-system root of GLD tables */
 
 static struct modldrv modlmisc = {
 	&mod_miscops,		/* Type of module - a utility provider */
-	"Generic LAN Driver (" GLD_VERSION_STRING ") 1.104"
+	"Generic LAN Driver (" GLD_VERSION_STRING ") %I%"
 #ifdef GLD_DEBUG
 	" DEBUG"
 #endif

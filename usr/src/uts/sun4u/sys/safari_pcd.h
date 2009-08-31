@@ -27,7 +27,7 @@
 #ifndef	_SYS_SAFARI_PCD_H
 #define	_SYS_SAFARI_PCD_H
 
-#pragma ident	"@(#)safari_pcd.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains definitions of the structure spcd_t, Port Configuration

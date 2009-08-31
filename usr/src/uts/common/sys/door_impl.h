@@ -27,7 +27,7 @@
 #ifndef	_SYS_DOOR_IMPL_H
 #define	_SYS_DOOR_IMPL_H
 
-#pragma ident	"@(#)door_impl.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Common definitions for <sys/door.h> and <sys/proc.h>.

@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_LMDFS_H
 #define	_SMBSRV_LMDFS_H
 
-#pragma ident	"@(#)lmdfs.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * LAN Manager DFS interface definition.

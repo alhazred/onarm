@@ -24,7 +24,7 @@
 #ifndef _ZIO_H
 #define	_ZIO_H
 
-#pragma ident	"@(#)zio.h	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	ZBT_MAGIC	0x210da7ab10c7a11ULL	/* zio data bloc tail */
 

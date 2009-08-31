@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.180	07/12/06 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/libc/i386/Makefile
 #

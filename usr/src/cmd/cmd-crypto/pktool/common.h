@@ -26,7 +26,7 @@
 #ifndef _PKTOOL_COMMON_H
 #define	_PKTOOL_COMMON_H
 
-#pragma ident	"@(#)common.h	1.9	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains data and functions shared between all the

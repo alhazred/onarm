@@ -27,7 +27,7 @@
 #ifndef _STRUCTURES_H
 #define	_STRUCTURES_H
 
-#pragma ident	"@(#)structures.h	1.4	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <net/if.h>
 #include <libscf.h>

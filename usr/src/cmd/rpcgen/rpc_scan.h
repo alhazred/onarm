@@ -39,7 +39,7 @@
 #ifndef _RPC_SCAN_H
 #define	_RPC_SCAN_H
 
-#pragma ident	"@(#)rpc_scan.h	1.13	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rpc_scan.h, Definitions for the RPCL scanner

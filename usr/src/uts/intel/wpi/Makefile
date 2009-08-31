@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 
-# ident	"@(#)Makefile	1.1	07/04/28 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This makefile drives the production of the wpi driver kernel module.
 #

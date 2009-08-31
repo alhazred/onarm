@@ -30,7 +30,7 @@
 #ifndef	_SYS_FS_ZFS_ACL_H
 #define	_SYS_FS_ZFS_ACL_H
 
-#pragma ident	"@(#)zfs_acl.h	1.8	08/03/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef _KERNEL
 #include <sys/isa_defs.h>
@@ -46,6 +46,8 @@ extern "C" {
 #endif
 
 struct znode_phys;
+
+#define	ACCESS_UNDETERMINED	-1
 
 #define	ACE_SLOT_CNT	6
 #define	ZFS_ACL_VERSION_INITIAL 0ULL

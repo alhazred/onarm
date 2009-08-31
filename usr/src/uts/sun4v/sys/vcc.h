@@ -28,7 +28,7 @@
 #ifndef _VCC_H
 #define	_VCC_H
 
-#pragma ident	"@(#)vcc.h	1.2	06/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

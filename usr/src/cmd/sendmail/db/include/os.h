@@ -7,7 +7,7 @@
  *	@(#)os.h	10.11 (Sleepycat) 10/12/98
  */
 
-#pragma ident	"@(#)os.h	1.1	00/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * We group seek/write calls into a single function so that we can use

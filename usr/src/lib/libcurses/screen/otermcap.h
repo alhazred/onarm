@@ -40,7 +40,7 @@
 #ifndef _OTERMCAP_H
 #define	_OTERMCAP_H
 
-#pragma ident	"@(#)otermcap.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

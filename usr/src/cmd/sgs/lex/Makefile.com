@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.com	1.14	07/06/25 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 MACHOBJS=	main.o sub1.o sub2.o sub3.o header.o parser.o

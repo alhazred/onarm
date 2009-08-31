@@ -35,7 +35,7 @@
 #ifndef _XEN_SYS_EVTCHN_H
 #define _XEN_SYS_EVTCHN_H
 
-#pragma ident	"@(#)evtchn.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	_IOC_NONE	0
 #define	_IOC(flag, letter, inum, size)	((letter) << 8 | (inum))

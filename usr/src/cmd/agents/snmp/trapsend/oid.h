@@ -26,7 +26,7 @@
 #ifndef _OID_H_
 #define _OID_H_
 
-#pragma ident	"@(#)oid.h	1.4	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern Oid *get_oid(char *enterprise_str); 
 extern SNMP_variable *get_variable(char *buf); 

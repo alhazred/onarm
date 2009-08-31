@@ -45,7 +45,7 @@
 #ifndef _ECL_CURVE_H
 #define _ECL_CURVE_H
 
-#pragma ident	"@(#)ecl-curve.h	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ecl-exp.h"
 #ifndef _KERNEL

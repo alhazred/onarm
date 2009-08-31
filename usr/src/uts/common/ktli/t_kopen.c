@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)t_kopen.c	1.30	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Kernel TLI-like function to initialize a transport

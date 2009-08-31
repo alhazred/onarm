@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)requests.h	1.9	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if	!defined(_LP_REQUESTS_H)
 #define	_LP_REQUESTS_H

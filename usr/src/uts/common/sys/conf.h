@@ -29,7 +29,7 @@
 #ifndef _SYS_CONF_H
 #define	_SYS_CONF_H
 
-#pragma ident	"@(#)conf.h	1.75	07/06/12 SMI"	/* SVr4.0 11.21	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.21	*/
 
 #include <sys/feature_tests.h>
 

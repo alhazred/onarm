@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)inc.flg	1.8	08/01/22 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 echo_file usr/src/cmd/cmd-inet/usr.lib/inetd/inetd-upgrade.xml

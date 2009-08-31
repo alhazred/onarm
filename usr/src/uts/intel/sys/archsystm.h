@@ -26,7 +26,7 @@
 #ifndef _SYS_ARCHSYSTM_H
 #define	_SYS_ARCHSYSTM_H
 
-#pragma ident	"@(#)archsystm.h	1.38	07/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * A selection of ISA-dependent interfaces

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gssapi.c	1.4	04/02/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* GSSAPI SASL plugin
  * Leif Johansson

@@ -39,7 +39,7 @@
 #ifndef	_SYS_MMAN_H
 #define	_SYS_MMAN_H
 
-#pragma ident	"@(#)mman.h	1.50	07/10/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

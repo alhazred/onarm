@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ConvertWizard.java	1.5	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2001-2002 by Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.

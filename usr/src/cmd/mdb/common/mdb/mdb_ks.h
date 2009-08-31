@@ -26,7 +26,7 @@
 #ifndef	_MDB_KS_H
 #define	_MDB_KS_H
 
-#pragma ident	"@(#)mdb_ks.h	1.15	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/int_types.h>

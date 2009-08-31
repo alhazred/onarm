@@ -72,7 +72,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)rdsib_buf.c	1.5	07/12/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ib/clients/rds/rdsib_cm.h>
 #include <sys/ib/clients/rds/rdsib_ib.h>

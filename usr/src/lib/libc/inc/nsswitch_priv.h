@@ -38,7 +38,7 @@
 #ifndef _NSSWITCH_PRIV_H
 #define	_NSSWITCH_PRIV_H
 
-#pragma ident	"@(#)nsswitch_priv.h	1.9	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <nsswitch.h>
 

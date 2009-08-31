@@ -27,7 +27,7 @@
 #ifndef _TOPO_HC_H
 #define	_TOPO_HC_H
 
-#pragma ident	"@(#)topo_hc.h	1.10	08/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

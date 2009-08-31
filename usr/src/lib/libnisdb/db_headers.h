@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)db_headers.h	1.13	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _DB_HEADERS_H
 #define	_DB_HEADERS_H

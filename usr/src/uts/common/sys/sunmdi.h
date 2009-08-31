@@ -26,7 +26,7 @@
 #ifndef	_SYS_SUNMDI_H
 #define	_SYS_SUNMDI_H
 
-#pragma ident	"@(#)sunmdi.h	1.21	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Multiplexed I/O global include

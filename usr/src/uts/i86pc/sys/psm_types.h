@@ -27,7 +27,7 @@
 #ifndef	_SYS_PSM_TYPES_H
 #define	_SYS_PSM_TYPES_H
 
-#pragma ident	"@(#)psm_types.h	1.20	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Platform Specific Module Types

@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xencons.c	1.2	07/12/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *
@@ -1608,7 +1608,7 @@ struct dev_ops xencons_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a driver */
-	"virtual console driver 1.2",
+	"virtual console driver %I%",
 	&xencons_ops,	/* driver ops */
 };
 

@@ -6,7 +6,7 @@
 #ifndef _KRB5_DB2_RECNO_EXTERN_H
 #define	_KRB5_DB2_RECNO_EXTERN_H
 
-#pragma ident	"@(#)extern.h	1.2	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

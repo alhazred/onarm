@@ -31,7 +31,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)mount.c	1.53	08/02/13 SMI"	/* SVr4.0 1.82	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.82	*/
 
 #include	<stdio.h>
 #include	<stdio_ext.h>

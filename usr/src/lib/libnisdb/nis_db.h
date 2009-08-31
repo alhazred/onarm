@@ -24,7 +24,7 @@
  *	All rights reserved.
  */
 
-#pragma ident	"@(#)nis_db.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_NIS_DB_H
 #define	_NIS_DB_H

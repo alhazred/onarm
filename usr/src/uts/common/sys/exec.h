@@ -33,7 +33,7 @@
 #ifndef _SYS_EXEC_H
 #define	_SYS_EXEC_H
 
-#pragma ident	"@(#)exec.h	1.64	07/07/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/systm.h>
 #include <vm/seg.h>

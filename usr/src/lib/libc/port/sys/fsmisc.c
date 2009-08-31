@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fsmisc.c	1.6	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak fchownat = _fchownat
 #pragma weak renameat = _renameat

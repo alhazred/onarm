@@ -7,7 +7,7 @@
 # Portions of this source code were derived from Berkeley 4.3 BSD
 # under license from the Regents of the University of California.
 
-#ident	"@(#)README	1.3	05/06/01 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 Description of terminal tables for new nroff:
 (In the following description, "white space" means any combination

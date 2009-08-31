@@ -1,4 +1,4 @@
--- #ident	"@(#)mib_MTRACK.txt	1.3	05/06/12 SMI"
+-- #ident	"%Z%%M%	%I%	%E% SMI"
 
 MTA-MESSAGE-TRACK-MIB DEFINITIONS ::= BEGIN
 

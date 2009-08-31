@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIOUNIXFILE_INLINE_H
 #define	_MULTIMEDIA_AUDIOUNIXFILE_INLINE_H
 
-#pragma ident	"@(#)AudioUnixfile_inline.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

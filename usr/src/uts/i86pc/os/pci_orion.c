@@ -26,7 +26,7 @@
  * Derived from pseudocode supplied by Intel.
  */
 
-#pragma ident	"@(#)pci_orion.c	1.9	05/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Workaround for Intel Orion chipset bug

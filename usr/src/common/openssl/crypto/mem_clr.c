@@ -61,7 +61,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mem_clr.c	1.4	06/02/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include <openssl/crypto.h>

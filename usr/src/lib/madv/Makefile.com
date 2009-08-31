@@ -27,7 +27,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-# ident	"@(#)Makefile.com	1.7	07/05/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY =	madv.a

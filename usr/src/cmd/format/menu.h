@@ -27,7 +27,7 @@
 #ifndef	_MENU_H
 #define	_MENU_H
 
-#pragma ident	"@(#)menu.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

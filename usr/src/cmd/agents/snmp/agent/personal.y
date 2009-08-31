@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)personal.y	1.15	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 %}
 

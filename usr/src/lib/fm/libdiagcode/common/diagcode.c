@@ -35,7 +35,7 @@
  * note that this environment variable is only examined in fm_dc_opendict().
  */
 
-#pragma ident	"@(#)diagcode.c	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

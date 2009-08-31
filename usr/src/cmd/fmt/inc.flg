@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 
-#ident	"@(#)inc.flg	1.1	05/08/16 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 echo_file usr/src/cmd/mailx/Makefile
 echo_file usr/src/cmd/mailx/head.c

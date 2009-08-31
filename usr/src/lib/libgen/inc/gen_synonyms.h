@@ -31,7 +31,7 @@
 #ifndef	_GEN_SYNONYMS_H
 #define	_GEN_SYNONYMS_H
 
-#pragma ident	"@(#)gen_synonyms.h	1.14	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "c_synonyms.h"
 

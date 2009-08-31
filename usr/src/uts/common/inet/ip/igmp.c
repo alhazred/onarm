@@ -24,7 +24,7 @@
  */
 /* Copyright (c) 1990 Mentat Inc. */
 
-#pragma ident	"@(#)igmp.c	1.65	07/07/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Internet Group Management Protocol (IGMP) routines.

@@ -30,7 +30,7 @@
 #ifndef	_SYS_FS_HSFS_SPEC_H
 #define	_SYS_FS_HSFS_SPEC_H
 
-#pragma ident	"@(#)hsfs_spec.h	1.19	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * High Sierra filesystem specification

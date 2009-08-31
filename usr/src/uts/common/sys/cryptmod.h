@@ -32,7 +32,7 @@
 #ifndef _SYS_CRYPTMOD_H
 #define	_SYS_CRYPTMOD_H
 
-#pragma ident	"@(#)cryptmod.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/types32.h>

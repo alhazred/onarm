@@ -27,7 +27,7 @@
 #ifndef _AO_H
 #define	_AO_H
 
-#pragma ident	"@(#)ao.h	1.6	07/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/mc.h>

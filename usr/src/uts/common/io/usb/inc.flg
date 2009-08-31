@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)inc.flg	1.26	07/09/04 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # This file brings down all that is needed to build just 
 # USB drivers.

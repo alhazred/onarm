@@ -30,7 +30,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)elf_read.c	1.5	07/11/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ELF files can exceed 2GB in size. A standard 32-bit program

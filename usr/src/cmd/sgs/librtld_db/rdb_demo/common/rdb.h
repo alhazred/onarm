@@ -26,7 +26,7 @@
 #ifndef _RDB_H
 #define	_RDB_H
 
-#pragma ident	"@(#)rdb.h	1.15	07/02/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rtld_db.h>
 #include <sys/types.h>

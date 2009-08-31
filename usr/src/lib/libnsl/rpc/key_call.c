@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)key_call.c	1.59	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Interface to keyserver

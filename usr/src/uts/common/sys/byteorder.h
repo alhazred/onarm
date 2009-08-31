@@ -40,7 +40,7 @@
 #ifndef _SYS_BYTEORDER_H
 #define	_SYS_BYTEORDER_H
 
-#pragma ident	"@(#)byteorder.h	1.23	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/int_types.h>

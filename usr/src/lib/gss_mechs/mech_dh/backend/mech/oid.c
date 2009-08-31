@@ -27,7 +27,7 @@
  *
  */
 
-#pragma ident	"@(#)oid.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include "dh_gssapi.h"

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ibtl_qp.c	1.11	07/08/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ib/ibtl/impl/ibtl.h>
 #include <sys/ib/ibtl/impl/ibtl_cm.h>

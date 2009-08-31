@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)st.c	1.277	08/03/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SCSI	 SCSA-compliant and not-so-DDI-compliant Tape Driver
@@ -661,7 +661,7 @@ MODDRV_DEPENDS_ON("misc/scsi");
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module. This one is a driver */
-	"SCSI tape Driver 1.277", /* Name of the module. */
+	"SCSI tape Driver %I%", /* Name of the module. */
 	&st_ops			/* driver ops */
 };
 

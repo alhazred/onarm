@@ -32,7 +32,7 @@
 #ifndef _KDB5_LDAP_SERVICES_H_
 #define _KDB5_LDAP_SERVICES_H_
 
-#pragma ident	"@(#)kdb5_ldap_services.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ldap_misc.h"
 

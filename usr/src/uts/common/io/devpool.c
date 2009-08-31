@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)devpool.c	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/file.h>
@@ -696,7 +696,7 @@ static struct dev_ops pool_ops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops,		/* this one is a pseudo driver */
-	"pool driver 1.7",
+	"pool driver %I%",
 	&pool_ops
 };
 

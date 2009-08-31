@@ -27,7 +27,7 @@
 #ifndef _STDBOOL_H
 #define	_STDBOOL_H
 
-#pragma ident	"@(#)stdbool.h	1.4	06/07/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header is included for alignment with the ISO/IEC 9899:1999 standard.

@@ -26,7 +26,7 @@
 #ifndef _DISKS_PRIVATE_H
 #define	_DISKS_PRIVATE_H
 
-#pragma ident	"@(#)disks_private.h	1.12	06/10/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

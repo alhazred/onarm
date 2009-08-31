@@ -27,7 +27,7 @@
 #ifndef	_INET_IP_NETINFO_H
 #define	_INET_IP_NETINFO_H
 
-#pragma ident	"@(#)ip_netinfo.h	1.3	08/01/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

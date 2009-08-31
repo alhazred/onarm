@@ -1,4 +1,4 @@
-#pragma ident	"@(#)copy_addrs.c	1.4	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/krb/copy_addrs.c
  *

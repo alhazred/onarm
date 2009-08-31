@@ -27,7 +27,7 @@
 #ifndef	_qglobals_h
 #define	_qglobals_h
 
-#pragma ident	"@(#)_Qglobals.h	1.4	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*	Sparc floating-point simulator PRIVATE include file. */
 

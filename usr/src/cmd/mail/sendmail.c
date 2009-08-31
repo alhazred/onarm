@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sendmail.c	1.20	07/10/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mail.h"
 #include <sys/param.h>

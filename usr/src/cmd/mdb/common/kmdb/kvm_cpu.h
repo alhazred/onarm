@@ -27,7 +27,7 @@
 #ifndef _KVM_CPU_H
 #define	_KVM_CPU_H
 
-#pragma ident	"@(#)kvm_cpu.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * CPU-specific target implementation

@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)am_main.c	1.65	06/12/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Mixer Audio Personality Module (mixer)
@@ -171,7 +171,7 @@ static void am_set_waiting(audio_state_t *, pid_t, int, boolean_t, boolean_t);
 /* Linkage structure for loadable drivers */
 static struct modlmisc mixer_modlmisc = {
 	&mod_miscops,		/* drv_modops */
-	MIXER_MOD_NAME " 1.65",	/* drv_linkinfo */
+	MIXER_MOD_NAME " %I%",	/* drv_linkinfo */
 };
 
 static struct modlinkage mixer_modlinkage =

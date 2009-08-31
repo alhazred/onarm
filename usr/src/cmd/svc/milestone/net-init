@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)net-init	1.77	07/05/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This is the second phase of TCP/IP configuration.  The first part is
 # run by the svc:/network/physical service and includes configuring the

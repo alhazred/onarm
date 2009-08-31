@@ -1,6 +1,6 @@
 // Copyright (c) 1997 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)CharMap.h	1.3	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef CharMap_INCLUDED
 #define CharMap_INCLUDED 1

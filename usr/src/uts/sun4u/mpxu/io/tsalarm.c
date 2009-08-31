@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tsalarm.c	1.5	05/09/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stat.h>
@@ -103,7 +103,7 @@ static void    *statep;
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* Type of module. This is a driver */
-	"tsalarm control driver v1.5",	/* Name of the module */
+	"tsalarm control driver v%I%",	/* Name of the module */
 	&tsalarm_ops			/* pointer to the dev_ops structure */
 };
 

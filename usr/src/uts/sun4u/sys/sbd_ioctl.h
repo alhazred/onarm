@@ -26,7 +26,7 @@
 #ifndef	_SBD_IOCTL_H
 #define	_SBD_IOCTL_H
 
-#pragma ident	"@(#)sbd_ioctl.h	1.18	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_ASM
 #include <sys/types.h>

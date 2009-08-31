@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)rusers.c	1.14	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rusers.c	1.14	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <stdio.h>

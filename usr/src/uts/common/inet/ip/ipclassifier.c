@@ -27,9 +27,9 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ipclassifier.c	1.25	07/10/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-const char ipclassifier_version[] = "@(#)ipclassifier.c	1.25	07/10/17 SMI";
+const char ipclassifier_version[] = "@(#)ipclassifier.c	%I%	%E% SMI";
 
 /*
  * IP PACKET CLASSIFIER

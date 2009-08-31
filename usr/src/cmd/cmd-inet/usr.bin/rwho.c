@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rwho.c	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 

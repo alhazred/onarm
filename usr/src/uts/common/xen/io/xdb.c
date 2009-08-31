@@ -48,7 +48,7 @@
  * There is an on-going effort to make xvdi_* cover all xenbus_*.
  */
 
-#pragma ident	"@(#)xdb.c	1.4	08/03/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>

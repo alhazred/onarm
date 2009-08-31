@@ -27,7 +27,7 @@
 #ifndef	_MDB_CONTEXT_H
 #define	_MDB_CONTEXT_H
 
-#pragma ident	"@(#)mdb_context.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <setjmp.h>

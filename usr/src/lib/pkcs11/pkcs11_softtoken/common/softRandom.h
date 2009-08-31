@@ -26,7 +26,7 @@
 #ifndef _SOFTRANDOM_H
 #define	_SOFTRANDOM_H
 
-#pragma ident	"@(#)softRandom.h	1.4	06/04/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

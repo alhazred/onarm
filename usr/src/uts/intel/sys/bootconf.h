@@ -26,7 +26,7 @@
 #ifndef	_SYS_BOOTCONF_H
 #define	_SYS_BOOTCONF_H
 
-#pragma ident	"@(#)bootconf.h	1.49	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Boot time configuration information objects

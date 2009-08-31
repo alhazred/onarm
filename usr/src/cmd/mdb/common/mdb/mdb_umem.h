@@ -27,7 +27,7 @@
 #ifndef	_MDB_UMEM_H
 #define	_MDB_UMEM_H
 
-#pragma ident	"@(#)mdb_umem.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

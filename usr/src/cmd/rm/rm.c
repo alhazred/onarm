@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T */
 /*	All Rights Reserved   */
 
-#pragma ident	"@(#)rm.c	1.46	07/06/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rm [-fiRr] file ...

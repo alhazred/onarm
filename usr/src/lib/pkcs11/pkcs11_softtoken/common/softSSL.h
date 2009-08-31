@@ -27,7 +27,7 @@
 #ifndef _SOFTSSL_H
 #define	_SOFTSSL_H
 
-#pragma ident	"@(#)softSSL.h	1.3	05/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

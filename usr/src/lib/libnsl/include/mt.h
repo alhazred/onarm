@@ -28,7 +28,7 @@
 #ifndef	_LIBNSL_INCLUDE_MT_H
 #define	_LIBNSL_INCLUDE_MT_H
 
-#pragma ident	"@(#)mt.h	1.21	06/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Threading and mutual exclusion declarations of primitives used for

@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 #
-#ident	"@(#)Makefile	1.13	07/03/29 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the sun4u serengeti platform
 #	module.

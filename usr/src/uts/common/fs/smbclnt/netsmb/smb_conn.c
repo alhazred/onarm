@@ -32,7 +32,7 @@
  * $Id: smb_conn.c,v 1.27.166.1 2005/05/27 02:35:29 lindak Exp $
  */
 
-#pragma ident	"@(#)smb_conn.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Connection engine.

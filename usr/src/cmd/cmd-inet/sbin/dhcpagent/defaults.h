@@ -26,7 +26,7 @@
 #ifndef	DEFAULTS_H
 #define	DEFAULTS_H
 
-#pragma ident	"@(#)defaults.h	1.5	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

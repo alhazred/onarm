@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)vlan_rcm.c	1.2	08/03/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This RCM module adds support to the RCM framework for VLAN links
@@ -184,7 +184,7 @@ rcm_mod_info(void)
 {
 	rcm_log_message(RCM_TRACE1, "VLAN: mod_info\n");
 
-	return ("VLAN module version 1.2");
+	return ("VLAN module version %I%");
 }
 
 /*

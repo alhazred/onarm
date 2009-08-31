@@ -29,7 +29,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: auth2-hostbased.c,v 1.2 2002/05/31 11:35:15 markus Exp $");
 
-#pragma ident	"@(#)auth2-hostbased.c	1.5	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ssh2.h"
 #include "xmalloc.h"

@@ -25,7 +25,7 @@
 
 /*       Copyright (c) 1989 by Sun Microsystems, Inc.		*/
 
-.ident	"@(#)lshiftl.s	1.12	05/06/08 SMI"	/* SVr4.0 1.1	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /*
  * Shift a double long value. Ported from m32 version to sparc.

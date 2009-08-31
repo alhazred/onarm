@@ -29,7 +29,7 @@
 #ifndef	_SYS_FS_HSFS_NODE_H
 #define	_SYS_FS_HSFS_NODE_H
 
-#pragma ident	"@(#)hsfs_node.h	1.36	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

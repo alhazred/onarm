@@ -27,7 +27,7 @@
 #ifndef _DHCP_SVC_CONFOPT_H
 #define	_DHCP_SVC_CONFOPT_H
 
-#pragma ident	"@(#)dhcp_svc_confopt.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Contains SMI-private interfaces to /etc/inet/dhcpsvc.conf file. DO NOT SHIP!

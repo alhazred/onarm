@@ -3,7 +3,7 @@
 #ifndef	_GETGROUPLIST_H
 #define	_GETGROUPLIST_H
 
-#pragma ident	"@(#)getgrouplist.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

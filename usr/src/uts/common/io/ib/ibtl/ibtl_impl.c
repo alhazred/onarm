@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)ibtl_impl.c	1.15	05/12/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ibtl_impl.c
@@ -106,7 +106,7 @@ _NOTE(SCHEME_PROTECTS_DATA("Scheme protects data", ib_hw_status))
 extern struct mod_ops mod_miscops;
 static struct modlmisc modlmisc = {
 	&mod_miscops,			/* Type of module - misc. */
-	"IB Transport Layer v1.15"	/* Name of the Module. */
+	"IB Transport Layer v%I%"	/* Name of the Module. */
 };
 
 static struct modlinkage modlinkage = {

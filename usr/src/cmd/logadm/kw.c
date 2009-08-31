@@ -34,7 +34,7 @@
  * the same thing when called multiple times during the same logadm run.
  */
 
-#pragma ident	"@(#)kw.c	1.6	06/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <libintl.h>

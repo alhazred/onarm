@@ -26,7 +26,7 @@
 #ifndef _MLSVC_WINREG_NDL_
 #define _MLSVC_WINREG_NDL_
 
-#pragma ident	"@(#)winreg.ndl	1.2	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Windows Registry (WINREG) RPC interface definition.

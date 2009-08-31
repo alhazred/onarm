@@ -7,7 +7,7 @@
 
 RCSID("$Id: auth2-pam.c,v 1.14 2002/06/28 16:48:12 mouring Exp $");
 
-#pragma ident	"@(#)auth2-pam.c	1.14	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef USE_PAM
 #include <security/pam_appl.h>

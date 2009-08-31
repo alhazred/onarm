@@ -25,7 +25,7 @@
  *	nis/ether_addr.c -- "nis" backend for nsswitch "ethers" database
  */
 
-#pragma ident	"@(#)ether_addr.c	1.10	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * All routines necessary to deal with the ethers NIS maps.  The maps

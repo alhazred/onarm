@@ -29,7 +29,7 @@
  * routines for semantic checking.
  */
 
-#pragma ident	"@(#)tree.c	1.12	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

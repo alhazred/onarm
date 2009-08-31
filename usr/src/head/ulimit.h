@@ -26,7 +26,7 @@
 #ifndef _ULIMIT_H
 #define	_ULIMIT_H
 
-#pragma ident	"@(#)ulimit.h	1.7	05/06/08 SMI"	/* SVr4.0 1.4	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4	*/
 
 #include <sys/ulimit.h>
 

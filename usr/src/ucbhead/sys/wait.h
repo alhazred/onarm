@@ -35,7 +35,7 @@
 #ifndef _SYS_WAIT_H
 #define	_SYS_WAIT_H
 
-#pragma ident	"@(#)wait.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/resource.h>

@@ -26,7 +26,7 @@
 #ifndef	_DDIFM_H
 #define	_DDIFM_H
 
-#pragma ident	"@(#)ddifm.h	1.8	06/11/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

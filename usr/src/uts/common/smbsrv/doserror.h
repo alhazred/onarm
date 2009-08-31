@@ -27,7 +27,7 @@
 #ifndef _SMBSRV_DOSERROR_H
 #define	_SMBSRV_DOSERROR_H
 
-#pragma ident	"@(#)doserror.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines the list of DOS error codes. I think the error

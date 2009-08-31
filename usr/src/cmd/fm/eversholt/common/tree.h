@@ -32,7 +32,7 @@
 #ifndef	_ESC_COMMON_TREE_H
 #define	_ESC_COMMON_TREE_H
 
-#pragma ident	"@(#)tree.h	1.8	07/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

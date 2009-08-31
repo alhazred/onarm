@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ServiceStoreInMemory.java	1.7	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2001,2003 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
  */
 
-//  SCCS Status:      @(#)ServiceStoreInMemory.java	1.7	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ServiceStoreInMemory.java: An in-memory implementation
 //			       of the service store.
 //  Author:           James Kempf
@@ -47,7 +47,7 @@ import java.io.*;
  * on in-memory data structures.
  * <details of those structures here>
  *
- * @version 1.7 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 
@@ -57,7 +57,7 @@ class ServiceStoreInMemory extends Object implements ServiceStore {
      * The BVCollector interface allows various
      * data structures to collect stuff from the BtreeVector.
      *
-     * @version 1.7 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 
@@ -73,7 +73,7 @@ class ServiceStoreInMemory extends Object implements ServiceStore {
      * The ParserBVCollector class implements a BtreeVector
      * collector for the parser.
      *
-     * @version 1.7 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 
@@ -128,7 +128,7 @@ class ServiceStoreInMemory extends Object implements ServiceStore {
      * The AttributeBVCollector class implements a BtreeVector
      * collector for the collecting attribute values by type.
      *
-     * @version 1.7 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 
@@ -170,7 +170,7 @@ class ServiceStoreInMemory extends Object implements ServiceStore {
      * The ScopeBVCollector class implements a BtreeVector
      * collector for the collecting records if scopes match.
      *
-     * @version 1.7 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 
@@ -221,7 +221,7 @@ class ServiceStoreInMemory extends Object implements ServiceStore {
      * The AllBVCollector class implements a BtreeVector
      * collector for collecting all records.
      *
-     * @version 1.7 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 
@@ -249,7 +249,7 @@ class ServiceStoreInMemory extends Object implements ServiceStore {
      * The List class implements a linked list for storing records
      * in the BtreeVector structure.
      *
-     * @version 1.7 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 
@@ -308,7 +308,7 @@ class ServiceStoreInMemory extends Object implements ServiceStore {
      * The RegRecord class implements a record with the value for the
      * record buckets. It is used as elements in BtreeVector.
      *
-     * @version 1.7 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 
@@ -361,7 +361,7 @@ class ServiceStoreInMemory extends Object implements ServiceStore {
      * The BtreeVector class stores registrations in sorted order. The
      * Quicksort algorithm is used to insert items and search for something.
      *
-     * @version 1.7 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 
@@ -922,7 +922,7 @@ class ServiceStoreInMemory extends Object implements ServiceStore {
     /**
      * The InMemoryEvaluator evaluates queries for ServiceStoreInMemory.
      *
-     * @version 1.7 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 
@@ -1100,7 +1100,7 @@ class ServiceStoreInMemory extends Object implements ServiceStore {
      * ServiceStore.ServiceRecord interface on in-memory data structures.
      * Each property is implemented as an instance variable.
      *
-     * @version 1.7 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 
@@ -1282,7 +1282,7 @@ class ServiceStoreInMemory extends Object implements ServiceStore {
     /**
      * A record for scopeTypeLangTable table,
      *
-     * @version 1.7 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 

@@ -8,7 +8,7 @@
  * See the file COPYING for copying permission.
  */
 
-#pragma ident	"@(#)Trie.h	1.5	05/08/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _TRIE_H
 #define	_TRIE_H

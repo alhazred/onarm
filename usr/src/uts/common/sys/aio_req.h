@@ -26,7 +26,7 @@
 #ifndef _SYS_AIO_REQ_H
 #define	_SYS_AIO_REQ_H
 
-#pragma ident	"@(#)aio_req.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/buf.h>
 

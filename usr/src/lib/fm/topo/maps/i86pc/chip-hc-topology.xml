@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-    ident	"@(#)chip-hc-topology.xml	1.4	08/02/22 SMI"
+    ident	"%Z%%M%	%I%	%E% SMI"
 -->
 
 <topology name='chip' scheme='hc'>

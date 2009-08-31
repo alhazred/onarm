@@ -33,7 +33,7 @@
 #ifndef _CHELSIO_CH_H
 #define	_CHELSIO_CH_H
 
-#pragma ident	"@(#)ch.h	1.4	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/debug.h>
 

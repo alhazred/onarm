@@ -21,7 +21,7 @@
  */
 
 
-#pragma ident	"@(#)dns_p.h	1.2	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * $Id: dns_p.h,v 1.11 1999/06/03 20:50:36 vixie Exp $

@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fstatfs.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"fstatfs.s"
+	.file	"%M%"
 
 /* C library -- fstatfs						*/
 /* int fstatfs(int fildes, struct statfs *buf, int len,

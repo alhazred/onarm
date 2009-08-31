@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
      
-#pragma ident	"@(#)tu.c	1.4	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /* tu.c: draws horizontal lines */
 # include "t..c"

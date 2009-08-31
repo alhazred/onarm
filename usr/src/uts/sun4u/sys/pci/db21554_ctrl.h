@@ -26,7 +26,7 @@
 #ifndef	_SYS_DB21554_CTRL_H
 #define	_SYS_DB21554_CTRL_H
 
-#pragma ident	"@(#)db21554_ctrl.h	1.15	06/04/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -29,7 +29,7 @@
  * Common code used by name-service-switch "nisplus" backends
  */
 
-#pragma ident	"@(#)nisplus_common.c	1.44	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "nisplus_common.h"
 #include "nisplus_tables.h"

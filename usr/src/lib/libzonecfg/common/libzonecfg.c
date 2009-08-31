@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)libzonecfg.c	1.51	08/02/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libsysevent.h>
 #include <pthread.h>

@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)mwrite.c	1.12	05/06/08 SMI"	/* SVr4.0 1.8	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8	*/
 /* LINTLIBRARY */
 
 # include	<errno.h>

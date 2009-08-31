@@ -27,7 +27,7 @@
 #ifndef	_MED_HASH_H
 #define	_MED_HASH_H
 
-#pragma ident	"@(#)med_hash.h	2.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

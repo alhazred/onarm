@@ -27,7 +27,7 @@
 #ifndef	_SYS_ECPPVAR_H
 #define	_SYS_ECPPVAR_H
 
-#pragma ident	"@(#)ecppvar.h	2.31	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 

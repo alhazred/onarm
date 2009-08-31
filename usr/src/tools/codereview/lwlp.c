@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lwlp.c	1.9	05/10/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-static char sccsid[] = "@(#)lwlp.c	1.9	05/10/07 SMI";
+static char sccsid[] = "%Z%%M%	%I%	%E% SMI";
 
 /*
  * lwlp - Convert ASCII text to PostScript

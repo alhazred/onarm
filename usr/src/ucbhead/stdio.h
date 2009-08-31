@@ -44,7 +44,7 @@
 #ifndef _STDIO_H
 #define	_STDIO_H
 
-#pragma ident	"@(#)stdio.h	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/va_list.h>

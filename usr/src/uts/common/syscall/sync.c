@@ -25,7 +25,7 @@
 
 
 
-#pragma ident	"@(#)sync.c	1.3	05/06/08 SMI"	/* SVr4 1.42	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4 1.42	*/
 
 #include <sys/types.h>
 #include <sys/param.h>

@@ -30,7 +30,7 @@
 #ifndef	_SYS_MDVAR_H
 #define	_SYS_MDVAR_H
 
-#pragma ident	"@(#)mdvar.h	2.32	07/06/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/kmem.h>

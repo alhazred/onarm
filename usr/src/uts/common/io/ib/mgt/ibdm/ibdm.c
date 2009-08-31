@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ibdm.c	1.28	07/04/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ibdm.c
@@ -156,7 +156,7 @@ int	ibdm_ignore_saa_event = 0;
 /* Modload support */
 static struct modlmisc ibdm_modlmisc	= {
 	&mod_miscops,
-	"InfiniBand Device Manager 1.28",
+	"InfiniBand Device Manager %I%",
 };
 
 struct modlinkage ibdm_modlinkage = {

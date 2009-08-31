@@ -25,7 +25,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)usbai.c	1.48	07/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * USBA: Solaris USB Architecture support

@@ -28,7 +28,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)ckpacct.sh	1.8	05/06/08 SMI"	/* SVr4.0 1.9	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9	*/
 #       periodically check the size of /var/adm/pacct
 #       if over $1 blocks (default: maxi 200, mini 500), execute 
 #	turnacct switch

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)max1617.c	1.7	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The max1617 I2C is a temp acquisition device.  As implemented on some
@@ -101,7 +101,7 @@ static struct dev_ops max1617_ops = {
 
 static struct modldrv max1617_modldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"max1617 device driver v1.7",
+	"max1617 device driver v%I%",
 	&max1617_ops,
 };
 

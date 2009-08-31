@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_rcm.c	1.23	08/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This RCM module adds support to the RCM framework for IP managed
@@ -315,7 +315,7 @@ rcm_mod_info(void)
 {
 	rcm_log_message(RCM_TRACE1, "IP: mod_info\n");
 
-	return ("IP Multipathing module version 1.23");
+	return ("IP Multipathing module version %I%");
 }
 
 /*

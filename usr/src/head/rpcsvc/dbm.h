@@ -35,7 +35,7 @@
 #ifndef	_RPCSVC_DBM_H
 #define	_RPCSVC_DBM_H
 
-#pragma ident	"@(#)dbm.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

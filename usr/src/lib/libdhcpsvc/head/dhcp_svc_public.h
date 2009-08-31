@@ -27,7 +27,7 @@
 #ifndef _DHCP_SVC_PUBLIC_H
 #define	_DHCP_SVC_PUBLIC_H
 
-#pragma ident	"@(#)dhcp_svc_public.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Contains published interfaces to the DHCP data service.

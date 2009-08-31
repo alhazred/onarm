@@ -32,7 +32,7 @@
  * $Id: nb_name.c,v 1.11 2004/12/11 05:23:59 lindak Exp $
  */
 
-#pragma ident	"@(#)nb_name.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/socket.h>

@@ -13,7 +13,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: tildexpand.c,v 1.13 2002/06/23 03:25:50 deraadt Exp $");
 
-#pragma ident	"@(#)tildexpand.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "xmalloc.h"
 #include "log.h"

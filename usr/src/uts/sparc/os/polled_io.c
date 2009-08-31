@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)polled_io.c	1.9	06/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This code sets up the callbacks(vx_handlers) so that the firmware may call

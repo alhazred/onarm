@@ -31,7 +31,7 @@
 #ifndef _IGB_82575_H
 #define	_IGB_82575_H
 
-#pragma ident	"@(#)igb_82575.h	1.2	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

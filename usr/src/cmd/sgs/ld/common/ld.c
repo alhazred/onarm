@@ -28,7 +28,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ld.c	1.37	06/08/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include	<stdio.h>

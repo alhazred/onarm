@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-/* #ident	"@(#)errno.s	1.8	05/06/08 SMI" */
+/* #ident	"%Z%%M%	%I%	%E% SMI" */
 	.globl	_errno
 	.seg ".data"
 	.align 4

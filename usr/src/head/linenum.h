@@ -26,7 +26,7 @@
 #ifndef _LINENUM_H
 #define	_LINENUM_H
 
-#pragma ident	"@(#)linenum.h	1.10	05/06/08 SMI"	/* SVr4.0 1.5	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5	*/
 
 #ifdef	__cplusplus
 extern "C" {

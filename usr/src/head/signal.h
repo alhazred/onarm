@@ -31,7 +31,7 @@
 #ifndef _SIGNAL_H
 #define	_SIGNAL_H
 
-#pragma ident	"@(#)signal.h	1.45	05/06/08 SMI"	/* SVr4.0 1.5.3.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5.3.4 */
 
 #include <sys/feature_tests.h>
 

@@ -35,7 +35,7 @@
 #ifndef _SYS_DISP_H
 #define	_SYS_DISP_H
 
-#pragma ident	"@(#)disp.h	1.65	07/01/17 SMI"	/* SVr4.0 1.11	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.11	*/
 
 #include <sys/priocntl.h>
 #include <sys/thread.h>

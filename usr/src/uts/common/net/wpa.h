@@ -30,7 +30,7 @@
 #ifndef	__WPA_H
 #define	__WPA_H
 
-#pragma ident	"@(#)wpa.h	1.1	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <inet/wifi_ioctl.h>

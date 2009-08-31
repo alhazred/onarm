@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cvc.c	1.9	05/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * MT STREAMS Virtual Console Device Driver
@@ -178,7 +178,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"CVC driver 'cvc' v1.9",
+	"CVC driver 'cvc' v%I%",
 	&cvcops,	/* driver ops */
 };
 

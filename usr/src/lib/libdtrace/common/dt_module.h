@@ -27,7 +27,7 @@
 #ifndef	_DT_MODULE_H
 #define	_DT_MODULE_H
 
-#pragma ident	"@(#)dt_module.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dt_impl.h>
 

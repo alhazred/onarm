@@ -26,7 +26,7 @@
 #ifndef	_SYS_DDI_SUBRDEFS_H
 #define	_SYS_DDI_SUBRDEFS_H
 
-#pragma ident	"@(#)ddi_subrdefs.h	1.8	06/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Sun DDI platform implementation subroutines definitions

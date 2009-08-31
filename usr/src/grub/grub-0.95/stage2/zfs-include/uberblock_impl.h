@@ -24,7 +24,7 @@
 #ifndef _SYS_UBERBLOCK_IMPL_H
 #define	_SYS_UBERBLOCK_IMPL_H
 
-#pragma ident	"@(#)uberblock_impl.h	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The uberblock version is incremented whenever an incompatible on-disk

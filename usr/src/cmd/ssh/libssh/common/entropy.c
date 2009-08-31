@@ -47,7 +47,7 @@
 
 RCSID("$Id: entropy.c,v 1.44 2002/06/09 19:41:48 mouring Exp $");
 
-#pragma ident	"@(#)entropy.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef OPENSSL_PRNG_ONLY
 #define RANDOM_SEED_SIZE 48

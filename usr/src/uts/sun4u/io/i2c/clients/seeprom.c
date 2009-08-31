@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)seeprom.c	1.9	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>
 #include <sys/modctl.h>
@@ -92,7 +92,7 @@ static struct dev_ops seeprom_ops = {
 
 static struct modldrv seeprom_modldrv = {
 	&mod_driverops,	 /* type of module - driver */
-	"I2C serial EEPROM device driver v1.9",
+	"I2C serial EEPROM device driver v%I%",
 	&seeprom_ops,
 };
 

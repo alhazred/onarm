@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xmits.esc	1.7	06/07/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma dictionary "SUN4U"
 

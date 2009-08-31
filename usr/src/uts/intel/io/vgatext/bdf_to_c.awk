@@ -24,7 +24,7 @@
 # Copyright (c) 1998-1999 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)bdf_to_c.awk	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 BEGIN {

@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 #
-# ident	"@(#)Makefile	1.21	06/03/20 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/picl/plugins/sun4u/Makefile
 #

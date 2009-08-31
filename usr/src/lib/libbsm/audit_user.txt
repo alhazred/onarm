@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)audit_user.txt	1.7	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #
 # User Level Audit User File

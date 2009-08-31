@@ -27,7 +27,7 @@
 #ifndef _SYS_STDINT_H
 #define	_SYS_STDINT_H
 
-#pragma ident	"@(#)stdint.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header is included by <stdint.h> which was introduced by

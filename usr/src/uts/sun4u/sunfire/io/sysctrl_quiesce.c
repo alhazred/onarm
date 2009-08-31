@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sysctrl_quiesce.c	1.25	07/02/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This workaround inhibits prom_printf after the cpus are grabbed.

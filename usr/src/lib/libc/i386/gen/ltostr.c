@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)ltostr.c	1.3	05/06/08 SMI"	/* SVr4.0 1.4	*/
+#ident	"%W%	%E% SMI"	/* SVr4.0 1.4	*/
 /*
  *	ltostr -- convert long to decimal string
  *

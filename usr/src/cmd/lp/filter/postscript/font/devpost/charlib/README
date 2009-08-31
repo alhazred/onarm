@@ -28,7 +28,7 @@
 # software developed by the University of California, Berkeley, and its
 # contributors.
 #
-#ident	"@(#)README	1.5	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 Postscript definitions of some special troff characters. For now each file
 is named by its two character troff name and is copied to the output file,

@@ -1,7 +1,7 @@
 #ifndef _LDAP_ERR_H_
 #define _LDAP_ERR_H_
 
-#pragma ident	"@(#)ldap_err.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define OP_INIT 1
 #define OP_BIND 2

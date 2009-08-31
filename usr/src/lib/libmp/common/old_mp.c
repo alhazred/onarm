@@ -18,7 +18,7 @@
 /* fix for bugid 1240660 redefine old libmp interfaces to go to the new */
 /* mp_*() interfaces */
 
-#ident	"@(#)old_mp.c	1.4	05/06/02 SMI"	/* SVr4.0 1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /* LINTLIBRARY */
 

@@ -29,7 +29,7 @@
 #ifndef	_STATCOMMON_H
 #define	_STATCOMMON_H
 
-#pragma ident	"@(#)statcommon.h	1.7	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

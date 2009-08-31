@@ -30,7 +30,7 @@
 #ifndef	_SYS_DMU_OBJSET_H
 #define	_SYS_DMU_OBJSET_H
 
-#pragma ident	"@(#)dmu_objset.h	1.12	07/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/spa.h>
 #include <sys/arc.h>

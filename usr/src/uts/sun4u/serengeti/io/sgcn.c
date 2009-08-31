@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sgcn.c	1.19	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Serengeti console driver, see sys/sgcn.h for more information
@@ -178,7 +178,7 @@ static struct dev_ops sgcn_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"Serengeti console driver v1.19",
+	"Serengeti console driver v%I%",
 	&sgcn_ops
 };
 

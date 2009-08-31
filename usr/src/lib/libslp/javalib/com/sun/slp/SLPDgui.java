@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SLPDgui.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)SLPDgui.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  %M : The service location daemon GUI.
 //  Author:           Erik Guttman
 //
@@ -38,7 +38,7 @@ package com.sun.slp;
  * This GUI will allow the user of the slpd to monitor the daemon,
  * shut it off, manually enter services and stuff like that.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author Erik Guttman
  */
 

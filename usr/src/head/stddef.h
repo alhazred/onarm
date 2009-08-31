@@ -31,7 +31,7 @@
 #ifndef _STDDEF_H
 #define	_STDDEF_H
 
-#pragma ident	"@(#)stddef.h	1.22	05/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <iso/stddef_iso.h>

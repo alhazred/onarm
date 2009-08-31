@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getctxt.c	1.19	05/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak _private_getcontext = _getcontext
 #pragma weak getcontext = _getcontext

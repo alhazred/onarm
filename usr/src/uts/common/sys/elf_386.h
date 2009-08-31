@@ -30,7 +30,7 @@
 #ifndef _SYS_ELF_386_H
 #define	_SYS_ELF_386_H
 
-#pragma ident	"@(#)elf_386.h	1.19	06/09/28 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 #ifdef	__cplusplus
 extern "C" {

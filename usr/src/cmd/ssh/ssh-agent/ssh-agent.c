@@ -42,7 +42,7 @@
 #include "sys-queue.h"
 RCSID("$OpenBSD: ssh-agent.c,v 1.105 2002/10/01 20:34:12 markus Exp $");
 
-#pragma ident	"@(#)ssh-agent.c	1.8	04/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef HAVE_SOLARIS_PRIVILEGE
 #include <priv.h>

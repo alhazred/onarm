@@ -136,7 +136,7 @@ Revision 1.1  2003/12/13 03:05:27  ksekar
  
  */
 
-#pragma ident	"@(#)DNSCommon.h	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __DNSCOMMON_H_
 #define __DNSCOMMON_H_

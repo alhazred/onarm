@@ -41,7 +41,7 @@ static const char rcsid[] = "$Id: daemon.c,v 8.2 1999/10/13 16:39:20 vixie Exp $
  * SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)daemon.c	1.2	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "port_before.h"
 

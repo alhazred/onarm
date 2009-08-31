@@ -32,7 +32,7 @@
 #ifndef	_NL_TYPES_H
 #define	_NL_TYPES_H
 
-#pragma ident	"@(#)nl_types.h	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 

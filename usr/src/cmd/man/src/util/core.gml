@@ -23,7 +23,7 @@
     CDDL HEADER END
 -->
 <!-- SCCS keyword
-#pragma ident	"@(#)core.gml	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 -->
 <!-- CORE DTD SUBSET
 	This subset declaration defines a core set of elements. The subset

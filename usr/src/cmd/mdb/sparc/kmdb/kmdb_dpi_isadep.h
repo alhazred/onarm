@@ -27,7 +27,7 @@
 #ifndef _KMDB_DPI_ISADEP_H
 #define	_KMDB_DPI_ISADEP_H
 
-#pragma ident	"@(#)kmdb_dpi_isadep.h	1.4	06/01/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_v9util.h>
 

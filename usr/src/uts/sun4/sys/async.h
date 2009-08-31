@@ -27,7 +27,7 @@
 #ifndef	_SYS_ASYNC_H
 #define	_SYS_ASYNC_H
 
-#pragma ident	"@(#)async.h	1.46	05/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/privregs.h>
 

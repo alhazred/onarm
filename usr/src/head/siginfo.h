@@ -26,7 +26,7 @@
 #ifndef	_SIGINFO_H
 #define	_SIGINFO_H
 
-#pragma ident	"@(#)siginfo.h	1.12	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 #include <sys/types.h>
 #include <sys/siginfo.h>

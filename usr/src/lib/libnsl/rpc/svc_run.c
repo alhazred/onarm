@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)svc_run.c	1.49	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the rpc server side idle loop

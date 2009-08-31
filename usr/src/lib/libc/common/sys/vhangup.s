@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)vhangup.s	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"vhangup.s"
+	.file	"%M%"
 
 /* C library -- vhangup						*/
 /* int vhangup()						*/

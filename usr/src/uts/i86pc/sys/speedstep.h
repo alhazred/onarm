@@ -26,7 +26,7 @@
 #ifndef	_SPEEDSTEP_H
 #define	_SPEEDSTEP_H
 
-#pragma ident	"@(#)speedstep.h	1.1	07/07/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cpudrv.h>
 

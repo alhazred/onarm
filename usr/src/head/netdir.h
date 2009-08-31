@@ -34,7 +34,7 @@
 #ifndef _NETDIR_H
 #define	_NETDIR_H
 
-#pragma ident	"@(#)netdir.h	1.19	05/06/08 SMI"	/* SVr4.0 1.5	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5	*/
 
 /*
  * This files uses struct netconfig, and netconfig.h must be included

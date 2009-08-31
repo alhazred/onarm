@@ -27,7 +27,7 @@
 
 /* $Id: ipp-support.c 148 2006-04-25 16:54:17Z njacobs $ */
 
-#pragma ident	"@(#)ipp-support.c	1.3	07/03/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <papi_impl.h>
 #include <stdlib.h>

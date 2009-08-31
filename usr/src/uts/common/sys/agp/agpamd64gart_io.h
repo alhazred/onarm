@@ -6,7 +6,7 @@
 #ifndef	_SYS_AGPAMD64GART_IO_H
 #define	_SYS_AGPAMD64GART_IO_H
 
-#pragma ident	"@(#)agpamd64gart_io.h	1.1	05/05/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

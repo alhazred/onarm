@@ -34,7 +34,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)ix_altsctr.c	1.12	05/08/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <ctype.h>

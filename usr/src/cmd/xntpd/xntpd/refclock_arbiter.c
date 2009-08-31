@@ -3,7 +3,7 @@
  *	Controlled Clock
  */
 
-#pragma ident	"@(#)refclock_arbiter.c	1.1	99/08/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef HAVE_CONFIG_H
 #include <config.h>

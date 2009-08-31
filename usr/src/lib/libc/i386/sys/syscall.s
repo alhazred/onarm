@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)syscall.s	1.21	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"syscall.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 #include <sys/trap.h>

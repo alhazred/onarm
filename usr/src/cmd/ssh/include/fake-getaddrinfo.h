@@ -3,7 +3,7 @@
 #ifndef	_FAKE_GETADDRINFO_H
 #define	_FAKE_GETADDRINFO_H
 
-#pragma ident	"@(#)fake-getaddrinfo.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

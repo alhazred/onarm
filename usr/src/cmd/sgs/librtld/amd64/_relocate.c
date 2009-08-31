@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_relocate.c	1.4	07/10/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<string.h>
 #include	"machdep.h"

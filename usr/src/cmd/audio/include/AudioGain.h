@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIOGAIN_H
 #define	_MULTIMEDIA_AUDIOGAIN_H
 
-#pragma ident	"@(#)AudioGain.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <AudioTypePcm.h>
 

@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)hpcsvc.c	1.21	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * hot-plug services module
@@ -259,7 +259,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,	/* Type of module */
-	"hot-plug controller services v1.21"
+	"hot-plug controller services v%I%"
 };
 
 static struct modlinkage modlinkage = {

@@ -23,7 +23,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)audit.c	1.17	07/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<dlfcn.h>
 #include	<stdio.h>

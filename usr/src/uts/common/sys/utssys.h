@@ -31,7 +31,7 @@
 #ifndef _SYS_UTSSYS_H
 #define	_SYS_UTSSYS_H
 
-#pragma ident	"@(#)utssys.h	1.14	05/06/08 SMI"	/* SVr4.0 1.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1 */
 
 #ifdef	__cplusplus
 extern "C" {

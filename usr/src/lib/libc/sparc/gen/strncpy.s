@@ -25,9 +25,9 @@
  */
 
 
-.ident	"@(#)strncpy.s	1.15	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"strncpy.s"
+	.file	"%M%"
 
 /*
  * strncpy(s1, s2)

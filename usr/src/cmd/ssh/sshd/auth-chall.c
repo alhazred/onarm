@@ -25,7 +25,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: auth-chall.c,v 1.8 2001/05/18 14:13:28 markus Exp $");
 
-#pragma ident	"@(#)auth-chall.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "auth.h"
 #include "log.h"

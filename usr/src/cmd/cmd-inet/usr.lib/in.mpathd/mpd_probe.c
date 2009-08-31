@@ -20,7 +20,7 @@
  * WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-#pragma ident	"@(#)mpd_probe.c	1.34	07/08/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mpd_defs.h"
 #include "mpd_tables.h"

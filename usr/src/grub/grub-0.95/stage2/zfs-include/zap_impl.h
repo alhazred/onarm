@@ -24,7 +24,7 @@
 #ifndef	_SYS_ZAP_IMPL_H
 #define	_SYS_ZAP_IMPL_H
 
-#pragma ident	"@(#)zap_impl.h	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	ZAP_MAGIC 0x2F52AB2ABULL
 

@@ -24,7 +24,7 @@ static const char rcsid[] = "$Id: ctl_clnt.c,v 8.18 2002/07/08 05:10:23 marka Ex
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)ctl_clnt.c	1.4	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Extern. */
 

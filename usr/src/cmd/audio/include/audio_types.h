@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIO_TYPES_H
 #define	_MULTIMEDIA_AUDIO_TYPES_H
 
-#pragma ident	"@(#)audio_types.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

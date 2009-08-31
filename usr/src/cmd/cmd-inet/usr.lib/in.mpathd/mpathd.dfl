@@ -21,7 +21,7 @@
 # Copyright 2000 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)mpathd.dfl	1.4	05/06/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Time taken by mpathd to detect a NIC failure in ms. The minimum time
 # that can be specified is 100 ms.

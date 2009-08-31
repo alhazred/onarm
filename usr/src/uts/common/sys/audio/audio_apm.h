@@ -35,7 +35,7 @@
 #ifndef	_SYS_AUDIO_APM_H
 #define	_SYS_AUDIO_APM_H
 
-#pragma ident	"@(#)audio_apm.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

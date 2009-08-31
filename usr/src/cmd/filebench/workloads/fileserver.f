@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)fileserver.f	1.2	07/12/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 set $dir=/tmp
 set $nfiles=1000

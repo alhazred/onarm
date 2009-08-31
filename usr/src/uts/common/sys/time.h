@@ -16,7 +16,7 @@
 #ifndef _SYS_TIME_H
 #define	_SYS_TIME_H
 
-#pragma ident	"@(#)time.h	2.82	07/09/18 SMI"	/* SVr4.0 1.16	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.16	*/
 
 #include <sys/feature_tests.h>
 

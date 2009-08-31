@@ -13,7 +13,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)tset.c	1.7	05/10/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  TSET -- set terminal modes

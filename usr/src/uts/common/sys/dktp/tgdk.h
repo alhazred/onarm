@@ -27,7 +27,7 @@
 #ifndef _SYS_DKTP_TGDK_H
 #define	_SYS_DKTP_TGDK_H
 
-#pragma ident	"@(#)tgdk.h	1.18	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

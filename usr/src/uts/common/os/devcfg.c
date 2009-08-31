@@ -25,7 +25,7 @@
 /*
  * Copyright (c) 2007-2008 NEC Corporation
  */
-#pragma ident	"@(#)devcfg.c	1.83	08/02/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 #include <sys/t_lock.h>

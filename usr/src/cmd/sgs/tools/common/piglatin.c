@@ -33,7 +33,7 @@
  *  .	If the word begins with a vowel, merely append "way" to the word.
  *	Example: "ate" becomes "ateway
  */
-#pragma ident	"@(#)piglatin.c	1.6	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <strings.h>

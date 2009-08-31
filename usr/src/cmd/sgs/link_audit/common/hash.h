@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma	ident	"@(#)hash.h	1.4	05/06/08 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
   @(#)SSM2 hash.h 1.2 90/11/13 

@@ -6,7 +6,7 @@
 #ifndef _KRB5_OSCONF_H
 #define	_KRB5_OSCONF_H
 
-#pragma ident	"@(#)osconf.h	1.7	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -28,7 +28,7 @@
 #
 
 
-#ident	"@(#)_sactab.sh	1.11	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 case "$MACH" in
   "u3b2"|"sparc"|"i386"|"ppc"|"arm" )

@@ -23,7 +23,7 @@
  * Copyright (c) 1993 by Sun Microsystems, Inc.
  */
 
-#pragma ident	"@(#)sparc.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
     /*
      *	opcodes of the call instructions

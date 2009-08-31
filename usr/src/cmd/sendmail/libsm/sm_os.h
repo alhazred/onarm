@@ -3,6 +3,6 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)sm_os.h	1.1	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "../include/sm/os/sm_os_sunos.h"

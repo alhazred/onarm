@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)isinf.c	1.7	05/06/08 SMI" 
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 
 
 /*
  * Recognize an infinity or a NaN when one is presented.

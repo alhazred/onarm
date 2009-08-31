@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)fan-hc-topology.xmlgen	1.1	08/02/22 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # The fan topologies can be quite complicated, but are ultimately regular.  This

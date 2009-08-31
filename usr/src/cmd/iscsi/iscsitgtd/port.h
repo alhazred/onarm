@@ -27,7 +27,7 @@
 #ifndef PORT_H
 #define	PORT_H
 
-#pragma ident	"@(#)port.h	1.1	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "iscsi_conn.h"
 

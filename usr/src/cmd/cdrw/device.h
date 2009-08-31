@@ -27,7 +27,7 @@
 #ifndef	_DEVICE_H
 #define	_DEVICE_H
 
-#pragma ident	"@(#)device.h	1.10	06/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

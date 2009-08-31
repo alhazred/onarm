@@ -31,7 +31,7 @@
 #ifndef _SNMPD_H_
 #define _SNMPD_H_
 
-#pragma ident	"@(#)snmpd.h	1.6	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern char *config_file;
 extern char *sec_config_file;

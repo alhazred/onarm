@@ -34,7 +34,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)spray.c	1.13	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <stdio.h>

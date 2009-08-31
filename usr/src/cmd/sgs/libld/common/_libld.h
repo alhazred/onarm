@@ -38,7 +38,7 @@
 #ifndef	_LIBLD_DOT_H
 #define	_LIBLD_DOT_H
 
-#pragma ident	"@(#)_libld.h	1.123	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libld.h>
 #include <_libelf.h>

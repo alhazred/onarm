@@ -26,7 +26,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)boot_elf.s	1.18	07/08/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	"machdep.h"
 #include	"_audit.h"

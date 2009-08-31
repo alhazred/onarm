@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)av1394.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * av1394 driver
@@ -113,7 +113,7 @@ static struct dev_ops av1394_ops = {
 
 static struct modldrv av1394_modldrv =	{
 	&mod_driverops,
-	"IEEE 1394 AV driver 1.4",
+	"IEEE 1394 AV driver %I%",
 	&av1394_ops
 };
 

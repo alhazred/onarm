@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mboxsc.c	1.4	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the implementation of the mboxsc module, a mailbox layer
@@ -204,7 +204,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,
-	"IOSRAM Mailbox API 'mboxsc' v1.4",
+	"IOSRAM Mailbox API 'mboxsc' v%I%",
 };
 
 static struct modlinkage modlinkage = {

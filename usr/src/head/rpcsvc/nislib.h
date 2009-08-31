@@ -35,7 +35,7 @@
 #ifndef	_RPCSVC_NISLIB_H
 #define	_RPCSVC_NISLIB_H
 
-#pragma ident	"@(#)nislib.h	1.34	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

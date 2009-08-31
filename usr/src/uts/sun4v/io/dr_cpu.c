@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dr_cpu.c	1.3	07/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sun4v CPU DR Module
@@ -51,7 +51,7 @@
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,
-	"sun4v CPU DR 1.3"
+	"sun4v CPU DR %I%"
 };
 
 static struct modlinkage modlinkage = {

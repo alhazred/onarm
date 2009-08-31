@@ -26,7 +26,7 @@
 #ifndef	_SYS_USB_CONSOLE_INPUT_H
 #define	_SYS_USB_CONSOLE_INPUT_H
 
-#pragma ident	"@(#)genconsole.h	1.5	06/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

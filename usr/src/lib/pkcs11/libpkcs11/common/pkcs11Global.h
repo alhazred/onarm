@@ -27,7 +27,7 @@
 #ifndef _PKCS11_GLOBAL_H
 #define	_PKCS11_GLOBAL_H
 
-#pragma ident	"@(#)pkcs11Global.h	1.4	06/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

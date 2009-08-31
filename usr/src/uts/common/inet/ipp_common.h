@@ -26,7 +26,7 @@
 #ifndef	_INET_IPP_COMMON_H
 #define	_INET_IPP_COMMON_H
 
-#pragma ident	"@(#)ipp_common.h	1.6	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

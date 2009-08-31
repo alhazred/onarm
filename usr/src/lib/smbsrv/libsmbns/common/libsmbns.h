@@ -26,7 +26,7 @@
 #ifndef	_LIBSMBNS_H
 #define	_LIBSMBNS_H
 
-#pragma ident	"@(#)libsmbns.h	1.6	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <ldap.h>
 #include <smbsrv/libsmb.h>

@@ -27,7 +27,7 @@
 #ifndef	_FRU_TAG_H
 #define	_FRU_TAG_H
 
-#pragma ident	"@(#)fru_tag.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sbusmem.c	1.26	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -102,7 +102,7 @@ static struct dev_ops sbmem_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,	/* Type of module.  This one is a driver */
-	"SBus memory driver v1.26", /* Name of module. */
+	"SBus memory driver v%I%", /* Name of module. */
 	&sbmem_ops,	/* driver ops */
 };
 
@@ -113,7 +113,7 @@ static struct modlinkage modlinkage = {
 static int sbmem_rw(dev_t, struct uio *, enum uio_rw, cred_t *);
 
 #if !defined(lint)
-static char sbusmem_initmsg[] = "sbusmem _init: sbusmem.c\t1.26\t05/11/08\n";
+static char sbusmem_initmsg[] = "sbusmem _init: sbusmem.c\t%I%\t%E%\n";
 #endif
 
 int

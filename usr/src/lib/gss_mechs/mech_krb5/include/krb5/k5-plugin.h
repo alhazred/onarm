@@ -48,7 +48,7 @@
 #ifndef _K5_PLUGIN_H_
 #define _K5_PLUGIN_H_
 
-#pragma ident	"@(#)k5-plugin.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(_MSDOS) || defined(_WIN32)
 #include "win-mac.h"

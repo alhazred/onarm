@@ -40,7 +40,7 @@
 #ifndef	_VM_VPAGE_H
 #define	_VM_VPAGE_H
 
-#pragma ident	"@(#)vpage.h	1.23	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

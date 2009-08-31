@@ -28,7 +28,7 @@
 #ifndef	_SYS_IDN_H
 #define	_SYS_IDN_H
 
-#pragma ident	"@(#)idn.h	1.32	06/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM
 

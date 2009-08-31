@@ -27,7 +27,7 @@
 #ifndef	_PICLSENSORS_H
 #define	_PICLSENSORS_H
 
-#pragma ident	"@(#)piclsensors.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

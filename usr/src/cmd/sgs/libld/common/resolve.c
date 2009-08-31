@@ -26,7 +26,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)resolve.c	1.69	07/10/10 SMI"	/* SVR4 6.2/18.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVR4 6.2/18.2 */
 
 /*
  * Symbol table resolution

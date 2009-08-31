@@ -27,7 +27,7 @@
 #ifndef _SYS_CPU_MODULE_IMPL_H
 #define	_SYS_CPU_MODULE_IMPL_H
 
-#pragma ident	"@(#)cpu_module_impl.h	1.5	07/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cpu_module.h>
 #include <sys/cpuvar.h>

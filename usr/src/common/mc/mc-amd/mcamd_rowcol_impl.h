@@ -25,7 +25,7 @@
 #ifndef _MCAMD_ROWCOL_IMPL_H
 #define	_MCAMD_ROWCOL_IMPL_H
 
-#pragma ident	"@(#)mcamd_rowcol_impl.h	1.2	06/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mcamd_api.h>
 #include <sys/mc_amd.h>

@@ -27,7 +27,7 @@
 #ifndef	_MDB_MODHASH_H
 #define	_MDB_MODHASH_H
 
-#pragma ident	"@(#)modhash.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

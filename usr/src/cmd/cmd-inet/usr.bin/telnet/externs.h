@@ -41,7 +41,7 @@
 #ifndef _EXTERNS_H
 #define	_EXTERNS_H
 
-#pragma ident	"@(#)externs.h	1.18	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

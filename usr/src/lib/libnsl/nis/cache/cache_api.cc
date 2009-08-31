@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cache_api.cc	1.13	06/03/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* The C interface to directory cache class functions */
 

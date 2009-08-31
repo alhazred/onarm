@@ -23,7 +23,7 @@
 # Copyright (c) 1993-1998 by Sun Microsystems, Inc.
 # All rights reserved.
 # 
-#ident	"@(#)cshrc.sh	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # example .cshrc for root build user (often 'gk').
 

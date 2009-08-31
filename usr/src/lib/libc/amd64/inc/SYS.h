@@ -26,7 +26,7 @@
 #ifndef	_LIBC_AMD64_INC_SYS_H
 #define	_LIBC_AMD64_INC_SYS_H
 
-#pragma ident	"@(#)SYS.h	1.3	06/05/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines common code sequences for system calls.

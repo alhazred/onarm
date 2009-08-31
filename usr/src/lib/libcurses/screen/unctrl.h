@@ -40,7 +40,7 @@
 #ifndef	_UNCTRL_H
 #define	_UNCTRL_H
 
-#pragma ident	"@(#)unctrl.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)_div64.s	1.12	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_div64.s"
+	.file	"%M%"
 
 #include "SYS.h"
 

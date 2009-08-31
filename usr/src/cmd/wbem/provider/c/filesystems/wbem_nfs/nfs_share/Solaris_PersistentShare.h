@@ -27,7 +27,7 @@
 #ifndef _SOLARIS_PERSISTENTSHARE_H
 #define	_SOLARIS_PERSISTENTSHARE_H
 
-#pragma ident	"@(#)Solaris_PersistentShare.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

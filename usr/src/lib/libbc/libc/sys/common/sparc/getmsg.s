@@ -25,7 +25,7 @@
 
 /*	Copyright (c) 1989 by Sun Microsystems, Inc.		*/
 
-.ident	"@(#)getmsg.s	1.4	05/06/08 SMI"	/* SVr4.0 1.5	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5	*/
 
 /* C library -- getmsg						*/
 /* int getmsg (int fd, struct strbuf *ctlptr,			*/

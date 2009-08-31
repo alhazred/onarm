@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)random.c	1.10	05/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "synonyms.h"
 #include <stdio.h>

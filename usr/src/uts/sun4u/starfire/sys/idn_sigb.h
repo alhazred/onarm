@@ -39,7 +39,7 @@
 #ifndef _SYS_IDN_SIGB_H
 #define	_SYS_IDN_SIGB_H
 
-#pragma ident	"@(#)idn_sigb.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

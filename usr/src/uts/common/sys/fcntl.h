@@ -39,7 +39,7 @@
 #ifndef	_SYS_FCNTL_H
 #define	_SYS_FCNTL_H
 
-#pragma ident	"@(#)fcntl.h	1.58	07/12/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

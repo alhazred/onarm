@@ -6,7 +6,7 @@
 #ifndef _KRB5_DYN_DYNP_H
 #define	_KRB5_DYN_DYNP_H
 
-#pragma ident	"@(#)dynP.h	1.1	01/03/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

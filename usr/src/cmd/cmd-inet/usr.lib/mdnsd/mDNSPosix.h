@@ -75,7 +75,7 @@ First checkin
 
 */
 
-#pragma ident	"@(#)mDNSPosix.h	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __mDNSPlatformPosix_h
 #define __mDNSPlatformPosix_h

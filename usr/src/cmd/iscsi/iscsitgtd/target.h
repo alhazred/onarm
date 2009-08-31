@@ -27,7 +27,7 @@
 #ifndef _TARGET_H
 #define	_TARGET_H
 
-#pragma ident	"@(#)target.h	1.11	07/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Block comment which describes the contents of this file.

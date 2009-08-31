@@ -25,7 +25,7 @@
  */
 
 
-#pragma ident	"@(#)snoop_tcp.c	1.13	05/08/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

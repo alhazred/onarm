@@ -23,7 +23,7 @@
 % * CDDL HEADER END
 % */
 %
-%#pragma ident	"@(#)meta_arr.x	2.3	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 %/*
 % * This file has the shared fixed array RPC definitions for use in a couple

@@ -75,7 +75,7 @@
 #ifndef _RDSIB_PROTOCOL_H
 #define	_RDSIB_PROTOCOL_H
 
-#pragma ident	"@(#)rdsib_protocol.h	1.4	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

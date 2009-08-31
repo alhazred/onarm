@@ -43,7 +43,7 @@
 #ifndef	_LIBPROC_H
 #define	_LIBPROC_H
 
-#pragma ident	"@(#)libproc.h	1.50	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <unistd.h>

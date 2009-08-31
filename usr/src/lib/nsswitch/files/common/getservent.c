@@ -25,7 +25,7 @@
  * files/getservent.c -- "files" backend for nsswitch "services" database
  */
 
-#pragma ident	"@(#)getservent.c	1.13	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netdb.h>
 #include "files_common.h"

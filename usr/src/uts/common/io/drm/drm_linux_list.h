@@ -31,7 +31,7 @@
  *
  */
 
-#pragma ident	"@(#)drm_linux_list.h	1.1	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _DRM_LINUX_LIST_H_
 #define	_DRM_LINUX_LIST_H_

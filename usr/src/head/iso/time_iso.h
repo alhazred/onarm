@@ -47,7 +47,7 @@
 #ifndef _ISO_TIME_ISO_H
 #define	_ISO_TIME_ISO_H
 
-#pragma ident	"@(#)time_iso.h	1.6	05/06/08 SMI" /* SVr4.0 1.18 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* SVr4.0 1.18 */
 
 #if defined(_AEABI_PORTABILITY_LEVEL)
 #error "not supported AEABI."

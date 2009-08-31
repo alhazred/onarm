@@ -26,7 +26,7 @@
 #ifndef	_SYS_SQUEUE_IMPL_H
 #define	_SYS_SQUEUE_IMPL_H
 
-#pragma ident	"@(#)squeue_impl.h	1.7	06/08/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

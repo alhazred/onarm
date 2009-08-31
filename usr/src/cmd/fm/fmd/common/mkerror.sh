@@ -24,9 +24,9 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)mkerror.sh	1.3	05/12/27 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
-#pragma ident	"@(#)mkerror.sh	1.3	05/12/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 input="`cat`"
 [ -z "$input" ] && exit 1
@@ -37,7 +37,7 @@ echo "\
  * Use is subject to license terms.\n\
  */\n\
 \n\
-#pragma ident\t\"@(#)mkerror.sh\t1.3\t05/12/27 SMI\"\n\
+#pragma ident\t\"%Z%%M%\t%I%\t%E% SMI\"\n\
 \n\
 #include <strings.h>
 #include <fmd_error.h>

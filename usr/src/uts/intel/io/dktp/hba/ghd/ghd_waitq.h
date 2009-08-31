@@ -27,7 +27,7 @@
 #ifndef _GHD_WAITQ_H
 #define	_GHD_WAITQ_H
 
-#pragma ident	"@(#)ghd_waitq.h	1.8	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

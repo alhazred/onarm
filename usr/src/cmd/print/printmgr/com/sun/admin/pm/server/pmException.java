@@ -19,7 +19,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)pmException.java	1.3	06/06/02 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.

@@ -22,7 +22,7 @@
 /* Copyright (c) 1984, 1986, 1987, 1988, 1989, 1990, 1991, 1997 SMI	*/
 /* All Rights Reserved							*/
 
-#ident	"@(#)deffs.c	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<stdio.h>
 #include        <deflt.h>

@@ -39,7 +39,7 @@
 #ifndef	_SYS_SOCKET_H
 #define	_SYS_SOCKET_H
 
-#pragma ident	"@(#)socket.h	1.82	07/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/uio.h>

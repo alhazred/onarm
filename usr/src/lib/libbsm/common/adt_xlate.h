@@ -29,7 +29,7 @@
 #ifndef _BSM_XLATE_H
 #define	_BSM_XLATE_H
 
-#pragma ident	"@(#)adt_xlate.h	1.14	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <bsm/libbsm.h>
 #include <priv.h>

@@ -27,7 +27,7 @@
  *	nisplus/getnetent.c -- NIS+ backend for nsswitch "net" database
  */
 
-#pragma ident	"@(#)getnetent.c	1.16	07/04/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include <netdb.h>

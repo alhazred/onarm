@@ -27,7 +27,7 @@
 #ifndef _SYS_XTI_XTIOPT_H
 #define	_SYS_XTI_XTIOPT_H
 
-#pragma ident	"@(#)xti_xtiopt.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

@@ -29,7 +29,7 @@
  * nisplus backend for nsswitch "ethers" database
  */
 
-#pragma ident	"@(#)ether_addr.c	1.15	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * All routines necessary to deal with the ethers NIS+ table.  The table

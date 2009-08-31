@@ -28,7 +28,7 @@
  *	All Rights Reserved
  */
 
-#ident	"@(#)mail.h	1.6	05/06/08 SMI"       /* SVr4.0 1.1 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.1 */
 
 /* Structures and constants for sendmail.c (and maybe readmail.c) */
 

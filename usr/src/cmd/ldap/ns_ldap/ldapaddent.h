@@ -26,7 +26,7 @@
 #ifndef	_LDAPADDENT_H
 #define	_LDAPADDENT_H
 
-#pragma ident	"@(#)ldapaddent.h	1.3	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ldapaddent.h

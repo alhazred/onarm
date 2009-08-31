@@ -22,7 +22,7 @@
  * All Rights Reserved, Copyright (c) FUJITSU LIMITED 2006
  */
 
-#pragma ident	"@(#)oplpanel.c	1.3	06/12/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/time.h>
@@ -115,7 +115,7 @@ extern struct mod_ops	mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"OPL panel driver 1.3",
+	"OPL panel driver %I%",
 	&panel_dev_ops
 };
 

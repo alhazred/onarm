@@ -26,7 +26,7 @@
 #ifndef	_SYS_U8_TEXTPREP_H
 #define	_SYS_U8_TEXTPREP_H
 
-#pragma ident	"@(#)u8_textprep.h	1.1	07/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/types.h>

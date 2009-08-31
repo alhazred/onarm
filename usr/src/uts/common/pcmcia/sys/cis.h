@@ -26,7 +26,7 @@
 #ifndef _CIS_H
 #define	_CIS_H
 
-#pragma ident	"@(#)cis.h	1.26	06/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the Card Services Card Information Structure (CIS) interpreter

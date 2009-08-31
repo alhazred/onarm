@@ -6,7 +6,7 @@
 #ifndef _SYS_IPW2100_H
 #define	_SYS_IPW2100_H
 
-#pragma ident	"@(#)ipw2100.h	1.1	07/03/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

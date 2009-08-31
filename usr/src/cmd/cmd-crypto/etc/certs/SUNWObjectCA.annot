@@ -21,7 +21,7 @@ CDDL HEADER END
 Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 Use is subject to license terms.
 
-ident	"@(#)SUNWObjectCA.annot	1.2	07/04/25 SMI"
+ident	"%Z%%M%	%I%	%E% SMI"
 
 Subject: O=Sun Microsystems Inc, OU=VeriSign Trust Network,
 	 OU=Class 2 OnSite Subscriber CA, CN=Object Signing CA

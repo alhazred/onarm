@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.sp	1.17	06/06/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/print/Makefile.sp
 # Common makefile definitions (should be) used by all print(lp) makefiles

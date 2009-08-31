@@ -31,7 +31,7 @@
 #ifndef	_PRIV_UTILS_H
 #define	_PRIV_UTILS_H
 
-#pragma ident	"@(#)priv_utils.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <priv.h>
 

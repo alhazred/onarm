@@ -26,7 +26,7 @@
 #ifndef	_AUTOMOUNT_H
 #define	_AUTOMOUNT_H
 
-#pragma ident	"@(#)automount.h	1.74	07/03/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fslib.h>		/* needed for mntlist_t declaration */
 #include <thread.h>

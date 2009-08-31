@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)quotaon.c	1.33	05/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Turn quota on/off for a filesystem.

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sbd.c	1.44	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * safari system board DR module.
@@ -402,7 +402,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,
-	"System Board DR v1.44"
+	"System Board DR v%I%"
 };
 
 static struct modlinkage modlinkage = {

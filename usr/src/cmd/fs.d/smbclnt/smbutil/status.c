@@ -32,7 +32,7 @@
  * $Id: status.c,v 1.2 2001/08/18 05:44:50 conrad Exp $
  */
 
-#pragma ident	"@(#)status.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/errno.h>

@@ -27,7 +27,7 @@
 #ifndef _SYS_FS_UFS_LOCKFS_H
 #define	_SYS_FS_UFS_LOCKFS_H
 
-#pragma ident	"@(#)ufs_lockfs.h	1.22	05/11/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/lockfs.h>
 

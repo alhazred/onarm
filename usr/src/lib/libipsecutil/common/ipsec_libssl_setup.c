@@ -66,7 +66,7 @@
  * OpenSSL 0.9.4 file mt/mttest.c examples
  */
 
-#pragma ident	"@(#)ipsec_libssl_setup.c	1.1	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -27,7 +27,7 @@
 #define	_FB_FLOWOP_H
 
 
-#pragma ident	"@(#)flowop.h	1.3	08/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "config.h"
 

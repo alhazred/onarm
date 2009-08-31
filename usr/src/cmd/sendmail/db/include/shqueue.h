@@ -5,14 +5,14 @@
  *	Sleepycat Software.  All rights reserved.
  *
  *	@(#)shqueue.h	8.12 (Sleepycat) 9/10/97
- *	@(#)shqueue.h	1.2 (Sun) 04/02/98
+ *	%W% (Sun) %G%
  */
 /*
  * Copyright (c) 1998 by Sun Microsystems, Inc.
  * All rights reserved.
  */
 
-#pragma ident	"@(#)shqueue.h	1.2	98/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_SYS_SHQUEUE_H_
 #define	_SYS_SHQUEUE_H_

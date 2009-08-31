@@ -15,7 +15,7 @@
  * All rights reserved.
  */
 
-#ident	"@(#)mout.c	1.8	05/06/02 SMI"	/* SVr4.0 1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /* LINTLIBRARY */
 

@@ -27,7 +27,7 @@
 #ifndef	_UTIL_H
 #define	_UTIL_H
 
-#pragma ident	"@(#)util.h	1.1	05/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "asm/sunddi.h"
 

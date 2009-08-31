@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)snoop_ether.c	1.32	06/09/19 SMI"	/* SunOS */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS */
 
 #include <stdio.h>
 #include <stdlib.h>

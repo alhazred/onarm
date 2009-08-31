@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_LSALIB_H
 #define	_SMBSRV_LSALIB_H
 
-#pragma ident	"@(#)lsalib.h	1.3	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Prototypes for the LSA library and RPC client side library interface.

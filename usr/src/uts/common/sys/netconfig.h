@@ -31,7 +31,7 @@
 #ifndef	_SYS_NETCONFIG_H
 #define	_SYS_NETCONFIG_H
 
-#pragma ident	"@(#)netconfig.h	1.26	05/06/08 SMI"	/* SVr4.0 1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4 */
 
 #ifdef	__cplusplus
 extern "C" {

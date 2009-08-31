@@ -28,7 +28,7 @@
 #ifndef _FDDI_INET_H
 #define	_FDDI_INET_H
 
-#pragma ident	"@(#)fddi_inet.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

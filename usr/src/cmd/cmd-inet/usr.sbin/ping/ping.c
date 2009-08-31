@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)ping.c	1.57	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <strings.h>

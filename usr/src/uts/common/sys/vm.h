@@ -40,7 +40,7 @@
 #ifndef _SYS_VM_H
 #define	_SYS_VM_H
 
-#pragma ident	"@(#)vm.h	2.29	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/vmparam.h>
 #include <sys/vmmeter.h>

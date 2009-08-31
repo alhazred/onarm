@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fio.c	1.9	05/10/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

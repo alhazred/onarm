@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.16	06/03/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 COMOBJS64 =	rd_elf64.o

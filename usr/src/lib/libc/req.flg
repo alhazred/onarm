@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)req.flg	1.9	07/02/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 find_files "s.*" usr/src/common/atomic
 find_files "s.*" usr/src/common/util

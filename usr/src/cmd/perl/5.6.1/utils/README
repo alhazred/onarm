@@ -2,7 +2,7 @@
 # Copyright (c) 2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)README	1.1	01/07/12 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 This directory contains utilities that help port a standard perl 5.6.1 build

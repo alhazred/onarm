@@ -27,7 +27,7 @@
 #ifndef	_MDB_CPUPART_MDB_H
 #define	_MDB_CPUPART_MDB_H
 
-#pragma ident	"@(#)cpupart_mdb.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

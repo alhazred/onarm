@@ -43,7 +43,7 @@
  * it's license is included below.
  */
 
-#pragma ident	"@(#)net80211_crypto_tkip.c	1.2	07/10/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/byteorder.h>
 #include <sys/crypto/common.h>

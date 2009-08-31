@@ -28,7 +28,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989, 1990 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)vgatext.c	1.38	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errno.h>
 #include <sys/types.h>
@@ -209,7 +209,7 @@ static char	happyface_boot;
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"VGA text driver v1.38",	/* Name of the module. */
+	"VGA text driver v%I%",	/* Name of the module. */
 	&vgatext_ops,		/* driver ops */
 };
 

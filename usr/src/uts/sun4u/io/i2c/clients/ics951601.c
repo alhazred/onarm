@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ics951601.c	1.5	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>
 #include <sys/file.h>
@@ -103,7 +103,7 @@ static struct dev_ops ics951601_dev_ops = {
 
 static struct modldrv ics951601_modldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"ics951601 device driver v1.5",
+	"ics951601 device driver v%I%",
 	&ics951601_dev_ops,
 };
 

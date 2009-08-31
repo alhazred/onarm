@@ -23,7 +23,7 @@
  * Copyright (c) 1989-1996 by Sun Microsystems, Inc.
  */
 
-#pragma	ident	"@(#)__tbl_tens.c	1.7	05/06/08 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * A table of all the powers of ten that fit exactly in an IEEE double, plus

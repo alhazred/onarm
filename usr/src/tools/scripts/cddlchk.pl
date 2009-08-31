@@ -8,7 +8,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)cddlchk.pl	1.1	06/02/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #
@@ -25,7 +25,7 @@ use File::Find;
 # Global variables.
 #
 
-our $VERSION = '1.1';		# Program version number.
+our $VERSION = '%I%';		# Program version number.
 
 our $CmtChrs = q{#*!/\";.};	# Acceptable comment characters.
 our %Opt;			# Command-line flags.

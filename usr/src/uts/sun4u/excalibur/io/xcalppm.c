@@ -23,7 +23,7 @@
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)xcalppm.c	1.24	05/10/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Platform Power Management driver for SUNW,Sun-Blade-1000
@@ -187,7 +187,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* type of module - pseudo */
-	"platform pm driver v1.24",
+	"platform pm driver v%I%",
 	&xcppm_ops
 };
 

@@ -27,7 +27,7 @@
 #ifndef _SYS_MD_CRC_H
 #define	_SYS_MD_CRC_H
 
-#pragma ident	"@(#)md_crc.h	2.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

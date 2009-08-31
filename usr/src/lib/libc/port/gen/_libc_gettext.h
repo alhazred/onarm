@@ -23,7 +23,7 @@
  * Copyright (c) 1990 by Sun Microsystems, Inc.
  */
 
-#ident	"@(#)_libc_gettext.h	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Header file for _libc_gettext() macro. */
 #if !defined(TEXT_DOMAIN)	/* Should be defined thru -D flag. */

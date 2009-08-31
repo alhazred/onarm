@@ -27,7 +27,7 @@
 #ifndef _SYS_LWP_TIMER_IMPL_H
 #define	_SYS_LWP_TIMER_IMPL_H
 
-#pragma ident	"@(#)lwp_timer_impl.h	1.4	07/04/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/thread.h>

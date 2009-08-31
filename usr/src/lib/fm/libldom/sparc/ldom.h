@@ -26,7 +26,7 @@
 #ifndef	_LDOM_H
 #define	_LDOM_H
 
-#pragma ident	"@(#)ldom.h	1.2	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <libnvpair.h>

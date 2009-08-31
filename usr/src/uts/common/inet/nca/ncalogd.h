@@ -26,7 +26,7 @@
 #ifndef	_INET_NCALOGD_H
 #define	_INET_NCALOGD_H
 
-#pragma ident	"@(#)ncalogd.h	1.7	07/09/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

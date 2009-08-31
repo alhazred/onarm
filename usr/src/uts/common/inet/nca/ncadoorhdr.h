@@ -27,7 +27,7 @@
 #ifndef	_INET_NCADOORHDR_H
 #define	_INET_NCADOORHDR_H
 
-#pragma ident	"@(#)ncadoorhdr.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

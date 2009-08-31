@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#ident	"@(#)fd_asm.s	1.24	05/08/30 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains no entry points which can be called directly from

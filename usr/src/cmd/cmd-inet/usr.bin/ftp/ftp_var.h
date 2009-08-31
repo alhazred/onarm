@@ -39,7 +39,7 @@
 #ifndef	_FTP_VAR_H
 #define	_FTP_VAR_H
 
-#pragma ident	"@(#)ftp_var.h	1.34	06/07/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
 /*	Copyright (c) 1988 AT&T	*/
 /*	All Rights Reserved	*/
 
-#pragma ident	"@(#)header.c	6.23	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ldefs.h"
 

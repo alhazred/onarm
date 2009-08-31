@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.com	1.2	05/08/25 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 LIBRARY=	pam_allow.a
 VERS=		.1

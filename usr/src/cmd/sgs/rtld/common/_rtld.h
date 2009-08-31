@@ -34,7 +34,7 @@
 #ifndef	__RTLD_H
 #define	__RTLD_H
 
-#pragma ident	"@(#)_rtld.h	1.191	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Common header for run-time linker.

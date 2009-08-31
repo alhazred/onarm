@@ -21,7 +21,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)zfs_sha256.c	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "fsys_zfs.h"
 

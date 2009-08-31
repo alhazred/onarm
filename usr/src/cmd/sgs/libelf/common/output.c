@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)output.c	1.20	06/04/19 SMI" 	/* SVr4.0 1.3	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.3	*/
 
 #include "syn.h"
 #include <sys/mman.h>

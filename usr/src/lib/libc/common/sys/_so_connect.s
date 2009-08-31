@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_so_connect.s	1.8	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_so_connect.s"
+	.file	"%M%"
 
 /* C library -- __so_connect						*/
 /* int __so_connect(int sock, struct sockaddr *addr, int addrlen, int vers) */

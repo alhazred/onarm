@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)vs_door.c	1.2	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

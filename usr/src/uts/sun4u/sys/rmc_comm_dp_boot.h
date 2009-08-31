@@ -27,7 +27,7 @@
 #ifndef _RMC_COMM_DP_BOOT_H
 #define	_RMC_COMM_DP_BOOT_H
 
-#pragma ident	"@(#)rmc_comm_dp_boot.h	1.2	05/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

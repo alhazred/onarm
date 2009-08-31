@@ -28,7 +28,7 @@
  */
 
 
-#pragma ident	"@(#)_data2.c	1.20	07/08/17 SMI"	/* SVr4.0 1.1.1.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1.1.1 */
 
 #include "mt.h"
 #include <xti.h>

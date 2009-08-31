@@ -27,7 +27,7 @@
 #ifndef _SYS_MD_NOTIFY_H
 #define	_SYS_MD_NOTIFY_H
 
-#pragma ident	"@(#)md_notify.h	2.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/lvm/mdvar.h>
 #include <sys/proc.h>

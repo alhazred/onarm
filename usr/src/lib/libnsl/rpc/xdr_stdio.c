@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)xdr_stdio.c	1.26	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * xdr_stdio.c, XDR implementation on standard i/o file.

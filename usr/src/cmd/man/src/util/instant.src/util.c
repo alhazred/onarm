@@ -52,7 +52,7 @@
  * written authorization.
  */
 
-#pragma ident	"@(#)util.c	1.9	05/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ________________________________________________________________________

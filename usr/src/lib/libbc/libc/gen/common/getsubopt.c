@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getsubopt.c	1.5	05/06/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 	  /* created from scratch */
 
 /*

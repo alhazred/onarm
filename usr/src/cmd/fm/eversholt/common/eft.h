@@ -30,7 +30,7 @@
 #ifndef	_ESC_COMMON_EFT_H
 #define	_ESC_COMMON_EFT_H
 
-#pragma ident	"@(#)eft.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

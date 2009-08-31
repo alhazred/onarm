@@ -27,7 +27,7 @@
 #ifndef	_MDB_AVL_H
 #define	_MDB_AVL_H
 
-#pragma ident	"@(#)avl.h	1.1	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

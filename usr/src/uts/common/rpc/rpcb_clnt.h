@@ -52,7 +52,7 @@
 #ifndef _RPC_RPCB_CLNT_H
 #define	_RPC_RPCB_CLNT_H
 
-#pragma ident	"@(#)rpcb_clnt.h	1.16	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/types.h>
 #include <rpc/rpcb_prot.h>

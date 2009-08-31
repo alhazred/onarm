@@ -26,7 +26,7 @@
 #ifndef _RES_H_
 #define _RES_H_
 
-#pragma ident	"@(#)res.h	1.8	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define RES_NOT_VISIT 0
 #define RES_VISIT 1 

@@ -27,7 +27,7 @@
 #ifndef	_MDB_PROC_H
 #define	_MDB_PROC_H
 
-#pragma ident	"@(#)mdb_proc.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_target_impl.h>
 #include <mdb/mdb_io_impl.h>

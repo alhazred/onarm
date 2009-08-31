@@ -27,7 +27,7 @@
 #ifndef _SYS_DMAGA_H
 #define	_SYS_DMAGA_H
 
-#pragma ident	"@(#)dmaga.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)softmac_main.c	1.2	08/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The softmac driver is used to "unify" non-GLDv3 drivers to the GLDv3

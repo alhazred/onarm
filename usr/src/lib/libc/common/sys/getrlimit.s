@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getrlimit.s	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"getrlimit.s"
+	.file	"%M%"
 
 /* C library -- getrlimit					*/
 /* int getrlimit(int resources, struct rlimit *rlp)		*/

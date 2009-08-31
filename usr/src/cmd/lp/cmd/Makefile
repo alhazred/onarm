@@ -25,7 +25,7 @@
 #
 
 #
-# ident	"@(#)Makefile	1.36	07/05/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 include 	../Makefile.lp

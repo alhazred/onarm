@@ -31,7 +31,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)nfssys.c	1.15	06/03/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak exportfs = _exportfs
 #pragma weak nfs_getfh = _nfs_getfh

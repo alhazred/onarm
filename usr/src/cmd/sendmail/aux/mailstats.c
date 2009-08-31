@@ -12,7 +12,7 @@
  *
  */
 
-#pragma ident	"@(#)mailstats.c	1.26	04/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sm/gen.h>
 

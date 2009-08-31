@@ -28,8 +28,8 @@
 # Copyright (c) 1997-2000 by Sun Microsystems, Inc.
 # All Rights Reserved.
 #
-# @(#)check-hostname.sh	1.7 (Sun) 06/08/05
-# ident	"@(#)check-hostname.sh	1.7	05/06/08 SMI"
+# %W% (Sun) %G%
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 PATH=/bin:/usr/sbin
 

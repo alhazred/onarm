@@ -23,7 +23,7 @@
  * Copyright (c) 1988-1995, by Sun Microsystems, Inc.
  */
 
-#pragma	ident	"@(#)pack_float.c	1.4	05/06/08 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "base_conversion.h"
 

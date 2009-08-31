@@ -26,7 +26,7 @@
 #ifndef	_SYS_VM_USAGE_H
 #define	_SYS_VM_USAGE_H
 
-#pragma ident	"@(#)vm_usage.h	1.1	06/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

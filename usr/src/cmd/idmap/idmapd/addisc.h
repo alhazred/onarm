@@ -27,7 +27,7 @@
 #ifndef	_ADINFO_H
 #define	_ADINFO_H
 
-#pragma ident	"@(#)addisc.h	1.1	07/10/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

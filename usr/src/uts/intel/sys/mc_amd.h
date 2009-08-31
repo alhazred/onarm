@@ -25,7 +25,7 @@
 #ifndef _MC_AMD_H
 #define	_MC_AMD_H
 
-#pragma ident	"@(#)mc_amd.h	1.7	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/mc.h>
 #include <sys/isa_defs.h>

@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.com	1.23	07/07/12 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG=		elfdump

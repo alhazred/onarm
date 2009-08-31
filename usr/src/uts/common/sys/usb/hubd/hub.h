@@ -26,7 +26,7 @@
 #ifndef	_SYS_USB_HUB_H
 #define	_SYS_USB_HUB_H
 
-#pragma ident	"@(#)hub.h	1.8	06/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

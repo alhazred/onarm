@@ -27,7 +27,7 @@
 #ifndef	_LABEL_H
 #define	_LABEL_H
 
-#pragma ident	"@(#)label.h	1.10	05/12/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

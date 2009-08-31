@@ -31,7 +31,7 @@
 #ifndef _SYS_XQUE_H
 #define	_SYS_XQUE_H
 
-#pragma ident	"@(#)xque.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

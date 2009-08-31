@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_USBSER_VAR_H
 #define	_SYS_USB_USBSER_VAR_H
 
-#pragma ident	"@(#)usbser_var.h	1.7	06/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * USB-to-serial driver definitions

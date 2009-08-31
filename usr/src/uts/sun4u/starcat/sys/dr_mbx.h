@@ -27,7 +27,7 @@
 #ifndef _SYS_DR_MBX_H
 #define	_SYS_DR_MBX_H
 
-#pragma ident	"@(#)dr_mbx.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

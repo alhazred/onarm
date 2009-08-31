@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)freefilter.c	1.5	05/06/08 SMI"	/* SVr4.0 1.11	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.11	*/
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "stdlib.h"

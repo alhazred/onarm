@@ -27,7 +27,7 @@
 #ifndef	_SYS_PX_ASM_4U_H
 #define	_SYS_PX_ASM_4U_H
 
-#pragma ident	"@(#)px_asm_4u.h	1.3	05/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

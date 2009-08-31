@@ -27,7 +27,7 @@
 #ifndef _BGE_IMPL_H
 #define	_BGE_IMPL_H
 
-#pragma ident	"@(#)bge_impl.h	1.39	08/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -25,7 +25,7 @@
 #
 # usr/src/lib/libpam/i386/Makefile
 #
-# ident	"@(#)Makefile	1.7	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 include ../Makefile.com
 

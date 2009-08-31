@@ -2,7 +2,7 @@
 # Copyright 1997-2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.7	03/06/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # /usr/src/uts/common/gssapi/mechs/krb5/Makefile
 

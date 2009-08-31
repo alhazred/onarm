@@ -23,7 +23,7 @@
 # Copyright (c) 1997, by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile.com	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG= locale

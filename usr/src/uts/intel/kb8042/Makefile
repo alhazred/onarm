@@ -19,11 +19,11 @@
 # CDDL HEADER END
 #
 #
-# uts/intel/kb8042/Makefile
+# uts/intel/kb8042/%M%
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.24	07/01/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the kb8042 driver
 #

@@ -31,7 +31,7 @@
 #ifndef _SYS_STROPTS_H
 #define	_SYS_STROPTS_H
 
-#pragma ident	"@(#)stropts.h	1.56	05/06/08 SMI"	/* SVr4.0 11.20	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.20	*/
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

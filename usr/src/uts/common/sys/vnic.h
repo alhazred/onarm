@@ -26,7 +26,7 @@
 #ifndef	_SYS_VNIC_H
 #define	_SYS_VNIC_H
 
-#pragma ident	"@(#)vnic.h	1.2	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/ethernet.h>

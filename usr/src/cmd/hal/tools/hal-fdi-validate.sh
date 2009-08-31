@@ -6,7 +6,7 @@
 #
 # Licensed under the Academic Free License version 2.1
 #
-# ident	"@(#)hal-fdi-validate.sh	1.1	06/10/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 usage() {

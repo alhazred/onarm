@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dwarf.h	1.1	04/09/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
   Copyright (C) 2000, 2001 Silicon Graphics, Inc.  All Rights Reserved.

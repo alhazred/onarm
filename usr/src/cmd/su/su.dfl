@@ -22,7 +22,7 @@
 # Copyright 1993 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)su.dfl	1.8	05/06/10 SMI"	/* SVr4.0 1.2	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 # SULOG determines the location of the file used to log all su attempts
 #

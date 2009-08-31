@@ -26,8 +26,8 @@
 #  Use is subject to license terms.
 #
 #	@(#)Makefile	8.15 (Berkeley) 3/29/98
-#	@(#)Makefile	1.14 (Sun) 02/01/07
-#	ident	"@(#)Makefile	1.14	07/02/01 SMI"
+#	%W% (Sun) %G%
+#	ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #

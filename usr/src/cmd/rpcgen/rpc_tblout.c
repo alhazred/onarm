@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rpc_tblout.c	1.18	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rpc_tblout.c, Dispatch table outputter for the RPC protocol compiler

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)st_conf.c	1.91	07/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/scsi/scsi.h>
 #include <sys/mtio.h>
@@ -32,7 +32,7 @@
 #include <sys/kstat.h>
 #include <sys/scsi/targets/stdef.h>
 
-const char st_conf_version[] = "st_conf.c 1.91 07/11/05";
+const char st_conf_version[] = "%M% %I% %E%";
 /*
  * General
  * -------

@@ -27,7 +27,7 @@
  * definitions for use with DL library
  */
 
-#pragma ident	"@(#)dluser.h	1.5	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define DLSTATE_UNBOUND 	0
 #define DLSTATE_UNATTACHED	1

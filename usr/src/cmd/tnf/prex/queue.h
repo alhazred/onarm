@@ -26,7 +26,7 @@
 #ifndef _QUEUE_H
 #define	_QUEUE_H
 
-#pragma ident	"@(#)queue.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Includes

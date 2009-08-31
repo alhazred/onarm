@@ -34,7 +34,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)encode.c	1.3	07/10/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <netinet/in.h>

@@ -34,7 +34,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pcache.c	1.1	04/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * If file-system access is to be excluded, this module has no function,

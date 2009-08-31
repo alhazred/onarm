@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)options.c	1.10	05/06/08 SMI"	/* SVr4 5.0 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4 5.0 */
 
 #include <sys/types.h>
 #include <sys/errno.h>

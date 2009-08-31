@@ -27,7 +27,7 @@
 
 /* Id: nss.c 180 2006-07-20 17:33:02Z njacobs $ */
 
-#pragma ident	"@(#)nss.c	1.5	06/10/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

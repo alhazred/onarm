@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_NDR_H
 #define	_SMBSRV_NDR_H
 
-#pragma ident	"@(#)ndr.h	1.2	07/11/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Network Data Representation (NDR) is a compatible subset of DCE RPC

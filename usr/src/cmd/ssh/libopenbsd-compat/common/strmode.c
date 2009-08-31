@@ -155,4 +155,4 @@ strmode(register mode_t mode, register char *p)
 }
 #endif
 
-#pragma ident	"@(#)strmode.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

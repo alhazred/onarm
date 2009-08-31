@@ -26,7 +26,7 @@
  * File.xs contains XS code for exacct file manipulation.
  */
 
-#pragma ident	"@(#)File.xs	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pwd.h>
 #include "../exacct_common.xh"

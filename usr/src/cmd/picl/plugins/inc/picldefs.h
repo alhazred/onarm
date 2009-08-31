@@ -27,7 +27,7 @@
 #ifndef	_PICLDEFS_H
 #define	_PICLDEFS_H
 
-#pragma ident	"@(#)picldefs.h	1.23	07/03/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

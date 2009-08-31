@@ -27,7 +27,7 @@
 #ifndef	_VDC_H
 #define	_VDC_H
 
-#pragma ident	"@(#)vdc.h	1.12	08/02/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Virtual disk client implementation definitions

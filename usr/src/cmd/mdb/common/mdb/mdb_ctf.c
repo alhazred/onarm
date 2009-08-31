@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mdb_ctf.c	1.11	05/07/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_ctf.h>
 #include <mdb/mdb_ctf_impl.h>

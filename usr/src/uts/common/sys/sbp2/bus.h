@@ -27,7 +27,7 @@
 #ifndef	_SYS_SBP2_BUS_H
 #define	_SYS_SBP2_BUS_H
 
-#pragma ident	"@(#)bus.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Serial Bus Protocol 2 (SBP-2) bus interface

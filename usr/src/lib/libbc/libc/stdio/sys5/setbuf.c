@@ -27,7 +27,7 @@
 /*      Copyright (c) 1984 AT&T */
 /*        All Rights Reserved   */
 
-#pragma ident	"@(#)setbuf.c	1.11	05/06/08 SMI"  /* from S5R2 2.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"  /* from S5R2 2.2 */
 
 /*LINTLIBRARY*/
 #include <stdio.h>

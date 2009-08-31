@@ -51,7 +51,7 @@
 /
 / ***** END LICENSE BLOCK *****
 
-	.ident	"@(#)arcfour_crypt_amd64.s	1.1	08/01/02 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
 /
 / void arcfour_crypt(ARCFour_key *key, uchar_t *in,

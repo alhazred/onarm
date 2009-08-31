@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)io.c	1.12	04/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* io.c - ber general i/o routines */
 /*

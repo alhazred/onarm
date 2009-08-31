@@ -28,7 +28,7 @@
  * 	called when :
  *	machine_type == MTYPE_MONTECARLO
  */
-#pragma ident	"@(#)montecarlo.c	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* includes */
 #include <assert.h>

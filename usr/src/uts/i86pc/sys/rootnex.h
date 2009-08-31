@@ -27,7 +27,7 @@
 #ifndef	_SYS_ROOTNEX_H
 #define	_SYS_ROOTNEX_H
 
-#pragma ident	"@(#)rootnex.h	1.2	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * x86 root nexus implementation specific state

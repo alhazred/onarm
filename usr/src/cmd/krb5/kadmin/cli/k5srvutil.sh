@@ -7,7 +7,7 @@
 #
 #
 #
-#pragma ident	"@(#)k5srvutil.sh	1.1	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 TEXTDOMAIN=SUNW_OST_OSCMD
 export TEXTDOMAIN

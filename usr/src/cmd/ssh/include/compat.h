@@ -31,7 +31,7 @@
 
 /*	$OpenBSD: compat.h,v 1.33 2002/09/27 10:42:09 mickey Exp $	*/
 
-#pragma ident	"@(#)compat.h	1.13	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

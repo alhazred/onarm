@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)vldc.c	1.8	06/11/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/file.h>
@@ -146,7 +146,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv md = {
 	&mod_driverops, 			/* Type - it is a driver */
-	"sun4v Virtual LDC Driver 1.8",	/* Name of the module */
+	"sun4v Virtual LDC Driver %I%",	/* Name of the module */
 	&vldc_ops,				/* driver specific ops */
 };
 

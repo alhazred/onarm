@@ -34,7 +34,7 @@
 #ifndef	_KRB5_KTFILE
 #define	_KRB5_KTFILE
 
-#pragma ident	"@(#)ktfile.h	1.4	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <sys/mman.h>

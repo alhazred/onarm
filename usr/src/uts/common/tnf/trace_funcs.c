@@ -23,7 +23,7 @@
  *	Copyright (c) 1994, by Sun Microsytems, Inc.
  */
 
-#pragma ident	"@(#)trace_funcs.c	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Includes

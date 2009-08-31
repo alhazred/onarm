@@ -13,7 +13,7 @@
  * All Rights Reserved.
  */
   
-#ident	"@(#)glob.c	1.4	05/06/02 SMI"	/* SVr4.0 1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 #include "e.h"
 

@@ -32,7 +32,7 @@
 #ifndef	_DATABASE_H
 #define	_DATABASE_H
 
-#pragma ident	"@(#)database.h	1.11	05/06/08 SMI"
+#pragma ident	"%W%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

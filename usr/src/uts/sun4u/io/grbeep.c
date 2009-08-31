@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)grbeep.c	1.6	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the Beep driver for SMBUS based beep mechanism.
@@ -113,7 +113,7 @@ static struct dev_ops grbeep_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, 		/* This one is a driver */
-	"SMBUS Beep Driver 1.6", 	/* Name of the module. */
+	"SMBUS Beep Driver %I%", 	/* Name of the module. */
 	&grbeep_ops,			/* Driver ops */
 };
 

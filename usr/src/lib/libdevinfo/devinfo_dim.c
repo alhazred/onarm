@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)devinfo_dim.c	1.1	06/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "libdevinfo.h"
 #include <strings.h>

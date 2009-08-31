@@ -29,7 +29,7 @@
  * 16550 compatible serial port.
  */
 
-#pragma ident	"@(#)rmc_comm.c	1.12	07/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  Header files
@@ -960,7 +960,7 @@ static struct dev_ops rmc_comm_dev_ops =
 static struct modldrv modldrv =
 {
 	&mod_driverops,
-	"rmc_comm driver, v1.12",
+	"rmc_comm driver, v%I%",
 	&rmc_comm_dev_ops
 };
 

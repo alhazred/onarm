@@ -26,7 +26,7 @@
 #ifndef	_SYS_DLD_H
 #define	_SYS_DLD_H
 
-#pragma ident	"@(#)dld.h	1.12	08/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Data-Link Driver (public header).
@@ -47,7 +47,7 @@ extern "C" {
 /*
  * Data-Link Driver Information (text emitted by modinfo(1m))
  */
-#define	DLD_INFO	"Data-Link Driver v1.12"
+#define	DLD_INFO	"Data-Link Driver v%I%"
 
 /*
  * Options: To enable an option set the property name to a non-zero value

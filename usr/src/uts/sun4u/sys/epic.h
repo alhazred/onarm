@@ -28,7 +28,7 @@
 #ifndef _EPIC_H
 #define	_EPIC_H
 
-#pragma ident	"@(#)epic.h	1.1	05/11/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

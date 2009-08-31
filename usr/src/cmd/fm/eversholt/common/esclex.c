@@ -32,7 +32,7 @@
  * be run through cpp.
  */
 
-#pragma ident	"@(#)esclex.c	1.7	06/10/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

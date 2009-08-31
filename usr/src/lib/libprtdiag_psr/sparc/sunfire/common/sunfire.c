@@ -29,7 +29,7 @@
  *	machine_type == MTYPE_SUNFIRE
  */
 
-#pragma ident	"@(#)sunfire.c	1.9	05/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

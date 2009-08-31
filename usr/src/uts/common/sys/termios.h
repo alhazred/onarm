@@ -30,7 +30,7 @@
 #ifndef _SYS_TERMIOS_H
 #define	_SYS_TERMIOS_H
 
-#pragma ident	"@(#)termios.h	1.44	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

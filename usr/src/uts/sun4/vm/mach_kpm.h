@@ -26,7 +26,7 @@
 #ifndef	_MACH_KPM_H
 #define	_MACH_KPM_H
 
-#pragma ident	"@(#)mach_kpm.h	1.1	06/06/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

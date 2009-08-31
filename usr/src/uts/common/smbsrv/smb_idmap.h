@@ -26,7 +26,7 @@
 #ifndef _SMB_IDMAP_H
 #define	_SMB_IDMAP_H
 
-#pragma ident	"@(#)smb_idmap.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef _KERNEL
 #include <sys/kidmap.h>

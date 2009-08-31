@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#ident	"@(#)lx_crt.s	1.1	06/09/11 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 

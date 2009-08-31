@@ -34,7 +34,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)setkey.c	1.21	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Do the real work of the keyserver.

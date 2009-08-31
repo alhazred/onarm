@@ -34,7 +34,7 @@
 #ifndef _SYS_CRED_H
 #define	_SYS_CRED_H
 
-#pragma ident	"@(#)cred.h	1.33	08/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

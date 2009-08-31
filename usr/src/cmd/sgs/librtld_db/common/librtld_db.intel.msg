@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)librtld_db.intel.msg	1.5	06/03/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # Message file for cmd/sgs/librtld_db - intel specific.
 

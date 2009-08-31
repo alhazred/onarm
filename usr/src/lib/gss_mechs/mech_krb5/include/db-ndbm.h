@@ -6,7 +6,7 @@
 #ifndef	_KRB5_NDBM_H_
 #define	_KRB5_NDBM_H_
 
-#pragma ident	"@(#)db-ndbm.h	1.2	03/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -46,7 +46,7 @@
  * link-map.  If a failures occurs after a handle have been created,
  * remove_hdl() is called to remove the handle and the link-map.
  */
-#pragma ident	"@(#)remove.c	1.63	08/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	"_synonyms.h"
 

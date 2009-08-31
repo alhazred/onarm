@@ -9,7 +9,7 @@
  *	$Id: gen.h,v 1.23 2003/11/04 18:51:54 ca Exp $
  */
 
-#pragma ident	"@(#)gen.h	1.2	04/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  libsm general definitions

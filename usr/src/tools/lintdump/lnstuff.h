@@ -31,7 +31,7 @@
  *	Based on @(#)lnstuff.h 1.5 02/06/05 from lint
  */
 
-#pragma ident	"@(#)lnstuff.h	1.1	06/06/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	LNSTUFF_H
 #define	LNSTUFF_H

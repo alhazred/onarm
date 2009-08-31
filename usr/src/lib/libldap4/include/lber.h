@@ -18,7 +18,7 @@
 #ifndef _LBER_H
 #define	_LBER_H
 
-#pragma ident	"@(#)lber.h	1.2	04/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

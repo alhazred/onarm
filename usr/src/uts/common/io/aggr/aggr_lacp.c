@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)aggr_lacp.c	1.8	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * IEEE 802.3ad Link Aggregation - LACP & Marker Protocol processing.

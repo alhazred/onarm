@@ -6,7 +6,7 @@
 #ifndef	__MD4_H
 #define	__MD4_H
 
-#pragma ident	"@(#)md4.h	1.1	07/04/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

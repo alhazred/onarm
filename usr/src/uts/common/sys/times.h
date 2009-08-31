@@ -26,7 +26,7 @@
 #ifndef _SYS_TIMES_H
 #define	_SYS_TIMES_H
 
-#pragma ident	"@(#)times.h	1.12	05/06/08 SMI"	/* SVr4.0 11.7 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.7 */
 
 #include <sys/types.h>
 

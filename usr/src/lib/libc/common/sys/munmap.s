@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)munmap.s	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"munmap.s"
+	.file	"%M%"
 
 /* C library -- munmap						*/
 /* int munmap(caddr_t addr, size_t len)				*/

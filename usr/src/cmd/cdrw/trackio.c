@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)trackio.c	1.11	06/02/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <thread.h>
 #include <synch.h>

@@ -29,7 +29,7 @@
  *
  */
 
-#ident	"@(#)message.h	1.6	05/06/08 SMI"       /* SVr4.0 1.4 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.4 */
 
 extern	int Mess_lock;
 #define mess_lock()	(Mess_lock++)

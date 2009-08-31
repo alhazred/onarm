@@ -27,7 +27,7 @@
 #ifndef _KEYSERV_DEBUG_H
 #define	_KEYSERV_DEBUG_H
 
-#pragma ident	"@(#)debug.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

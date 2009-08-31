@@ -19,7 +19,7 @@
 #ifndef	_net_if_arp_h
 #define	_net_if_arp_h
 
-#pragma ident	"@(#)if_arp.h	1.1	03/05/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

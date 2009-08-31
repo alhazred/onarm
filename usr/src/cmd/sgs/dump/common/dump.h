@@ -30,7 +30,7 @@
 #ifndef	_DUMP_H
 #define	_DUMP_H
 
-#pragma ident	"@(#)dump.h	6.9	06/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<sys/elf.h>
 #include	<sys/machelf.h>

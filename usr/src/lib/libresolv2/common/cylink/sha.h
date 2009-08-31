@@ -63,7 +63,7 @@
 #ifndef SHA_H
 #define SHA_H
 
-#pragma ident	"@(#)sha.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "cylink.h"
 

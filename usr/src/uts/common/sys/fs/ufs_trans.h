@@ -27,7 +27,7 @@
 #ifndef _SYS_FS_UFS_TRANS_H
 #define	_SYS_FS_UFS_TRANS_H
 
-#pragma ident	"@(#)ufs_trans.h	1.70	05/11/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

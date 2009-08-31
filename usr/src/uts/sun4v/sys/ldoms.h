@@ -27,7 +27,7 @@
 #ifndef	_LDOMS_H
 #define	_LDOMS_H
 
-#pragma ident	"@(#)ldoms.h	1.3	07/07/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

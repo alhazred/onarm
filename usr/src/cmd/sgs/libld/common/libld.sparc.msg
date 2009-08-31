@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)libld.sparc.msg	1.13	07/09/21 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 @ _START_
 

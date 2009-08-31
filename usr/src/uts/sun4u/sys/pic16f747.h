@@ -27,7 +27,7 @@
 #ifndef _PIC16F747_H
 #define	_PIC16F747_H
 
-#pragma ident	"@(#)pic16f747.h	1.5	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

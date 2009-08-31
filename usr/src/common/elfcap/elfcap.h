@@ -26,7 +26,7 @@
 #ifndef _ELFCAP_DOT_H
 #define	_ELFCAP_DOT_H
 
-#pragma ident	"@(#)elfcap.h	1.3	07/11/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

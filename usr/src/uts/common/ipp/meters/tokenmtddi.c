@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)tokenmtddi.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/atomic.h>
@@ -95,7 +95,7 @@ extern struct mod_ops mod_ippops;
  */
 static struct modlipp modlipp = {
 	&mod_ippops,
-	D_SM_COMMENT " 1.3",
+	D_SM_COMMENT " %I%",
 	&tokenmt_ops
 };
 

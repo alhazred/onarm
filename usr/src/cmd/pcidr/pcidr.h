@@ -27,7 +27,7 @@
 #ifndef	_PCIDR_H
 #define	_PCIDR_H
 
-#pragma ident	"@(#)pcidr.h	1.1	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libnvpair.h>
 #include <config_admin.h>

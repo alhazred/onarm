@@ -27,7 +27,7 @@
 #	Copyright (c) 1999, 2001 by Sun Microsystems, Inc.
 #	All rights reserved.
 
-#ident	"@(#)diff3.sh	1.18	05/06/08 SMI"	/* SVr4.0 1.4	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4	*/
 
 usage="usage: diff3 file1 file2 file3"
 

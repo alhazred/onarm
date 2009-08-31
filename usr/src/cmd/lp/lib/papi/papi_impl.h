@@ -26,7 +26,7 @@
 #ifndef _PAPI_IMPL_H
 #define	_PAPI_IMPL_H
 
-#pragma ident	"@(#)papi_impl.h	1.4	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <papi.h>
 

@@ -28,7 +28,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-# ident	"@(#)Makefile.com	1.16	07/12/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY= librpcsvc.a

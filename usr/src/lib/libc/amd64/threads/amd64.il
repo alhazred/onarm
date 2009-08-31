@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)amd64.il	1.8	07/05/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 	.inline	_curthread, 0
 	movq	%fs:0, %rax
 	.end

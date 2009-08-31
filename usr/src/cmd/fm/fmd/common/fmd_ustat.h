@@ -28,7 +28,7 @@
 #ifndef	_FMD_USTAT_H
 #define	_FMD_USTAT_H
 
-#pragma ident	"@(#)fmd_ustat.h	1.3	05/12/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pthread.h>
 

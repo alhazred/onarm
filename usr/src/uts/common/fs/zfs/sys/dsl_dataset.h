@@ -30,7 +30,7 @@
 #ifndef	_SYS_DSL_DATASET_H
 #define	_SYS_DSL_DATASET_H
 
-#pragma ident	"@(#)dsl_dataset.h	1.15	08/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dmu.h>
 #include <sys/spa.h>

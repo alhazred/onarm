@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)makedev.c	1.9	05/08/02 SMI"	
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	
 
 /* Note added 9/25/83
 	Setting the parameter biggestfont in the DESC file

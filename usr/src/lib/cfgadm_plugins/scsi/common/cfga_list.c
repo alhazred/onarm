@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cfga_list.c	1.12	07/12/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "cfga_scsi.h"
 

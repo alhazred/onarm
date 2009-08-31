@@ -31,7 +31,7 @@
 #ifndef _PCMCIA_H
 #define	_PCMCIA_H
 
-#pragma ident	"@(#)pcmcia.h	1.55	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

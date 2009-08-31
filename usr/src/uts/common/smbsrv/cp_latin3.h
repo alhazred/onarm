@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_CP_LATIN3_H
 #define	_SMBSRV_CP_LATIN3_H
 
-#pragma ident	"@(#)cp_latin3.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file specifies a codepage mapping for a given character set as

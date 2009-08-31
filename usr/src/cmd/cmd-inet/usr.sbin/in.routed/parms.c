@@ -36,7 +36,7 @@
  * $FreeBSD: src/sbin/routed/parms.c,v 1.9 2000/08/11 08:24:38 sheldonh Exp $
  */
 
-#pragma ident	"@(#)parms.c	2.5	05/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "defs.h"
 #include "pathnames.h"

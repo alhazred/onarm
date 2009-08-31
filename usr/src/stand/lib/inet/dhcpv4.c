@@ -26,7 +26,7 @@
  * Standalone dhcp client.
  */
 
-#pragma ident	"@(#)dhcpv4.c	1.13	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/salib.h>

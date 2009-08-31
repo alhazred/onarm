@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.1	05/11/25 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/cmd-inet/usr.sbin/wificonfig/Makefile
 #

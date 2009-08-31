@@ -24,7 +24,7 @@
  */
 
 
-#pragma ident	"@(#)todstarfire.c	1.11	07/06/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * tod driver module for Starfire
@@ -59,7 +59,7 @@ static uint64_t		todsf_get_cpufrequency(void);
  * Module linkage information for the kernel.
  */
 static struct modlmisc modlmisc = {
-	&mod_miscops, "Soft tod module for Starfire 1.11"
+	&mod_miscops, "Soft tod module for Starfire %I%"
 };
 
 static struct modlinkage modlinkage = {

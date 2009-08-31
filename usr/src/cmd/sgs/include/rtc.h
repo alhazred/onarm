@@ -26,7 +26,7 @@
 #ifndef	_RTC_H
 #define	_RTC_H
 
-#pragma ident	"@(#)rtc.h	1.9	06/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Global include file for the runtime configuration support.

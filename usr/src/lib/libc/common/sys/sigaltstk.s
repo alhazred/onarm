@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sigaltstk.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"sigaltstk.s"
+	.file	"%M%"
 
 /* C library -- sigaltstack					*/
 /* int sigaltstack (stack_t *ss, stack_t *oss);			*/

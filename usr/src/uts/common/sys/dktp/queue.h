@@ -27,7 +27,7 @@
 #ifndef _SYS_DKTP_QUEUE_H
 #define	_SYS_DKTP_QUEUE_H
 
-#pragma ident	"@(#)queue.h	1.7	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

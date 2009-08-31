@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)get_addrs.c	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "talk_ctl.h"
 #include <locale.h>

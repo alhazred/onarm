@@ -27,7 +27,7 @@
 # Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)etrn.pl	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 require 5.6.1;				# minimal Perl version required
 use strict;

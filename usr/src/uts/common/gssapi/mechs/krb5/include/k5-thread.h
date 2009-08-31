@@ -35,7 +35,7 @@
 #ifndef K5_THREAD_H
 #define K5_THREAD_H
 
-#pragma ident	"@(#)k5-thread.h	1.3	07/09/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef _KERNEL
 

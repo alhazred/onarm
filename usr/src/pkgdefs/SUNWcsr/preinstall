@@ -21,7 +21,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)preinstall	1.21	07/05/31 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # When first introduced the /etc/inet/ipnodes file was seperate from

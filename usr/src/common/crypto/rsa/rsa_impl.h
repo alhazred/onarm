@@ -27,7 +27,7 @@
 #ifndef _RSA_IMPL_H
 #define	_RSA_IMPL_H
 
-#pragma ident	"@(#)rsa_impl.h	1.5	05/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

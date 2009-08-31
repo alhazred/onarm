@@ -23,7 +23,7 @@
 # Copyright (c) 1995 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 PROG= pagesize
 

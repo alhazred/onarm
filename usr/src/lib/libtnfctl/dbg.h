@@ -26,7 +26,7 @@
 #ifndef _DBG_H
 #define	_DBG_H
 
-#pragma ident	"@(#)dbg.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Header file for debugging output.  This is compiled in only if the

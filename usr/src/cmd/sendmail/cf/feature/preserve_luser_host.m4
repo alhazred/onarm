@@ -7,7 +7,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-#ident	"@(#)preserve_luser_host.m4	1.2	02/07/25 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 divert(0)

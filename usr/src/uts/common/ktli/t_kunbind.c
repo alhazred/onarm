@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)t_kunbind.c	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Kernel TLI-like function to unbind a transport endpoint

@@ -121,4 +121,4 @@ BSDgetopt(nargc, nargv, ostr)
 
 #endif /* !defined(HAVE_GETOPT) || !defined(HAVE_OPTRESET) */
 
-#pragma ident	"@(#)getopt.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

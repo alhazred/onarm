@@ -28,7 +28,7 @@
 #ifndef	_EFT_PLATFORM_H
 #define	_EFT_PLATFORM_H
 
-#pragma ident	"@(#)platform.h	1.7	07/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libnvpair.h>
 

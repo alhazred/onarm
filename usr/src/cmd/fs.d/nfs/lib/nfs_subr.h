@@ -29,7 +29,7 @@
 #ifndef	_NFS_SUBR_H
 #define	_NFS_SUBR_H
 
-#pragma ident	"@(#)nfs_subr.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

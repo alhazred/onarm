@@ -23,7 +23,7 @@
  * Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
  *	Use is subject to license terms.
  */
-#pragma ident	"@(#)stab.c	1.27	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains all functions relating to stab processing.  The

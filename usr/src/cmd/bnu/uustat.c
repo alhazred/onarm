@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)uustat.c	1.19	05/10/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include <time.h>
 #include "uucp.h"
 

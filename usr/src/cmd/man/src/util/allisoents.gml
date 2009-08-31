@@ -23,7 +23,7 @@
     CDDL HEADER END
 -->
 <!-- SCCS keyword
-#pragma ident	"@(#)allisoents.gml	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 -->
 <!ENTITY % ISOpub PUBLIC 
  "ISO 8879:1986//ENTITIES Publishing//EN">

@@ -27,7 +27,7 @@
 #ifndef	_RPC_RPCSYS_H
 #define	_RPC_RPCSYS_H
 
-#pragma ident	"@(#)rpcsys.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

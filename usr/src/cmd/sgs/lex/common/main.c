@@ -28,7 +28,7 @@
 
 /* Copyright 1976, Bell Telephone Laboratories, Inc. */
 
-#pragma ident	"@(#)main.c	6.17	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include "once.h"

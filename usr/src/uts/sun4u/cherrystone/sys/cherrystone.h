@@ -27,7 +27,7 @@
 #ifndef	_CHERRYSTONE_H
 #define	_CHERRYSTONE_H
 
-#pragma ident	"@(#)cherrystone.h	1.6	05/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

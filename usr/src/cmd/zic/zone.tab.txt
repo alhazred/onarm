@@ -1,4 +1,4 @@
-# ident	"@(#)zone.tab.txt	1.15	08/01/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # @(#)zone.tab	8.13
 #

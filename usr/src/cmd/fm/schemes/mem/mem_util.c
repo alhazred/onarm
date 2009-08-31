@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mem_util.c	1.5	06/11/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mem.h>
 #include <fcntl.h>

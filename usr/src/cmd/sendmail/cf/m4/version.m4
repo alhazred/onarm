@@ -10,7 +10,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-# ident	"@(#)version.m4	1.39	07/11/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 VERSIONID(`$Id: version.m4,v 8.186 2007/10/31 16:04:13 ca Exp $')
 #

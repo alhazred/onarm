@@ -27,7 +27,7 @@
 #ifndef _IPP_IPGPC_BA_TABLE_H
 #define	_IPP_IPGPC_BA_TABLE_H
 
-#pragma ident	"@(#)ba_table.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <ipp/ipgpc/classifier-objects.h>
 

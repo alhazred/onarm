@@ -26,7 +26,7 @@
 #ifndef	_SMBSRV_CODEPAGE_H
 #define	_SMBSRV_CODEPAGE_H
 
-#pragma ident	"@(#)codepage.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <smbsrv/string.h>
 #include <smbsrv/smb_i18n.h>

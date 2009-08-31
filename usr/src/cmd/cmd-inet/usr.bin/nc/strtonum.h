@@ -22,7 +22,7 @@
 #ifndef	_STRTONUM_H
 #define	_STRTONUM_H
 
-#pragma ident	"@(#)strtonum.h	1.1	07/11/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 unsigned int
 strtonum(const char *numstr, unsigned int minval, unsigned int maxval,

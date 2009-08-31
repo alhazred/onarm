@@ -24,7 +24,7 @@
 !	.asciz	"Copyr 1986 Sun Micro"
 	.seg	"text"
 
-#ident	"@(#)rem.s	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 1986 Sun Microsystems, Inc.  All rights reserved.

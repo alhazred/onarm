@@ -27,7 +27,7 @@
 #ifndef	_MY_ALLOC_H
 #define	_MY_ALLOC_H
 
-#pragma ident	"@(#)debug_alloc.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

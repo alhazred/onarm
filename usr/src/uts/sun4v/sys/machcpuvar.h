@@ -26,7 +26,7 @@
 #ifndef	_SYS_MACHCPUVAR_H
 #define	_SYS_MACHCPUVAR_H
 
-#pragma ident	"@(#)machcpuvar.h	1.17	07/07/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/intr.h>
 #include <sys/clock.h>

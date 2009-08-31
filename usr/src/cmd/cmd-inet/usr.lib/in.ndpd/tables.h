@@ -26,7 +26,7 @@
 #ifndef	_NDPD_TABLES_H
 #define	_NDPD_TABLES_H
 
-#pragma ident	"@(#)tables.h	1.18	08/02/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

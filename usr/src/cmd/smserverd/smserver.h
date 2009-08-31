@@ -27,7 +27,7 @@
 #ifndef	_SMSERVER_H_
 #define	_SMSERVER_H_
 
-#pragma ident	"@(#)smserver.h	1.6	05/10/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

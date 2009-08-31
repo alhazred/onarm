@@ -27,7 +27,7 @@
 #ifndef	_SYS_PCI_SC_H
 #define	_SYS_PCI_SC_H
 
-#pragma ident	"@(#)pci_sc.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

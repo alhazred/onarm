@@ -27,7 +27,7 @@
 # Copyright (c) 2008 NEC Corporation
 #
 
-# ident	"@(#)Makefile	1.1	07/09/18 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of all implementation architecture
 #	dependent modules for the i86xpv architecture.

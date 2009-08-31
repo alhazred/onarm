@@ -6,7 +6,7 @@
 #ifndef	__KADM5_ADMIN_H__
 #define	__KADM5_ADMIN_H__
 
-#pragma ident	"@(#)admin.h	1.14	08/01/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

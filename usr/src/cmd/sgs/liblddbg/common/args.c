@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)args.c	1.7	06/03/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<debug.h>
 #include	"_debug.h"

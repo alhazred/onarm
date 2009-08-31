@@ -26,7 +26,7 @@
 #ifndef	_SYS_FPU_FPU_SIMULATOR_H
 #define	_SYS_FPU_FPU_SIMULATOR_H
 
-#pragma ident	"@(#)fpu_simulator.h	1.36	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* SunOS-4.0 1.10	*/
 
 /*

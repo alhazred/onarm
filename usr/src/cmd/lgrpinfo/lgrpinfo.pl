@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)lgrpinfo.pl	1.1	06/09/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #
@@ -57,7 +57,7 @@ our $cmdname = basename($0, ".pl");
 # Get liblgrp version
 my $version = Sun::Solaris::Lgrp::lgrp_version();
 
-our $VERSION = "1.1 (liblgrp version $version)";
+our $VERSION = "%I% (liblgrp version $version)";
 
 # The $loads hash keeps per-lgroup load average.
 our $loads = {};

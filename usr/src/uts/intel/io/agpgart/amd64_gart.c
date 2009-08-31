@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)amd64_gart.c	1.2	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/conf.h>
 #include <sys/ddi.h>
@@ -394,7 +394,7 @@ static struct dev_ops amd64_gart_ops = {
 
 static  struct modldrv modldrv = {
 	&mod_driverops,
-	"AGP AMD gart driver v1.2",
+	"AGP AMD gart driver v%I%",
 	&amd64_gart_ops,
 };
 

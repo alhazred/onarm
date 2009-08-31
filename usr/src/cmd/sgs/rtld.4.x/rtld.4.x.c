@@ -27,7 +27,7 @@
  * SunOS executable to the dynamic linker, and then redirects to the
  * "real" post-SVR4 SunOS ld.so.
  */
-#pragma ident	"@(#)rtld.4.x.c	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Import data structures (N.B.: from 5.x).

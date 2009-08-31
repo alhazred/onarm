@@ -27,7 +27,7 @@
 #ifndef _XAUI_H
 #define	_XAUI_H
 
-#pragma ident	"@(#)xaui.h	1.2	07/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

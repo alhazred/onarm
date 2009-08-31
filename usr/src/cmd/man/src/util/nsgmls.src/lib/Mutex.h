@@ -1,6 +1,6 @@
 // Copyright (c) 1996 James Clark
 // See the file copying.txt for copying permission.
-#pragma ident	"@(#)Mutex.h	1.3	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef Mutex_INCLUDED
 #define Mutex_INCLUDED 1

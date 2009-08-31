@@ -33,7 +33,7 @@
 #ifndef _CHELSIO_OSCHTOE_H
 #define	_CHELSIO_OSCHTOE_H
 
-#pragma ident	"@(#)oschtoe.h	1.3	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

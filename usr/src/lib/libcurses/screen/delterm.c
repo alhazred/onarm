@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)delterm.c	1.11	05/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

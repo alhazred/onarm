@@ -1,6 +1,6 @@
 // Copyright (c) 1994, 1995, 1996 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)SOEntityCatalog.cxx	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __GNUG__
 #pragma implementation

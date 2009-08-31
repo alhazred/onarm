@@ -38,7 +38,7 @@
 #ifndef _ATH_AUX_H
 #define	_ATH_AUX_H
 
-#pragma ident	"@(#)ath_aux.h	1.2	06/11/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

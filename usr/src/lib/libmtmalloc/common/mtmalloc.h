@@ -27,7 +27,7 @@
 #ifndef _MTMALLOC_H
 #define	_MTMALLOC_H
 
-#pragma ident	"@(#)mtmalloc.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Public interface for multi-threadead malloc user land library

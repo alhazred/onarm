@@ -24,5 +24,5 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)prototype.sh	1.16	08/02/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #

@@ -27,7 +27,7 @@
 #ifndef _SMB_KEYCHAIN_H
 #define	_SMB_KEYCHAIN_H
 
-#pragma ident	"@(#)smb_keychain.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * External interface to the libsmbfs/netsmb keychain

@@ -30,7 +30,7 @@
 #ifndef	_SYS_ARC_H
 #define	_SYS_ARC_H
 
-#pragma ident	"@(#)arc.h	1.11	07/12/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zfs_context.h>
 

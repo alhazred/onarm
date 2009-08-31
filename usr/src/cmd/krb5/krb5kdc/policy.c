@@ -26,7 +26,7 @@
  * Policy decision routines for KDC.
  */
 
-#pragma ident	"@(#)policy.c	1.3	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include "k5-int.h"

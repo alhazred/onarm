@@ -27,7 +27,7 @@
 #ifndef	_FPC_IMPL_4V_H
 #define	_FPC_IMPL_4V_H
 
-#pragma ident	"@(#)fpc-impl-4v.h	1.2	06/03/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

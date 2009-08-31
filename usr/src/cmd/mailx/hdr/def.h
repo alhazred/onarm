@@ -40,7 +40,7 @@
 #ifndef _MAILX_DEF_H
 #define	_MAILX_DEF_H
 
-#pragma ident	"@(#)def.h	1.32	06/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

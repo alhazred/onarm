@@ -25,7 +25,7 @@
 #
 # usr/src/lib/pam_modules/dial_auth/Makefile.com
 #
-#ident	"@(#)Makefile.com	1.8	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 LIBRARY=	pam_dial_auth.a
 VERS=		.1

@@ -38,7 +38,7 @@
  * " The Regents of the University of California.  All rights reserved.\n";
  */
 
-#pragma ident	"@(#)main.c	2.12	06/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "defs.h"
 #include "pathnames.h"

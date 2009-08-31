@@ -26,7 +26,7 @@
 #ifndef	_SYS_MDI_IMPLDEFS_H
 #define	_SYS_MDI_IMPLDEFS_H
 
-#pragma ident	"@(#)mdi_impldefs.h	1.24	06/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 #include <sys/types.h>

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)u8_textprep.c	1.2	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

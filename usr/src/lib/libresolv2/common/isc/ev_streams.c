@@ -19,7 +19,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)ev_streams.c	1.6	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* ev_streams.c - implement asynch stream file IO for the eventlib
  * vix 04mar96 [initial]

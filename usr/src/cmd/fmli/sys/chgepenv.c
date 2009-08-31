@@ -27,7 +27,7 @@
  * Copyright  (c) 1985 AT&T
  *	All Rights Reserved
  */
-#ident	"@(#)chgepenv.c	1.6	05/06/08 SMI"       /* SVr4.0 1.2 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.2 */
 
 #include	<stdio.h>
 #include	"sizes.h"

@@ -29,7 +29,7 @@
  * intended to be called by users - it is intended to be invoked by the
  * zones utilities.
  */
-#pragma ident	"@(#)lx_support.c	1.7	07/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <ctype.h>
 #include <errno.h>

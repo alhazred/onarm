@@ -27,7 +27,7 @@
 #ifndef	DSVCD_DSVCLOCKD_H
 #define	DSVCD_DSVCLOCKD_H
 
-#pragma ident	"@(#)dsvclockd.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

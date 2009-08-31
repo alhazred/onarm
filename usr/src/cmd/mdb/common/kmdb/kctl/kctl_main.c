@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kctl_main.c	1.6	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kmdb/kctl/kctl.h>
 #include <kmdb/kctl/kctl_wr.h>

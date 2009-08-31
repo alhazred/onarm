@@ -26,7 +26,7 @@
 #ifndef	_SYS_SCSI_SCSI_RESOURCE_H
 #define	_SYS_SCSI_SCSI_RESOURCE_H
 
-#pragma ident	"@(#)scsi_resource.h	1.28	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __lock_lint
 #include <note.h>

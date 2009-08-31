@@ -38,7 +38,7 @@
 #define const
 #endif
 
-#pragma ident	"@(#)pppstats.c	1.3	01/06/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
 static const char rcsid[] = "$Id: pppstats.c,v 1.27 1999/08/13 06:46:23 paulus Exp $";

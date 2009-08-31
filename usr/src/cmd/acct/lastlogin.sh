@@ -24,7 +24,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)lastlogin.sh	1.9	05/06/08 SMI"	/* SVr4.0 1.6	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 #	"lastlogin - keep record of date each person last logged in"
 #	"bug - the date shown is usually 1 more than it should be "
 #	"       because lastlogin is run at 4am and checks the last"

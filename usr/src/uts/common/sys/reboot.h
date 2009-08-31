@@ -27,7 +27,7 @@
 #ifndef	_SYS_REBOOT_H
 #define	_SYS_REBOOT_H
 
-#pragma ident	"@(#)reboot.h	2.33	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM
 #include <sys/types.h>

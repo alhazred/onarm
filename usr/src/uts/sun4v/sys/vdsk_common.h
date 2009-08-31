@@ -27,7 +27,7 @@
 #ifndef	_VDSK_COMMON_H
 #define	_VDSK_COMMON_H
 
-#pragma ident	"@(#)vdsk_common.h	1.10	08/02/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

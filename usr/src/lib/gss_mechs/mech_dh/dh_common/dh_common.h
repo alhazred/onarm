@@ -29,7 +29,7 @@
 #ifndef _DH_COMMON_H_
 #define	_DH_COMMON_H_
 
-#pragma ident	"@(#)dh_common.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpcsvc/nis_dhext.h>
 

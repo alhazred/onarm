@@ -40,7 +40,7 @@
 #ifndef _NETSMB_SMB_SUBR_H_
 #define	_NETSMB_SMB_SUBR_H_
 
-#pragma ident	"@(#)smb_subr.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cmn_err.h>
 #include <sys/lock.h>

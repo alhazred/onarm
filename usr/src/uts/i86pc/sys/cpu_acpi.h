@@ -26,7 +26,7 @@
 #ifndef	_CPU_ACPI_H
 #define	_CPU_ACPI_H
 
-#pragma ident	"@(#)cpu_acpi.h	1.2	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/acpi/acpi.h>
 #include <sys/acpi/acresrc.h>

@@ -30,7 +30,7 @@
 #ifndef _sys_ttold_h
 #define	_sys_ttold_h
 
-#pragma ident	"@(#)ttold.h	1.12	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 struct tchars {
 	char	t_intrc;	/* interrupt */

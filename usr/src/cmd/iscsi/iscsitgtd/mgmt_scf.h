@@ -27,7 +27,7 @@
 #ifndef	_MGMT_SCF_H
 #define	_MGMT_SCF_H
 
-#pragma ident	"@(#)mgmt_scf.h	1.2	08/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	_cplusplus
 extern "C" {

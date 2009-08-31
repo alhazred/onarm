@@ -27,7 +27,7 @@
 #ifndef _HMAC_SHA1_H
 #define	_HMAC_SHA1_H
 
-#pragma ident	"@(#)hmac_sha1.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sha1.h>

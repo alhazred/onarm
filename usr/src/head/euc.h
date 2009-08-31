@@ -26,7 +26,7 @@
 #ifndef _EUC_H
 #define	_EUC_H
 
-#pragma ident	"@(#)euc.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/euc.h>
 

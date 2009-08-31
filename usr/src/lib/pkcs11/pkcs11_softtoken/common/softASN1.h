@@ -27,7 +27,7 @@
 #ifndef _SOFTASN1_H
 #define	_SOFTASN1_H
 
-#pragma ident	"@(#)softASN1.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

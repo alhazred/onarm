@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pmc.c	1.5	05/09/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Driver for the Power Management Controller (logical unit 8) of the
@@ -123,7 +123,7 @@ static struct dev_ops pmc_dev_ops = {
 extern struct mod_ops mod_driverops;
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"pmc driver 1.5",
+	"pmc driver %I%",
 	&pmc_dev_ops
 };
 static struct modlinkage modlinkage = {

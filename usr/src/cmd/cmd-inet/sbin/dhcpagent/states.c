@@ -26,7 +26,7 @@
  * instances.
  */
 
-#pragma ident	"@(#)states.c	1.4	07/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <search.h>

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)euclen.c	1.10	05/07/22 SMI"   /* Nihon Sun Micro JLE */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"   /* Nihon Sun Micro JLE */
 
 #include	"synonyms.h"
 #include	<euc.h>

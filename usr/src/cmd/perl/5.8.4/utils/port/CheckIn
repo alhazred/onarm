@@ -3,7 +3,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)CheckIn	1.1	04/06/09 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This script takes a file mapping CSV file as input (see flist_s10_5-8-4.csv
 # for an example), a perl build directory and an ON workspace and outputs a ksh

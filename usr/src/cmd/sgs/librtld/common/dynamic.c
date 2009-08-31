@@ -28,7 +28,7 @@
  * type.  Thus we check for all types we know about, it a type is found that
  * we don't know about then return and error as we have no idea what to do.
  */
-#pragma ident	"@(#)dynamic.c	1.27	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<libelf.h>
 #include	<link.h>

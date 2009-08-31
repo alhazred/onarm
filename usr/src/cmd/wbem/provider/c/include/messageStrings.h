@@ -27,7 +27,7 @@
 #ifndef _MESSAGESTRINGS_H
 #define	_MESSAGESTRINGS_H
 
-#pragma ident	"@(#)messageStrings.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

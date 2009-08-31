@@ -62,7 +62,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: rsa.c,v 1.24 2001/12/27 18:22:16 markus Exp $");
 
-#pragma ident	"@(#)rsa.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "rsa.h"
 #include "log.h"

@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)loadlogo.c	1.7	05/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

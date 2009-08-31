@@ -27,7 +27,7 @@
 #ifndef _SYS_RMCLOMV_IMPL_H
 #define	_SYS_RMCLOMV_IMPL_H
 
-#pragma ident	"@(#)rmclomv_impl.h	1.7	05/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

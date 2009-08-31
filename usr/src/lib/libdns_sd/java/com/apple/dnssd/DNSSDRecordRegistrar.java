@@ -26,7 +26,7 @@ Re-licensed mDNSResponder daemon source code under Apache License, Version 2.0
 Revision 1.1  2006/06/20 23:00:12  rpantos
 <rdar://problem/3839132> Java needs to implement DNSServiceRegisterRecord equivalent
 
-ident	"@(#)DNSSDRecordRegistrar.java	1.1	07/08/13 SMI"
+ident	"%Z%%M%	%I%	%E% SMI"
 
  */
 

@@ -38,7 +38,7 @@
 #ifndef	_NET_IF_DL_H
 #define	_NET_IF_DL_H
 
-#pragma ident	"@(#)if_dl.h	1.12	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* from UCB 8.1 (Berkeley) 6/10/93 */
 
 #ifdef	__cplusplus

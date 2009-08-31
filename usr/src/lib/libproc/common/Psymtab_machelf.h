@@ -26,7 +26,7 @@
 #ifndef	_PSYMTAB_MACHELF_H
 #define	_PSYMTAB_MACHELF_H
 
-#pragma ident	"@(#)Psymtab_machelf.h	1.1	07/01/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -22,7 +22,7 @@
 /*      Copyright (c) 1984 AT&T */
 /*        All Rights Reserved   */
 
-#pragma ident	"@(#)getw.c	1.12	05/06/08 SMI"  /* from S5R2 1.3 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"  /* from S5R2 1.3 */
 
 /*LINTLIBRARY*/
 /*

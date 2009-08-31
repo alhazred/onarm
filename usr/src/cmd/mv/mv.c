@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)mv.c	1.85	08/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Combined mv/cp/ln command:

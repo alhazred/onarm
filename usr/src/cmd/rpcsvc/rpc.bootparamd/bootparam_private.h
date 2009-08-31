@@ -27,7 +27,7 @@
 #ifndef	_BOOTPARAM_PRIVATE_H
 #define	_BOOTPARAM_PRIVATE_H
 
-#pragma ident	"@(#)bootparam_private.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

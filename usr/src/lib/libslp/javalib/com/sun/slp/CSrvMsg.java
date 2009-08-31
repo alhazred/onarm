@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)CSrvMsg.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)CSrvMsg.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  CSrvMsg.java:     Message class for SLP service reply.
 //  Author:           James Kempf
 //  Created On:       Thu Oct  9 15:09:32 1997
@@ -44,7 +44,7 @@ import java.io.*;
 /**
  * The CSrvMsg class models the SLP client side service message.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Locator.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -47,7 +47,7 @@ import java.util.*;
  *
  * @see ServiceLocationManager
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf, Erik Guttman
  */
 

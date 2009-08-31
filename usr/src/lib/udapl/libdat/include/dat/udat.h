@@ -32,7 +32,7 @@
 #ifndef _UDAT_H_
 #define	_UDAT_H_
 
-#pragma ident	"@(#)udat.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

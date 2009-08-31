@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)Project.pm	1.9	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Project.pm provides the bootstrap for the Sun::Solaris::Project module, and
 # also functions for reading, validating and writing out project(4) format
@@ -41,7 +41,7 @@ use POSIX qw(locale_h limits_h);
 
 package Sun::Solaris::Project;
 
-our $VERSION = '1.9';
+our $VERSION = '%I%';
 
 use XSLoader;
 XSLoader::load(__PACKAGE__, $VERSION);

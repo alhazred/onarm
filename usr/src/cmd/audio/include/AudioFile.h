@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIOFILE_H
 #define	_MULTIMEDIA_AUDIOFILE_H
 
-#pragma ident	"@(#)AudioFile.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef NO_EXTERN_C
 

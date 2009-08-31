@@ -28,7 +28,7 @@
 #ifndef	_NETINET_IP_MROUTE_H
 #define	_NETINET_IP_MROUTE_H
 
-#pragma ident	"@(#)ip_mroute.h	1.25	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)developer.sh	1.27	08/02/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #	Configuration variables for the runtime environment of the nightly

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)modstubs.s	1.193	08/03/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 
@@ -885,7 +885,6 @@ fcnname/**/_info:							\
 	NO_UNLOAD_STUB(doorfs, door_ki_open,		nomod_einval);
 	NO_UNLOAD_STUB(doorfs, door_ki_lookup,		nomod_zero);
 	WSTUB(doorfs, door_ki_upcall,			nomod_einval);
-	WSTUB(doorfs, door_ki_upcall_cred,		nomod_einval);
 	WSTUB(doorfs, door_ki_hold,			nomod_zero);
 	WSTUB(doorfs, door_ki_rele,			nomod_zero);
 	WSTUB(doorfs, door_ki_info,			nomod_einval);

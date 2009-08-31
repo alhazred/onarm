@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-#pragma ident	"@(#)sunfix.sh	1.2	00/05/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # Sun C++ 4.0.1 gets confused by the macros in include/NCVector.h.

@@ -39,7 +39,7 @@
 #ifndef	_SHARETAB_H
 #define	_SHARETAB_H
 
-#pragma ident	"@(#)sharetab.h	1.6	07/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

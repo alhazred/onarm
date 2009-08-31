@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rename.s	1.10	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"rename.s"
+	.file	"%M%"
 
 /* C library -- rename						*/
 /* int rename(const char *old, const char *new);		*/

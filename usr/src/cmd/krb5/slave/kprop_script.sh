@@ -3,7 +3,7 @@
 # Copyright (c) 2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)kprop_script.sh	1.1	01/03/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 if [ $# -lt 1 ]
 then

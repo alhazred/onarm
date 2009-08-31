@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)keysockddi.c	1.10	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -39,8 +39,8 @@
 #define	INET_NAME	"keysock"
 #define	INET_MODSTRTAB	keysockinfo
 #define	INET_DEVSTRTAB	keysockinfo
-#define	INET_MODDESC	"PF_KEY socket STREAMS module 1.10"
-#define	INET_DEVDESC	"PF_KEY socket STREAMS driver 1.10"
+#define	INET_MODDESC	"PF_KEY socket STREAMS module %I%"
+#define	INET_DEVDESC	"PF_KEY socket STREAMS driver %I%"
 #define	INET_DEVMINOR	0
 #define	INET_DEVMTFLAGS	(D_MP|D_MTPERMOD|D_MTPUTSHARED)
 #define	INET_MODMTFLAGS	INET_DEVMTFLAGS

@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)strcasecmp.c	1.1	01/09/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sm/gen.h>
 SM_RCSID("@(#)$Id: strcasecmp.c,v 1.12 2001/08/27 22:09:15 gshapiro Exp $")

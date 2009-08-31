@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)cat.c	1.6	05/06/08 SMI" 	/* SVr4.0 1.3	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.3	*/
 /*
     NAME
 	cat - concatenate two strings

@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)ta.c	1.11	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	drive hp2621 terminal 

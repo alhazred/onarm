@@ -3,7 +3,7 @@
 #ifndef	_READPASSPHRASE_H
 #define	_READPASSPHRASE_H
 
-#pragma ident	"@(#)readpassphrase.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

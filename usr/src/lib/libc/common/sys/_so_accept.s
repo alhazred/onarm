@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_so_accept.s	1.8	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_so_accept.s"
+	.file	"%M%"
 
 /* C library -- __so_accept						*/
 /* int __so_accept(int sock, struct sockaddr *addr, int *addrlen, int vers) */

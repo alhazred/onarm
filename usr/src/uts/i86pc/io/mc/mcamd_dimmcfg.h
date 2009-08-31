@@ -27,7 +27,7 @@
 #ifndef _MCAMD_DIMMCFG_H
 #define	_MCAMD_DIMMCFG_H
 
-#pragma ident	"@(#)mcamd_dimmcfg.h	1.2	06/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/mc_amd.h>

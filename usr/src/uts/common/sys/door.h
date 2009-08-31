@@ -2,8 +2,9 @@
  * CDDL HEADER START
  *
  * The contents of this file are subject to the terms of the
- * Common Development and Distribution License (the "License").
- * You may not use this file except in compliance with the License.
+ * Common Development and Distribution License, Version 1.0 only
+ * (the "License").  You may not use this file except in compliance
+ * with the License.
  *
  * You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
  * or http://www.opensolaris.org/os/licensing.
@@ -19,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
+ * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
 
@@ -30,7 +31,7 @@
 #ifndef	_SYS_DOOR_H
 #define	_SYS_DOOR_H
 
-#pragma ident	"@(#)door.h	1.33	08/03/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {
@@ -274,7 +275,7 @@ struct file;
 int	door_insert(struct file *, door_desc_t *);
 int	door_finish_dispatch(caddr_t);
 uintptr_t door_final_sp(uintptr_t, size_t, int);
-int	door_upcall(vnode_t *, door_arg_t *, struct cred *);
+int	door_upcall(vnode_t *, door_arg_t *);
 void	door_slam(void);
 void	door_exit(void);
 void	door_revoke_all(void);
@@ -293,7 +294,6 @@ extern size_t door_max_arg;
  * and may change incompatibly in a minor release of Solaris.
  */
 int	door_ki_upcall(door_handle_t, door_arg_t *);
-int	door_ki_upcall_cred(door_handle_t, door_arg_t *, struct cred *);
 int	door_ki_create(void (*)(void *, door_arg_t *,
     void (**)(void *, void *), void **, int *), void *, door_attr_t,
     door_handle_t *);

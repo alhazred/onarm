@@ -19,7 +19,7 @@
 
 RCSID("$Id: md5crypt.c,v 1.5 2001/02/09 01:55:36 djm Exp $");
 
-#pragma ident	"@(#)md5crypt.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(HAVE_MD5_PASSWORDS) && !defined(HAVE_MD5_CRYPT)
 

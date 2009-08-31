@@ -40,7 +40,7 @@
 #ifndef	_DIFF_H
 #define	_DIFF_H
 
-#pragma ident	"@(#)diff.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

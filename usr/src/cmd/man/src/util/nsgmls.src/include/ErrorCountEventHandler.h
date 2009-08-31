@@ -1,6 +1,6 @@
 // Copyright (c) 1996 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)ErrorCountEventHandler.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef ErrorCountEventHandler_INCLUDED
 #define ErrorCountEventHandler_INCLUDED 1

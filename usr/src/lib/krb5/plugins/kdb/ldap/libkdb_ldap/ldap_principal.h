@@ -31,7 +31,7 @@
 #ifndef _LDAP_PRINCIPAL_H
 #define _LDAP_PRINCIPAL_H 1
 
-#pragma ident	"@(#)ldap_principal.h	1.2	08/01/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ldap_tkt_policy.h"
 

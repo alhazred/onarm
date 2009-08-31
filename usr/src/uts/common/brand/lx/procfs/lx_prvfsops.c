@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lx_prvfsops.c	1.2	07/03/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lxprvfsops.c: vfs operations for /lxprocfs.

@@ -27,7 +27,7 @@
 #ifndef	_TCP_TLI_
 #define	_TCP_TLI_
 
-#pragma ident	"@(#)tcp_tli.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

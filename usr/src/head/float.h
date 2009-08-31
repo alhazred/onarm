@@ -35,7 +35,7 @@
 #ifndef _FLOAT_H
 #define	_FLOAT_H
 
-#pragma ident	"@(#)float.h	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

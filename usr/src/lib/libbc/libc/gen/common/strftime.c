@@ -28,10 +28,10 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)strftime.c	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint) && defined(SCCSIDS)
-static char *sccsid = "@(#)strftime.c 1.9 05/06/08 SMI"; /* from S5R3.1 cftime.c 1.9 */
+static char *sccsid = "%Z%%M% %I% %E% SMI"; /* from S5R3.1 cftime.c 1.9 */
 #endif
 
 /*LINTLIBRARY*/

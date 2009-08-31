@@ -16,7 +16,7 @@
 
 /* $OpenBSD: sftp-client.c,v 1.76 2007/01/22 11:32:50 djm Exp $ */
 
-#pragma ident	"@(#)sftp-client.c	1.6	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* XXX: memleaks */
 /* XXX: signed vs unsigned */

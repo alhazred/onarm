@@ -13,7 +13,7 @@
 #ifndef _DUMP_H
 #define	_DUMP_H
 
-#pragma ident	"@(#)dump.h	1.69	05/03/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <locale.h>

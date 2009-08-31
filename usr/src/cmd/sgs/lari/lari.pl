@@ -24,7 +24,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)lari.pl	1.15	07/10/26 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Link Analysis of Runtime Interfaces.
 #

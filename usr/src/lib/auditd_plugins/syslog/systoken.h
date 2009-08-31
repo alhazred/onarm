@@ -26,7 +26,7 @@
 #ifndef	_SYSTOKEN_H
 #define	_SYSTOKEN_H
 
-#pragma ident	"@(#)systoken.h	1.6	06/06/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

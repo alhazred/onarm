@@ -27,7 +27,7 @@
 #ifndef _SYS_TNF_H
 #define	_SYS_TNF_H
 
-#pragma ident	"@(#)tnf.h	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef NPROBE
 

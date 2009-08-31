@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nxge_main.c	1.25	08/02/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SunOs MT STREAMS NIU/Neptune 10Gb Ethernet Device Driver.

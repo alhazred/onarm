@@ -52,7 +52,7 @@
  *		call ignore_check for every file under the base
  *		call ignore_reset when you are done
  */
-#ident	"@(#)ignore.c	1.5	05/06/08 SMI"
+#ident	"%W%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -39,7 +39,7 @@
  *		write_baseline
  *		(static) bw_header, bw_base, bw_file, showtype
  */
-#ident	"@(#)base.c	1.8	05/06/08 SMI"
+#ident	"%W%	%E% SMI"
 
 #include <stdlib.h>
 #include <stdio.h>

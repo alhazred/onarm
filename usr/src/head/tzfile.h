@@ -29,7 +29,7 @@
 #ifndef _TZFILE_H
 #define	_TZFILE_H
 
-#pragma ident	"@(#)tzfile.h	1.25	06/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * A part of this file comes from public domain source, so

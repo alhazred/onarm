@@ -19,7 +19,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)README	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 CHANGES as of July 12:
 
 1. \ddd allowed in regular expressions.

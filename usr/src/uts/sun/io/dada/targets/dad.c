@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dad.c	1.97	07/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Direct Attached  disk driver for SPARC machines.
@@ -343,7 +343,7 @@ static struct dev_ops dcd_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module. This one is a driver */
-	"DAD Disk Driver 1.97",	/* Name of the module. */
+	"DAD Disk Driver %I%",	/* Name of the module. */
 	&dcd_ops,	/* driver ops */
 };
 

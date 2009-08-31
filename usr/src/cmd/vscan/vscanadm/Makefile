@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 #
-#ident	"@(#)Makefile	1.1	07/11/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 PROG = vscanadm
 SRCS = vscanadm.c

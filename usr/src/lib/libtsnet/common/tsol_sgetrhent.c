@@ -33,7 +33,7 @@
  * colon in a line.
  */
 
-#pragma ident	"@(#)tsol_sgetrhent.c	1.1	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

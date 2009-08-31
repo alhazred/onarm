@@ -26,7 +26,7 @@
  * Simple nfs V3 ops
  */
 
-#pragma ident	"@(#)nfs3ops.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/types.h>
 #include <rpc/auth.h>

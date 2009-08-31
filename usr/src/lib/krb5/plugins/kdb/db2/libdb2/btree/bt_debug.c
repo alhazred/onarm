@@ -4,7 +4,7 @@
  */
 
 
-#pragma ident	"@(#)bt_debug.c	1.6	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*-
  * Copyright (c) 1990, 1993, 1994, 1995

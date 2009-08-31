@@ -1,5 +1,5 @@
 #
-#ident	"@(#)Makefile	1.1	00/12/21 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright (c) 2000 by Sun Microsystems, Inc.
 # All rights reserved.

@@ -2,7 +2,7 @@
  * Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)external.c	1.2	04/09/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* SASL server API implementation
  * Rob Siemborski

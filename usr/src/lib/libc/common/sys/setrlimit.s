@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)setrlimit.s	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"setrlimit.s"
+	.file	"%M%"
 
 /* C library -- setrlimit					*/
 /* int setrlimit(int resource, const struct rlimit *rlp)	*/

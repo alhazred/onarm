@@ -31,7 +31,7 @@
 #ifndef _SYS_LLC1_H
 #define	_SYS_LLC1_H
 
-#pragma ident	"@(#)llc1.h	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

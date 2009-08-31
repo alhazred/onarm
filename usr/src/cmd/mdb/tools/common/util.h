@@ -27,7 +27,7 @@
 #ifndef _UTIL_H
 #define	_UTIL_H
 
-#pragma ident	"@(#)util.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libelf.h>
 

@@ -24,7 +24,7 @@
 # Copyright (c) 2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile.files	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This Makefile defines all file modules for the directory
 #	ust/sun4u/cherrystone and it's children. These are the source files

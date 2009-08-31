@@ -27,7 +27,7 @@
 
 /* $Id: lpd-job.c 157 2006-04-26 15:07:55Z ktou $ */
 
-#pragma ident	"@(#)lpd-job.c	1.4	08/01/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	__EXTENSIONS__	/* for strtok_r() */
 #include <stdio.h>

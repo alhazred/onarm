@@ -33,7 +33,7 @@
  * Copyright  (c) 1986 AT&T
  *	All Rights Reserved
  */
-#pragma ident	"@(#)makebox.c	1.8	05/09/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<curses.h>
 #include	"wish.h"

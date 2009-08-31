@@ -11,7 +11,7 @@
  * $Id: tree.h,v 8.3 2002/12/03 05:26:48 marka Exp $
  */
 
-#pragma ident	"@(#)tree.h	1.4	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_TREE_H_INCLUDED
 #define	_TREE_H_INCLUDED

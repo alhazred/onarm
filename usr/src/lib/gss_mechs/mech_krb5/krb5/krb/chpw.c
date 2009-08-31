@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)chpw.c	1.1	06/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 ** set password functions added by Paul W. Nelson, Thursby Software Systems, Inc.

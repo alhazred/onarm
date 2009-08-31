@@ -12,7 +12,7 @@
 #ifndef	__SYS_FILE_H
 #define	__SYS_FILE_H
 
-#pragma ident	"@(#)file.h	2.22	01/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

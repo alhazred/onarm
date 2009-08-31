@@ -30,7 +30,7 @@
 #ifndef	_BC_SYS_UNISTD_H
 #define	_BC_SYS_UNISTD_H
 
-#pragma ident	"@(#)unistd.h	1.6	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

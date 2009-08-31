@@ -35,7 +35,7 @@
 #ifndef _IEEEFP_H
 #define	_IEEEFP_H
 
-#pragma ident	"@(#)ieeefp.h	1.25	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

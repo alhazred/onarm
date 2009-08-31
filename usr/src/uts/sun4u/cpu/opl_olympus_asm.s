@@ -25,7 +25,7 @@
  * Assembly code support for the Olympus-C module
  */
 
-#pragma ident	"@(#)opl_olympus_asm.s	1.9	07/11/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint)
 #include "assym.h"

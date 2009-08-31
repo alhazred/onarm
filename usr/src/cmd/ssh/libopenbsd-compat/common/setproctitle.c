@@ -101,4 +101,4 @@ setproctitle(const char *fmt, ...)
 }
 #endif /* HAVE_SETPROCTITLE */
 
-#pragma ident	"@(#)setproctitle.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

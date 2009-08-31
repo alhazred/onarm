@@ -31,7 +31,7 @@
 #ifndef _SYS_CMN_ERR_H
 #define	_SYS_CMN_ERR_H
 
-#pragma ident	"@(#)cmn_err.h	1.35	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(_KERNEL) && !defined(_ASM)
 #include <sys/va_list.h>

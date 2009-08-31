@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)disptmpl.c	1.7	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Copyright (c) 1993, 1994 Regents of the University of Michigan.
  * All rights reserved.

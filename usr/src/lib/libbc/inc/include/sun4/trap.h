@@ -27,7 +27,7 @@
 #ifndef _sparc_trap_h
 #define	_sparc_trap_h
 
-#pragma ident	"@(#)trap.h	1.11	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Trap type values.

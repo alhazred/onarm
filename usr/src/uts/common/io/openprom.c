@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2007 NEC Corporation
  */
 
-#pragma ident	"@(#)openprom.c	1.21	05/10/30 SMI"	/* SVr4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4 */
 
 /*
  * Ported from 4.1.1_PSRA: "@(#)openprom.c 1.19 91/02/19 SMI";
@@ -140,7 +140,7 @@ static struct dev_ops openeepr_ops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"OPENPROM/NVRAM Driver v1.21",
+	"OPENPROM/NVRAM Driver v%I%",
 	&openeepr_ops
 };
 

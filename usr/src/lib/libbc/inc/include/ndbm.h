@@ -1,4 +1,4 @@
-#pragma ident	"@(#)ndbm.h	1.8	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Copyright (c) 1983 Regents of the University of California.
  * All rights reserved.  The Berkeley software License Agreement

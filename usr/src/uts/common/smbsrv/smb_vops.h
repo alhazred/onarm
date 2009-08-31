@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_SMB_VOPS_H
 #define	_SMBSRV_SMB_VOPS_H
 
-#pragma ident	"@(#)smb_vops.h	1.4	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Common file system interfaces and definitions.

@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)rpc_soc.c	1.42	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef PORTMAP
 /*

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getprinter.c	1.9	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak _nss_ldap__printers_constr = _nss_ldap_printers_constr
 

@@ -26,7 +26,7 @@
 #ifndef	_SMB_I18N_H
 #define	_SMB_I18N_H
 
-#pragma ident	"@(#)smb_i18n.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

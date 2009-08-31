@@ -27,7 +27,7 @@
 #ifndef	_RAIDCFG_H
 #define	_RAIDCFG_H
 
-#pragma ident	"@(#)raidcfg.h	1.1	07/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <raidcfg_spi.h>

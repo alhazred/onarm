@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SystemDataModel.java	1.2	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -40,7 +40,7 @@ import java.util.*;
  * class. The data fields are defined as static in the superclass, since they
  * should be accessible by all provider data models.
  * @author Sun Microsystems, Inc.
- * @version 1.2 06/08/05
+ * @version %I% %G%
  */
 public class SystemDataModel extends SRMProviderDataModel
 	implements SRMProviderProperties {

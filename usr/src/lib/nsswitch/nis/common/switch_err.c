@@ -26,7 +26,7 @@
  *	All Rights Reserved.
  */
 
-#pragma ident	"@(#)switch_err.c	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpcsvc/ypclnt.h>
 #include <nsswitch.h>

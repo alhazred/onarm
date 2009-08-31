@@ -31,7 +31,7 @@
  * WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-#pragma ident	"@(#)options.c	1.5	03/12/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define RCSID	"$Id: options.c,v 1.74 2000/04/15 01:27:13 masputra Exp $"
 
 #include <ctype.h>

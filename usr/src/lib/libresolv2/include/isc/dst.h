@@ -6,7 +6,7 @@
 #ifndef DST_H
 #define DST_H
 
-#pragma ident	"@(#)dst.h	1.2	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef HAS_DST_KEY
 typedef struct dst_key {

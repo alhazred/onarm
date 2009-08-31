@@ -27,7 +27,7 @@
 #ifndef	_SYS_1394_TARGETS_SCSA1394_SBP2_H
 #define	_SYS_1394_TARGETS_SCSA1394_SBP2_H
 
-#pragma ident	"@(#)sbp2.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SCSI command and status encapsulation in SBP-2

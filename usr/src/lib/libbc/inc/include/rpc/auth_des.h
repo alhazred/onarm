@@ -19,10 +19,10 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)auth_des.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
- * auth_des.h, Protocol for DES style authentication for RPC
+ * %M%, Protocol for DES style authentication for RPC
  *
  * Copyright (C) 1986, Sun Microsystems, Inc.
  */

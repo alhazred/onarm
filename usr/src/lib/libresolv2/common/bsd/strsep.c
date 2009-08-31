@@ -41,7 +41,7 @@ static const char rcsid[] = "$Id: strsep.c,v 8.5 1996/11/18 09:09:04 vixie Exp $
  * SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)strsep.c	1.2	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "port_before.h"
 #include <sys/cdefs.h>

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)auto_comp.h	1.1	07/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _FB_AUTOCOMP_H
 #define	_FB_AUTOCOMP_H

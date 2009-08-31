@@ -27,7 +27,7 @@
 #ifndef	_SYS_IDPROM_H
 #define	_SYS_IDPROM_H
 
-#pragma ident	"@(#)idprom.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -38,7 +38,7 @@
 #ifndef _DES_DES_CRYPT_H
 #define	_DES_DES_CRYPT_H
 
-#pragma ident	"@(#)des_crypt.h	1.12	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

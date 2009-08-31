@@ -1,4 +1,4 @@
-#pragma ident	"@(#)db-config.h	1.1	99/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* obj/db-config.h.  Generated automatically by configure.  */
 /* obj/db-config.h.in.  Generated automatically from configure.in by autoheader.  */
 

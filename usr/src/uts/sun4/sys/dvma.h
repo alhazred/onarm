@@ -26,7 +26,7 @@
 #ifndef _SYS_DVMA_H
 #define	_SYS_DVMA_H
 
-#pragma ident	"@(#)dvma.h	1.6	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

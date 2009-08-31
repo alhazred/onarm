@@ -29,7 +29,7 @@
 #ifndef	_SYS_FS_ZFS_ZNODE_H
 #define	_SYS_FS_ZFS_ZNODE_H
 
-#pragma ident	"@(#)zfs_znode.h	1.25	07/12/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef _KERNEL
 #include <sys/isa_defs.h>

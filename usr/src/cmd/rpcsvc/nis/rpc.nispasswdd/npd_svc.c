@@ -28,7 +28,7 @@
  *
  */
 
-#pragma ident	"@(#)npd_svc.c	1.16	05/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <syslog.h>
 #include <string.h>

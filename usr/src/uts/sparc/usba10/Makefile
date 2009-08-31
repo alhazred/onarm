@@ -23,7 +23,7 @@
 #
 # uts/sparc/usba10/Makefile
 
-#ident	"@(#)Makefile	1.3	06/11/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	This makefile drives the production of the usba kernel module.

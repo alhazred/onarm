@@ -37,7 +37,7 @@
 #ifndef _KDB_LDAP_H
 #define _KDB_LDAP_H 1
 
-#pragma ident	"@(#)kdb_ldap.h	1.1	07/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* We want the interfaces marked "deprecated" in OpenLDAP.  */
 #define LDAP_DEPRECATED 1

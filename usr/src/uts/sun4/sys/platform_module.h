@@ -26,7 +26,7 @@
 #ifndef _SYS_PLATFORM_MODULE_H
 #define	_SYS_PLATFORM_MODULE_H
 
-#pragma ident	"@(#)platform_module.h	1.29	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/async.h>
 #include <sys/sunddi.h>

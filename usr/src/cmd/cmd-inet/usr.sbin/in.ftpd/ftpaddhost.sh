@@ -1,6 +1,6 @@
 #!/usr/bin/ksh
 #
-# ident	"@(#)ftpaddhost.sh	1.1	01/07/17 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright (c) 1997-2001 by Sun Microsystems, Inc.
 # All rights reserved.

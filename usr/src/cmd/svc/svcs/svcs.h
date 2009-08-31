@@ -27,7 +27,7 @@
 #ifndef	_SVCS_H
 #define	_SVCS_H
 
-#pragma ident	"@(#)svcs.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libscf.h>
 

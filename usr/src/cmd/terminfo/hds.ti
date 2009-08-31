@@ -23,7 +23,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)hds.ti	1.7	05/06/08 SMI"	/* SVr4.0 1.11	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.11	*/
 # # --------------------------------
 #
 # concept: (HUMAN DESIGNED SYSTEMS)

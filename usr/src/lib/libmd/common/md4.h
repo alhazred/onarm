@@ -27,7 +27,7 @@
 #ifndef _MD4_H
 #define	_MD4_H
 
-#pragma ident	"@(#)md4.h	1.8	07/04/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/md4.h>
 

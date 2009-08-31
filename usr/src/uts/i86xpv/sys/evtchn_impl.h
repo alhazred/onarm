@@ -56,7 +56,7 @@
 #ifndef _SYS_EVTCHN_H
 #define	_SYS_EVTCHN_H
 
-#pragma ident	"@(#)evtchn_impl.h	1.2	07/11/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

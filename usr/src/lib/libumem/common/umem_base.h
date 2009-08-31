@@ -26,7 +26,7 @@
 #ifndef	_UMEM_BASE_H
 #define	_UMEM_BASE_H
 
-#pragma ident	"@(#)umem_base.h	1.5	06/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <umem_impl.h>
 

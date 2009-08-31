@@ -26,7 +26,7 @@
 #ifndef	_CPUPM_H
 #define	_CPUPM_H
 
-#pragma ident	"@(#)cpupm.h	1.1	07/07/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -10,7 +10,7 @@
  *
  */
 
-#pragma ident	"@(#)bf.c	1.9	06/06/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  This is in transition. Changed from the original bf_torek.c code

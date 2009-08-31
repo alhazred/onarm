@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mandatory_sumtype.c	1.1	04/02/04 SMI"$
+#pragma ident	"%Z%%M%	%I%	%E% SMI"$
 
 /*
  * Copyright (C) 2003 by the Massachusetts Institute of Technology.

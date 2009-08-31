@@ -7,7 +7,7 @@
 #ifndef	_VERSION_H
 #define	_VERSION_H
 
-#pragma ident	"@(#)version.h	1.2	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

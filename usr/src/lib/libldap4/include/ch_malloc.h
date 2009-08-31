@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ch_malloc.h	1.3	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 char * ch_malloc( unsigned long size );
 char * ch_realloc( char *block, unsigned long size );

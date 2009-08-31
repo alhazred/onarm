@@ -27,7 +27,7 @@
 #ifndef	_SYS_PCI_ECC_H
 #define	_SYS_PCI_ECC_H
 
-#pragma ident	"@(#)pci_ecc.h	1.22	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errorq.h>
 

@@ -27,7 +27,7 @@
 #ifndef	_SOCKET_INET_H
 #define	_SOCKET_INET_H
 
-#pragma ident	"@(#)socket_inet.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

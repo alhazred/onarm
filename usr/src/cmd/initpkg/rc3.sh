@@ -27,7 +27,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)rc3.sh	1.22	06/03/09 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # Run Commands executed when the system is changing to init state 3,
 # same as state 2 (multi-user) but with remote file sharing.

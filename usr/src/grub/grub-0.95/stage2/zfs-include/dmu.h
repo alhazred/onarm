@@ -24,7 +24,7 @@
 #ifndef	_SYS_DMU_H
 #define	_SYS_DMU_H
 
-#pragma ident	"@(#)dmu.h	1.2	07/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file describes the interface that the DMU provides for its

@@ -26,7 +26,7 @@
 #ifndef	_OPL_DIMM_H
 #define	_OPL_DIMM_H
 
-#pragma ident	"@(#)opl_dimm.h	1.1	06/06/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef __cplusplus

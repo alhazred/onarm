@@ -27,7 +27,7 @@
 #ifndef _SYS_COMPRESS_H
 #define	_SYS_COMPRESS_H
 
-#pragma ident	"@(#)compress.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)errlist.awk	1.13	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Create two files from a list of input strings;
 # new_list.c contains an array of characters indexed into by perror and
@@ -57,7 +57,7 @@ BEGIN	{
 		newfile = "new_list.c"
 		oldfile = "errlst.c"
 
-		print "#pragma ident\t\"@(#)errlist.awk\t1.13\t05/06/08 SMI\"\n" >oldfile
+		print "#pragma ident\t\"%Z%%M%\t%I%\t%E% SMI\"\n" >oldfile
 		print "#pragma weak sys_errlist = _sys_errlist\n" >oldfile
 		print "#include \"synonyms.h\"\n" >oldfile
 		# We need to include the errors strings proper in the
@@ -67,7 +67,7 @@ BEGIN	{
 		print "extern const char __sys_errs[];\n" >oldfile
 		print "const char *sys_errlist[] = {" >oldfile
 
-		print "#pragma ident\t\"@(#)errlist.awk\t1.13\t05/06/08 SMI\"\n" >newfile
+		print "#pragma ident\t\"%Z%%M%\t%I%\t%E% SMI\"\n" >newfile
 		print "#include \"synonyms.h\"" >newfile
 		print "#include <sys/isa_defs.h>\n" >newfile
 		print "#pragma weak __sys_errs = _sys_errs\n" >newfile

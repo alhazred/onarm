@@ -34,7 +34,7 @@
 #ifndef	_STDIOM_H
 #define	_STDIOM_H
 
-#pragma ident	"@(#)stdiom.h	1.50	08/01/17 SMI"	/* SVr4.0 1.9 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9 */
 
 #include <thread.h>
 #include <synch.h>

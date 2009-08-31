@@ -24,7 +24,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)mknames.sh	1.1	05/07/31 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 echo "\
 /*\n\
@@ -32,7 +32,7 @@ echo "\
  * Use is subject to license terms.\n\
  */\n\
 \n\
-#pragma ident\t\"@(#)mknames.sh\t1.1\t05/07/31 SMI\"\n\
+#pragma ident\t\"%Z%%M%\t%I%\t%E% SMI\"\n\
 \n\
 #include <dtrace.h>\n\
 \n\

@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)stdiom.h	1.9	06/04/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * stdiom.h - shared guts of stdio therefore it doesn't need

@@ -30,7 +30,7 @@
 #ifndef _SYS_UBERBLOCK_IMPL_H
 #define	_SYS_UBERBLOCK_IMPL_H
 
-#pragma ident	"@(#)uberblock_impl.h	1.4	07/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/uberblock.h>
 #include <zfs_types.h>

@@ -26,7 +26,7 @@
 #ifndef	_SMBSRV_STRING_H
 #define	_SMBSRV_STRING_H
 
-#pragma ident	"@(#)string.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <smbsrv/smb_i18n.h>

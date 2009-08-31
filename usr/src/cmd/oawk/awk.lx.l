@@ -32,7 +32,7 @@
 /*	  All Rights Reserved  	*/
 %}
 %{
-#pragma ident	"@(#)awk.lx.l	1.9	05/10/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %}
 
 %Start A str chc sc reg comment

@@ -8,7 +8,7 @@
  *
  */
 
-#pragma ident	"@(#)vlistctrl.c	1.3	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

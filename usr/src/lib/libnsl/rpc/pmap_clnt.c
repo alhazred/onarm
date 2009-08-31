@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)pmap_clnt.c	1.22	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef PORTMAP
 

@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)sata.xcl	1.1	06/01/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/cfgadm_plugins/sata/sata.xcl
 #

@@ -27,7 +27,7 @@
  * this program is 90% argument processing, 10% actions...
  */
 
-#pragma ident	"@(#)main.c	1.14	07/06/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

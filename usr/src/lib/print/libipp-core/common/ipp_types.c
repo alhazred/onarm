@@ -27,7 +27,7 @@
 
 /* $Id: ipp_types.c 146 2006-03-24 00:26:54Z njacobs $ */
 
-#pragma ident	"@(#)ipp_types.c	1.1	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

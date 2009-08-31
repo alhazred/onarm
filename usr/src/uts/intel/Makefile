@@ -28,7 +28,7 @@
 #
 
 #
-# ident	"@(#)Makefile	1.24	08/02/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #
 #	This makefile drives the production of all implementation architecture

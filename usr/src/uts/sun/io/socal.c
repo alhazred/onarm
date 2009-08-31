@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)socal.c	1.60	05/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * socal - Serial Optical Channel Arbitrated Loop host adapter driver.
@@ -399,10 +399,10 @@ extern struct mod_ops mod_driverops;
  * Module linkage information for the kernel.
  */
 #define	SOCAL_NAME "SOC+ FC-AL Host Adapter Driver"
-static	char	socal_version[] = "1.60 05/12/03";
+static	char	socal_version[] = "%I% %E%";
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	SOCAL_NAME " 1.60",
+	SOCAL_NAME " %I%",
 	&socal_ops,		/* driver ops */
 };
 
@@ -415,7 +415,7 @@ static struct modlinkage modlinkage = {
  */
 
 #if !defined(lint)
-static char socal_initmsg[] = "socal _init: socal.c\t1.60\t05/12/03\n";
+static char socal_initmsg[] = "socal _init: socal.c\t%I%\t%E%\n";
 #endif
 
 int

@@ -34,7 +34,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)drm_irq.c	1.4	08/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "drmP.h"
 #include "drm.h"

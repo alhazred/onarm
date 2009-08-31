@@ -31,7 +31,7 @@
 #ifndef _SYS_KMEM_IMPL_H
 #define	_SYS_KMEM_IMPL_H
 
-#pragma ident	"@(#)kmem_impl.h	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/kmem.h>
 #include <sys/vmem.h>

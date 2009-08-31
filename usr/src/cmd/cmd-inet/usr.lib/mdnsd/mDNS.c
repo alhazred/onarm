@@ -1733,7 +1733,7 @@ Revision 1.56  2002/09/16 19:44:17  cheshire
 Merge in license terms from Quinn's copy, in preparation for Darwin release
 */
 
-#pragma ident	"@(#)mDNS.c	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "DNSCommon.h"                  // Defines general DNS untility routines
 #include "uDNS.h"						// Defines entry points into unicast-specific routines

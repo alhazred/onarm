@@ -98,7 +98,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)res_debug.c	1.13	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(LIBC_SCCS) && !defined(lint)
 static const char sccsid[] = "@(#)res_debug.c	8.1 (Berkeley) 6/4/93";

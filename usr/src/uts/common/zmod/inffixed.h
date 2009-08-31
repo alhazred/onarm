@@ -2,7 +2,7 @@
      * Generated automatically by makefixed().
      */
 
-#pragma ident	"@(#)inffixed.h	1.1	07/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
     /* WARNING: this file should *not* be used by applications. It
        is part of the implementation of the compression library and

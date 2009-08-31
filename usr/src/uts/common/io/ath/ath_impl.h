@@ -46,7 +46,7 @@
 #ifndef	_ATH_IMPL_H
 #define	_ATH_IMPL_H
 
-#pragma ident	"@(#)ath_impl.h	1.4	07/10/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

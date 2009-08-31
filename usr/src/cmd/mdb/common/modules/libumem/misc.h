@@ -26,7 +26,7 @@
 #ifndef	_MDBMOD_MISC_H
 #define	_MDBMOD_MISC_H
 
-#pragma ident	"@(#)misc.h	1.4	06/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

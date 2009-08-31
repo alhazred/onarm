@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)topo_mod.map	1.4	07/05/24 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 {
 	topo_node_range_create = FUNCTION extern;

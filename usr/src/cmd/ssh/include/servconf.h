@@ -20,7 +20,7 @@
 #ifndef	_SERVCONF_H
 #define	_SERVCONF_H
 
-#pragma ident	"@(#)servconf.h	1.6	04/07/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

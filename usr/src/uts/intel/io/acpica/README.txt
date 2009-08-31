@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)README.txt	1.1	05/04/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 The acpica module includes Intel ACPI CA source code
 drops.  No changes are made to Intel-provided source

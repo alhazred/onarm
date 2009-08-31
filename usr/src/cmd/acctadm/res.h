@@ -27,7 +27,7 @@
 #ifndef	_RES_H
 #define	_RES_H
 
-#pragma ident	"@(#)res.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/acctctl.h>
 

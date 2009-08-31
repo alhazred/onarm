@@ -26,7 +26,7 @@
 #ifndef _SYS_CHEETAHREGS_H
 #define	_SYS_CHEETAHREGS_H
 
-#pragma ident	"@(#)cheetahregs.h	1.43	07/10/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/machasi.h>
 #include <sys/cpu_impl.h>

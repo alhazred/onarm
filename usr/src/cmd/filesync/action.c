@@ -67,7 +67,7 @@
  *	update, a subsequent failure will force the baseline to
  *	roll back to the last success ... which is appropriate.
  */
-#ident	"@(#)action.c	1.20	05/06/08 SMI"
+#ident	"%W%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

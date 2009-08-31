@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)utility.c	1.7	05/06/08 SMI"	/* from SVR4 bnu:utility.c 2.9 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:utility.c 2.9 */
 
 #include "uucp.h"
 

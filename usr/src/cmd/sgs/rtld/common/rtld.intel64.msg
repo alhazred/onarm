@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)rtld.intel64.msg	1.4	07/05/09 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 @ _START_
 

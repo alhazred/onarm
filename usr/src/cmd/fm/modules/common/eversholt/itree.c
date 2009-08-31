@@ -28,7 +28,7 @@
  * this module provides the instance tree
  */
 
-#pragma ident	"@(#)itree.c	1.15	07/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

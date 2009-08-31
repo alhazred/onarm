@@ -26,7 +26,7 @@
 #ifndef	_CRYPTOKI_H
 #define	_CRYPTOKI_H
 
-#pragma ident	"@(#)cryptoki.h	1.4	08/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

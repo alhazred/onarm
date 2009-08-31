@@ -27,7 +27,7 @@
 #ifndef	_DEVPOLL_H
 #define	_DEVPOLL_H
 
-#pragma ident	"@(#)devpoll.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/devpoll.h>
 

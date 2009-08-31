@@ -30,7 +30,7 @@
 /*	  All Rights Reserved  	*/
 
 %{
-#pragma ident	"@(#)bc.y	1.17	05/08/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %}
 %{
 #include <stdio.h>

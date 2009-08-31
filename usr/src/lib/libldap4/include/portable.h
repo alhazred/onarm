@@ -5,7 +5,7 @@
  *
  */
 
-#pragma ident	"@(#)portable.h	1.3	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1994 Regents of the University of Michigan.

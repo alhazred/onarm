@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)utils.c	1.6	06/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * DESCRIPTION:	This file contains various functions used by more than one NIS

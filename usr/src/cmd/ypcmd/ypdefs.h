@@ -35,7 +35,7 @@
 #ifndef	__YPDEFS_H
 #define	__YPDEFS_H
 
-#pragma ident	"@(#)ypdefs.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

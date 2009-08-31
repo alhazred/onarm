@@ -38,7 +38,7 @@
  */
 
 
-#pragma ident	"@(#)dc_vnops.c	1.1	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/thread.h>

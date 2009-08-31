@@ -27,7 +27,7 @@
 #ifndef _MQUEUE_H
 #define	_MQUEUE_H
 
-#pragma ident	"@(#)mqueue.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

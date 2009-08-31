@@ -27,7 +27,7 @@
 #ifndef	_GSSAPIP_DUMMY_H
 #define	_GSSAPIP_DUMMY_H
 
-#pragma ident	"@(#)gssapiP_dummy.h	1.20	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

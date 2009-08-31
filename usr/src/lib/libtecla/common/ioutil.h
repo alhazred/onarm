@@ -32,7 +32,7 @@
  * of the copyright holder.
  */
 
-#pragma ident	"@(#)ioutil.h	1.1	04/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*.......................................................................
  * Callback functions of the following type can be registered to write

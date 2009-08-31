@@ -27,7 +27,7 @@
 #ifndef _QUAD_INCLUDED_
 #define	_QUAD_INCLUDED_		/* Render harmless multiple inclusions. */
 
-#pragma ident	"@(#)_Qquad.h	1.4	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Header file for long double == quadruple-precision run-time support. C

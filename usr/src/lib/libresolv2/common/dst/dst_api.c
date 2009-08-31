@@ -7,7 +7,7 @@ static const char rcsid[] = "$Header: /proj/cvs/isc/bind8/src/lib/dst/dst_api.c,
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dst_api.c	1.4	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Portions Copyright (c) 1995-1998 by Trusted Information Systems, Inc.

@@ -1,4 +1,4 @@
-#pragma ident	"@(#)set_realm.c	1.1	06/05/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.

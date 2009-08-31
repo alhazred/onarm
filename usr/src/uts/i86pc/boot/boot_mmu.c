@@ -28,7 +28,7 @@
  * WARNING: This file is used by both dboot and the kernel.
  */
 
-#pragma ident	"@(#)boot_mmu.c	1.2	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/machparam.h>

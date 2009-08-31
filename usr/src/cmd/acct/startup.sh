@@ -26,7 +26,7 @@
 #	All rights reserved.
 
 
-#ident	"@(#)startup.sh	1.9	05/06/08 SMI"	/* SVr4.0 1.7	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7	*/
 #	"startup (acct) - should be called from /etc/rc"
 #	"whenever system is brought up"
 PATH=/usr/lib/acct:/usr/bin:/usr/sbin

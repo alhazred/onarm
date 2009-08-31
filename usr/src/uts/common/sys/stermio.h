@@ -26,7 +26,7 @@
 #ifndef _SYS_STERMIO_H
 #define	_SYS_STERMIO_H
 
-#pragma ident	"@(#)stermio.h	1.10	05/06/08 SMI"	/* SVr4.0 11.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.2 */
 
 #ifdef	__cplusplus
 extern "C" {

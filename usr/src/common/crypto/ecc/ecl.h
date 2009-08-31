@@ -45,7 +45,7 @@
 #ifndef _ECL_H
 #define _ECL_H
 
-#pragma ident	"@(#)ecl.h	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Although this is not an exported header file, code which uses elliptic
  * curve point operations will need to include it. */

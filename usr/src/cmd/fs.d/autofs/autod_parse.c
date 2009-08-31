@@ -25,7 +25,7 @@
  *	Use is subject to license terms.
  */
 
-#pragma ident	"@(#)autod_parse.c	1.33	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

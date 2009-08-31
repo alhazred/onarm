@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)mapfile64	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # identical to /usr/lib/ld/sparcv9/map.below4G
 # We need this because malloc may return addresses which are bigger than

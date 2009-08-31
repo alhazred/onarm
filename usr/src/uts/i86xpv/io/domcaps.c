@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)domcaps.c	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This rather uninspiring device enables userland to discover if
@@ -157,7 +157,7 @@ static struct dev_ops domcaps_dv_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"hypervisor capabilities driver 1.1",
+	"hypervisor capabilities driver %I%",
 	&domcaps_dv_ops
 };
 

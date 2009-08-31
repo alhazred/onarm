@@ -6,7 +6,7 @@
 #ifndef _KRB5_KDB_KDB_COMPAT_H
 #define	_KRB5_KDB_KDB_COMPAT_H
 
-#pragma ident	"@(#)kdb_compat.h	1.2	02/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

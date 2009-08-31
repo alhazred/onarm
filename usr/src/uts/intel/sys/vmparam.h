@@ -35,7 +35,7 @@
 #ifndef _SYS_VMPARAM_H
 #define	_SYS_VMPARAM_H
 
-#pragma ident	"@(#)vmparam.h	2.36	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if (defined(_KERNEL) || defined(_KMEMUSER)) && defined(_MACHDEP)
 #include <sys/vm_machparam.h>

@@ -26,7 +26,7 @@
 #ifndef _SYS_LX_SOCKET_H
 #define	_SYS_LX_SOCKET_H
 
-#pragma ident	"@(#)lx_socket.h	1.2	06/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

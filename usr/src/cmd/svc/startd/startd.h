@@ -26,7 +26,7 @@
 #ifndef	_STARTD_H
 #define	_STARTD_H
 
-#pragma ident	"@(#)startd.h	1.33	07/12/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/time.h>
 #include <librestart.h>

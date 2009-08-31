@@ -44,7 +44,7 @@
  * Sun elects to use this software under the MPL license.
  */
 
-#pragma ident	"@(#)ec2_193.c	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ec2.h"
 #include "mp_gf2m.h"

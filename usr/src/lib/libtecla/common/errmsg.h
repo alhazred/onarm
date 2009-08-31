@@ -32,7 +32,7 @@
  * of the copyright holder.
  */
 
-#pragma ident	"@(#)errmsg.h	1.1	04/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Set the longest expected length of an error message (excluding its

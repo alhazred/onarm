@@ -27,7 +27,7 @@
  *	nisplus/getservent.c -- NIS+ backend for nsswitch "serv" database
  */
 
-#pragma ident	"@(#)getservent.c	1.21	06/10/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include <netdb.h>

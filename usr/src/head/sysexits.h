@@ -35,7 +35,7 @@
 #ifndef _SYSEXITS_H
 #define	_SYSEXITS_H
 
-#pragma ident	"@(#)sysexits.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

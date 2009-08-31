@@ -30,7 +30,7 @@
 #ifndef _DIRENT_H
 #define	_DIRENT_H
 
-#pragma ident	"@(#)dirent.h	1.40	07/10/13 SMI"	/* SVr4.0 1.6.1.5   */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6.1.5   */
 
 #include <sys/feature_tests.h>
 

@@ -26,7 +26,7 @@
 #ifndef	_GROUP_H
 #define	_GROUP_H
 
-#pragma ident	"@(#)group.h	1.1	07/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Group Abstraction

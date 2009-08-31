@@ -26,7 +26,7 @@
  */
 
 /*
- * ident	"@(#)nfs_acl.x	1.6	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  */
 
 const NFS_ACL_MAX_ENTRIES = 1024;

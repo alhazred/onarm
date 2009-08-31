@@ -26,7 +26,7 @@
 #ifndef _MDB_AMD64UTIL_H
 #define	_MDB_AMD64UTIL_H
 
-#pragma ident	"@(#)mdb_amd64util.h	1.4	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_kreg.h>
 #include <mdb/mdb_target_impl.h>

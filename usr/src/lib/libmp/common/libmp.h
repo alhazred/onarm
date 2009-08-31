@@ -32,7 +32,7 @@
 #ifndef _LIBMP_H
 #define	_LIBMP_H
 
-#ident	"@(#)libmp.h	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mp.h>
 #include <stdio.h>

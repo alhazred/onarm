@@ -40,7 +40,7 @@
 #ifndef _RPC_RPC_H
 #define	_RPC_RPC_H
 
-#pragma ident	"@(#)rpc.h	1.19	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/types.h>		/* some typedefs */
 

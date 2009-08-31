@@ -31,7 +31,7 @@
 #ifndef _SYS_DEBUG_H
 #define	_SYS_DEBUG_H
 
-#pragma ident	"@(#)debug.h	1.29	05/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/types.h>

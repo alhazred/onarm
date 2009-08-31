@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_sockconfig.s	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_sockconfig.s"
+	.file	"%M%"
 
 /* C library -- _sockconfig					*/
 /*

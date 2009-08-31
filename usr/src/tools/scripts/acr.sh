@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)acr.sh	1.8	07/12/21 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # usage: acr [root [archivedir]]

@@ -2,7 +2,7 @@
  * Copyright 2001 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)eval.c	1.2	05/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /*
   * Routines for controlled evaluation of host names, user names, and so on.

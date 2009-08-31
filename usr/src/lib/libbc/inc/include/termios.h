@@ -27,7 +27,7 @@
 #ifndef	__SYS_TERMIOS_H
 #define	__SYS_TERMIOS_H
 
-#pragma ident	"@(#)termios.h	1.6	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stdtypes.h>
 #include <sys/ioccom.h>

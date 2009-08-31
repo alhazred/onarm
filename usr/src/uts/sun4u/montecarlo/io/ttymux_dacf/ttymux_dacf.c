@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ttymux_dacf.c	1.7	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is a dacf module based upon the Extensions to Device Autoconfiguration
@@ -121,7 +121,7 @@ struct dacfsw dacfsw = {
 
 struct modldacf modldacf = {
 	&mod_dacfops,   /* Type of module */
-	"ttymux DACF 1.7",
+	"ttymux DACF %I%",
 	&dacfsw
 };
 

@@ -10,7 +10,7 @@
  *	$Id: bdb.h,v 1.1.2.4 2003/03/06 16:27:38 ca Exp $
  */
 
-#pragma ident	"@(#)bdb.h	1.2	03/03/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	SM_BDB_H
 #define SM_BDB_H

@@ -31,7 +31,7 @@
 #ifndef	_RPC_MT_H
 #define	_RPC_MT_H
 
-#pragma ident	"@(#)rpc_mt.h	1.26	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <rpc/rpc.h>

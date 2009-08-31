@@ -6,7 +6,7 @@
 #ifndef __KRB5_KDC_POLICY__
 #define	__KRB5_KDC_POLICY__
 
-#pragma ident	"@(#)policy.h	1.3	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

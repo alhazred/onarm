@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dlmgmt_impl.h	1.3	08/03/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Functions to maintain a table of datalink configuration information.
@@ -102,8 +102,8 @@ dlmgmt_link_t	*link_by_name(const char *);
 int		dlmgmt_create_common(const char *, datalink_class_t,
 		    uint32_t, uint32_t, dlmgmt_link_t **);
 int		dlmgmt_destroy_common(dlmgmt_link_t *, uint32_t);
-void		dlmgmt_getattr_common(dlmgmt_linkattr_t **, const char *,
-		    dlmgmt_getattr_retval_t *);
+int		dlmgmt_getattr_common(dlmgmt_linkattr_t **, const char *,
+		    dlmgmt_getattr_retval_t **, size_t *);
 
 void		dlmgmt_advance(dlmgmt_link_t *);
 void		dlmgmt_table_lock(boolean_t);

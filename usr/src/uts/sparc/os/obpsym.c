@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)obpsym.c	1.28	07/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This module supports callbacks from the firmware
@@ -150,7 +150,7 @@ value_to_name(uintptr_t value, char *symbol)
  * loadable module wrapper
  */
 static struct modlmisc modlmisc = {
-	&mod_miscops, "OBP symbol callbacks 1.28"
+	&mod_miscops, "OBP symbol callbacks %I%"
 };
 
 static struct modlinkage modlinkage = {

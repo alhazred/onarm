@@ -27,7 +27,7 @@
 #ifndef _FIFO_H
 #define	_FIFO_H
 
-#pragma ident	"@(#)fifo.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines for manipulating a FIFO queue

@@ -27,7 +27,7 @@
 #ifndef	_TNF_TYPES_H
 #define	_TNF_TYPES_H
 
-#pragma ident	"@(#)tnf_types.h	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #ifdef _KERNEL

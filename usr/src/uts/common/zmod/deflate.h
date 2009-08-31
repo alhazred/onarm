@@ -11,7 +11,7 @@
 #ifndef _DEFLATE_H
 #define _DEFLATE_H
 
-#pragma ident	"@(#)deflate.h	1.1	07/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "zutil.h"
 

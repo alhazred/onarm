@@ -7,7 +7,7 @@
  * the sendmail distribution.
  */
 
-#pragma ident	"@(#)t-match.c	1.1	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sm/gen.h>
 SM_IDSTR(id, "@(#)$Id: t-match.c,v 1.7 2000/12/18 18:12:12 ca Exp $")

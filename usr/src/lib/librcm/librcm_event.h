@@ -27,7 +27,7 @@
 #ifndef	_LIBRCM_EVENT_H
 #define	_LIBRCM_EVENT_H
 
-#pragma ident	"@(#)librcm_event.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <sys/types.h>

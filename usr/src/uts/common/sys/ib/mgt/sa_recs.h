@@ -27,7 +27,7 @@
 #ifndef	_SYS_IB_MGT_SA_RECS_H
 #define	_SYS_IB_MGT_SA_RECS_H
 
-#pragma ident	"@(#)sa_recs.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the definitions of the SA-specific records in IB spec

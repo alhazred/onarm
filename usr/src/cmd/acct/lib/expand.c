@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)expand.c	1.9	05/08/24 SMI"	/* SVr4.0 1.7	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7	*/
 
 #include <sys/types.h>
 #include <sys/param.h>

@@ -26,7 +26,7 @@
 #ifndef _SYS_OPEN_H
 #define	_SYS_OPEN_H
 
-#pragma ident	"@(#)open.h	1.11	05/06/08 SMI"	/* from SVR4 11.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 11.4 */
 
 #ifdef	__cplusplus
 extern "C" {

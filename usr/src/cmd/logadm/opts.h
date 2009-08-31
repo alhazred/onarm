@@ -28,7 +28,7 @@
 #ifndef	_LOGADM_OPTS_H
 #define	_LOGADM_OPTS_H
 
-#pragma ident	"@(#)opts.h	1.3	06/05/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

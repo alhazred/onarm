@@ -25,7 +25,7 @@
 # uts/intel/sdev_nsconfig_mod/Makefile
 #
 
-#pragma ident	"@(#)Makefile	1.1	06/08/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	Path to the base of the uts directory tree (usually /usr/src/uts).

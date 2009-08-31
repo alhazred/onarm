@@ -24,9 +24,9 @@
  * All rights reserved.
  */
 
-.ident	"@(#)memcmp.s	1.13	05/06/08 SMI"	/* SunOS 4.1 1.2	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS 4.1 1.2	*/
 
-	.file	"memcmp.s"
+	.file	"%M%"
 
 /*
  * memcmp(s1, s2, len)

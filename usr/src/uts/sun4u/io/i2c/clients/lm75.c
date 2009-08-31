@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lm75.c	1.6	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>		/* ddi_create_minor_node S_IFCHR */
 #include <sys/modctl.h>		/* for modldrv */
@@ -99,7 +99,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv lm75_modldrv = {
 	&mod_driverops,			/* type of module - driver */
-	"LM75 i2c device driver: v1.6",
+	"LM75 i2c device driver: v%I%",
 	&lm75_ops
 };
 

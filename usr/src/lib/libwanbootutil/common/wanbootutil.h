@@ -27,7 +27,7 @@
 #ifndef	_WANBOOTUTIL_H
 #define	_WANBOOTUTIL_H
 
-#pragma ident	"@(#)wanbootutil.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <aes.h>
 #include <cbc.h>

@@ -32,7 +32,7 @@
 #ifndef _UTMP_H
 #define	_UTMP_H
 
-#pragma ident	"@(#)utmp.h	1.20	05/06/08 SMI"	/* SVr4.0 1.5.1.7 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5.1.7 */
 
 /*
  * Note:  The getutent(3c) family of interfaces are obsolete.

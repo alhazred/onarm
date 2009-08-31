@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ServerAttribute.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)ServerAttribute.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ServerAttribute.java: Attribute created on the server side only.
 //  Author:           James Kempf
 //  Created On:       Thu Apr 23 08:53:49 1998
@@ -49,7 +49,7 @@ import java.io.*;
  * an AttributeString object for the id is included, for pattern
  * matching against the id.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

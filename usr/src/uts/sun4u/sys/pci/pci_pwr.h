@@ -27,7 +27,7 @@
 #ifndef _SYS_PCI_PWR_H
 #define	_SYS_PCI_PWR_H
 
-#pragma ident	"@(#)pci_pwr.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/epm.h>
 

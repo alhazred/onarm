@@ -30,7 +30,7 @@
 #ifndef	_SYS_VLAN_H
 #define	_SYS_VLAN_H
 
-#pragma ident	"@(#)vlan.h	1.3	06/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -29,7 +29,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)main.c	6.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* UNIX HEADERS */
 #include <stdio.h>

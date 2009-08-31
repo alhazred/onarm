@@ -25,7 +25,7 @@
 
 /*	Copyright (c) 1989 by Sun Microsystems, Inc.		*/
 
-.ident	"@(#)sparc_data.s	1.10	05/06/08 SMI"	/* SVr4.0 1.10	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.10	*/
 
 	.file	"sparc_data.s"
 

@@ -27,7 +27,7 @@
 #ifndef	_SYS_BOOTREGS_H
 #define	_SYS_BOOTREGS_H
 
-#pragma ident	"@(#)bootregs.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

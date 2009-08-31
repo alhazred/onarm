@@ -25,7 +25,7 @@
  */
 
 
-#pragma ident	"@(#)smbfs.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/mdb_modapi.h>
 #include <sys/types.h>

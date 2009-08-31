@@ -37,7 +37,7 @@
 #ifndef _SYS_MD5_H
 #define	_SYS_MD5_H
 
-#pragma ident	"@(#)md5.h	1.10	07/04/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>		/* for uint_* */
 

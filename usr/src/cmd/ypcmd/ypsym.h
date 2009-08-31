@@ -34,7 +34,7 @@
 #ifndef	__YPSYM_H
 #define	__YPSYM_H
 
-#pragma ident	"@(#)ypsym.h	1.16	06/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
 # Copyright (c) 1999, 2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)prototype_i386	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # this file contains files unique to intel only
 #

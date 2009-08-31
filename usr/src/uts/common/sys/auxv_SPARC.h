@@ -26,7 +26,7 @@
 #ifndef	_SYS_AUXV_SPARC_H
 #define	_SYS_AUXV_SPARC_H
 
-#pragma ident	"@(#)auxv_SPARC.h	1.6	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  */
-#pragma ident	"@(#)gnu_po.y	1.2	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "gnu_msgfmt.h"
 #include "gnu_lex.h"

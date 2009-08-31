@@ -27,7 +27,7 @@
 #ifndef _MDMN_SUBR_H
 #define	_MDMN_SUBR_H
 
-#pragma ident	"@(#)mdmn_subr.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <syslog.h>
 #include <synch.h>

@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)putmessage.c	1.5	05/06/08 SMI"	/* SVr4.0 1.7	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7	*/
 /* LINTLIBRARY */
 
 #if	defined(__STDC__)

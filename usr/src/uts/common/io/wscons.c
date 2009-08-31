@@ -28,7 +28,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)wscons.c	1.92	06/04/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * "Workstation console" multiplexor driver for Sun.
@@ -244,7 +244,7 @@ uint_t	wc_errlevel = PRINT_L2;
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"Workstation multiplexer Driver 'wc' 1.92",
+	"Workstation multiplexer Driver 'wc' %I%",
 	&wc_ops,	/* driver ops */
 };
 

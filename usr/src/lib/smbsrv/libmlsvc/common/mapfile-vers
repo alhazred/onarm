@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 #
-# ident	"@(#)mapfile-vers	1.4	08/03/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 SUNWprivate {
     global:

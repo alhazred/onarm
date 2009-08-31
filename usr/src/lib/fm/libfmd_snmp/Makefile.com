@@ -27,7 +27,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-# ident	"@(#)Makefile.com	1.4	07/04/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY = libfmd_snmp.a

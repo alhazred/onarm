@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)uppc.c	1.6	07/04/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "intr_common.h"
 

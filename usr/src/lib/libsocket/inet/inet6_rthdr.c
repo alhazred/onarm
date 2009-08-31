@@ -24,7 +24,7 @@
  * All rights reserved.  Use is subject to license terms.
  */
 
-#pragma ident	"@(#)inet6_rthdr.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This code is conformant to revision 7 of 2292bis.  Some of these functions

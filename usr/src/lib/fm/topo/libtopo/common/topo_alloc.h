@@ -27,7 +27,7 @@
 #ifndef	_TOPO_ALLOC_H
 #define	_TOPO_ALLOC_H
 
-#pragma ident	"@(#)topo_alloc.h	1.1	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <topo_module.h>

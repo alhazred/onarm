@@ -21,7 +21,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Intrs.pm	1.2	07/05/31 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Intrs.pm provides the bootstrap for the private Sun::Solaris::Intrs module.
 #

@@ -27,7 +27,7 @@
  * nisplus/getgrent.c -- NIS+ backend for nsswitch "group" database
  */
 
-#pragma ident	"@(#)getgrent.c	1.31	07/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <grp.h>
 #include <string.h>

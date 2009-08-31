@@ -26,7 +26,7 @@
 #ifndef	_UTILS_H
 #define	_UTILS_H
 
-#pragma ident	"@(#)utils.h	1.4	07/12/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libintl.h>
 

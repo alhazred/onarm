@@ -30,7 +30,7 @@
 #ifndef _SYS_TYPES_H
 #define	_SYS_TYPES_H
 
-#pragma ident	"@(#)types.h	1.91	07/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/isa_defs.h>

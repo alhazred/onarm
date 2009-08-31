@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sdev_vfsops.c	1.6	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the /dev (hence, the sdev_ prefix) filesystem.
@@ -101,7 +101,7 @@ static vfsdef_t sdev_vfssw = {
  * Module linkage information
  */
 static struct modlfs modlfs = {
-	&mod_fsops, "/dev filesystem 1.6", &sdev_vfssw
+	&mod_fsops, "/dev filesystem %I%", &sdev_vfssw
 };
 
 static struct modlinkage modlinkage = {

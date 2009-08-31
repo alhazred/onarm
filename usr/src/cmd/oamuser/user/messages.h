@@ -30,7 +30,7 @@
 #ifndef	_MESSAGES_H
 #define	_MESSAGES_H
 
-#pragma ident	"@(#)messages.h	1.16	06/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern void errmsg(int, ...);
 

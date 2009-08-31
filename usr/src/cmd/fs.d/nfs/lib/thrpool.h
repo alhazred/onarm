@@ -27,7 +27,7 @@
 #ifndef	_THRPOOL_H
 #define	_THRPOOL_H
 
-#pragma ident	"@(#)thrpool.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)remove.sh	1.5	05/06/08 SMI"	/* SVr4.0 1.6	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 rm -f /var/adm/acct/sum/wtmp*
 rm -f /var/adm/acct/sum/pacct*
 rm -f /var/adm/acct/nite/lock*

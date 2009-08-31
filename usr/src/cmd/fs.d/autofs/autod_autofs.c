@@ -25,7 +25,7 @@
  *	Use is subject to license terms.
  */
 
-#pragma ident	"@(#)autod_autofs.c	1.28	06/06/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <unistd.h>

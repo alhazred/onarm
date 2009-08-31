@@ -26,7 +26,7 @@
 #ifndef	_PCP_UTILS_H
 #define	_PCP_UTILS_H
 
-#pragma ident	"@(#)pcp_utils.h	1.1	06/08/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

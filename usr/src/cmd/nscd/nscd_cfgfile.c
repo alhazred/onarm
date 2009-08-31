@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nscd_cfgfile.c	1.2	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *   routine to read configuration file

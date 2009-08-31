@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)dump_rcm.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * RCM module for managing dump device during dynamic
@@ -123,7 +123,7 @@ rcm_mod_init()
 const char *
 rcm_mod_info()
 {
-	return ("RCM Dump module 1.3");
+	return ("RCM Dump module %I%");
 }
 
 int

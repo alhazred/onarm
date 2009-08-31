@@ -35,7 +35,7 @@
 #ifndef	_SYS_AUDIO_TRACE_H
 #define	_SYS_AUDIO_TRACE_H
 
-#pragma ident	"@(#)audio_trace.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

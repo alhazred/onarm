@@ -21,7 +21,7 @@
 # CDDL HEADER END
 #
 #
-#ident	"@(#)dhcpmgr.sh	1.9	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.

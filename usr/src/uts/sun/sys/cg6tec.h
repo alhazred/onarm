@@ -27,7 +27,7 @@
 #ifndef _SYS_CG6TEC_H
 #define	_SYS_CG6TEC_H
 
-#pragma ident	"@(#)cg6tec.h	1.8	05/06/08 SMI"	/* SunOS-4.1  1.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS-4.1  1.2 */
 
 #ifdef	__cplusplus
 extern "C" {

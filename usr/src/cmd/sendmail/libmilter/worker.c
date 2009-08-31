@@ -10,7 +10,7 @@
  *   Jose-Marcio.Martins@ensmp.fr
  */
 
-#pragma ident	"@(#)worker.c	1.1	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sm/gen.h>
 SM_RCSID("@(#)$Id: worker.c,v 8.9 2006/12/18 18:26:51 ca Exp $")

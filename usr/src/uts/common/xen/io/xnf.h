@@ -27,7 +27,7 @@
 #ifndef _SYS_XNF_H
 #define	_SYS_XNF_H
 
-#pragma ident	"@(#)xnf.h	1.2	07/12/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

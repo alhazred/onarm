@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)usbser_pl2303.c	1.1	05/11/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This driver supports Prolific PL-2303H/HX/X USB-to-serial adapters. It is a

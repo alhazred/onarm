@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)link.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"link.s"
+	.file	"%M%"
 
 /* C library -- link						*/
 /* int link (const char *path1, const char *path2);		*/

@@ -31,7 +31,7 @@
 #ifndef	_SYS_ISA_DEFS_H
 #define	_SYS_ISA_DEFS_H
 
-#pragma ident	"@(#)isa_defs.h	1.33	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header file serves to group a set of well known defines and to

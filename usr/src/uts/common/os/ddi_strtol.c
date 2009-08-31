@@ -27,7 +27,7 @@
 /*	Copyright (c) 1988 AT&T	*/
 /*	All Rights Reserved */
 
-#pragma ident	"@(#)ddi_strtol.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ddi.h>
 #include <sys/errno.h>

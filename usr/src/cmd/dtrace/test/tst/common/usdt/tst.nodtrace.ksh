@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)tst.nodtrace.ksh	1.2	06/09/26 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # Fake up a scenario where _DTRACE_VERSION is not defined by having our own
 # <unistd.h>. This tests that dtrace -h will produce a header file which can

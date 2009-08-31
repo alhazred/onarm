@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)lsdata.c	1.4	05/06/08 SMI"	/* SVr4.0 1.9.1.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9.1.1	*/
 
 /*
  *	network listener process global initialized data

@@ -26,7 +26,7 @@
 #ifndef _SYS_PCI_TOOLS_H
 #define	_SYS_PCI_TOOLS_H
 
-#pragma ident	"@(#)pci_tools.h	1.5	07/06/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/modctl.h>
 

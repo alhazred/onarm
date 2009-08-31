@@ -6,7 +6,7 @@
 #ifndef _STRING_TABLE_H
 #define	_STRING_TABLE_H
 
-#pragma ident	"@(#)string_table.h	1.2	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING

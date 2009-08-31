@@ -21,7 +21,7 @@
 #ifndef _netinet_in_h
 #define	_netinet_in_h
 
-#pragma ident	"@(#)in.h	1.23	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Protocols

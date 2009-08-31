@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-        ident	"@(#)manual-key.xml	1.1	07/05/14 SMI"
+        ident	"%Z%%M%	%I%	%E% SMI"
 
         NOTE:  This service manifest is not editable; its contents will
         be overwritten by package or patch operations, including

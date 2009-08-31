@@ -34,7 +34,7 @@
 #ifndef _I915_DRM_H
 #define _I915_DRM_H
 
-#pragma ident	"@(#)i915_drm.h	1.3	08/02/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Please note that modifications to all structs defined here are
  * subject to backwards-compatibility constraints.

@@ -27,7 +27,7 @@
  * Copyright 1986, 1994 by Mortice Kern Systems Inc.  All rights reserved.
  */
 
-#pragma ident	"@(#)awk2.c	1.15	07/07/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * awk -- process input files, field extraction, output

@@ -26,7 +26,7 @@
 #ifndef	_SYS_RR_RW_LOCK_H
 #define	_SYS_RR_RW_LOCK_H
 
-#pragma ident	"@(#)rrwlock.h	1.1	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

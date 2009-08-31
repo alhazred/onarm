@@ -24,7 +24,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)nightly.sh	1.119	08/01/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Copyright (c) 2006-2007 NEC Corporation
@@ -1934,7 +1934,7 @@ echo | tee -a $mail_msg_file >> $LOGFILE
 
 # nightly (will fail in year 2100 due to SCCS flaw)
 echo "$0 $@" | tee -a $mail_msg_file >> $LOGFILE
-echo "nightly.sh version 1.119 2008/01/03\n" | tee -a $mail_msg_file >> $LOGFILE
+echo "%M% version %I% 20%E%\n" | tee -a $mail_msg_file >> $LOGFILE
 
 # make
 whence $MAKE | tee -a $mail_msg_file >> $LOGFILE

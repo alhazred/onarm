@@ -27,7 +27,7 @@
 #ifndef _HOSTBRIDGE_H
 #define	_HOSTBRIDGE_H
 
-#pragma ident	"@(#)hostbridge.h	1.4	06/11/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libdevinfo.h>
 

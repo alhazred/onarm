@@ -9,7 +9,7 @@
  *	$Id: heap.h,v 1.23 2006/08/15 00:53:46 ca Exp $
  */
 
-#pragma ident	"@(#)heap.h	1.2	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  Sendmail debugging memory allocation package.

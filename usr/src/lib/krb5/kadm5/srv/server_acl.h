@@ -6,7 +6,7 @@
 #ifndef _SERVER_ACL_H
 #define	_SERVER_ACL_H
 
-#pragma ident	"@(#)server_acl.h	1.6	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

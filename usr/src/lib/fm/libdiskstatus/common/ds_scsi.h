@@ -26,7 +26,7 @@
 #ifndef	_DS_SCSI_H
 #define	_DS_SCSI_H
 
-#pragma ident	"@(#)ds_scsi.h	1.1	07/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/byteorder.h>

@@ -30,7 +30,7 @@
 #ifndef	_SYS_DEBUGREG_H
 #define	_SYS_DEBUGREG_H
 
-#pragma ident	"@(#)debugreg.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

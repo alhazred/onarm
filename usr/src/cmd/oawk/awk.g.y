@@ -27,7 +27,7 @@
 
 
 %{
-#ident	"@(#)awk.g.y	1.7	05/06/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 %}
 %token	FIRSTTOKEN	/* must be first */
 %token	FINAL FATAL

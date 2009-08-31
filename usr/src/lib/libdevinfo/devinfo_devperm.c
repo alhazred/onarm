@@ -26,7 +26,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)devinfo_devperm.c	1.22	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	_POSIX_PTHREAD_SEMANTICS	/* for getgrnam_r */
 #ifdef lint

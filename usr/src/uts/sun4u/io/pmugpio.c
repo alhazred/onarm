@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pmugpio.c	1.6	05/12/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -127,7 +127,7 @@ static struct dev_ops pmugpio_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, 		/* This one is a driver */
-	"Pmugpio Driver 1.6", 		/* Name of the module. */
+	"Pmugpio Driver %I%", 		/* Name of the module. */
 	&pmugpio_ops,			/* Driver ops */
 };
 

@@ -53,7 +53,7 @@
  *	renames are fully implemented, they will instead be handled as
  *	mkdirs, massive links and unlinks, and rmdirs.
  */
-#ident	"@(#)rename.c	1.6	05/06/08 SMI"
+#ident	"%W%	%E% SMI"
 
 #include <stdio.h>
 

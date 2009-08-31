@@ -61,7 +61,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)randfile.c	1.7	06/02/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* We need to define this to get macros like S_IFBLK and S_IFCHR */
 #ifndef	_BOOT

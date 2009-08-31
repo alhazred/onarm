@@ -24,7 +24,7 @@
 #
 # uts/sparc/audioixp/Makefile
 #
-# ident	"@(#)Makefile	1.4	07/07/05 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of hight definition audio
 #	driver (audioixp) kernel module.

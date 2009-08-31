@@ -3,7 +3,7 @@
 #ifndef	_GETOPT_H
 #define	_GETOPT_H
 
-#pragma ident	"@(#)getopt.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

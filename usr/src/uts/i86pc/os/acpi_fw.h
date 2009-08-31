@@ -26,7 +26,7 @@
 #ifndef _ACPI_FW_H
 #define	_ACPI_FW_H
 
-#pragma ident	"@(#)acpi_fw.h	1.2	07/02/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

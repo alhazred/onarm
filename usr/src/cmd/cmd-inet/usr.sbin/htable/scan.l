@@ -41,7 +41,7 @@
 %}
 
 %{
-#ident	"@(#)scan.l	1.5	05/08/30 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "y.tab.h"
 #include "htable.h"

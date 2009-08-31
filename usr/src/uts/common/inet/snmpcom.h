@@ -27,7 +27,7 @@
 #ifndef	_INET_SNMPCOM_H
 #define	_INET_SNMPCOM_H
 
-#pragma ident	"@(#)snmpcom.h	1.14	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

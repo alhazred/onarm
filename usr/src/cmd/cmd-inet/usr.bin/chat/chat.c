@@ -90,7 +90,7 @@
 #define const
 #endif
 
-#pragma ident	"@(#)chat.c	1.2	05/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
 static const char rcsid[] = "$Id: chat.c,v 1.26 1999/12/23 01:39:54 paulus Exp $";

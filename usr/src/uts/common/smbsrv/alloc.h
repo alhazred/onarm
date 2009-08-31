@@ -26,7 +26,7 @@
 #ifndef	_SMBSRV_ALLOC_H
 #define	_SMBSRV_ALLOC_H
 
-#pragma ident	"@(#)alloc.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

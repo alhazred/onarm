@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)uname.c	1.21	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	__EXTENSIONS__
 #include <sys/types.h>

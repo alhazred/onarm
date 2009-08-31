@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)kdrv.c	1.6	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The driver portion of kmdb, which manages /dev/kmdb and passes requests along
@@ -235,7 +235,7 @@ static struct dev_ops kdrv_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"kmdb driver 1.6",
+	"kmdb driver %I%",
 	&kdrv_ops
 };
 

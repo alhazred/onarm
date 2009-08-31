@@ -26,7 +26,7 @@
  *
  */
 
-#pragma ident	"@(#)workfile.c	1.4	07/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <psvc_objects.h>
 #include <libprtdiag.h>

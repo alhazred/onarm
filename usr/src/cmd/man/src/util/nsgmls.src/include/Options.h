@@ -1,6 +1,6 @@
 // Copyright (c) 1996 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)Options.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef Options_INCLUDED
 #define Options_INCLUDED 1

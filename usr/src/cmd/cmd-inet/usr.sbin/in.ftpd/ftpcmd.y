@@ -34,7 +34,7 @@
  */
 
 %{
-#pragma ident	"@(#)ftpcmd.y	1.45	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "config.h"
 #include <sys/param.h>

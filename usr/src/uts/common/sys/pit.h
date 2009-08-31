@@ -30,7 +30,7 @@
 #ifndef _SYS_PIT_H
 #define	_SYS_PIT_H
 
-#pragma ident	"@(#)pit.h	1.10	07/01/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

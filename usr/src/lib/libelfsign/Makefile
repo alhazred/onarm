@@ -25,7 +25,7 @@
 #
 # lib/libelfsign/Makefile
 #
-#ident	"@(#)Makefile	1.11	07/09/19 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 include $(SRC)/lib/Makefile.lib
 

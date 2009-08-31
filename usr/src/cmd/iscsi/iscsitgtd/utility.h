@@ -27,7 +27,7 @@
 #ifndef _TARGET_UTILITY_H
 #define	_TARGET_UTILITY_H
 
-#pragma ident	"@(#)utility.h	1.4	07/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Block comment which describes the contents of this file.

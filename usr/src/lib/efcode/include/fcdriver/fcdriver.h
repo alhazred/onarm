@@ -27,7 +27,7 @@
 #ifndef	_FCDRIVER_FCDRIVER_H
 #define	_FCDRIVER_FCDRIVER_H
 
-#pragma ident	"@(#)fcdriver.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/fcode.h>
 

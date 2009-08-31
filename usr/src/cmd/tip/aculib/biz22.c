@@ -9,7 +9,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)biz22.c	1.14	05/09/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "tip.h"
 

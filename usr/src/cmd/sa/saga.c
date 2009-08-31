@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)saga.c	1.12	05/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "saghdr.h"
 #include <limits.h>

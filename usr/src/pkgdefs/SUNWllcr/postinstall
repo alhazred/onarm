@@ -23,7 +23,7 @@
 # Copyright (c) 1998-1999 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)postinstall	1.5	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 DRVPERM='* 0666 root sys'

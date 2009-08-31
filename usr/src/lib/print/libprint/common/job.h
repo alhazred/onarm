@@ -26,7 +26,7 @@
 #ifndef	_JOB_H
 #define	_JOB_H
 
-#pragma ident	"@(#)job.h	1.9	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/va_list.h>
 

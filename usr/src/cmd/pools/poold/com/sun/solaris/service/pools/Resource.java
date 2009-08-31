@@ -23,7 +23,7 @@
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
- *ident	"@(#)Resource.java	1.4	05/11/30 SMI"
+ *ident	"%Z%%M%	%I%	%E% SMI"
  */
 
 package com.sun.solaris.service.pools;

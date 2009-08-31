@@ -27,7 +27,7 @@
 #ifndef _SETUPFILES_H
 #define	_SETUPFILES_H
 
-#pragma ident	"@(#)setupfiles.h	1.1	07/05/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

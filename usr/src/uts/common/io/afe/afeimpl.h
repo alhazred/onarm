@@ -32,7 +32,7 @@
 #ifndef	_AFEIMPL_H
 #define	_AFEIMPL_H
 
-#pragma ident	"@(#)afeimpl.h	1.1	07/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	_KERNEL
 

@@ -27,7 +27,7 @@
 #ifndef _SYS_WSCONS_H
 #define	_SYS_WSCONS_H
 
-#pragma ident	"@(#)wscons.h	1.1	06/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

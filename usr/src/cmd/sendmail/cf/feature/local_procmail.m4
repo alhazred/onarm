@@ -10,7 +10,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-#ident	"@(#)local_procmail.m4	1.1	03/01/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 divert(0)

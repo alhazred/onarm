@@ -31,7 +31,7 @@
 #ifndef _PCIC_VAR_H
 #define	_PCIC_VAR_H
 
-#pragma ident	"@(#)pcic_var.h	1.47	07/03/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

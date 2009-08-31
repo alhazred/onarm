@@ -27,7 +27,7 @@
 #ifndef _CMD_DP_PAGE_H
 #define	_CMD_DP_PAGE_H
 
-#pragma ident	"@(#)cmd_dp_page.h	1.2	06/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <cmd.h>
 #include <cmd_page.h>

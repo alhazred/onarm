@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ldapdelete.c	1.9	03/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* 
  * The contents of this file are subject to the Netscape Public

@@ -28,7 +28,7 @@
 #ifndef	_FMD_CONF_H
 #define	_FMD_CONF_H
 
-#pragma ident	"@(#)fmd_conf.h	1.7	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

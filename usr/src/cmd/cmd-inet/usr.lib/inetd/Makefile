@@ -22,9 +22,9 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.6	06/11/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
-# cmd/cmd-inet/usr.lib/inetd/Makefile
+# cmd/cmd-inet/usr.lib/inetd/%M%
 #
 
 PROG	=	inetd

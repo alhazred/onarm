@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)pcide.c	1.49	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*
@@ -157,7 +157,7 @@ extern  struct mod_ops  mod_driverops;
 
 static struct modldrv modldrv = {
 		&mod_driverops, /* Type of module. This one is a driver */
-		"PCMCIA ATA disk controller 1.49",
+		"PCMCIA ATA disk controller %I%",
 		&ata_ops, /* driver ops */
 	};
 

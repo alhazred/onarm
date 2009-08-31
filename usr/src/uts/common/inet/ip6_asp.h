@@ -26,7 +26,7 @@
 #ifndef	_INET_IP6_ASP_H
 #define	_INET_IP6_ASP_H
 
-#pragma ident	"@(#)ip6_asp.h	1.5	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

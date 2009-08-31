@@ -35,7 +35,7 @@
 #ifndef _WAV_H
 #define	_WAV_H
 
-#pragma ident	"@(#)wav.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

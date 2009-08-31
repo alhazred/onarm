@@ -23,7 +23,7 @@
  * Copyright (c) 1996, by Sun Microsystems, Inc.
  * All rights reserved.
  */
-#pragma ident	"@(#)data.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Define any exported data items.  These have to be described within an object

@@ -27,7 +27,7 @@
 #ifndef	_SYS_DDIPROPDEFS_H
 #define	_SYS_DDIPROPDEFS_H
 
-#pragma ident	"@(#)ddipropdefs.h	1.23	05/06/08 SMI"	/* SVr4.0 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 */
 
 #ifdef	__cplusplus
 extern "C" {

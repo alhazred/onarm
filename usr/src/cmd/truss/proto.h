@@ -30,7 +30,7 @@
 #ifndef	_PROTO_H
 #define	_PROTO_H
 
-#pragma ident	"@(#)proto.h	1.36	06/07/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/procset.h>
 

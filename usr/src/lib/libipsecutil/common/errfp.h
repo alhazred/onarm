@@ -26,7 +26,7 @@
 #ifndef	_ERRFP_H
 #define	_ERRFP_H
 
-#pragma ident	"@(#)errfp.h	1.1	07/08/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Headers and definitions for support functions that are shared by

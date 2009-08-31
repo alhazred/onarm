@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-%#pragma ident	"@(#)fmd_rpc_api.x	1.2	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 program FMD_API {
 	version FMD_API_VERSION_1 {

@@ -26,7 +26,7 @@
  *
  */
 
-#pragma ident	"@(#)llib-lcmd	1.9	07/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 /*PROTOLIB1*/

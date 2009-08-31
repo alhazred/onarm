@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fpc.c	1.2	06/03/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sunddi.h>
@@ -55,7 +55,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv md = {
 	&mod_driverops,
-	"IO Chip Perf Counter 1.2",
+	"IO Chip Perf Counter %I%",
 	&fpc_ops,
 };
 

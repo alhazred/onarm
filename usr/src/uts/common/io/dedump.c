@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)dedump.c	1.21	05/06/08 SMI"	/* SVr3.2H 	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr3.2H	*/
 
 /*
  * Dump STREAMS module.  Could be used anywhere on a stream to

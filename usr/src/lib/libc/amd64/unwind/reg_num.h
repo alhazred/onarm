@@ -31,7 +31,7 @@
 #ifndef _REG_NUM_H
 #define	_REG_NUM_H
 
-#pragma ident	"@(#)reg_num.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Dwarf register numbers for AMD64

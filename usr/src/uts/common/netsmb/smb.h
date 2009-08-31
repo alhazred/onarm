@@ -45,7 +45,7 @@
 #ifndef _NETSMB_SMB_H_
 #define	_NETSMB_SMB_H_
 
-#pragma ident	"@(#)smb.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file should be purely SMB protocol definition stuff.

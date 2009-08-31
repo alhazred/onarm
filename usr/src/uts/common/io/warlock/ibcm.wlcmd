@@ -21,7 +21,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)ibcm.wlcmd	1.12	07/07/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # ibcm api entry points
 root	ibt_open_rc_channel

@@ -27,7 +27,7 @@
 #ifndef _ANCESTOR_H
 #define	_ANCESTOR_H
 
-#pragma ident	"@(#)Ancestor.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

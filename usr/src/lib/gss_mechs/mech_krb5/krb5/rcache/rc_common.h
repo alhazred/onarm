@@ -6,7 +6,7 @@
 #ifndef	_KRB5_RC_COM_H
 #define	_KRB5_RC_COM_H
 
-#pragma ident	"@(#)rc_common.h	1.1	04/03/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

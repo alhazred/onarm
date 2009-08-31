@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)au_usermask.c	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #ifndef lint
 static char sccsid[] = "@(#)au_usermask.c	1.9	01/06/26 SMI";
 #endif

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dlmgmt_db.c	1.3	08/03/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <assert.h>
 #include <ctype.h>
@@ -196,11 +196,11 @@ write_uint64(char *buffer, size_t buffer_length, char *name, void *value)
 static size_t
 read_str(char *buffer, void **value)
 {
-	char		*ptr = calloc(MAXLINKATTRVALLEN, sizeof (char));
+	char		*ptr = calloc(MAXLINKATTRLEN, sizeof (char));
 	ssize_t		len;
 
-	if (ptr == NULL || (len = strlcpy(ptr, buffer, MAXLINKATTRVALLEN))
-	    >= MAXLINKATTRVALLEN) {
+	if (ptr == NULL || (len = snprintf(ptr, MAXLINKATTRLEN, "%s", buffer))
+	    >= MAXLINKATTRLEN) {
 		free(ptr);
 		return (0);
 	}

@@ -2,7 +2,7 @@
 # Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)depend	1.2	03/12/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This package information file defines software dependencies associated
 # with the pkg.  You can define three types of pkg dependencies with this file:

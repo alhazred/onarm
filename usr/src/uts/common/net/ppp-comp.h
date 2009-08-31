@@ -33,7 +33,7 @@
 #ifndef _NET_PPP_COMP_H
 #define	_NET_PPP_COMP_H
 
-#pragma ident	"@(#)ppp-comp.h	1.3	05/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

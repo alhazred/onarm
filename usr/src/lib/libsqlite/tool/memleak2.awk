@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)memleak2.awk	1.1	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 # This AWK script reads the output of testfixture when compiled for memory
 # debugging.  It generates SQL commands that can be fed into an sqlite 

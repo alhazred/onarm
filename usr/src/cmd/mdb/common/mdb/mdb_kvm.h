@@ -26,7 +26,7 @@
 #ifndef	_MDB_KVM_H
 #define	_MDB_KVM_H
 
-#pragma ident	"@(#)mdb_kvm.h	1.14	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/machelf.h>

@@ -34,7 +34,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: key.c,v 1.49 2002/09/09 14:54:14 markus Exp $");
 
-#pragma ident	"@(#)key.c	1.10	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <openssl/evp.h>
 

@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.esc.com	1.3	07/11/16 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # include makefile for eversholt common files
 #

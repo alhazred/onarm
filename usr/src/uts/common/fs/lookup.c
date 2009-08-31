@@ -37,7 +37,7 @@
  */
 
 
-#pragma ident	"@(#)lookup.c	1.76	07/12/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

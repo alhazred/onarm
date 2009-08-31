@@ -31,7 +31,7 @@
 #ifndef _LDAP_POLICY_H
 #define _LDAP_POLICY_H 1
 
-#pragma ident	"@(#)ldap_tkt_policy.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* policy specific mask */
 

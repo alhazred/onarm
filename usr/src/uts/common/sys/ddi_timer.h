@@ -27,7 +27,7 @@
 #ifndef	_SYS_DDI_TIMER_H
 #define	_SYS_DDI_TIMER_H
 
-#pragma ident	"@(#)ddi_timer.h	1.1	07/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/list.h>
 

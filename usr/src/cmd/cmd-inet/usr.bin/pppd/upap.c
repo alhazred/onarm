@@ -31,7 +31,7 @@
  * WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-#pragma ident	"@(#)upap.c	1.1	00/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define RCSID	"$Id: upap.c,v 1.23 1999/11/20 05:11:47 paulus Exp $"
 
 #include <stdio.h>

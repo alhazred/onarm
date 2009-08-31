@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lwp_cond.c	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak _lwp_cond_wait = __lwp_cond_wait
 #pragma weak _lwp_cond_reltimedwait = __lwp_cond_reltimedwait

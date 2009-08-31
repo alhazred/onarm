@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)memcpy.s	1.10	06/01/25 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"memcpy.s"
+	.file	"%M%"
 
 /*
  * memcpy(s1, s2, len)

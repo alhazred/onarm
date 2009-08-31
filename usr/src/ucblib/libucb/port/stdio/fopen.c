@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)fopen.c	1.10	06/04/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

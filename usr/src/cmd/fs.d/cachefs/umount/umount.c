@@ -27,7 +27,7 @@
  * CFS specific umount command.
  */
 
-#pragma ident	"@(#)umount.c	1.25	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 2004 Sun Microsystems, Inc.  All rights reserved.

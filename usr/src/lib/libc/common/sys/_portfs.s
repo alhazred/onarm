@@ -23,9 +23,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_portfs.s	1.5	06/05/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_portfs.s"
+	.file	"%M%"
 
 /*
  * C library implementation -- _portfs()

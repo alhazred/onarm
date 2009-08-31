@@ -1,6 +1,6 @@
 /*	$OpenBSD: ttymodes.h,v 1.12 2002/03/04 17:27:39 stevesk Exp $	*/
 
-#pragma ident	"@(#)ttymodes.h	1.6	04/10/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * NOTE: This file MUST NOT have a header guard added!!!

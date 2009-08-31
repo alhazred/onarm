@@ -26,7 +26,7 @@
 #ifndef	_BITSET_H
 #define	_BITSET_H
 
-#pragma ident	"@(#)bitset.h	1.1	07/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

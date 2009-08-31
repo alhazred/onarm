@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)crypt.c	1.4	05/06/08 SMI"  /* from S5R2 1.3 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"  /* from S5R2 1.3 */
 
 /*LINTLIBRARY*/
 /* The real crypt is now _crypt.  This version performs automatic

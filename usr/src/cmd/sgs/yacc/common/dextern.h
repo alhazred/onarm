@@ -29,7 +29,7 @@
 #ifndef _DEXTERN_H
 #define	_DEXTERN_H
 
-#pragma ident	"@(#)dextern.h	6.19	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <inttypes.h>

@@ -41,7 +41,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: cipher.c,v 1.61 2002/07/12 15:50:17 markus Exp $");
 
-#pragma ident	"@(#)cipher.c	1.6	04/09/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "xmalloc.h"
 #include "log.h"

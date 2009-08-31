@@ -23,7 +23,7 @@
  * CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-#pragma ident	"@(#)vasprintf.c	1.2	03/09/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sm/gen.h>
 SM_RCSID("@(#)$Id: vasprintf.c,v 1.26.2.1 2003/06/03 02:14:09 ca Exp $")

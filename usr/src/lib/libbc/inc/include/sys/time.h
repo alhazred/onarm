@@ -1,4 +1,4 @@
-#pragma ident	"@(#)time.h	2.13	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1982, 1986 Regents of the University of California.

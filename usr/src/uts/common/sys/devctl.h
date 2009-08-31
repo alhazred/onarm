@@ -27,7 +27,7 @@
 #ifndef	_SYS_DEVCTL_H
 #define	_SYS_DEVCTL_H
 
-#pragma ident	"@(#)devctl.h	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Device control interfaces

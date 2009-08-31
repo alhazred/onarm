@@ -27,7 +27,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)tvhci.c	1.10	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The tvhci driver can be used to exercise the mpxio framework together
@@ -155,7 +155,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"test vhci driver 1.10",
+	"test vhci driver %I%",
 	&tvhci_ops
 };
 

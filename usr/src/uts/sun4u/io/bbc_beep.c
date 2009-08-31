@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bbc_beep.c	1.6	07/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the Beep driver for bbc based beep mechanism.
@@ -110,7 +110,7 @@ static struct dev_ops bbc_beep_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, 		/* This one is a driver */
-	"BBC Beep Driver 1.6", 		/* Name of the module. */
+	"BBC Beep Driver %I%", 		/* Name of the module. */
 	&bbc_beep_ops,			/* Driver ops */
 };
 

@@ -29,7 +29,7 @@
 #ifndef	_LOGADM_GLOB_H
 #define	_LOGADM_GLOB_H
 
-#pragma ident	"@(#)glob.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

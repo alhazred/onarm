@@ -27,7 +27,7 @@
 #ifndef _SYS_MNTIO_H
 #define	_SYS_MNTIO_H
 
-#pragma ident	"@(#)mntio.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

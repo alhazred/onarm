@@ -27,7 +27,7 @@
 # Copyright (c) 2007 NEC Corporation
 #
 
-# ident	"@(#)Makefile.com	1.8	06/08/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY=	libadt_jni.a

@@ -26,7 +26,7 @@
 #ifndef	_LIBFRUP_H
 #define	_LIBFRUP_H
 
-#pragma ident	"@(#)libfrup.h	1.4	07/05/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

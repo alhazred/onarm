@@ -27,7 +27,7 @@
 #ifndef	_METAD_LOCAL_H
 #define	_METAD_LOCAL_H
 
-#pragma ident	"@(#)metad_local.h	2.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <meta.h>
 

@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)table.c	1.8	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

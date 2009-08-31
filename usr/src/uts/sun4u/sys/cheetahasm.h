@@ -26,7 +26,7 @@
 #ifndef	_CHEETAHASM_H
 #define	_CHEETAHASM_H
 
-#pragma ident	"@(#)cheetahasm.h	1.12	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

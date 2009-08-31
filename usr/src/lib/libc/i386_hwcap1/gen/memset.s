@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)memset.s	1.4	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"memset.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_Q_cplx_lr_mul.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * On SPARC V8, _Q_cplx_lr_mul(v, z, w) sets *v = *z * *w computed by

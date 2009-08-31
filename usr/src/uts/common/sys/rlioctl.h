@@ -27,7 +27,7 @@
 #ifndef	_SYS_RLIOCTL_H
 #define	_SYS_RLIOCTL_H
 
-#pragma ident	"@(#)rlioctl.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

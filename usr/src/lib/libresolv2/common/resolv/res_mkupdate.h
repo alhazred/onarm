@@ -23,7 +23,7 @@
 #ifndef _RES_MKUPDATE_H_
 #define _RES_MKUPDATE_H_
 
-#pragma ident	"@(#)res_mkupdate.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 __BEGIN_DECLS
 __END_DECLS

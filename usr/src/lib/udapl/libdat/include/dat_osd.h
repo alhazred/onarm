@@ -43,7 +43,7 @@
 #ifndef _DAT_OSD_H_
 #define	_DAT_OSD_H_
 
-#pragma ident	"@(#)dat_osd.h	1.4	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dat/udat.h>
 

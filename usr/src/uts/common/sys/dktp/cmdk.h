@@ -31,7 +31,7 @@
 #ifndef _SYS_DKTP_CMDK_H
 #define	_SYS_DKTP_CMDK_H
 
-#pragma ident	"@(#)cmdk.h	1.16	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

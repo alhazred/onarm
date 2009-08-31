@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)md4.c	1.10	07/04/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * MD4C.C - RSA Data Security, Inc., MD4 message-digest algorithm

@@ -27,7 +27,7 @@
 #ifndef _SYS_DDI_IMPLFUNCS_H
 #define	_SYS_DDI_IMPLFUNCS_H
 
-#pragma ident	"@(#)ddi_implfuncs.h	1.59	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

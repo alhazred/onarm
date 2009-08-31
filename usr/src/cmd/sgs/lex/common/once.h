@@ -29,7 +29,7 @@
 #ifndef	_ONCE_H
 #define	_ONCE_H
 
-#pragma ident	"@(#)once.h	6.10	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ldefs.h"
 

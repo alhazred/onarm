@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)qcn.c	1.13	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sun4v console driver
@@ -181,7 +181,7 @@ static struct dev_ops qcn_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"sun4v console driver v1.13",
+	"sun4v console driver v%I%",
 	&qcn_ops
 };
 

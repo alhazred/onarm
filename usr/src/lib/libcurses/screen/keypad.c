@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)keypad.c	1.12	05/06/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

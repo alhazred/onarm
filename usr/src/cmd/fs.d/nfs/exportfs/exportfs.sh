@@ -24,7 +24,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)exportfs.sh	1.8	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #!/bin/sh
 #
 #  exportfs: compatibility script for SunOs command.  

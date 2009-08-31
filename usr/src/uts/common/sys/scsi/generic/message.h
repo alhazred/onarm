@@ -27,7 +27,7 @@
 #ifndef _SYS_SCSI_GENERIC_MESSAGE_H
 #define	_SYS_SCSI_GENERIC_MESSAGE_H
 
-#pragma ident	"@(#)message.h	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

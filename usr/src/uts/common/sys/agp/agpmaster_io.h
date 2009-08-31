@@ -27,7 +27,7 @@
 #ifndef	_SYS_AGPMASTER_IO_H
 #define	_SYS_AGPMASTER_IO_H
 
-#pragma ident	"@(#)agpmaster_io.h	1.3	07/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

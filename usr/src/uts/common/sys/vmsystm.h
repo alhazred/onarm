@@ -43,7 +43,7 @@
 #ifndef _SYS_VMSYSTM_H
 #define	_SYS_VMSYSTM_H
 
-#pragma ident	"@(#)vmsystm.h	2.64	08/02/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/proc.h>
 

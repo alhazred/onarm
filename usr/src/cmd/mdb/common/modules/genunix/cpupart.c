@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cpupart.c	1.4	05/09/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <mdb/mdb_param.h>

@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)bsmunconv.sh	1.29	06/10/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG=bsmunconv

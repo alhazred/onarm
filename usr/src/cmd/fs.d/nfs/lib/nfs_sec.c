@@ -34,7 +34,7 @@
  * used for accessing /etc/nfssec.conf.
  */
 
-#pragma ident	"@(#)nfs_sec.c	1.36	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* SVr4.0 1.18	*/
 
 #include <stdio.h>

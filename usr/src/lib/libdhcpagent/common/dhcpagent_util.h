@@ -27,7 +27,7 @@
 #ifndef	_DHCPAGENT_UTIL_H
 #define	_DHCPAGENT_UTIL_H
 
-#pragma ident	"@(#)dhcpagent_util.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <dhcpagent_ipc.h>

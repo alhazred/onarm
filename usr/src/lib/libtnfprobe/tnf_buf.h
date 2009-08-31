@@ -26,7 +26,7 @@
 #ifndef _TNF_BUF_H
 #define	_TNF_BUF_H
 
-#pragma ident	"@(#)tnf_buf.h	1.25	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef _KERNEL
 #include <sys/tnf_com.h>

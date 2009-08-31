@@ -22,7 +22,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)tpgs.c	1.9	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Implementation of "scsi_vhci_f_tpgs" T10 standard based failover_ops.
@@ -41,7 +41,7 @@
 char	*std_dev_table[] = { NULL };
 
 /* Failover module plumbing. */
-SCSI_FAILOVER_OP(SFO_NAME_TPGS, std, "1.9");
+SCSI_FAILOVER_OP(SFO_NAME_TPGS, std, "%I%");
 
 #define	STD_SCSI_CMD_LEN 0xff
 

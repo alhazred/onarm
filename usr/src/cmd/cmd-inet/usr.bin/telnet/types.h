@@ -39,7 +39,7 @@
 #ifndef _TYPES_H
 #define	_TYPES_H
 
-#pragma ident	"@(#)types.h	1.5	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

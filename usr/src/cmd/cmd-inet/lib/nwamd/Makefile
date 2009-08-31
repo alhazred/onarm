@@ -20,7 +20,7 @@
 #
 
 #
-# ident	"@(#)Makefile	1.2	07/10/09 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.

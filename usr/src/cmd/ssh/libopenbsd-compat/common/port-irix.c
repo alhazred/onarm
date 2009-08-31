@@ -60,4 +60,4 @@ irix_setusercontext(struct passwd *pw)
 
 #endif /* defined(WITH_IRIX_PROJECT) || defined(WITH_IRIX_JOBS) || defined(WITH_IRIX_ARRAY) */
 
-#pragma ident	"@(#)port-irix.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

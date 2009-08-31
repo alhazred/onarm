@@ -27,7 +27,7 @@
 #ifndef	_SYS_BOOTUFS_H
 #define	_SYS_BOOTUFS_H
 
-#pragma ident	"@(#)bootufs.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

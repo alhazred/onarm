@@ -27,7 +27,7 @@
 #ifndef	_STARFIRE_H
 #define	_STARFIRE_H
 
-#pragma ident	"@(#)starfire.h	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

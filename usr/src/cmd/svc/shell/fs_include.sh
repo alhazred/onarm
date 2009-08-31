@@ -27,7 +27,7 @@
 # All rights reserved.
 #
 #
-#ident	"@(#)fs_include.sh	1.10	08/03/04 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 vfstab=${vfstab:=/etc/vfstab}
 

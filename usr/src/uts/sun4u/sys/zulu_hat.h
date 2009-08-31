@@ -27,7 +27,7 @@
 #ifndef	__ZULU_HAT_INCL__
 #define	__ZULU_HAT_INCL__
 
-#pragma ident	"@(#)zulu_hat.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

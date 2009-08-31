@@ -27,7 +27,7 @@
 #ifndef _SYS_IB_MGT_IBMF_IBMF_IMPL_H
 #define	_SYS_IB_MGT_IBMF_IBMF_IMPL_H
 
-#pragma ident	"@(#)ibmf_impl.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the IBMF implementation dependent structures and defines.

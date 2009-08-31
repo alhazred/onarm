@@ -23,7 +23,7 @@
 # Copyright 2002 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.3	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/cmd-inet/usr.sadm/dhcpmgr/com/sun/dhcpmgr/data/Makefile
 #

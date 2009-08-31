@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)ypmatch.c	1.12	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is a user command which looks up the value of a key in a map

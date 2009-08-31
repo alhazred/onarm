@@ -29,7 +29,7 @@
 #ifndef	_SYS_FS_SUBR_H
 #define	_SYS_FS_SUBR_H
 
-#pragma ident	"@(#)fs_subr.h	1.37	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/cred.h>

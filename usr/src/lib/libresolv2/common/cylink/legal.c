@@ -44,7 +44,7 @@
  */
  
 
-#pragma ident	"@(#)legal.c	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Force inclusion of this... */
 #include "legal.h"

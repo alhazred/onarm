@@ -27,7 +27,7 @@
 #ifndef	_LIBSCF_IMPL_H
 #define	_LIBSCF_IMPL_H
 
-#pragma ident	"@(#)libscf_impl.h	1.10	08/01/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef NATIVE_BUILD
 #include "c_synonyms.h"

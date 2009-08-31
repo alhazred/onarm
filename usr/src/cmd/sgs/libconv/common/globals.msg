@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)globals.msg	1.6	06/06/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 @ MSG_GBL_FMT_DEC_32	"%ld"

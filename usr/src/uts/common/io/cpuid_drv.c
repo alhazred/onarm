@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)cpuid_drv.c	1.4	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/file.h>
@@ -221,7 +221,7 @@ static struct dev_ops cpuid_dv_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"cpuid driver v1.4",
+	"cpuid driver v%I%",
 	&cpuid_dv_ops
 };
 

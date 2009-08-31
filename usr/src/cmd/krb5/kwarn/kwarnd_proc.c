@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kwarnd_proc.c	1.8	07/05/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  RPC server procedures for the usermode daemon kwarnd.

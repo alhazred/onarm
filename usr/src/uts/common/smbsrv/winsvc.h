@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_WINSVC_H
 #define	_SMBSRV_WINSVC_H
 
-#pragma ident	"@(#)winsvc.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * NT Service Control interface definition for the Service Control

@@ -27,7 +27,7 @@
  *	autod_readdir.c
  */
 
-#pragma ident	"@(#)autod_readdir.c	1.25	07/01/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

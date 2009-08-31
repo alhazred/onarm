@@ -27,7 +27,7 @@
 #ifndef _SA_MD5_H
 #define	_SA_MD5_H
 
-#pragma ident	"@(#)md5.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Exported interfaces for standalone's subset of libmd5's <md5.h>.

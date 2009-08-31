@@ -35,7 +35,7 @@
  *   gethostbyname_r.c and netdir_inet.c).
  */
 
-#pragma ident	"@(#)gethostent_r.c	1.11	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <sys/socket.h>

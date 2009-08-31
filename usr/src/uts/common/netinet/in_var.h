@@ -19,7 +19,7 @@
 #ifndef	_NETINET_IN_VAR_H
 #define	_NETINET_IN_VAR_H
 
-#pragma ident	"@(#)in_var.h	1.3	98/01/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* in_var.h 1.3 88/08/19 SMI; from UCB 7.1 6/5/86	*/
 
 #ifdef	__cplusplus

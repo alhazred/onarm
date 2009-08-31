@@ -26,7 +26,7 @@
 #ifndef	_BART_H
 #define	_BART_H
 
-#pragma ident	"@(#)bart.h	1.5	06/09/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

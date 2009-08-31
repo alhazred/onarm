@@ -27,7 +27,7 @@
 #ifndef	_SGS_GPROF_H
 #define	_SGS_GPROF_H
 
-#pragma ident	"@(#)gprof.h	1.22	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)infotocap.c	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
     Routines to convert terminfo string parameters to termcap form.

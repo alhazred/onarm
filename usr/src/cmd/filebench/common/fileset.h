@@ -26,7 +26,7 @@
 #ifndef _FB_FILESET_H
 #define	_FB_FILESET_H
 
-#pragma ident	"@(#)fileset.h	1.2	07/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "config.h"
 

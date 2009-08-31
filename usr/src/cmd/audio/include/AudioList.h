@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIOLIST_H
 #define	_MULTIMEDIA_AUDIOLIST_H
 
-#pragma ident	"@(#)AudioList.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <Audio.h>
 

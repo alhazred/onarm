@@ -27,7 +27,7 @@
 #ifndef	_SYS_MUXCONFIG_H
 #define	_SYS_MUXCONFIG_H
 
-#pragma ident	"@(#)ttymux_dacf.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ttymux.h>
 

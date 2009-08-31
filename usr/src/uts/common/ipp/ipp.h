@@ -27,7 +27,7 @@
 #ifndef	_IPP_IPP_H
 #define	_IPP_IPP_H
 
-#pragma ident	"@(#)ipp.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * IP Policy Framework (IPPF)

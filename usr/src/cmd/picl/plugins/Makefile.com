@@ -22,7 +22,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.com	1.8	08/01/31 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # There should be a mapfile here

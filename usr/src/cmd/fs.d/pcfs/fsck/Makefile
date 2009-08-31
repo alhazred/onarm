@@ -19,7 +19,7 @@
 # CDDL HEADER END
 #
 #
-#ident	"@(#)Makefile	1.8	06/08/16 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.

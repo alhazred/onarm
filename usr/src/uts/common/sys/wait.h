@@ -31,7 +31,7 @@
 #ifndef _SYS_WAIT_H
 #define	_SYS_WAIT_H
 
-#pragma ident	"@(#)wait.h	1.25	05/06/08 SMI"	/* SVr4.0 1.10 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.10 */
 
 #include <sys/feature_tests.h>
 

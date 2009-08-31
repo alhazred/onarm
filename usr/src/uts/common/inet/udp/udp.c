@@ -28,9 +28,9 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)udp.c	1.200	08/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-const char udp_version[] = "@(#)udp.c	1.200	08/03/02 SMI";
+const char udp_version[] = "%Z%%M%	%I%	%E% SMI";
 
 #include <sys/types.h>
 #include <sys/stream.h>

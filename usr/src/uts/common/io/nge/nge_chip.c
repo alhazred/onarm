@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nge_chip.c	1.25	08/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "nge.h"
 static uint32_t	nge_watchdog_count	= 1 << 29;

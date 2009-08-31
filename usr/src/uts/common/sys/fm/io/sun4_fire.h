@@ -26,7 +26,7 @@
 #ifndef _SYS_FM_IO_SUN4_FIRE_H
 #define	_SYS_FM_IO_SUN4_FIRE_H
 
-#pragma ident	"@(#)sun4_fire.h	1.3	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

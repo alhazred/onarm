@@ -45,7 +45,7 @@
  *	@(#)linkaddr.c	8.1 (Berkeley) 6/4/93
  */
 
-#pragma ident	"@(#)route.c	1.66	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/file.h>

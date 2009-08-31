@@ -36,7 +36,7 @@
 #ifndef _NSS_NETDIR_H
 #define	_NSS_NETDIR_H
 
-#pragma ident	"@(#)nss_netdir.h	1.12	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

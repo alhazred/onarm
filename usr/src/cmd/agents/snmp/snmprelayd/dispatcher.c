@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dispatcher.c	1.32	06/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 

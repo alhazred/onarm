@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ac.c	1.42	06/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -163,7 +163,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"AC Leaf v1.42",		/* name of module */
+	"AC Leaf v%I%",		/* name of module */
 	&ac_ops,		/* driver ops */
 };
 

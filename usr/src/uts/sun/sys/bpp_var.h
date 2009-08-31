@@ -26,7 +26,7 @@
 #ifndef	_SYS_BPP_VAR_H
 #define	_SYS_BPP_VAR_H
 
-#pragma ident	"@(#)bpp_var.h	1.18	05/12/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Local variables header file for the bidirectional parallel port

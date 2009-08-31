@@ -27,7 +27,7 @@
 #ifndef _HOTPLUG_MGR_H
 #define	_HOTPLUG_MGR_H
 
-#pragma ident	"@(#)hotplug_mgr.h	1.2	07/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Hotplug Manager declarations

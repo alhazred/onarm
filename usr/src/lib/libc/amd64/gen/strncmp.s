@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)strncmp.s	1.2	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"strncmp.s"
+	.file	"%M%"
 
 #define	USE_AS_STRNCMP
 #include "strcmp.s"

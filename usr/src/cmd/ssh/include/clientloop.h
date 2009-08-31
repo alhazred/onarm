@@ -3,7 +3,7 @@
 #ifndef	_CLIENTLOOP_H
 #define	_CLIENTLOOP_H
 
-#pragma ident	"@(#)clientloop.h	1.6	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

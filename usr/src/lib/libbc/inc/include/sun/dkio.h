@@ -27,7 +27,7 @@
 #ifndef _sun_dkio_h
 #define	_sun_dkio_h
 
-#pragma ident	"@(#)dkio.h	1.4	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* #include <sys/ioctl.h> not needed? */
 #include <sun/dklabel.h>

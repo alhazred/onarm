@@ -3,7 +3,7 @@
 #ifndef	_AUTHFILE_H
 #define	_AUTHFILE_H
 
-#pragma ident	"@(#)authfile.h	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

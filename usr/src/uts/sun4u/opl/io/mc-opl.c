@@ -26,7 +26,7 @@
  * All Rights Reserved, Copyright (c) FUJITSU LIMITED 2007
  */
 
-#pragma ident	"@(#)mc-opl.c	1.16	08/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sysmacros.h>
@@ -308,7 +308,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* module type, this one is a driver */
-	"OPL Memory-controller 1.16",	/* module name */
+	"OPL Memory-controller %I%",	/* module name */
 	&mc_ops,			/* driver ops */
 };
 

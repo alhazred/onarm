@@ -27,7 +27,7 @@
 #ifndef _SYS_FORK_H
 #define	_SYS_FORK_H
 
-#pragma ident	"@(#)fork.h	1.1	06/11/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

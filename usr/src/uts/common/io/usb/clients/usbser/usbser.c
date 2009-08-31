@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)usbser.c	1.21	07/11/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *
@@ -216,7 +216,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,	/* Type of module */
-	"USB generic serial module 1.21"
+	"USB generic serial module %I%"
 };
 
 static struct modlinkage modlinkage = {

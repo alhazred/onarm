@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SLPHeaderV2.java	1.5	07/01/29 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:       @(#)SLPHeaderV2.java	1.5	01/29/07
+//  SCCS Status:       %W%	%G%
 //  SLPHeaderV2.java:   Base class for Service Location Messages
 //  Author:           James Kempf
 //  Created On:       Thu Oct  9 08:50:31 1997
@@ -48,7 +48,7 @@ import java.io.*;
  * It contains instance variables for SLP message header contents,
  * and implements the SLPHeaderV2 interface.
  *
- * @version 1.5 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

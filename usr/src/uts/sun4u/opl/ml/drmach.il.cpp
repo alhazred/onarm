@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)drmach.il.cpp	1.3	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

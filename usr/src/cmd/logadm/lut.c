@@ -38,7 +38,7 @@
  * was needed by logadm for options processing.
  */
 
-#pragma ident	"@(#)lut.c	1.3	06/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <strings.h>

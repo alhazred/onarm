@@ -27,7 +27,7 @@
 #ifndef	_LIBBRAND_H
 #define	_LIBBRAND_H
 
-#pragma ident	"@(#)libbrand.h	1.7	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

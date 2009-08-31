@@ -26,7 +26,7 @@
 #ifndef	_SYS_PSM_COMMON_H
 #define	_SYS_PSM_COMMON_H
 
-#pragma ident	"@(#)psm_common.h	1.9	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

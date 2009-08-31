@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)_rtboot.s	1.12	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_rtboot.s"
+	.file	"%M%"
 
 / bootstrap routine for run-time linker
 / we get control from exec which has loaded our text and

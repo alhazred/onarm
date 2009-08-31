@@ -23,7 +23,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
- * ident	"@(#)TestDrop.java	1.1	07/02/13 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  */
 import java.util.*;
 import java.util.concurrent.atomic.*;

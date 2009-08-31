@@ -40,7 +40,7 @@
 
 
 
-#pragma ident	"@(#)arp.c	1.20	06/08/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * arp - display, set, and delete arp table entries

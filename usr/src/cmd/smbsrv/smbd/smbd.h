@@ -27,7 +27,7 @@
 #ifndef _SMBD_H
 #define	_SMBD_H
 
-#pragma ident	"@(#)smbd.h	1.4	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

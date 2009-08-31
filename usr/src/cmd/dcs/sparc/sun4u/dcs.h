@@ -26,7 +26,7 @@
 #ifndef	_DCS_H
 #define	_DCS_H
 
-#pragma ident	"@(#)dcs.h	1.5	06/04/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

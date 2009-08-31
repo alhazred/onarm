@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cvc.c	1.40	05/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * MT STREAMS Virtual Console Device Driver
@@ -193,7 +193,7 @@ DDI_DEFINE_STREAM_OPS(cvcops, nulldev, nulldev, cvc_attach, cvc_detach,
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"CVC driver 'cvc' v1.40",
+	"CVC driver 'cvc' v%I%",
 	&cvcops,	/* driver ops */
 };
 

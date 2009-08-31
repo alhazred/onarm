@@ -26,7 +26,7 @@
 #ifndef _SYS_PTEM_H
 #define	_SYS_PTEM_H
 
-#pragma ident	"@(#)ptem.h	1.17	05/06/08 SMI"	/* SVr4.0 11.7	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.7	*/
 
 #include <sys/termios.h>
 

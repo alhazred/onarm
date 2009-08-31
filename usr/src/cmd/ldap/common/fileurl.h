@@ -1,4 +1,4 @@
-#pragma ident	"@(#)fileurl.h	1.1	03/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The contents of this file are subject to the Netscape Public

@@ -27,7 +27,7 @@
 #ifndef _SYS_POLICY_H
 #define	_SYS_POLICY_H
 
-#pragma ident	"@(#)boot_policy.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

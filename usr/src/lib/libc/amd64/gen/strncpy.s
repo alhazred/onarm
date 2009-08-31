@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)strncpy.s	1.2	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"strncpy.s"
+	.file	"%M%"
 
 #define	USE_AS_STRNCPY
 #include "strcpy.s"

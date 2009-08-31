@@ -4,7 +4,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)mkstemp.c	1.3	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/file.h>
 

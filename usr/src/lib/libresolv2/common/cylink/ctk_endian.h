@@ -60,7 +60,7 @@
 #ifndef CTK_ENDIAN_H  /* Prevent multiple inclusions of same header file */
 #define CTK_ENDIAN_H
 
-#pragma ident	"@(#)ctk_endian.h	1.2	01/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <ctype.h>

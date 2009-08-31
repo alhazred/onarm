@@ -27,7 +27,7 @@
 #ifndef _NFS4_IDMAP_IMPL_H
 #define	_NFS4_IDMAP_IMPL_H
 
-#pragma ident	"@(#)nfs4_idmap_impl.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/list.h>
 #include <sys/door.h>

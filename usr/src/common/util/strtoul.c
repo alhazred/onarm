@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)strtoul.c	1.16	05/06/08 SMI"	/* SVr4.0 1.8	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8	*/
 
 #if !defined(_BOOT) && !defined(_KMDB)
 #include "synonyms.h"

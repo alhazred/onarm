@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)stat.s	1.12	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"stat.s"
+	.file	"%M%"
 
 /* C library -- stat						*/
 /* int stat (const char *path, struct stat *buf);		*/

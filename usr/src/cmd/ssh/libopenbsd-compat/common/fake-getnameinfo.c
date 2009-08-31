@@ -14,7 +14,7 @@
 
 RCSID("$Id: fake-getnameinfo.c,v 1.2 2001/02/09 01:55:36 djm Exp $");
 
-#pragma ident	"@(#)fake-getnameinfo.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef HAVE_GETNAMEINFO
 int getnameinfo(const struct sockaddr *sa, size_t salen, char *host, 

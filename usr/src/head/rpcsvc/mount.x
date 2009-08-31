@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-/* ident	"@(#)mount.x	1.10	05/06/08 SMI" */
+/* ident	"%Z%%M%	%I%	%E% SMI" */
 
 /*
  * Copyright (c) 1988,1990-1992,1998 by Sun Microsystems, Inc.

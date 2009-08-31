@@ -24,9 +24,9 @@
  * All rights reserved.
  */
 
-.ident	"@(#)memcmp.s	1.15	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"memcmp.s"
+	.file	"%M%"
 
 /*
  * memcmp(s1, s2, len)

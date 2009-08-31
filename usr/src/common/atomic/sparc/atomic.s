@@ -23,9 +23,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)atomic.s	1.6	07/05/21 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"atomic.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

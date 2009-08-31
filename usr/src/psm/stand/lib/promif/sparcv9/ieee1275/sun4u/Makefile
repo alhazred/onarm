@@ -25,7 +25,7 @@
 # psm/stand/boot/sparcv9/ieee1275/sun4u/Makefile
 #
 #
-#ident	"@(#)Makefile	1.12	07/11/30 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 TOPDIR =	../../../../../../..
 

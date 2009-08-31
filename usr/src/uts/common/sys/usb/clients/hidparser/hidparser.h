@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_HIDPARSER_H
 #define	_SYS_USB_HIDPARSER_H
 
-#pragma ident	"@(#)hidparser.h	1.8	06/08/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _NFS_LM_H
 #define	_NFS_LM_H
 
-#pragma ident	"@(#)lm.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Interface definitions for the NFSv2/v3 lock manager.

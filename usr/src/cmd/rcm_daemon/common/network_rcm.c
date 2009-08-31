@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)network_rcm.c	1.12	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This RCM module adds support to the RCM framework for an abstract
@@ -175,7 +175,7 @@ rcm_mod_init(void)
 const char *
 rcm_mod_info(void)
 {
-	return ("Network namespace module 1.12");
+	return ("Network namespace module %I%");
 }
 
 /*

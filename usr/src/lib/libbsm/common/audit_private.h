@@ -35,7 +35,7 @@
 #ifndef _AUDIT_PRIVATE_H
 #define	_AUDIT_PRIVATE_H
 
-#pragma ident	"@(#)audit_private.h	1.7	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

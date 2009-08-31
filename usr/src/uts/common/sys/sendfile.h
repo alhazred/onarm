@@ -27,7 +27,7 @@
 #ifndef	_SYS_SENDFILE_H
 #define	_SYS_SENDFILE_H
 
-#pragma ident	"@(#)sendfile.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

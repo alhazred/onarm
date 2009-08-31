@@ -26,7 +26,7 @@
 #ifndef _SYS_APIC_CTLR_H
 #define	_SYS_APIC_CTLR_H
 
-#pragma ident	"@(#)apic_ctlr.h	1.1	07/05/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

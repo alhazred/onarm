@@ -34,7 +34,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rwall_subr.c	1.11	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rwall_subr.c

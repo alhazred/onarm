@@ -23,7 +23,7 @@
 # Copyright (c) 2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-# ident	"@(#)Makefile.com	1.2	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/libadt_jni/com/sun/Makefile.com
 

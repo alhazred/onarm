@@ -27,7 +27,7 @@
 #ifndef	_SYS_ECPPIO_H
 #define	_SYS_ECPPIO_H
 
-#pragma ident	"@(#)ecppio.h	2.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

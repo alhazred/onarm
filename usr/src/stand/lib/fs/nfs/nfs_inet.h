@@ -29,7 +29,7 @@
 #ifndef _NFS_INET_H
 #define	_NFS_INET_H
 
-#pragma ident	"@(#)nfs_inet.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

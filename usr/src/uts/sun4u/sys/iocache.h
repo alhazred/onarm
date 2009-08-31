@@ -27,7 +27,7 @@
 #ifndef _SYS_IOCACHE_H
 #define	_SYS_IOCACHE_H
 
-#pragma ident	"@(#)iocache.h	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM
 #include <sys/sysiosbus.h>

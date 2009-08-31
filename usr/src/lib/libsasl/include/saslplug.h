@@ -8,7 +8,7 @@
 #ifndef	_SASL_SASLPLUG_H
 #define	_SASL_SASLPLUG_H
 
-#pragma ident	"@(#)saslplug.h	1.2	05/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_SASL_SASL_H
 #include <sasl/sasl.h>

@@ -27,7 +27,7 @@
 #ifndef _SYS_MNTFS_MNTDATA_H
 #define	_SYS_MNTFS_MNTDATA_H
 
-#pragma ident	"@(#)mntdata.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/vnode.h>
 #include <sys/poll.h>

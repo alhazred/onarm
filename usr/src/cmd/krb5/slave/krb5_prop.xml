@@ -4,7 +4,7 @@
 	Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 	Use is subject to license terms.
 
-	pragma ident	"@(#)krb5_prop.xml	1.7	05/03/22 SMI"
+	pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 	NOTE:  This service manifest is not editable; its contents will
 	be overwritten by package or patch operations, including

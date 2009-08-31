@@ -22,7 +22,7 @@ version 1.0
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)master	1.265	07/08/28 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Device tree database
 #      - Records in this file can be in an arbitrary order.

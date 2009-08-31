@@ -2,7 +2,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.8	06/01/12 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #  Copyright (c) 1988, 1989, 1990, 1991, 1992, 1995, 1996, 1997

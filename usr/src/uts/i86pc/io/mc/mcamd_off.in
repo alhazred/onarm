@@ -19,7 +19,7 @@
 \ CDDL HEADER END
 \
 
-#pragma ident	"@(#)mcamd_off.in	1.2	06/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 \
 \ Copyright 2006 Sun Microsystems, Inc.  All rights reserved.

@@ -27,7 +27,7 @@
 #ifndef	CLASS_ID_H
 #define	CLASS_ID_H
 
-#pragma ident	"@(#)class_id.h	1.2	05/06/08 SMI"
+#pragma ident	"%W%	%E% SMI"
 
 /*
  * class_id.[ch] provides an interface for retrieving the class id

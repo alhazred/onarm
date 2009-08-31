@@ -25,7 +25,7 @@
 #	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T
 #	  All rights reserved.
 #
-# ident	"@(#)mk.rcS.d.sh	1.54	06/06/02 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 COMMON_STOPLST="\
 27boot.server"

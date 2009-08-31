@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)scsa2usb.wlcmd	1.13	06/11/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 one scsa2usb_state
 

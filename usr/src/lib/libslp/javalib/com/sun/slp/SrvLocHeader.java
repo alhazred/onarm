@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SrvLocHeader.java	1.5	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2001-2002 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
  */
 
-//  SCCS Status:      @(#)SrvLocHeader.java	1.5	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SrvLocHeader.java: Abstract superclass for SLP Headers
 //  Author:           James Kempf
 //  Created On:       Mon Sep 14 12:47:20 1998
@@ -51,7 +51,7 @@ import java.io.*;
  * subclasses. We also let the SrvLocHeader serve as a SrvLocMsg object
  * to handle the SrvAck, which only has an error code.
  *
- * @version 1.5 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

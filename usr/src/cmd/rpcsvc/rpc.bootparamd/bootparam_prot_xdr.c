@@ -28,7 +28,7 @@
  * It was generated using rpcgen.
  */
 
-#pragma ident	"@(#)bootparam_prot_xdr.c	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <rpc/rpc.h>

@@ -32,7 +32,7 @@
 #ifndef _SUBTREE_H_
 #define _SUBTREE_H_
 
-#pragma ident	"@(#)subtree.h	1.8	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SH_TABLE_H_
 #include "sh_table.h"

@@ -21,7 +21,7 @@
 # Copyright 1999 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)datemsk.template	1.4	05/06/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 %m/%d/%y %I:%M:%S %p
 %m/%d/%Y %I:%M:%S %p
 %m/%d/%y %H:%M:%S

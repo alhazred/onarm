@@ -44,7 +44,7 @@
  * device tree nodes.
  */
 
-#pragma ident	"@(#)ibnex.c	1.30	07/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/conf.h>
@@ -310,7 +310,7 @@ static struct dev_ops ibnex_ops = {
 /* Module linkage information for the kernel.  */
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Driver module */
-	"IB nexus 1.30",		/* Driver name and version */
+	"IB nexus %I%",		/* Driver name and version */
 	&ibnex_ops,		/* driver ops */
 };
 

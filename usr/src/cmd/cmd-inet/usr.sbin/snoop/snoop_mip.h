@@ -31,7 +31,7 @@
 #ifndef	_SNOOP_MIP_H
 #define	_SNOOP_MIP_H
 
-#pragma ident	"@(#)snoop_mip.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

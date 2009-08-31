@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)bge_main2.c	1.63	08/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "bge_impl.h"
 #include <sys/sdt.h>

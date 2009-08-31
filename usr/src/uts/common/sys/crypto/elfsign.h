@@ -26,7 +26,7 @@
 #ifndef _SYS_CRYPTO_ELFSIGN_H
 #define	_SYS_CRYPTO_ELFSIGN_H
 
-#pragma ident	"@(#)elfsign.h	1.15	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

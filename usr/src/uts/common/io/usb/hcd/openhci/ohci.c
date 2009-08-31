@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ohci.c	1.77	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Open Host Controller Driver (OHCI)
@@ -567,7 +567,7 @@ static struct dev_ops ohci_ops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops, 	/* Type of module. This one is a driver */
-	"USB OpenHCI Driver 1.77", /* Name of the module. */
+	"USB OpenHCI Driver %I%", /* Name of the module. */
 	&ohci_ops,		/* Driver ops */
 };
 

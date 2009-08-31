@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)add_recip.c	1.8	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
     NAME
 	add_recip, madd_recip - add recipients to recipient list

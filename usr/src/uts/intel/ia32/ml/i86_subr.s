@@ -30,7 +30,7 @@
  *    All Rights Reserved
  */
 
-#pragma ident	"@(#)i86_subr.s	1.171	07/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * General assembly language routines.

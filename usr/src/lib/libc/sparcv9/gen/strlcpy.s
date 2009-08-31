@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)strlcpy.s	1.2	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"strlcpy.s"
+	.file	"%M%"
 
 /*
  * The strlcpy() function copies at most dstsize-1 characters

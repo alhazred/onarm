@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dial.c	1.5	07/05/14 SMI"	/* from SVR4 bnu:dial.c 1.3 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:dial.c 1.3 */
 
 /*LINTLIBRARY*/
 /***************************************************************

@@ -30,7 +30,7 @@
 #ifndef	_ZFS_CTLDIR_H
 #define	_ZFS_CTLDIR_H
 
-#pragma ident	"@(#)zfs_ctldir.h	1.4	08/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/pathname.h>
 #include <sys/vnode.h>

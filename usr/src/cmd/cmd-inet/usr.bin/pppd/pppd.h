@@ -33,7 +33,7 @@
  * $Id: pppd.h,v 1.54 2000/04/15 10:10:25 paulus Exp $
  */
 
-#pragma ident	"@(#)pppd.h	1.7	04/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __PPPD_H__
 #define __PPPD_H__

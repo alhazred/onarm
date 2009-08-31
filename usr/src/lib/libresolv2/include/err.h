@@ -38,7 +38,7 @@
  *	@(#)err.h	8.1 (Berkeley) 6/2/93
  */
 
-#pragma ident	"@(#)err.h	1.1	01/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ERR_H_
 #define	_ERR_H_

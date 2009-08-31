@@ -25,7 +25,7 @@
 # Copyright (c) 1998-2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)postinstall	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 grep -w "bofi" ${BASEDIR}/etc/name_to_major > /dev/null 2>&1

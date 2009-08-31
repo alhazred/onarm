@@ -26,7 +26,7 @@
 #ifndef	_IPSEC_UTIL_H
 #define	_IPSEC_UTIL_H
 
-#pragma ident	"@(#)ipsec_util.h	1.17	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Headers and definitions for support functions that are shared by

@@ -22,7 +22,7 @@
 #	Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 #	Use is subject to license terms.
 
-#ident	"@(#)unshareall.sh	1.6	06/10/27 SMI"	/* SVr4.0 1.3	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 # unshareall  -- unshare resources
 
 USAGE="unshareall [-F fsys[,fsys...]]"

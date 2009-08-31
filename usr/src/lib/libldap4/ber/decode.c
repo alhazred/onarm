@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)decode.c	1.6	04/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* decode.c - ber input decoding routines */
 /*

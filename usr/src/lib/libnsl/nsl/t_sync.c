@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)t_sync.c	1.29	05/06/29 SMI"	/* SVr4.0 1.4.4.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4.4.1 */
 
 #include "mt.h"
 #include <errno.h>

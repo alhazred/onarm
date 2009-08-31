@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_so_getpeername.s	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_so_getpeername.s"
+	.file	"%M%"
 
 /* C library -- _so_getpeername					*/
 /* int _so_getpeername (int fildes, struct sockaddr *name,	*/

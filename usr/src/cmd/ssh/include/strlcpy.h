@@ -3,7 +3,7 @@
 #ifndef	_STRLCPY_H
 #define	_STRLCPY_H
 
-#pragma ident	"@(#)strlcpy.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

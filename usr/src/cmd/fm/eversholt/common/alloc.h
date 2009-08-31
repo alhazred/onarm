@@ -29,7 +29,7 @@
 #ifndef	_ESC_COMMON_ALLOC_H
 #define	_ESC_COMMON_ALLOC_H
 
-#pragma ident	"@(#)alloc.h	1.5	07/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-/* ident	"@(#)SysloglikeFormatter.java	1.4	06/09/21 SMI" */
+/* ident	"%Z%%M%	%I%	%E% SMI" */
 
 package com.sun.solaris.service.logging;
 

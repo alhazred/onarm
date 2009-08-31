@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)strategy.c	1.32	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Device Strategy
@@ -50,7 +50,7 @@ static struct buf *qmerge_nextbp(struct que_data *qfp, struct buf *bp_merge,
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,	/* Type of module */
-	"Device Strategy Objects 1.32"
+	"Device Strategy Objects %I%"
 };
 
 static struct modlinkage modlinkage = {

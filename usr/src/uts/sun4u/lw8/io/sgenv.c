@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sgenv.c	1.17	06/05/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Serengeti Environmental Information driver (sgenv)
@@ -178,7 +178,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* Type of module. This is a driver */
-	"Environmental Driver v1.17",	/* Name of the module */
+	"Environmental Driver v%I%",	/* Name of the module */
 	&sgenv_ops			/* pointer to the dev_ops structure */
 };
 

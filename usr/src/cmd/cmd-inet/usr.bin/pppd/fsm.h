@@ -33,7 +33,7 @@
  * $Id: fsm.h,v 1.8 1999/11/15 01:51:50 paulus Exp $
  */
 
-#pragma ident	"@(#)fsm.h	1.1	00/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __FSM_H__
 #define __FSM_H__

@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)frexp.c	1.3	05/06/08 SMI"  /* from UCB 5.2 3/9/86 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"  /* from UCB 5.2 3/9/86 */
 
 /*
  * the call

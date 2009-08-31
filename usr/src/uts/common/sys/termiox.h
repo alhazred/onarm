@@ -26,7 +26,7 @@
 #ifndef	_SYS_TERMIOX_H
 #define	_SYS_TERMIOX_H
 
-#pragma ident	"@(#)termiox.h	1.11	05/06/08 SMI"	/* SVr4.0 1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4 */
 
 #ifdef	__cplusplus
 extern "C" {

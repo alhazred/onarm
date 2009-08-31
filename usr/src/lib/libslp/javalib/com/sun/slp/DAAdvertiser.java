@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)DAAdvertiser.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)DAAdvertiser.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  DAAdvertiser.java: Advertise a DA, also handle incoming DAAdverts.
 //  Author:           James Kempf
 //  Created On:       Tue May 19 15:22:04 1998
@@ -49,7 +49,7 @@ import java.io.*;
  * implementation specific subclasses depend on how the server is
  * representing DA information internally.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf, Erik Guttman
  */
 

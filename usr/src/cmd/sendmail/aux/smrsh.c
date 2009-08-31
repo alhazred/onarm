@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)smrsh.c	1.11	04/12/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sm/gen.h>
 

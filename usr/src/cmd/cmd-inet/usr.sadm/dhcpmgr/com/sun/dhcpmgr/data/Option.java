@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)Option.java	1.12	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 1998-2003 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.

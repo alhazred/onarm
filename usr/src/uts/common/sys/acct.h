@@ -31,7 +31,7 @@
 #ifndef _SYS_ACCT_H
 #define	_SYS_ACCT_H
 
-#pragma ident	"@(#)acct.h	1.20	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/types32.h>

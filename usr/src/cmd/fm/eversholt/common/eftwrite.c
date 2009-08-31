@@ -29,7 +29,7 @@
  * was given on the command line.
  */
 
-#pragma ident	"@(#)eftwrite.c	1.5	07/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

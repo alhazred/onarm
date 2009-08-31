@@ -31,7 +31,7 @@
 #ifndef _LDAP_HANDLE_H_
 #define _LDAP_HANDLE_H_
 
-#pragma ident	"@(#)ldap_handle.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 krb5_error_code 
 krb5_update_ldap_handle(krb5_ldap_server_handle *, krb5_ldap_server_info *);

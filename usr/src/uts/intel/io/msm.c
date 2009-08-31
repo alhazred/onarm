@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)msm.c	1.27	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Microsoft Bus Mouse Module - Streams
@@ -160,7 +160,7 @@ struct dev_ops	msm_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a driver */
-	"Microsoft Mouse driver 1.27",
+	"Microsoft Mouse driver %I%",
 	&msm_ops,	/* driver ops */
 };
 

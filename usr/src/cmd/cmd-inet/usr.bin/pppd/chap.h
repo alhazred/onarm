@@ -36,7 +36,7 @@
  * $Id: chap.h,v 1.8 1999/11/15 01:44:41 paulus Exp $
  */
 
-#pragma ident	"@(#)chap.h	1.1	00/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __CHAP_INCLUDE__
 #define __CHAP_INCLUDE__

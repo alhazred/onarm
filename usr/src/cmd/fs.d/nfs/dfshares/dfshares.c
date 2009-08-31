@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)dfshares.c	1.12	05/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * nfs dfshares

@@ -27,7 +27,7 @@
 #ifndef _ADDR_MATCH_H
 #define	_ADDR_MATCH_H
 
-#pragma ident	"@(#)addr_match.h	1.1	06/10/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Prototypes for functions in addr_match.c

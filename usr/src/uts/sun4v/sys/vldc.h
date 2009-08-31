@@ -27,7 +27,7 @@
 #ifndef _VLDC_H
 #define	_VLDC_H
 
-#pragma ident	"@(#)vldc.h	1.2	06/09/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

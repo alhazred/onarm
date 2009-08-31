@@ -30,7 +30,7 @@
 #ifndef _SYS_VDEV_IMPL_H
 #define	_SYS_VDEV_IMPL_H
 
-#pragma ident	"@(#)vdev_impl.h	1.19	07/11/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/avl.h>
 #include <sys/dmu.h>

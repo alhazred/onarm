@@ -27,7 +27,7 @@
 #ifndef _SMBSRV_NTERROR_H
 #define	_SMBSRV_NTERROR_H
 
-#pragma ident	"@(#)nterror.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines the list of Win32 error codes. If you need an

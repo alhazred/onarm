@@ -40,7 +40,7 @@
 #ifndef _SMB_CONN_H
 #define	_SMB_CONN_H
 
-#pragma ident	"@(#)smb_conn.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/t_lock.h>
 #include <sys/queue.h> /* for SLIST below */

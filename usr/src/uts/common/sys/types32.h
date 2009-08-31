@@ -26,7 +26,7 @@
 #ifndef _SYS_TYPES32_H
 #define	_SYS_TYPES32_H
 
-#pragma ident	"@(#)types32.h	1.6	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/int_types.h>
 

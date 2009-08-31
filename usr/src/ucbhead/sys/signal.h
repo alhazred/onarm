@@ -40,7 +40,7 @@
 #ifndef _UCB_SYS_SIGNAL_H
 #define	_UCB_SYS_SIGNAL_H
 
-#pragma ident	"@(#)signal.h	1.22	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * 4.3BSD signal compatibility header

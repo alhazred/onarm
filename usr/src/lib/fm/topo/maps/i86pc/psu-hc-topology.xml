@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-    ident	"@(#)psu-hc-topology.xml	1.1	08/02/22 SMI"
+    ident	"%Z%%M%	%I%	%E% SMI"
 -->
 
 <topology name='psu' scheme='hc'>

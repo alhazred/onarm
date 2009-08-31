@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)keyspan_pipe.c	1.4	06/08/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

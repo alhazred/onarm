@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)vcc.c	1.5	06/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/file.h>
@@ -135,7 +135,7 @@ extern struct mod_ops mod_driverops;
 /*
  * This is the string displayed by modinfo(1m).
  */
-static char vcc_ident[] = "sun4v Virtual Console Concentrator Driver v1.5";
+static char vcc_ident[] = "sun4v Virtual Console Concentrator Driver v%I%";
 
 static struct modldrv md = {
 	&mod_driverops, 	/* Type - it is a driver */

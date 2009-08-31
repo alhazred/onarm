@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)next.c	1.5	05/06/08 SMI"	/* SVr4.0 1.10	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.10	*/
 /* LINTLIBRARY */
 
 #include "string.h"

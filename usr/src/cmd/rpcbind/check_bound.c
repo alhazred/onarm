@@ -35,7 +35,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)check_bound.c	1.23	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * check_bound.c

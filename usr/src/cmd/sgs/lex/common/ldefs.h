@@ -29,7 +29,7 @@
 #ifndef	_LDEFS_H
 #define	_LDEFS_H
 
-#pragma ident	"@(#)ldefs.h	6.17	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

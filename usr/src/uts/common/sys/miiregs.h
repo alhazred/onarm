@@ -30,7 +30,7 @@
 #ifndef _MIIREGS_H
 #define	_MIIREGS_H
 
-#pragma ident	"@(#)miiregs.h	1.7	07/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

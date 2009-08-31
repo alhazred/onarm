@@ -29,7 +29,7 @@
  */
 
 
-#pragma ident	"@(#)ndxscn.c	1.9	05/06/08 SMI" 	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.2	*/
 
 #pragma weak	elf_ndxscn = _elf_ndxscn
 

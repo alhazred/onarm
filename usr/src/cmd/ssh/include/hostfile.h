@@ -15,7 +15,7 @@
 
 /*	$OpenBSD: hostfile.h,v 1.12 2002/09/08 20:24:08 markus Exp $	*/
 
-#pragma ident	"@(#)hostfile.h	1.5	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

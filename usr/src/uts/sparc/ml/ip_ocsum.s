@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#ident	"@(#)ip_ocsum.s	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 

@@ -26,7 +26,7 @@
 #ifndef	_LIBSMBRDR_H
 #define	_LIBSMBRDR_H
 
-#pragma ident	"@(#)libsmbrdr.h	1.3	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <smbsrv/libsmb.h>
 

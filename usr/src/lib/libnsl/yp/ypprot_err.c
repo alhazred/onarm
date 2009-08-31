@@ -34,7 +34,7 @@
  * California.
  */
 
-#pragma ident	"@(#)ypprot_err.c	1.10	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <rpc/rpc.h>

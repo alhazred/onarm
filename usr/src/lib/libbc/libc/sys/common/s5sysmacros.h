@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)s5sysmacros.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define L_BITSMAJOR     14      /* # of SVR4 major device bits */
 #define L_BITSMINOR     18      /* # of SVR4 minor device bits */

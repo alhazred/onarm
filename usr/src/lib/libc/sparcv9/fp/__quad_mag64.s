@@ -23,7 +23,7 @@
 ! CDDL HEADER END
 !
 
-.ident	"@(#)__quad_mag64.s	1.2	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
 ! /*
 !  * This file contains __quad_mag_add and __quad_mag_sub, the core

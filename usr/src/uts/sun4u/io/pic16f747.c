@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pic16f747.c	1.7	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Driver to map the PIC for the chicago platform.
@@ -123,7 +123,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"pic_client driver (v.1.7) ",
+	"pic_client driver (v.%I%) ",
 	&pic_dev_ops
 };
 

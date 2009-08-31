@@ -27,7 +27,7 @@
 #ifndef	_SYS_SIMULATE_H
 #define	_SYS_SIMULATE_H
 
-#pragma ident	"@(#)simulate.h	1.17	05/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dca_dsa.c	1.2	06/11/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Deimos - cryptographic acceleration based upon Broadcom 582x.

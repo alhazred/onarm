@@ -25,7 +25,7 @@
 #ifndef	_BSD_MISC_H
 #define	_BSD_MISC_H
 
-#pragma ident	"@(#)bsd-misc.h	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
 #ifndef	_NET_PFKEYV2_H
 #define	_NET_PFKEYV2_H
 
-#pragma ident	"@(#)pfkeyv2.h	1.9	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Definitions and structures for PF_KEY version 2.  See RFC 2367 for

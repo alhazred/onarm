@@ -31,7 +31,7 @@
  */
 
 
-#pragma ident	"@(#)tmexpress.c	1.25	06/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<stdio.h>
 #include	<stdlib.h>

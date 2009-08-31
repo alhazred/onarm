@@ -26,7 +26,7 @@
 #ifndef _SYS_CPUDRV_PLAT_H
 #define	_SYS_CPUDRV_PLAT_H
 
-#pragma ident	"@(#)cpudrv_plat.h	1.1	07/07/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cpupm.h>
 #include <sys/cpu_acpi.h>

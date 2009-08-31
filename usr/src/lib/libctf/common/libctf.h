@@ -40,7 +40,7 @@
 #ifndef	_LIBCTF_H
 #define	_LIBCTF_H
 
-#pragma ident	"@(#)libctf.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ctf_api.h>
 

@@ -27,7 +27,7 @@
 #	This makefile drives the production of the audio support (audiosup)
 #	module.
 #
-#ident	"@(#)Makefile	1.14	07/07/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	Path to the base of the uts directory tree (usually /usr/src/uts).

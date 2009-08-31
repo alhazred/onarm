@@ -22,7 +22,7 @@
 # Copyright (c) 1995-1998 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-# ident	"@(#)mkterm.awk	1.9	05/06/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # mkterm.awk
 #
@@ -45,7 +45,7 @@ print
 print "#ifndef	_TERM_H"
 print "#define	_TERM_H"
 print
-print "#pragma ident	\"@(#)term.h	1.9	05/06/10 SMI\""
+print "#pragma ident	\"@(#)term.h	%I%	%E% SMI\""
 print
 print "/*"
 print " * term.h"

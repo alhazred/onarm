@@ -25,9 +25,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)abs.s	1.6	06/01/02 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"abs.s"
+	.file	"%M%"
 
 /	/* Assembler program to implement the following C program */
 /	int

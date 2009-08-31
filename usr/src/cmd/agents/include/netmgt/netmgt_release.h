@@ -26,7 +26,7 @@
 
 #if !defined(lint) && !defined(NOID)
 #ifdef SVR4
-#pragma ident	"@(#)netmgt_release.h	2.43	05/06/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #endif
 #endif
 

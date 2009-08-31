@@ -27,7 +27,7 @@
 #ifndef	_LIBC_I386_INC_SYS_H
 #define	_LIBC_I386_INC_SYS_H
 
-#pragma ident	"@(#)SYS.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines common code sequences for system calls.

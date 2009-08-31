@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)readcf.c	1.80	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 #include <sm/sendmail.h>

@@ -24,7 +24,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile	1.12	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the pci_pci driver kernel module.
 #

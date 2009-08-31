@@ -33,7 +33,7 @@
 #ifndef	_RES_H
 #define	_RES_H
 
-#pragma ident	"@(#)res.h	1.12	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	cfs_fsck_res_h
 #define	cfs_fsck_res_h

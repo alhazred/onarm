@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pci.c	1.77	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Host to PCI local bus driver
@@ -163,7 +163,7 @@ static int pci_initchild(dev_info_t *child);
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module */
-	"host to PCI nexus driver 1.77",
+	"host to PCI nexus driver %I%",
 	&pci_ops,	/* driver ops */
 };
 

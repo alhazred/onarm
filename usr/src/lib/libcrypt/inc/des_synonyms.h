@@ -31,7 +31,7 @@
 #ifndef	_DES_SYNONYMS_H
 #define	_DES_SYNONYMS_H
 
-#pragma ident	"@(#)des_synonyms.h	1.11	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "c_synonyms.h"
 

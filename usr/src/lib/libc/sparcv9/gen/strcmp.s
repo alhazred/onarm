@@ -25,9 +25,9 @@
  */
 
 
-.ident	"@(#)strcmp.s	1.12	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"strcmp.s"
+	.file	"%M%"
 
 /* strcmp(s1, s2)
  *

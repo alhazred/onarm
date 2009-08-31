@@ -27,7 +27,7 @@
 #ifndef	_SYS_SHA2_CONSTS_H
 #define	_SYS_SHA2_CONSTS_H
 
-#pragma ident	"@(#)sha2_consts.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

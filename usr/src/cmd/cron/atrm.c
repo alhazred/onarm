@@ -13,7 +13,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)atrm.c	1.17	07/06/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	synopsis: atrm [-f] [-i] [-a] [[job #] [user] ...]

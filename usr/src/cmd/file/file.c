@@ -30,7 +30,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)file.c	1.69	08/02/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	_LARGEFILE64_SOURCE
 

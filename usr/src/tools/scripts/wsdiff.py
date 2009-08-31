@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)wsdiff.py	1.3	07/10/18 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # wsdiff(1) is a tool that can be used to determine which compiled objects

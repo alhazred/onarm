@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)tokenize.sh	1.5	08/01/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Creates "tokenized" FCode programs from Forth source code.
 #

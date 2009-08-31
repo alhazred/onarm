@@ -26,7 +26,7 @@
 #ifndef	_QCN_H
 #define	_QCN_H
 
-#pragma ident	"@(#)qcn.h	1.9	08/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

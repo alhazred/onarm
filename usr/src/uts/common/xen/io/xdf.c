@@ -31,7 +31,7 @@
  *	- revalidate geometry for removable devices
  */
 
-#pragma ident	"@(#)xdf.c	1.7	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -166,7 +166,7 @@ struct dev_ops xdf_devops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"virtual block driver 1.7",	/* short description */
+	"virtual block driver %I%",	/* short description */
 	&xdf_devops		/* driver specific ops */
 };
 

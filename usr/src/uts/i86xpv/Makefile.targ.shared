@@ -28,7 +28,7 @@
 # Copyright (c) 2008 NEC Corporation
 #
 
-#pragma ident	"@(#)Makefile.targ.shared	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This Makefile defines the set of all required, target containing
 # included Makefiles for the i86xpv "implementation architecture".

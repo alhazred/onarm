@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)_xtoll.s	1.8	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_xtoll.s"
+	.file	"%M%"
 
 #include <SYS.h>
 

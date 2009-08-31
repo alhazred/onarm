@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)rge_main.c	1.8	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "rge.h"
 
@@ -35,7 +35,7 @@
  * This is the string displayed by modinfo, etc.
  * Make sure you keep the version ID up to date!
  */
-static char rge_ident[] = "Realtek 1Gb Ethernet v1.8";
+static char rge_ident[] = "Realtek 1Gb Ethernet v%I%";
 
 /*
  * Used for buffers allocated by ddi_dma_mem_alloc()

@@ -27,7 +27,7 @@
 #ifndef	_LIBRSC_H
 #define	_LIBRSC_H
 
-#pragma ident	"@(#)librsc.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/rmc_comm_lproto.h>
 #include <sys/rmc_comm_hproto.h>

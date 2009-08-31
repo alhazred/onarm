@@ -5,7 +5,7 @@
  *
  */
 
-#pragma ident	"@(#)ldif.h	1.3	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 1996 Regents of the University of Michigan.

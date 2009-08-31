@@ -6,7 +6,7 @@
 #ifndef	_NETDB_PRIVATE_H
 #define	_NETDB_PRIVATE_H
 
-#pragma ident	"@(#)netdb_private.h	1.2	03/02/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Constants defined by the ISC for BIND 8.2, but which do not appear

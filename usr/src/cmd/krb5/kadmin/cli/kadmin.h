@@ -1,4 +1,4 @@
-#pragma ident	"@(#)kadmin.h	1.1	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * kadmin/cli/kadmin.h

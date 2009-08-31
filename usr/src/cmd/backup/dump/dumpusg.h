@@ -26,7 +26,7 @@
 #ifndef	_DUMPUSG_H
 #define	_DUMPUSG_H
 
-#pragma ident	"@(#)dumpusg.h	1.14	05/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Translate from BSD to System V, where possible.

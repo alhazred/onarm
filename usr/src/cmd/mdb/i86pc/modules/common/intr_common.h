@@ -26,7 +26,7 @@
 #ifndef _MDB_INTR_COMMON_H
 #define	_MDB_INTR_COMMON_H
 
-#pragma ident	"@(#)intr_common.h	1.3	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

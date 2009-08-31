@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)get_in_tkt.c	1.16	07/07/03 SMI"$
+#pragma ident	"%Z%%M%	%I%	%E% SMI"$
 
 /*
  * lib/krb5/krb/get_in_tkt.c

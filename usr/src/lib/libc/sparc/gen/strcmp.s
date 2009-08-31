@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)strcmp.s	1.11	05/06/08 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"strcmp.s"
+	.file	"%M%"
 
 /* strcmp(s1, s2)
  *

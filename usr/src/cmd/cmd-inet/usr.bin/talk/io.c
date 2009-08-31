@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)io.c	1.11	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * this file contains the I/O handling and the exchange of

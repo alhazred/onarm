@@ -3,7 +3,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)clk_trimtsip.c	1.5	99/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * /src/NTP/REPOSITORY/v4/libparse/clk_trimtsip.c,v 1.8 1997/04/13 10:05:23 kardel Exp

@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)cuexit.s	1.16	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"cuexit.s"
+	.file	"%M%"
 
 / C library -- exit
 / exit(code)

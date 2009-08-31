@@ -2,7 +2,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.grub	1.1	05/04/15 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PLATFORM	= i86pc

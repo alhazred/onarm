@@ -26,7 +26,7 @@
 #ifndef _PRB_INTERNALS_H
 #define	_PRB_INTERNALS_H
 
-#pragma ident	"@(#)prb_internals.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Includes

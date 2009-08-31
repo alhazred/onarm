@@ -4,7 +4,7 @@
  * Use is subject to license terms.
  *
  */
-#pragma ident	"@(#)etest.c	1.3	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* test.c - lber encoding test program */
 /*
  * Copyright (c) 1990 Regents of the University of Michigan.

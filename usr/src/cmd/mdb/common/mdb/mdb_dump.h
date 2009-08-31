@@ -27,7 +27,7 @@
 #ifndef	_MDB_DUMP_H
 #define	_MDB_DUMP_H
 
-#pragma ident	"@(#)mdb_dump.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

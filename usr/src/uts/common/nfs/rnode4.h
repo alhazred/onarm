@@ -29,7 +29,7 @@
 #ifndef	_NFS_RNODE4_H
 #define	_NFS_RNODE4_H
 
-#pragma ident	"@(#)rnode4.h	1.29	07/11/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

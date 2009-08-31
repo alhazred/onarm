@@ -26,7 +26,7 @@
 #ifndef	_EXECINFO_H
 #define	_EXECINFO_H
 
-#pragma ident	"@(#)execinfo.h	1.1	07/04/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * These functions provide glibc-compatible backtrace functionality.

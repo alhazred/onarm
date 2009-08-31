@@ -25,7 +25,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: uuencode.c,v 1.16 2002/09/09 14:54:15 markus Exp $");
 
-#pragma ident	"@(#)uuencode.c	1.5	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "xmalloc.h"
 #include "uuencode.h"

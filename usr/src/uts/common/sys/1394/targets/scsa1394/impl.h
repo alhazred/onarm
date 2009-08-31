@@ -27,7 +27,7 @@
 #ifndef	_SYS_1394_TARGETS_SCSA1394_IMPL_H
 #define	_SYS_1394_TARGETS_SCSA1394_IMPL_H
 
-#pragma ident	"@(#)impl.h	1.7	05/11/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * scsa1394 definitions

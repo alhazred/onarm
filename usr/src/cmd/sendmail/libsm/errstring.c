@@ -10,7 +10,7 @@
  * the sendmail distribution.
  */
 
-#pragma ident	"@(#)errstring.c	1.5	04/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sm/gen.h>
 SM_RCSID("@(#)$Id: errstring.c,v 1.19 2003/12/10 03:53:05 gshapiro Exp $")

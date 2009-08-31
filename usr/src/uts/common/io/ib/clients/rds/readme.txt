@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)readme.txt	1.1	06/12/20 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 Some of the RDS source files in this directory contain code that is licensed

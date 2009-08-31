@@ -4,7 +4,7 @@
  * Use is subject to license terms.
  *
  */
-#pragma ident	"@(#)idtest.c	1.3	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* idtest.c - ber decoding test program using isode libraries */
 /*
  * Copyright (c) 1990 Regents of the University of Michigan.

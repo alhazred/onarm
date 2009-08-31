@@ -27,7 +27,7 @@
 #ifndef	_SYS_IB_MGT_IBMF_IBMF_MSG_H
 #define	_SYS_IB_MGT_IBMF_IBMF_MSG_H
 
-#pragma ident	"@(#)ibmf_msg.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

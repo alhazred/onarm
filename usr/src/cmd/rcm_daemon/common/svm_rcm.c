@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)svm_rcm.c	1.9	06/03/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <stdio.h>
@@ -283,7 +283,7 @@ rcm_mod_init()
 const char *
 rcm_mod_info()
 {
-	return (gettext("Solaris Volume Manager module 1.9"));
+	return (gettext("Solaris Volume Manager module %I%"));
 }
 
 /*

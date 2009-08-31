@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)validate.c	1.27	07/07/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* SVr4.0 1.11.1.10	*/
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 

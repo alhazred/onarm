@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nfsmapid_dt.d	1.3	06/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 provider nfsmapid {
 	probe daemon__domain(string);

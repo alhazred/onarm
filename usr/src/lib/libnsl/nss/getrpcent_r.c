@@ -28,7 +28,7 @@
  * Rentrant (MT-safe) getrpcYY interfaces.
  */
 
-#pragma ident	"@(#)getrpcent_r.c	1.16	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <ctype.h>

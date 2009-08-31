@@ -26,7 +26,7 @@
 #ifndef	_SYS_EPM_H
 #define	_SYS_EPM_H
 
-#pragma ident	"@(#)epm.h	1.52	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/pm.h>
 #include <sys/dditypes.h>

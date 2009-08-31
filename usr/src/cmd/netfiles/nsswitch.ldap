@@ -20,7 +20,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)nsswitch.ldap	1.12	06/03/24 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # /etc/nsswitch.ldap:

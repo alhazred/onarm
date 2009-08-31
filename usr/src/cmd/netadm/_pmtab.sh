@@ -31,7 +31,7 @@
 # Copyright (c) 2007 NEC Corporation
 #
 
-#pragma ident	"@(#)_pmtab.sh	1.12	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 case "$MACH" in
   "u3b2"|"sparc"|"ppc"|i386|"arm" )

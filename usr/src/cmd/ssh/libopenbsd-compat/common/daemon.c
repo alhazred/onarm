@@ -83,4 +83,4 @@ daemon(nochdir, noclose)
 #endif /* !HAVE_DAEMON */
 
 
-#pragma ident	"@(#)daemon.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

@@ -23,7 +23,7 @@
 # Copyright (c) 1994, 1995, 1996 by Sun Microsystems, Inc.
 # All Rights Reserved
 #
-# ident	"@(#)Makefile	1.8	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/lp/client/lpget/Makefile
 #

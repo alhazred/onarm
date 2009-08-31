@@ -27,7 +27,7 @@
 #ifndef	_MDB_PRINT_H
 #define	_MDB_PRINT_H
 
-#pragma ident	"@(#)mdb_print.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

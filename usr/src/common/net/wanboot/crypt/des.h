@@ -27,7 +27,7 @@
 #ifndef _DES_H
 #define	_DES_H
 
-#pragma ident	"@(#)des.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

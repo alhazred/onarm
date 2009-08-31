@@ -31,7 +31,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)tirdwr.c	1.38	05/06/08 SMI" /* from S5R4 1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* from S5R4 1.4 */
 
 /*
  * Transport Interface Library read/write module - issue 1

@@ -16,7 +16,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: servconf.c,v 1.115 2002/09/04 18:52:42 stevesk Exp $");
 
-#pragma ident	"@(#)servconf.c	1.10	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef HAVE_DEFOPEN
 #include <deflt.h>

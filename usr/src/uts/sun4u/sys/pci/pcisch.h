@@ -26,7 +26,7 @@
 #ifndef _SYS_PCISCH_H
 #define	_SYS_PCISCH_H
 
-#pragma ident	"@(#)pcisch.h	1.26	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

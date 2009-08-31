@@ -31,7 +31,7 @@
 #ifndef _SYS_SEM_H
 #define	_SYS_SEM_H
 
-#pragma ident	"@(#)sem.h	1.33	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ipc.h>
 

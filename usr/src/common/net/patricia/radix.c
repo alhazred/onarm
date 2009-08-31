@@ -34,7 +34,7 @@
  * imp Exp $
  */
 
-#pragma ident	"@(#)radix.c	1.5	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines to build and maintain radix trees for routing lookups.

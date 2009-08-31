@@ -27,7 +27,7 @@
 #ifndef	_SYS_PCI_AXQ_H
 #define	_SYS_PCI_AXQ_H
 
-#pragma ident	"@(#)pci_axq.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/atomic.h>

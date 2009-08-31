@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)schppm.c	1.5	05/09/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Schizo Power Management Driver
@@ -83,7 +83,7 @@ static int spm_inst = -1;
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* Type of module = driver */
-	"schizo pm driver v1.5",	/* name of module */
+	"schizo pm driver v%I%",	/* name of module */
 	&spm_ops,			/* driver ops */
 };
 

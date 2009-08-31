@@ -34,7 +34,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rpcb_svc_com.c	1.43	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * rpcb_svc_com.c
  * The commom server procedure for the rpcbind.

@@ -37,7 +37,7 @@
 
 /* $OpenBSD: hostfile.c,v 1.45 2006/08/03 03:34:42 deraadt Exp $ */
 
-#pragma ident	"@(#)hostfile.c	1.5	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "includes.h"
 

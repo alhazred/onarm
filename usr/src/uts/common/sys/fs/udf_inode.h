@@ -29,7 +29,7 @@
 #ifndef	_SYS_FS_UDF_INODE_H
 #define	_SYS_FS_UDF_INODE_H
 
-#pragma ident	"@(#)udf_inode.h	1.19	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 

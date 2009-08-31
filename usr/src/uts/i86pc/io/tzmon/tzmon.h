@@ -28,7 +28,7 @@
 #ifndef	_TZMON_H
 #define	_TZMON_H
 
-#pragma ident	"@(#)tzmon.h	1.2	06/05/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

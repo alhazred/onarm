@@ -27,7 +27,7 @@
 #ifndef _SYS_SERENGETI_H
 #define	_SYS_SERENGETI_H
 
-#pragma ident	"@(#)serengeti.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

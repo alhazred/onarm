@@ -26,7 +26,7 @@
  * constrained environments, such as within a DE.
  */
 
-#pragma ident	"@(#)alloc.c	1.5	07/06/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <string.h>

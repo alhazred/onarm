@@ -27,7 +27,7 @@
  * Copyright (c) 2009 NEC Corporation
  */
 
-#pragma ident	"@(#)dns_common.c	1.6	07/10/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	dns_common.c

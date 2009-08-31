@@ -27,7 +27,7 @@
 #ifndef AMD8111S_HW_H
 #define	AMD8111S_HW_H
 
-#pragma ident	"@(#)amd8111s_hw.h	1.1	07/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 2001-2006 Advanced Micro Devices, Inc.  All rights reserved.

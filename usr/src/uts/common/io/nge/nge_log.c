@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nge_log.c	1.4	07/12/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "nge.h"
 

@@ -27,7 +27,7 @@
 #ifndef	_SYS_EXACCT_CATALOG_H
 #define	_SYS_EXACCT_CATALOG_H
 
-#pragma ident	"@(#)exacct_catalog.h	1.9	05/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

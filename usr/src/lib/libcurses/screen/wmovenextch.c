@@ -23,7 +23,7 @@
  * Copyright (c) 1988 by Sun Microsystems, Inc.
  */
 
-#pragma ident	"@(#)wmovenextch.c	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

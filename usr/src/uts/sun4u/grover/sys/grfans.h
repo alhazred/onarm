@@ -6,7 +6,7 @@
 #ifndef _GRFANS_H
 #define	_GRFANS_H
 
-#pragma ident	"@(#)grfans.h	1.1	00/04/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

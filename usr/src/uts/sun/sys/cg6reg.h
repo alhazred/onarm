@@ -27,7 +27,7 @@
 #ifndef	_SYS_CG6REG_H
 #define	_SYS_CG6REG_H
 
-#pragma ident	"@(#)cg6reg.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

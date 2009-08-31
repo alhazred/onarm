@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
      
-#pragma ident	"@(#)look.c	1.8	05/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

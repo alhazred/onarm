@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_MLRPC_H
 #define	_SMBSRV_MLRPC_H
 
-#pragma ident	"@(#)mlrpc.h	1.3	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * MSRPC Like RPC (MLRPC) is an MSRPC compatible implementation of OSF

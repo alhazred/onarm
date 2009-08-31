@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.2	07/02/14 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 SUBDIRS = v9

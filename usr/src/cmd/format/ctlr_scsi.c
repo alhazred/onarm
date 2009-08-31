@@ -27,7 +27,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)ctlr_scsi.c	1.40	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the routines for embedded scsi disks

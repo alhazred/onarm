@@ -11,7 +11,7 @@
 
 #! /usr/bin/sh
 
-#pragma ident	"@(#)indxbib.sh	1.5	05/06/03 SMI" 
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 
 #
 #	indxbib sh script
 #

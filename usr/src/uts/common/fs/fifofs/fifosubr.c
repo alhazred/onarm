@@ -29,7 +29,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)fifosubr.c	1.105	08/03/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The routines defined in this file are supporting routines for FIFOFS
@@ -477,17 +477,13 @@ fifovp(vnode_t *vp, cred_t *crp)
 
 	newvp = FTOV(fnp);
 	fifo_reinit_vp(newvp);
-	/*
-	 * Since the fifo vnode's v_vfsp needs to point to the
-	 * underlying filesystem's vfsp we need to bump up the
-	 * underlying filesystem's vfs reference count.
-	 * The count is decremented when the fifo node is
-	 * inactivated.
-	 */
 
-	VFS_HOLD(vp->v_vfsp);
-	newvp->v_vfsp = vp->v_vfsp;
-	newvp->v_rdev = vp->v_rdev;
+	/*
+	 * Store the'generic' fifovfs pointer in the fifo vnode.
+	 * It gets used in the VOPSTATS macros for accounting IO.
+	 */
+	newvp->v_vfsp = fifovfsp;
+	newvp->v_rdev = fifodev;
 	newvp->v_flag |= (vp->v_flag & VROOT);
 
 	fifoinsert(fnp);

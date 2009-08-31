@@ -66,4 +66,4 @@ void *xmmap(size_t size)
 }
 
 
-#pragma ident	"@(#)xmmap.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

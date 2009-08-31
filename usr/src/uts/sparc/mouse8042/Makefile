@@ -19,11 +19,11 @@
 # CDDL HEADER END
 #
 #
-# uts/sparc/mouse8042/Makefile
+# uts/sparc/mouse8042/%M%
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.2	06/11/02 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the mouse8042 driver
 #

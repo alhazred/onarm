@@ -27,7 +27,7 @@
 #ifndef _SYS_PSW_H
 #define	_SYS_PSW_H
 
-#pragma ident	"@(#)psw.h	1.22	05/09/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(__i386) || defined(__amd64)
 

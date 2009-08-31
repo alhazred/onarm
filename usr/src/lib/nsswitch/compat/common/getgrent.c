@@ -43,7 +43,7 @@
  *    -	People who recursively specify "compat" deserve what they get.
  */
 
-#pragma ident	"@(#)getgrent.c	1.15	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <grp.h>
 #include <stdlib.h>

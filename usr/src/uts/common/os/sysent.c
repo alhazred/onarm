@@ -34,7 +34,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)sysent.c	1.165	08/03/02 SMI"	/* SVr4.0 1.51	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.51  */
 
 #include <sys/param.h>
 #include <sys/types.h>

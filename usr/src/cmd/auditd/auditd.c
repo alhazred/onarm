@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)auditd.c	1.38	05/08/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Audit daemon server */
 /*

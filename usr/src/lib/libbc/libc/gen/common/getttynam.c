@@ -1,4 +1,4 @@
-#pragma ident	"@(#)getttynam.c	1.3	92/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 	  /* from UCB 5.2 3/9/86 */
 /*
  * Copyright (c) 1983 Regents of the University of California.

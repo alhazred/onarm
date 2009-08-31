@@ -27,7 +27,7 @@
 #ifndef _rpc_svc_h
 #define	_rpc_svc_h
 
-#pragma ident	"@(#)svc.h	1.28	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * svc.h, Server-side remote procedure call interface.

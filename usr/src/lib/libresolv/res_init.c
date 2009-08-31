@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)res_init.c	1.14	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "c_synonyms.h"
 #include <sys/types.h>

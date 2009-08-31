@@ -27,7 +27,7 @@
 #ifndef	_SYS_XENDEV_H
 #define	_SYS_XENDEV_H
 
-#pragma ident	"@(#)xendev.h	1.3	08/03/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/hypervisor.h>
 #include <sys/taskq.h>

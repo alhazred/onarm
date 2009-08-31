@@ -27,7 +27,7 @@
 
 /* $Id: cancel.c 147 2006-04-25 16:51:06Z njacobs $ */
 
-#pragma ident	"@(#)cancel.c	1.1	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

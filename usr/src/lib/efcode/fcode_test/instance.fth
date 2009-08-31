@@ -1,4 +1,4 @@
-\ #ident	"@(#)instance.fth	1.2	05/06/08 SMI"
+\ #ident	"%Z%%M%	%I%	%E% SMI"
 \ purpose: 
 \ copyright: Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 \ copyright: Use is subject to license terms.

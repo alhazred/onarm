@@ -27,7 +27,7 @@
 #ifndef _MACH_DESCRIP_H
 #define	_MACH_DESCRIP_H
 
-#pragma ident	"@(#)mach_descrip.h	1.3	06/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

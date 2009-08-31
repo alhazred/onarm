@@ -3,7 +3,7 @@
 % * Use is subject to license terms.
 % */
 %
-/* %#pragma ident	"@(#)kwarnd.x	1.2	02/05/21 SMI" *
+/* %#pragma ident	"%Z%%M%	%I%	%E% SMI" *
 %
 %/*
 % *  RPC protocol information for kwarnd, the usermode daemon that

@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)disena.c	1.7	05/06/08 SMI"	/* SVr4.0 1.9.1.4	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.9.1.4	*/
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "lpsched.h"

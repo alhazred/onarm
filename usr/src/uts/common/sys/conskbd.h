@@ -27,7 +27,7 @@
 #ifndef	_SYS_CONSKBD_H
 #define	_SYS_CONSKBD_H
 
-#pragma ident	"@(#)conskbd.h	1.4	06/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stream.h>

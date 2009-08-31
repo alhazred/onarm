@@ -28,7 +28,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-# ident	"@(#)logindevperm.sh	1.10	06/12/22 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This is the script that generates the logindevperm file. It is
 # architecture-aware, and dumps different stuff for x86 and sparc.
@@ -43,7 +43,7 @@ cat <<EOM
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)logindevperm	1.10	06/12/22 SMI"
+#pragma ident	"%Z%logindevperm	%I%	%E% SMI"
 #
 # /etc/logindevperm - login-based device permissions
 #

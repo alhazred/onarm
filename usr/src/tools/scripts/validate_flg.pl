@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)validate_flg.pl	1.5	06/06/06 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 use strict;
 use File::Find ();

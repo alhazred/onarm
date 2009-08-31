@@ -33,7 +33,7 @@
 #ifndef CHELSIO_VERSION_H
 #define	CHELSIO_VERSION_H
 
-#pragma ident	"@(#)version.h	1.3	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This version string is set at 31 characters, please

@@ -27,7 +27,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)vfs_conf.c	1.56	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* SunOS-4.1 1.16	*/
 
 #include <sys/types.h>

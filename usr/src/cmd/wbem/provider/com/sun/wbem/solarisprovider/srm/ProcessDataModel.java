@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ProcessDataModel.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -39,7 +39,7 @@ import java.util.*;
  * Data model of Process Utilization. It encapsulates a CIM instance of
  * a Solaris_ProcessStatisticalInformation class.
  * @author Sun Microsystems
- * @version 1.3 06/08/05
+ * @version %I% %G%
  */
 public class ProcessDataModel extends SRMProviderDataModel
 	implements SRMProviderProperties,

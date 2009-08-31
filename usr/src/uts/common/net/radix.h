@@ -37,7 +37,7 @@
 #ifndef _RADIX_H_
 #define	_RADIX_H_
 
-#pragma ident	"@(#)radix.h	1.3	06/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

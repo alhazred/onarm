@@ -27,7 +27,7 @@
 #ifndef _MCAMD_PCICFG_H
 #define	_MCAMD_PCICFG_H
 
-#pragma ident	"@(#)mcamd_pcicfg.h	1.2	07/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ddi.h>
 #include <sys/sunddi.h>

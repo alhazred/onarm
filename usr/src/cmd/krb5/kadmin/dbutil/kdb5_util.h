@@ -6,7 +6,7 @@
 #ifndef _KDB5_UTIL_H
 #define	_KDB5_UTIL_H
 
-#pragma ident	"@(#)kdb5_util.h	1.6	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING

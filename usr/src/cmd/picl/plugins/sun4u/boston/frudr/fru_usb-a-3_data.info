@@ -25,7 +25,7 @@
  */
 
 /*
- * ident	"@(#)fru_usb-a-3_data.info	1.2	06/04/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * This configuration file is parsed by PICL plugin envmon in response
  * to a PICLEVENT_SYSEVENT_DEVICE_ADDED event for USB2
@@ -68,7 +68,7 @@
 #ifndef id
 #define	id(s)	#ident s
 #endif
-id("@(#)fru_usb-a-3_data.info	1.2	06/04/08 SMI")
+id("%Z%%M%	%I%	%E% SMI")
 
 /*
  * Front panel EHCI devices

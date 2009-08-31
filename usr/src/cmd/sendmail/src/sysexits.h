@@ -10,7 +10,7 @@
  *	@(#)sysexits.h	8.1 (Berkeley) 6/2/93
  */
 
-#pragma ident	"@(#)sysexits.h	1.4	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _SYSEXITS_H_
 # define _SYSEXITS_H_

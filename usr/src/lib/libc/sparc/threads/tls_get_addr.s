@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tls_get_addr.s	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"tls_get_addr.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 #include <sys/trap.h>

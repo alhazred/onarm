@@ -27,7 +27,7 @@
 #ifndef	_UUID_H
 #define	_UUID_H
 
-#pragma ident	"@(#)uuid.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

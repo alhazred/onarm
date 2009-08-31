@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.12	07/11/09 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 RELEASECERTS =		SUNW_SunOS_5.10

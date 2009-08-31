@@ -24,7 +24,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)deallocate	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # if the audit state is "disabled" auditconfig returns
 # non-zero exit status unless the c2audit module is loaded;

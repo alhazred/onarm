@@ -28,7 +28,7 @@
  * Copyright (c) 2009 NEC Corporation
  */
 
-#pragma ident	"@(#)gethostent.c	1.38	06/10/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * gethostent.c

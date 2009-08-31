@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)n2niu_xfp.esc	1.1	07/09/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma dictionary "NXGE"
 /*

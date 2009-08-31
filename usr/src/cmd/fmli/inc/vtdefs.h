@@ -29,7 +29,7 @@
  *
  */
 
-#ident	"@(#)vtdefs.h	1.6	05/06/08 SMI"       /* SVr4.0 1.2 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.2 */
 
 /* see vt.h for previous "VT_" defines !!! */
 #define VT_UPSARROW	 0100	

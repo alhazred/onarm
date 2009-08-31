@@ -26,7 +26,7 @@
 #ifndef	_DDM2S_H
 #define	_DDM2S_H
 
-#pragma ident	"@(#)dm2s.h	1.1	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef __cplusplus

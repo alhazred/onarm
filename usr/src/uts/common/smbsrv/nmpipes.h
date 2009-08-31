@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_NMPIPES_H
 #define	_SMBSRV_NMPIPES_H
 
-#pragma ident	"@(#)nmpipes.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines pre-defined and system common named pipes.

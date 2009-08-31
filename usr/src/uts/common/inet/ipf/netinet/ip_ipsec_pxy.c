@@ -12,7 +12,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_ipsec_pxy.c	1.4	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	IPF_IPSEC_PROXY
 

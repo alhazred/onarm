@@ -23,7 +23,7 @@
 # Copyright (c) 1997-1999 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 include ../../../Makefile.cmd
 

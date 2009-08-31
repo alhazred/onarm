@@ -27,7 +27,7 @@
 #ifndef	_DEVALLOC_H
 #define	_DEVALLOC_H
 
-#pragma ident	"@(#)devalloc.h	1.3	07/07/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

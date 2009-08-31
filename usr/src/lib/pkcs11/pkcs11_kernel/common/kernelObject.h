@@ -26,7 +26,7 @@
 #ifndef	_KERNELOBJECT_H
 #define	_KERNELOBJECT_H
 
-#pragma ident	"@(#)kernelObject.h	1.11	07/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

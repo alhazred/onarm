@@ -28,7 +28,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)consconfig_dacf.c	1.40	08/03/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This module performs two functions.  First, it kicks off the driver loading
@@ -284,7 +284,7 @@ struct dacfsw dacfsw = {
 
 struct modldacf modldacf = {
 	&mod_dacfops,   /* Type of module */
-	"Consconfig DACF 1.40",
+	"Consconfig DACF %I%",
 	&dacfsw
 };
 

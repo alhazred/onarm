@@ -27,7 +27,7 @@
 #ifndef	_FMADM_H
 #define	_FMADM_H
 
-#pragma ident	"@(#)fmadm.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/fmd_adm.h>
 #include <stdio.h>

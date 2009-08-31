@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)talk.c	1.9	05/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "talk.h"
 #include <locale.h>

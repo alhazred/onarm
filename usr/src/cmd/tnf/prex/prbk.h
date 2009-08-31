@@ -26,7 +26,7 @@
 #ifndef _PRBK_H
 #define	_PRBK_H
 
-#pragma ident	"@(#)prbk.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

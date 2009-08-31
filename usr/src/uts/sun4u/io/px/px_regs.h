@@ -27,7 +27,7 @@
 #ifndef _SYS_PX_REGS_H
 #define	_SYS_PX_REGS_H
 
-#pragma ident	"@(#)px_regs.h	1.5	05/07/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

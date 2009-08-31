@@ -30,7 +30,7 @@
 #ifndef _OID_H_
 #define	_OID_H_
 
-#pragma ident	"@(#)oid.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

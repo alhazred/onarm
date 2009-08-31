@@ -33,7 +33,7 @@
  * California.
  */
 
-#pragma ident	"@(#)rpc_callmsg.c	1.18	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <stdlib.h>

@@ -24,7 +24,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)bfudrop.sh	1.3	07/09/26 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #

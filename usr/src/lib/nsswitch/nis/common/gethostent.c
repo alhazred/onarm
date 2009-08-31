@@ -25,7 +25,7 @@
  *	nis/gethostent.c -- "nis" backend for nsswitch "hosts" database
  */
 
-#pragma ident	"@(#)gethostent.c	1.15	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <ctype.h>
 #include <netdb.h>

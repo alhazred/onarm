@@ -27,7 +27,7 @@
 #ifndef _SYS_RUSAGE_H
 #define	_SYS_RUSAGE_H
 
-#pragma ident	"@(#)rusage.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/time.h>
 

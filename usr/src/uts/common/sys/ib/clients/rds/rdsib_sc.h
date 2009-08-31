@@ -26,7 +26,7 @@
 #ifndef _RDSIB_SC_H
 #define	_RDSIB_SC_H
 
-#pragma ident	"@(#)rdsib_sc.h	1.2	07/05/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

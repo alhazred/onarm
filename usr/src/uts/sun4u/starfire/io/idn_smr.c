@@ -28,7 +28,7 @@
  * Shared Memory Region (SMR) supporting code.
  */
 
-#pragma ident	"@(#)idn_smr.c	1.10	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

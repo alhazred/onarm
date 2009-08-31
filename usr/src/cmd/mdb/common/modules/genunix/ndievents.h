@@ -27,7 +27,7 @@
 #ifndef	_NDIEVENTS_H
 #define	_NDIEVENTS_H
 
-#pragma ident	"@(#)ndievents.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 #include <sys/sysinfo.h>

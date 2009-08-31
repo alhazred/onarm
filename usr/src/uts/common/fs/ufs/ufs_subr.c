@@ -41,7 +41,7 @@
  */
 
 
-#pragma ident	"@(#)ufs_subr.c	2.159	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/t_lock.h>

@@ -28,7 +28,7 @@
 #ifndef _MULDIV_H
 #define	_MULDIV_H
 
-#pragma ident	"@(#)muldiv.h	1.1	05/08/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Helper routines for Sun and GCC compilers in 32-bit mode,

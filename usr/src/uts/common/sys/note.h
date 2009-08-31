@@ -39,7 +39,7 @@
 #ifndef	_SYS_NOTE_H
 #define	_SYS_NOTE_H
 
-#pragma ident	"@(#)note.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

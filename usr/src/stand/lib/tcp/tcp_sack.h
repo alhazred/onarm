@@ -27,7 +27,7 @@
 #ifndef	_INET_SACK_H
 #define	_INET_SACK_H
 
-#pragma ident	"@(#)tcp_sack.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netinet/tcp.h>	/* for tcp_seq */
 

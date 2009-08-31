@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mincore.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"mincore.s"
+	.file	"%M%"
 
 /* C library -- mincore						*/
 /* int mincore(caddr_t addr, size_t len, char *vec)		*/

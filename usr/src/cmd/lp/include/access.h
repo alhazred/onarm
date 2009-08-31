@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)access.h	1.7	05/06/08 SMI"	/* SVr4.0 1.7	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7	*/
 
 #if	!defined(_LP_ACCESS_H)
 #define	_LP_ACCESS_H

@@ -26,7 +26,7 @@
  *  Stuff relating to directory reading ...
  */
 
-#pragma ident	"@(#)getdents.c	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/types.h>
 #include <rpc/auth.h>

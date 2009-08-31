@@ -28,7 +28,7 @@
  *	All Rights Reserved
  */
 
-#ident	"@(#)partabdefs.h	1.6	05/06/08 SMI"       /* SVr4.0 1.2 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.2 */
 
 /* Note: this file created with tabstops set to 4.
  *

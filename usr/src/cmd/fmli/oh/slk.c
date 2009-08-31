@@ -31,7 +31,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)slk.c	1.10	05/09/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* microsecond delay timer not available before SVR4.0   abs k18 */
 #ifdef PRE_SVR4_COMPILE

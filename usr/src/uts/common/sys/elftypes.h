@@ -31,7 +31,7 @@
 #ifndef _SYS_ELFTYPES_H
 #define	_SYS_ELFTYPES_H
 
-#pragma ident	"@(#)elftypes.h	1.24	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 #include <sys/feature_tests.h>
 

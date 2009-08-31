@@ -32,7 +32,7 @@
  * $Id: smb_crypt.c,v 1.13 2005/01/26 23:50:50 lindak Exp $
  */
 
-#pragma ident	"@(#)smb_crypt.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/systm.h>

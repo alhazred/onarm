@@ -27,7 +27,7 @@
 #ifndef	_KERNEL_SOFT_COMMON_H
 #define	_KERNEL_SOFT_COMMON_H
 
-#pragma ident	"@(#)kernelSoftCommon.h	1.1	07/04/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

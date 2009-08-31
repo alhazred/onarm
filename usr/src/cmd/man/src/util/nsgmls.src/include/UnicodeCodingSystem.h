@@ -1,6 +1,6 @@
 // Copyright (c) 1994 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)UnicodeCodingSystem.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef UnicodeCodingSystem_INCLUDED
 #define UnicodeCodingSystem_INCLUDED 1

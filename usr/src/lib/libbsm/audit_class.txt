@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)audit_class.txt	1.10	06/11/21 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # User Level Class Masks
 #

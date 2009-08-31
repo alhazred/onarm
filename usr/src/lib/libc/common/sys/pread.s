@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pread.s	1.11	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"pread.s"
+	.file	"%M%"
 
 /* C library -- pread					*/
 /* ssize_t __pread(int, void *, size_t, off_t);		*/

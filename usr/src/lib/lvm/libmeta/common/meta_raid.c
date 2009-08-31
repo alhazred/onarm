@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)meta_raid.c	2.27	06/06/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Just in case we're not in a build environment, make sure that
  * TEXT_DOMAIN gets set to something.

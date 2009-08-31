@@ -25,7 +25,7 @@
  */
 
 !	.seg	"data"
-!	.asciz ident	"@(#)ffs.s	1.15	05/06/08 SMI"
+!	.asciz ident	"%Z%%M%	%I%	%E% SMI"
 	.seg	".text"
 
 	.file	"ffs.s"

@@ -25,7 +25,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mdb_grammar.y	1.9	06/12/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_types.h>
 #include <mdb/mdb_debug.h>

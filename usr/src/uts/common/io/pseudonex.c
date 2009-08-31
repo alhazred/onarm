@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)pseudonex.c	1.29	05/10/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Pseudo devices are devices implemented entirely in software; pseudonex
@@ -167,7 +167,7 @@ static struct dev_ops pseudo_ops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"nexus driver for 'pseudo' 1.29",
+	"nexus driver for 'pseudo' %I%",
 	&pseudo_ops,
 };
 

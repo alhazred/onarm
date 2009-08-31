@@ -26,7 +26,7 @@
 #ifndef	_SMBSRV_SMB_XDR_H
 #define	_SMBSRV_SMB_XDR_H
 
-#pragma ident	"@(#)smb_xdr.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

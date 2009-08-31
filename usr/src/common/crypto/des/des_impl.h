@@ -26,7 +26,7 @@
 #ifndef	_DES_IMPL_H
 #define	_DES_IMPL_H
 
-#pragma ident	"@(#)des_impl.h	1.4	06/07/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Common definitions used by DES

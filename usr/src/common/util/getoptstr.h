@@ -27,7 +27,7 @@
 #ifndef _GETOPTSTR_H
 #define	_GETOPTSTR_H
 
-#pragma ident	"@(#)getoptstr.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Declarations for getoptstr().

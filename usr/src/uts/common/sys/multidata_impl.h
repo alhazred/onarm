@@ -27,7 +27,7 @@
 #ifndef _SYS_MULTIDATA_IMPL_H
 #define	_SYS_MULTIDATA_IMPL_H
 
-#pragma ident	"@(#)multidata_impl.h	1.4	05/10/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

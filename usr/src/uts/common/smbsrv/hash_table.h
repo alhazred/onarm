@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_HASH_TABLE_H
 #define	_SMBSRV_HASH_TABLE_H
 
-#pragma ident	"@(#)hash_table.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)opensslconf.h	1.7	06/02/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* opensslconf.h */
 /* WARNING: Generated automatically from opensslconf.h.in by Configure. */

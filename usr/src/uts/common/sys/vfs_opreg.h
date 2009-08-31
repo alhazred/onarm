@@ -26,7 +26,7 @@
 #ifndef _SYS_VFS_OPREG_H
 #define	_SYS_VFS_OPREG_H
 
-#pragma ident	"@(#)vfs_opreg.h	1.1	07/03/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/vfs.h>
 #include <sys/fem.h>

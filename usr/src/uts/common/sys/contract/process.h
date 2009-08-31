@@ -26,7 +26,7 @@
 #ifndef	_SYS_CONTRACT_PROCESS_H
 #define	_SYS_CONTRACT_PROCESS_H
 
-#pragma ident	"@(#)process.h	1.3	08/02/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/contract.h>
 #include <sys/time.h>

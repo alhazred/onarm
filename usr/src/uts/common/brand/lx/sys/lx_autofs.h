@@ -27,7 +27,7 @@
 #ifndef	_LX_AUTOFS_H
 #define	_LX_AUTOFS_H
 
-#pragma ident	"@(#)lx_autofs.h	1.1	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The lx_autofs filesystem exists to emulate the Linux autofs filesystem

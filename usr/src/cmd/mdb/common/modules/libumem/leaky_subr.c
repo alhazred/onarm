@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)leaky_subr.c	1.10	06/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "umem.h"
 

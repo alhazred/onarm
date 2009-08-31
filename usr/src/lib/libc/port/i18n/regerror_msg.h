@@ -38,7 +38,7 @@
 #ifndef	_REGERROR_MSG_H
 #define	_REGERROR_MSG_H
 
-#pragma ident	"@(#)regerror_msg.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This string array holds the error message strings for

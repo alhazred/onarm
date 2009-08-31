@@ -27,7 +27,7 @@
 
 /* $OpenBSD: progressmeter.h,v 1.2 2006/03/25 22:22:43 djm Exp $ */
 
-#pragma ident	"@(#)progressmeter.h	1.1	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

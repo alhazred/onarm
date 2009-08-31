@@ -30,7 +30,7 @@
 #ifndef	_SYS_FS_PC_NODE_H
 #define	_SYS_FS_PC_NODE_H
 
-#pragma ident	"@(#)pc_node.h	1.35	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

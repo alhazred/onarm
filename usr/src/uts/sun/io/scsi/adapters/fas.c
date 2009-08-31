@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fas.c	1.184	05/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ISSUES
@@ -387,7 +387,7 @@ char _depends_on[] = "misc/scsi";
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module. This one is a driver */
-	"FAS SCSI HBA Driver v1.184", /* Name of the module. */
+	"FAS SCSI HBA Driver v%I%", /* Name of the module. */
 	&fas_ops,	/* driver ops */
 };
 

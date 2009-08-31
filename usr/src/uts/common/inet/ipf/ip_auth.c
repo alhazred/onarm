@@ -12,7 +12,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_auth.c	1.5	07/05/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(KERNEL) || defined(_KERNEL)
 # undef KERNEL

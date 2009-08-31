@@ -31,7 +31,7 @@
 #ifndef	_PRAUDIT_H
 #define	_PRAUDIT_H
 
-#pragma ident	"@(#)praudit.h	1.32	07/11/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

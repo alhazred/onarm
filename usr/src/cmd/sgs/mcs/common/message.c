@@ -25,7 +25,7 @@
  * Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)message.c	1.13	06/03/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include "mcs.h"
 
 static const char *msg[] = {

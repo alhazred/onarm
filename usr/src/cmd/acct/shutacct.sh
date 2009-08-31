@@ -26,7 +26,7 @@
 #	All rights reserved.
 
 
-#ident	"@(#)shutacct.sh	1.8	05/06/08 SMI"	/* SVr4.0 1.6	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 #	"shutacct [arg] - shuts down acct, called from /usr/sbin/shutdown"
 #	"whenever system taken down"
 #	"arg	added to /var/wtmpx to record reason, defaults to shutdown"

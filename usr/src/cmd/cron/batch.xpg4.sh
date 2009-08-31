@@ -27,7 +27,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 
-#ident	"@(#)batch.xpg4.sh	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 set -- `getopt p: $*`
 if [ $? != 0 ]; then

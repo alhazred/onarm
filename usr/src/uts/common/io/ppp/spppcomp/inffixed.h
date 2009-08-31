@@ -12,7 +12,7 @@
 #ifndef	_ZLIB_INFFIXED_H
 #define	_ZLIB_INFFIXED_H
 
-#pragma ident	"@(#)inffixed.h	1.1	00/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

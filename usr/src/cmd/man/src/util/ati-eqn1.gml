@@ -23,7 +23,7 @@
     CDDL HEADER END
 -->
 <!-- SCCS keyword
-#pragma ident	"@(#)ati-eqn1.gml	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 -->
 <!-- ArborText equation entity set. Typical invocation:
      <!ENTITY % ATIeqn1 PUBLIC "-//ArborText//ENTITIES Equation1//EN">

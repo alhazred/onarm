@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-/* ident	"@(#)SuccinctStackTraceFormatter.java	1.2	05/06/08 SMI" */
+/* ident	"%Z%%M%	%I%	%E% SMI" */
 
 package com.sun.solaris.service.exception;
 

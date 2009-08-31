@@ -30,7 +30,7 @@
  * California.
  */
 
-#pragma ident	"@(#)mkstemp.c	1.18	06/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

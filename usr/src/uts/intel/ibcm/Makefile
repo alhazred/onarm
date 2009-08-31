@@ -28,7 +28,7 @@
 #	module. SPARC architecture dependent
 #
 
-#ident	"@(#)Makefile	1.6	07/07/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	Path to the base of the uts directory tree (usually /usr/src/uts).

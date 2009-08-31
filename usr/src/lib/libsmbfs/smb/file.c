@@ -32,7 +32,7 @@
  * $Id: file.c,v 1.4 2004/12/13 00:25:21 lindak Exp $
  */
 
-#pragma ident	"@(#)file.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/ioctl.h>

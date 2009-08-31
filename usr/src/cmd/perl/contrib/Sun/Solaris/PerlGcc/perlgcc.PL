@@ -22,13 +22,13 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)perlgcc.PL	1.2	05/06/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 use strict;
 use warnings;
 use Config;
-our $VERSION = '1.2';
+our $VERSION = '%I%';
 
 my $fh;
 open($fh, ">$ARGV[0]") || die("Can't open perlgcc: $!\n");
@@ -44,13 +44,13 @@ $startperl
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)$ARGV[0]	1.2	05/06/10 SMI"
+#ident	"%Z%$ARGV[0]	%I%	%E% SMI"
 #
 
 use $perlver;
 use strict;
 use warnings;
-our \$VERSION = '1.2';
+our \$VERSION = '%I%';
 
 \$ENV{PERL5_OVERRIDE_CONFIG} = '1';
 if (exists(\$ENV{PERL5LIB})) {

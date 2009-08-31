@@ -21,7 +21,7 @@
 # Copyright 1998 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 
-#pragma ident	"@(#)Makefile	1.8	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 include ../Makefile.com
 

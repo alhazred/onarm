@@ -22,7 +22,7 @@
 /*
  * Copyright (c) 1986 by Sun Microsystems, Inc.
  */
-#ident	"@(#)compare.c	1.14	05/06/08 SMI"	/* SunOS-4.1 1.7 88/12/06 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS-4.1 1.7 88/12/06 */
 
 #include <sys/fpu/fpu_simulator.h>
 #include <sys/fpu/globals.h>

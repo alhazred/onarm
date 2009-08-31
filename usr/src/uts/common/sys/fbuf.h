@@ -31,7 +31,7 @@
 #ifndef _SYS_FBUF_H
 #define	_SYS_FBUF_H
 
-#pragma ident	"@(#)fbuf.h	1.15	05/06/08 SMI"	/* SVr4.0 1.3	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 
 #include <sys/vnode.h>
 

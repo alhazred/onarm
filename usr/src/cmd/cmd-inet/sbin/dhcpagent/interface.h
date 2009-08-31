@@ -26,7 +26,7 @@
 #ifndef	INTERFACE_H
 #define	INTERFACE_H
 
-#pragma ident	"@(#)interface.h	1.19	08/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Interface.[ch] encapsulate all of the agent's knowledge of network

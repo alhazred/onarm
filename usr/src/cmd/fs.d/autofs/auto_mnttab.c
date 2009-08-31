@@ -26,7 +26,7 @@
  *	All Rights Reserved.
  */
 
-#pragma ident	"@(#)auto_mnttab.c	1.30	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <sys/mnttab.h>

@@ -30,7 +30,7 @@
 #ifndef K5_ERR_H
 #define K5_ERR_H
 
-#pragma ident	"@(#)k5-err.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _
 #define _(X) (X)

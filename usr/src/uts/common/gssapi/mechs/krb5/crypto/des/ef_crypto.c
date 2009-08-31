@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ef_crypto.c	1.3	07/05/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <des_int.h>
 #include <sys/crypto/api.h>

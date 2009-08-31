@@ -64,7 +64,7 @@
 #ifndef BN_H
 #define BN_H
 
-#pragma ident	"@(#)bn.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 struct BigNum {
 	void *ptr;

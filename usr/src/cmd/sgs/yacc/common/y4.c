@@ -27,7 +27,7 @@
 /* Copyright (c) 1988 AT&T */
 /* All Rights Reserved */
 
-#pragma ident	"@(#)y4.c	6.16	05/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "dextern.h"
 #define	NOMORE -1000

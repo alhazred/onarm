@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)demangle.msg	1.1	06/03/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 @ MSG_DEM_SYM		"cplus_demangle"

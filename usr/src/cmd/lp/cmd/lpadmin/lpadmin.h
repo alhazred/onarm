@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lpadmin.h	1.12	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define BEGIN_CRITICAL	{ ignore_signals(); {
 #define END_CRITICAL	} trap_signals(); }

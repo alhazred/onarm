@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)postprint.c	1.12	05/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *
@@ -253,8 +253,8 @@ header(void)
     optind = old_optind;		/* get ready for option scanning */
 
     fprintf(stdout, "%s", CONFORMING);
-    fprintf(stdout, "%s %s\n", CREATOR, "postprint.c");
-    fprintf(stdout, "%s %s\n", VERSION, "1.12");
+    fprintf(stdout, "%s %s\n", CREATOR, "%M%");
+    fprintf(stdout, "%s %s\n", VERSION, "%I%");
     fprintf(stdout, "%s %s\n", DOCUMENTFONTS, ATEND);
     fprintf(stdout, "%s %s\n", PAGES, ATEND);
     fprintf(stdout, "%s", ENDCOMMENTS);

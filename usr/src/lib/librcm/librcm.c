@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)librcm.c	1.18	07/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "librcm_impl.h"
 #include "librcm_event.h"

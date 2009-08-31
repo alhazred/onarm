@@ -46,7 +46,7 @@
 #ifndef _MP_GF2M_H_
 #define _MP_GF2M_H_
 
-#pragma ident	"@(#)mp_gf2m.h	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mpi.h"
 

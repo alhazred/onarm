@@ -3,7 +3,7 @@
 #ifndef	_SSH2_H
 #define	_SSH2_H
 
-#pragma ident	"@(#)ssh2.h	1.5	04/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

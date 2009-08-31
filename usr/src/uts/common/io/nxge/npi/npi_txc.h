@@ -26,7 +26,7 @@
 #ifndef _NPI_TXC_H
 #define	_NPI_TXC_H
 
-#pragma ident	"@(#)npi_txc.h	1.1	06/11/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

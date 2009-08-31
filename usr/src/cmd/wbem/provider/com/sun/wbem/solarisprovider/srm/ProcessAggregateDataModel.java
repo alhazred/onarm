@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ProcessAggregateDataModel.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -39,7 +39,7 @@ import javax.wbem.cim.*;
  * a Solaris_ProjectProcessAggregateStatisticalInformation
  * or Solaris_UserProcessAggregateStatisticalInformation class.
  * @author Sun Microsystems
- * @version 1.3 06/08/05
+ * @version %I% %G%
  */
 public class ProcessAggregateDataModel extends ProcessDataModel {
 

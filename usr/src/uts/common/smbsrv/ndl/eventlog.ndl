@@ -26,7 +26,7 @@
 #ifndef _MLSVC_LOGR_NDL_
 #define _MLSVC_LOGR_NDL_
 
-#pragma ident	"@(#)eventlog.ndl	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  ***********************************************************************

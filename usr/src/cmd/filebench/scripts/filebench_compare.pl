@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)filebench_compare.pl	1.1	07/10/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #

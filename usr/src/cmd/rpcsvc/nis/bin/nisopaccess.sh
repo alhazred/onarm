@@ -24,7 +24,7 @@
 # Copyright (c) 1999 by Sun Microsystems, Inc.
 # All rights reserved.
 
-#pragma ident	"@(#)nisopaccess.sh	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 EXIT=255
 TBLNAME=proto_op_access

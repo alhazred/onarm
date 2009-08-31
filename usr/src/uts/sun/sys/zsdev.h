@@ -27,7 +27,7 @@
 #ifndef	_SYS_ZSDEV_H
 #define	_SYS_ZSDEV_H
 
-#pragma ident	"@(#)zsdev.h	1.36	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Onboard serial ports.

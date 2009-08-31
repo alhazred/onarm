@@ -28,7 +28,7 @@
 #ifndef	_LOGADM_FN_H
 #define	_LOGADM_FN_H
 
-#pragma ident	"@(#)fn.h	1.5	06/10/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

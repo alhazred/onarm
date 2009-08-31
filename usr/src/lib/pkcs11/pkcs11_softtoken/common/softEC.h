@@ -26,7 +26,7 @@
 #ifndef _SOFTEC_H
 #define	_SOFTEC_H
 
-#pragma ident	"@(#)softEC.h	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

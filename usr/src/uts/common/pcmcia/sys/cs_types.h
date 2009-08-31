@@ -27,7 +27,7 @@
 #ifndef _CS_TYPES_H
 #define	_CS_TYPES_H
 
-#pragma ident	"@(#)cs_types.h	1.11	05/06/08 SMI"
+#pragma ident	"%W%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

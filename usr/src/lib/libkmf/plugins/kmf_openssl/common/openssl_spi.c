@@ -61,7 +61,7 @@
  *
  */
 
-#pragma ident	"@(#)openssl_spi.c	1.16	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <kmfapiP.h>

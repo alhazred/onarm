@@ -2,8 +2,9 @@
  * CDDL HEADER START
  *
  * The contents of this file are subject to the terms of the
- * Common Development and Distribution License (the "License").
- * You may not use this file except in compliance with the License.
+ * Common Development and Distribution License, Version 1.0 only
+ * (the "License").  You may not use this file except in compliance
+ * with the License.
  *
  * You can obtain a copy of the license at usr/src/OPENSOLARIS.LICENSE
  * or http://www.opensolaris.org/os/licensing.
@@ -19,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
+ * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
 
 #ifndef	_SYS_DOOR_DATA_H
 #define	_SYS_DOOR_DATA_H
 
-#pragma ident	"@(#)door_data.h	1.13	08/03/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/door.h>
@@ -58,7 +59,6 @@ typedef struct door_layout {
  */
 typedef struct door_client {
 	door_arg_t	d_args;		/* Door arg/results */
-	struct cred	*d_cred;	/* Cred overridden by the client */
 	caddr_t		d_buf;		/* Temp buffer for data transfer */
 	int		d_bufsize;	/* Size of temp buffer */
 	int		d_fpp_size;	/* Number of File ptrs */

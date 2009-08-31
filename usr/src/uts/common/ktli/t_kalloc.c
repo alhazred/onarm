@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)t_kalloc.c	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Kernel TLI-like function to allocate memory for the various TLI

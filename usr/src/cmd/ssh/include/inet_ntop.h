@@ -3,7 +3,7 @@
 #ifndef	_INET_NTOP_H
 #define	_INET_NTOP_H
 
-#pragma ident	"@(#)inet_ntop.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

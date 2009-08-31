@@ -8,7 +8,7 @@
  *
  */
 
-#pragma ident	"@(#)cram_md5.c	1.4	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <strings.h>

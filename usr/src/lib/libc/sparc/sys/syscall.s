@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)syscall.s	1.17	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * C library -- int syscall(int sysnum, ...);
@@ -46,7 +46,7 @@
  * use it here because this code is shared between sparcv8 and sparcv9.
  */
 
-	.file	"syscall.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

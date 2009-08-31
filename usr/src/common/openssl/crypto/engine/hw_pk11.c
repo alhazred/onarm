@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)hw_pk11.c	1.12	07/07/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* crypto/engine/hw_pk11.c */
 /* This product includes software developed by the OpenSSL Project for 

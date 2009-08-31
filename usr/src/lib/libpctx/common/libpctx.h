@@ -27,7 +27,7 @@
 #ifndef	_LIBPCTX_H
 #define	_LIBPCTX_H
 
-#pragma ident	"@(#)libpctx.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <fcntl.h>

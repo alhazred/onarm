@@ -31,7 +31,7 @@
 #ifndef _GSSAPI_EXT_H
 #define	_GSSAPI_EXT_H
 
-#pragma ident	"@(#)gssapi_ext.h	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <gssapi/gssapi.h>
 #ifdef	_KERNEL

@@ -2,7 +2,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)mapfile-sqlite	1.1	04/12/21 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #
 # Defines the public interface to sqlite

@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-    ident	"@(#)Sun-Fire-15000-hc-topology.xml	1.2	06/11/03 SMI"
+    ident	"%Z%%M%	%I%	%E% SMI"
 -->
 
 <topology name='SUNW,Sun-Fire-15000' scheme='hc'>

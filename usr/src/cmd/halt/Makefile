@@ -27,7 +27,7 @@
 # Copyright (c) 2006-2007 NEC Corporation
 #
 #
-# ident	"@(#)Makefile	1.18	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG = halt

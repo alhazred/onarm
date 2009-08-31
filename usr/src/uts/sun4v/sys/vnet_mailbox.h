@@ -27,7 +27,7 @@
 #ifndef _SYS_VNET_MAILBOX_H
 #define	_SYS_VNET_MAILBOX_H
 
-#pragma ident	"@(#)vnet_mailbox.h	1.2	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

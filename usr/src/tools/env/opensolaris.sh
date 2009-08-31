@@ -21,7 +21,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)opensolaris.sh	1.8	08/02/07 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #
 #	Configuration variables for the runtime environment of the nightly

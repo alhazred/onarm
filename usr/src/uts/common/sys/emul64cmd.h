@@ -27,7 +27,7 @@
 #ifndef _SYS_SCSI_ADAPTERS_EMUL64CMD_H
 #define	_SYS_SCSI_ADAPTERS_EMUL64CMD_H
 
-#pragma ident	"@(#)emul64cmd.h	1.1	05/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/scsi/scsi_types.h>
 

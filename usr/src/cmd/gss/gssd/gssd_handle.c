@@ -30,7 +30,7 @@
  * California.
  */
 
-#pragma ident	"@(#)gssd_handle.c	1.13	05/11/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*	from kerbd_handle.c	1.3	92/01/29 SMI */
 
 /*

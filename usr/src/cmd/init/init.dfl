@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)init.dfl	1.8	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This file is /etc/default/init.  /etc/TIMEZONE is a symlink to this file.
 # This file looks like a shell script, but it is not.  To maintain

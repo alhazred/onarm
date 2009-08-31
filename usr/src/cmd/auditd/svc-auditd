@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)svc-auditd	1.5	06/08/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # if the audit state is "disabled" auditconfig returns
 # non-zero exit status unless the c2audit module is loaded;

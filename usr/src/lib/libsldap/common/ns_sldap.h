@@ -27,7 +27,7 @@
 #ifndef	_NS_SLDAP_H
 #define	_NS_SLDAP_H
 
-#pragma ident	"@(#)ns_sldap.h	1.14	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

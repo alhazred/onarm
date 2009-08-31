@@ -30,7 +30,7 @@
  */
 
 
-#pragma ident	"@(#)dis_sparc.c	1.1	07/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The sparc disassembler is mostly straightforward, each instruction is

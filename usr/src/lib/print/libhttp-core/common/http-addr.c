@@ -37,7 +37,7 @@
  * Include necessary headers...
  */
 
-#pragma ident	"@(#)http-addr.c	1.1	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "http.h"
 #include "debug.h"

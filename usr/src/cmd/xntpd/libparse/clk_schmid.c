@@ -3,7 +3,7 @@
  * All Rights Reserved.
  */
 
-#pragma ident	"@(#)clk_schmid.c	1.4	99/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * /src/NTP/REPOSITORY/v4/libparse/clk_schmid.c,v 3.22 1997/01/19 12:44:41 kardel Exp

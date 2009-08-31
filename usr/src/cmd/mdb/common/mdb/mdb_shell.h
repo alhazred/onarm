@@ -27,7 +27,7 @@
 #ifndef	_MDB_SHELL_H
 #define	_MDB_SHELL_H
 
-#pragma ident	"@(#)mdb_shell.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

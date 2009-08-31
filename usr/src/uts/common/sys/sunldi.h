@@ -26,7 +26,7 @@
 #ifndef	_SYS_SUNLDI_H
 #define	_SYS_SUNLDI_H
 
-#pragma ident	"@(#)sunldi.h	1.9	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/modctl.h>
 #include <sys/stream.h>

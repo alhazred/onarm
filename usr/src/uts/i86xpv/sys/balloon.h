@@ -27,7 +27,7 @@
 #ifndef _SYS_BALLOON_H
 #define	_SYS_BALLOON_H
 
-#pragma ident	"@(#)balloon.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

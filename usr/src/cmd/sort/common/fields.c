@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)fields.c	1.14	07/07/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "fields.h"
 

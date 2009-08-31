@@ -27,7 +27,7 @@
 #ifndef	_BOOT_HTTP_H
 #define	_BOOT_HTTP_H
 
-#pragma ident	"@(#)boot_http.h	1.4	06/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/types.h>

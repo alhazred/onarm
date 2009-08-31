@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-        ident	"@(#)rdisc.xml	1.3	07/01/19 SMI"
+        ident	"%Z%%M%	%I%	%E% SMI"
 
 	NOTE:  This service manifest is not editable; its contents will
 	be overwritten by package or patch operations, including

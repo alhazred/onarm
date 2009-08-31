@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)install.c	1.7	05/10/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

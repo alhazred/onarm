@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mc-us3i.c	1.11	07/01/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -132,7 +132,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* module type, this one is a driver */
-	"Memory-controller: 1.11",	/* module name */
+	"Memory-controller: %I%",	/* module name */
 	&mc_ops,			/* driver ops */
 };
 

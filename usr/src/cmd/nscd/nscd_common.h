@@ -26,7 +26,7 @@
 #ifndef	_NSCD_COMMON_H
 #define	_NSCD_COMMON_H
 
-#pragma ident	"@(#)nscd_common.h	1.3	07/04/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

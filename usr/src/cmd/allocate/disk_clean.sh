@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 #
-# ident	"@(#)disk_clean.sh	1.1	07/06/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #
 # This is a clean script for removable disks

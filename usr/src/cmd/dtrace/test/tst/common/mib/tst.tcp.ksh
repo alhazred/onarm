@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)tst.tcp.ksh	1.3	07/08/16 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # This script tests that several of the the mib:::tcp* probes fire and fire

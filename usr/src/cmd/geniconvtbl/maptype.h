@@ -27,7 +27,7 @@
 #ifndef	_ICONV_TM_MAPTYPE_H
 #define	_ICONV_TM_MAPTYPE_H
 
-#pragma ident	"@(#)maptype.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

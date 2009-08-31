@@ -1,5 +1,5 @@
 !
-!	ident	"@(#)sparc_assm.s	1.5	05/06/08 SMI"
+!	ident	"%Z%%M%	%I%	%E% SMI"
 !
 !	 Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 !	 Use is subject to license terms.
@@ -25,8 +25,8 @@
 !	 CDDL HEADER END
 !
 !
-	.ident		"@(#)sparc_assm.s	1.5	05/06/08 SMI"
-	.file		"sparc_assm.s"
+	.ident		"%Z%%M%	%I%	%E% SMI"
+	.file		"%M%"
 	.section	".data"
 	.align		4
 	.global		prb_callinfo

@@ -26,7 +26,7 @@
 #ifndef _FIOMP_H
 #define	_FIOMP_H
 
-#pragma ident	"@(#)fiomp.h	1.1	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

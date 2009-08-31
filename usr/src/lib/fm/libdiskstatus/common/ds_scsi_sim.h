@@ -26,7 +26,7 @@
 #ifndef	_DS_SCSI_SIM_H
 #define	_DS_SCSI_SIM_H
 
-#pragma ident	"@(#)ds_scsi_sim.h	1.1	07/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _DHCP6_H
 #define	_DHCP6_H
 
-#pragma ident	"@(#)dhcp6.h	1.1	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header file describes constants and on-the-wire data structures used

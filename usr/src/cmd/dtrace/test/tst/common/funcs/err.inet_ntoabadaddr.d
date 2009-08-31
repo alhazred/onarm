@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)err.inet_ntoabadaddr.d	1.1	07/05/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma D option quiet
 

@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_DYNDNS_H
 #define	_SMBSRV_DYNDNS_H
 
-#pragma ident	"@(#)smbns_dyndns.h	1.2	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <smbsrv/libsmbns.h>
 

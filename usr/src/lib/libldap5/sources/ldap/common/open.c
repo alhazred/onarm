@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)open.c	1.7	04/10/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

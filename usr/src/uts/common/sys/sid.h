@@ -31,7 +31,7 @@
 #ifndef _SYS_SID_H
 #define	_SYS_SID_H
 
-#pragma ident	"@(#)sid.h	1.4	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/avl.h>

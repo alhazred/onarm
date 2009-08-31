@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)auth.c	1.1	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 ** 2003 January 11

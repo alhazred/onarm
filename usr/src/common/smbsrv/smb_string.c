@@ -27,7 +27,7 @@
  * Implementation of some of the string functions.
  */
 
-#pragma ident	"@(#)smb_string.c	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef _KERNEL
 #include <sys/types.h>

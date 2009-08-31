@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)cuexit.s	1.12	05/06/08 SMI"	/* SVr4.0 1.7	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7	*/
 
 /* C library -- exit						*/
 /* void exit (int status);					*/

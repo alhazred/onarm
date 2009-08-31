@@ -24,7 +24,7 @@
  *
  */
 
-#pragma ident	"@(#)smb_common_transact.c	1.4	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <smbsrv/smb_incl.h>
 #include <smbsrv/smb_fsops.h>

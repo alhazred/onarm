@@ -27,7 +27,7 @@
 #ifndef	_SYS_AGGR_LACP_H
 #define	_SYS_AGGR_LACP_H
 
-#pragma ident	"@(#)aggr_lacp.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/aggr.h>
 #include <sys/ethernet.h>

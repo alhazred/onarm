@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)postinstall	1.1	05/12/05 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 if [ "$UPDATE" = yes ]; then
 	cat >> ${PKG_INSTALL_ROOT:-/}/var/svc/profile/upgrade <<-EOF

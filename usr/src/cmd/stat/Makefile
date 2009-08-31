@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.3	06/02/24 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/stat/Makefile
 #

@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)dellist.c	1.7	05/06/08 SMI"	/* SVr4.0 1.8	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8	*/
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "string.h"

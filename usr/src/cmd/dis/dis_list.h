@@ -27,7 +27,7 @@
 #ifndef	_DIS_LIST_H
 #define	_DIS_LIST_H
 
-#pragma ident	"@(#)dis_list.h	1.1	06/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libuutil.h>
 

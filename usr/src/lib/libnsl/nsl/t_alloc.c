@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)t_alloc.c	1.28	06/01/04 SMI"	/* SVr4.0 1.4.1.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4.1.2 */
 
 #include "mt.h"
 #include <stdlib.h>

@@ -27,7 +27,7 @@
 #ifndef _LIBZFS_JNI_DISK_H
 #define	_LIBZFS_JNI_DISK_H
 
-#pragma ident	"@(#)libzfs_jni_disk.h	1.2	06/02/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libzfs_jni_util.h>
 #include <libzfs_jni_diskmgt.h>

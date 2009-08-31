@@ -31,7 +31,7 @@
 #ifndef _SAC_H
 #define	_SAC_H
 
-#pragma ident	"@(#)sac.h	1.13	05/06/08 SMI"	/* SVr4.0 1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4 */
 
 #include <sys/types.h>
 

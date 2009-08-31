@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_UGEN_H
 #define	_SYS_USB_UGEN_H
 
-#pragma ident	"@(#)usb_ugen.h	1.4	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

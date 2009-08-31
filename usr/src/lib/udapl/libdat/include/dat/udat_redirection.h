@@ -32,7 +32,7 @@
 #ifndef _UDAT_REDIRECTION_H_
 #define	_UDAT_REDIRECTION_H_
 
-#pragma ident	"@(#)udat_redirection.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *

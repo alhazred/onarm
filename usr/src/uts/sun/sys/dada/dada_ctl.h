@@ -27,7 +27,7 @@
 #ifndef	_SYS_DADA_DADA_CTL_H
 #define	_SYS_DADA_DADA_CTL_H
 
-#pragma ident	"@(#)dada_ctl.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dada/dada_types.h>
 

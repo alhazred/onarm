@@ -4,7 +4,7 @@
  * Use is subject to license terms.
  *
  */
-#pragma ident	"@(#)log.h	1.4	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _LLOG_H
 #define _LLOG_H

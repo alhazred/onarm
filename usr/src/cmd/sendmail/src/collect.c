@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)collect.c	1.51	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 

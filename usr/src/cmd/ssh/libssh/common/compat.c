@@ -29,7 +29,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: compat.c,v 1.65 2002/09/27 10:42:09 mickey Exp $");
 
-#pragma ident	"@(#)compat.c	1.13	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "buffer.h"
 #include "packet.h"

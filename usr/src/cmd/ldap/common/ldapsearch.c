@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ldapsearch.c	1.13	03/12/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* 
  * The contents of this file are subject to the Netscape Public

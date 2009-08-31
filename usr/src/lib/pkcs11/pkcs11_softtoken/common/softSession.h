@@ -26,7 +26,7 @@
 #ifndef _SOFTSESSION_H
 #define	_SOFTSESSION_H
 
-#pragma ident	"@(#)softSession.h	1.13	06/05/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

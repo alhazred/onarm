@@ -26,7 +26,7 @@
 #ifndef _DEVFSADM_H
 #define	_DEVFSADM_H
 
-#pragma ident	"@(#)devfsadm.h	1.16	08/02/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <libdevinfo.h>

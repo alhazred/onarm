@@ -24,7 +24,7 @@
 
 
 /* Copyright (c) 1981 Regents of the University of California */
-#ident	"@(#)ex_temp.h	1.8	05/06/08 SMI"	/* SVr4.0 1.7	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7	*/
 /*
  * The editor uses a temporary file for files being edited, in a structure
  * similar to that of ed.  The first block of the file is used for a header

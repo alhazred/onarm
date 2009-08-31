@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.5	06/04/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Makefile definitions for Sun Fire 15000 Key Management Daemon (sckmd)
 #

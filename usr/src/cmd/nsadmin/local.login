@@ -22,6 +22,6 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)local.login	1.8	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 stty -istrip 
 # setenv TERM `tset -Q -`

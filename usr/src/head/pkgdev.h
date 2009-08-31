@@ -26,7 +26,7 @@
 #ifndef _PKGDEV_H
 #define	_PKGDEV_H
 
-#pragma ident	"@(#)pkgdev.h	1.11	05/06/08 SMI"	/* SVr4.0 1.2.1.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2.1.1 */
 
 #ifdef	__cplusplus
 extern "C" {

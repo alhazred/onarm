@@ -16,7 +16,7 @@
 #ifndef _ZUTIL_H
 #define _ZUTIL_H
 
-#pragma ident	"@(#)zutil.h	1.2	07/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define ZLIB_INTERNAL
 #include "zlib.h"

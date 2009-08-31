@@ -2,7 +2,7 @@
 # Copyright 2000, 2002 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.2	02/08/09 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 include ../Makefile.com

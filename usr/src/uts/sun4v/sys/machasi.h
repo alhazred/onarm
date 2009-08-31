@@ -27,7 +27,7 @@
 #ifndef _SYS_MACHASI_H
 #define	_SYS_MACHASI_H
 
-#pragma ident	"@(#)machasi.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * alternate address space identifiers

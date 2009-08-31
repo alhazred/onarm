@@ -6,7 +6,7 @@
 #ifndef _SYS_MPI_IOC_H
 #define	_SYS_MPI_IOC_H
 
-#pragma ident	"@(#)mpi_ioc.h	1.7	07/12/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

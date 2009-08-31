@@ -28,7 +28,7 @@
  * defined in vs_svc.c. It also contains some internal(static) functions.
  */
 
-#pragma ident	"@(#)vs_icap.c	1.2	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdarg.h>
 #include <stdio.h>

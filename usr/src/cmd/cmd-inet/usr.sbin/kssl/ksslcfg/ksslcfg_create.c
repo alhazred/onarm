@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ksslcfg_create.c	1.2	06/05/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <libscf.h>

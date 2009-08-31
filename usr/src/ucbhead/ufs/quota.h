@@ -44,7 +44,7 @@
 
 #ifndef _SYS_FS_UFS_QUOTA_H
 
-#pragma ident	"@(#)quota.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/fs/ufs_quota.h>

@@ -40,7 +40,7 @@
 #ifndef _SYS_DIR_H
 #define	_SYS_DIR_H
 
-#pragma ident	"@(#)dir.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/int_types.h>

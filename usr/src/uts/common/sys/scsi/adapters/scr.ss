@@ -25,7 +25,7 @@
 ;       Multi-threaded general purpose script for the
 ;	Symbios 53C825/875 host bus adapter chips.
 ;
-; ident	"@(#)scr.ss	1.20	05/06/08 SMI"
+; ident	"%Z%%M%	%I%	%E% SMI"
 
 	ARCH 825A
 

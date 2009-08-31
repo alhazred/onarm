@@ -36,7 +36,7 @@
  * $FreeBSD: src/sbin/routed/input.c,v 1.9 2001/06/06 20:52:30 phk Exp $
  */
 
-#pragma ident	"@(#)input.c	2.16	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "defs.h"
 #include <md5.h>

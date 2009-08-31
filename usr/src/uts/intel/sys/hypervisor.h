@@ -52,7 +52,7 @@
 #ifndef _SYS_HYPERVISOR_H
 #define	_SYS_HYPERVISOR_H
 
-#pragma ident	"@(#)hypervisor.h	1.5	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

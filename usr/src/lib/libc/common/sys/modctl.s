@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)modctl.s	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"modctl.s"
+	.file	"%M%"
 
 /* C library -- modctl						*/
 /* int modctl(int opcode, char *arg)				*/

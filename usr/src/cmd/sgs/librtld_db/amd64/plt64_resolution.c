@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)plt64_resolution.c	1.4	06/03/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<libelf.h>
 #include	<sys/reg.h>

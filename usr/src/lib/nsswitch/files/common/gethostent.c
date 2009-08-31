@@ -25,7 +25,7 @@
  * files/gethostent.c -- "files" backend for nsswitch "hosts" database
  */
 
-#pragma ident	"@(#)gethostent.c	1.26	06/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netdb.h>
 #include "files_common.h"

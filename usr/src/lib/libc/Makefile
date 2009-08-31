@@ -27,7 +27,7 @@
 # Copyright (c) 2007-2009 NEC Corporation
 #
 
-# ident	"@(#)Makefile	1.62	07/09/18 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBBASENAME=	libc

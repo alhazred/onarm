@@ -1,4 +1,4 @@
-#pragma ident	"@(#)asn1_misc.h	1.2	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * src/lib/krb5/asn.1/asn1_misc.h
  * 

@@ -27,7 +27,7 @@
 #ifndef _RDB_MACH_H
 #define	_RDB_MACH_H
 
-#pragma ident	"@(#)rdb_mach.h	1.3	05/06/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/regset.h>
 #include <sys/psw.h>

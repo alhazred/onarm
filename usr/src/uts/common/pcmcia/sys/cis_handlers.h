@@ -27,7 +27,7 @@
 #ifndef _CIS_HANDLERS_H
 #define	_CIS_HANDLERS_H
 
-#pragma ident	"@(#)cis_handlers.h	1.29	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

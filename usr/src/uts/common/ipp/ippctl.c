@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)ippctl.c	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * IP Policy Framework config driver
@@ -167,7 +167,7 @@ static	struct dev_ops	ippctl_dev_ops = {
 
 static	struct modldrv modldrv = {
 	&mod_driverops,
-	"IP Policy Configuration Driver v1.6",
+	"IP Policy Configuration Driver v%I%",
 	&ippctl_dev_ops,
 };
 

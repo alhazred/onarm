@@ -30,7 +30,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: auth-krb5.c,v 1.9 2002/09/09 06:48:06 itojun Exp $");
 
-#pragma ident	"@(#)auth-krb5.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ssh.h"
 #include "ssh1.h"

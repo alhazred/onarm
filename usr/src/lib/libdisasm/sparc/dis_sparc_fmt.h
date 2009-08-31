@@ -29,7 +29,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dis_sparc_fmt.h	1.1	07/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _DIS_SPARC_FMT_H
 #define	_DIS_SPARC_FMT_H

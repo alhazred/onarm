@@ -24,7 +24,7 @@
 # Copyright 1988 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Cvt	1.7	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # NOTE:	This script has probably outlived its usefulness, but in
 #	case it hasn't, it still references "old" pathnames,

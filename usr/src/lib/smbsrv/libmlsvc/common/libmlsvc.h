@@ -26,7 +26,7 @@
 #ifndef	_LIBMLSVC_H
 #define	_LIBMLSVC_H
 
-#pragma ident	"@(#)libmlsvc.h	1.3	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <smbsrv/ntsid.h>

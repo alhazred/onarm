@@ -27,7 +27,7 @@
 #ifndef	_SYS_FDMEDIA_H
 #define	_SYS_FDMEDIA_H
 
-#pragma ident	"@(#)fdmedia.h	1.11	05/06/08 SMI"
+#pragma ident	"%W%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

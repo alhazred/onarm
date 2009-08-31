@@ -27,7 +27,7 @@
 #ifndef _STDINT_H
 #define	_STDINT_H
 
-#pragma ident	"@(#)stdint.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header was introduced by the ISO C Standard, ISO/IEC

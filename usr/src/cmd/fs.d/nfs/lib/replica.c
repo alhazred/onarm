@@ -46,7 +46,7 @@
  * a parse error.
  */
 
-#pragma ident	"@(#)replica.c	1.10	05/07/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <malloc.h>

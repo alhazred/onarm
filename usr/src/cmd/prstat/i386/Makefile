@@ -26,7 +26,7 @@
 # cmd/prstat/i386/Makefile
 #
 
-#ident	"@(#)Makefile	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 .KEEP_STATE:
 

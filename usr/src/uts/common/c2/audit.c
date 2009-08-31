@@ -30,7 +30,7 @@
  * This file contains the audit hook support code for auditing.
  */
 
-#pragma ident	"@(#)audit.c	1.149	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/proc.h>

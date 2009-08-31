@@ -27,7 +27,7 @@
 #ifndef	_RDIMPL_H
 #define	_RDIMPL_H
 
-#pragma ident	"@(#)rdimpl.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sysmacros.h>
 #include <sys/time.h>

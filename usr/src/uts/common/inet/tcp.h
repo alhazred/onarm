@@ -27,7 +27,7 @@
 #ifndef	_INET_TCP_H
 #define	_INET_TCP_H
 
-#pragma ident	"@(#)tcp.h	1.106	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

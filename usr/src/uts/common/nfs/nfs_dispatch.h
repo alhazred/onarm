@@ -34,7 +34,7 @@
 #ifndef _NFS_DISPATCH_H
 #define	_NFS_DISPATCH_H
 
-#pragma ident	"@(#)nfs_dispatch.h	1.2	06/03/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

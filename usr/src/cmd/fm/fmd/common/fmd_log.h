@@ -27,7 +27,7 @@
 #ifndef	_FMD_LOG_H
 #define	_FMD_LOG_H
 
-#pragma ident	"@(#)fmd_log.h	1.5	05/12/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stat.h>

@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)av1394.wlcmd	1.3	06/11/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 one av1394_inst_s
 

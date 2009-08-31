@@ -32,7 +32,7 @@
 #ifndef	_REGEX_H
 #define	_REGEX_H
 
-#pragma ident	"@(#)regex.h	1.28	05/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

@@ -23,7 +23,7 @@
  * All rights reserved.  Use is subject to license terms.
  */
 
-#pragma ident	"@(#)drm_kstat.c	1.2	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "drmP.h"
 #include <sys/kstat.h>

@@ -29,7 +29,7 @@
  *
  */
 
-#ident	"@(#)var_arrays.h	1.6	05/06/08 SMI"       /* SVr4.0 1.2 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.2 */
 
 struct v_array {
 	unsigned short	tot_used;	/* number of elements used */

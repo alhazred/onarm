@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)depend	1.1	06/04/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This package information file defines software dependencies associated
 # with the pkg.  You can define three types of pkg dependencies with this file:

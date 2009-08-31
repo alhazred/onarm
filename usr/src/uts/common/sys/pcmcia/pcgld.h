@@ -44,7 +44,7 @@
 #ifndef	_SYS_PCMCIA_PCGLD_H
 #define	_SYS_PCMCIA_PCGLD_H
 
-#pragma ident	"@(#)pcgld.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

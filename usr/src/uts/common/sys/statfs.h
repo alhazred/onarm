@@ -30,7 +30,7 @@
 #ifndef _SYS_STATFS_H
 #define	_SYS_STATFS_H
 
-#pragma ident	"@(#)statfs.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

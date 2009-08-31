@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gettimeofday.s	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"gettimeofday.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

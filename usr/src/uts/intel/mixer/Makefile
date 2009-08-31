@@ -27,7 +27,7 @@
 #	This makefile drives the production of the audio mixer (mixer)
 #	Audio Personality Module.
 #
-#ident	"@(#)Makefile	1.10	07/07/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	Path to the base of the uts directory tree (usually /usr/src/uts).

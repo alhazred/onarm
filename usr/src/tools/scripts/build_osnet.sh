@@ -24,7 +24,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)build_osnet.sh	1.13	05/12/17 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This script can be used to build the ON component of the source product.
 # It should _not_ be used by developers, since it does not work with

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)if_zfs.c	1.4	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Methods for ZFS to notify the iSCSI Target about which ZVOLs

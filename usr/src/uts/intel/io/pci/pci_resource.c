@@ -27,7 +27,7 @@
  *		 the MP Spec. Table and Hotplug Resource Table
  */
 
-#pragma ident	"@(#)pci_resource.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/memlist.h>

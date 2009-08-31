@@ -27,7 +27,7 @@
 #ifndef _SYS_FS_CACHEFS_DIR_H
 #define	_SYS_FS_CACHEFS_DIR_H
 
-#pragma ident	"@(#)cachefs_dir.h	1.23	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/fs/cachefs_fs.h>

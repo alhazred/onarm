@@ -27,7 +27,7 @@
 #ifndef	_MOUNTD_H
 #define	_MOUNTD_H
 
-#pragma ident	"@(#)mountd.h	1.10	06/05/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <door.h>
 #include <nfs/nfs.h>

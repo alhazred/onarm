@@ -29,7 +29,7 @@
 #ifndef	_ATOMICIO_H
 #define	_ATOMICIO_H
 
-#pragma ident	"@(#)atomicio.h	1.1	07/11/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Ensure all of data on socket comes through. f==read || f==vwrite

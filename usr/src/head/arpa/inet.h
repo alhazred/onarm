@@ -34,7 +34,7 @@
 #ifndef _ARPA_INET_H
 #define	_ARPA_INET_H
 
-#pragma ident	"@(#)inet.h	1.24	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

@@ -33,7 +33,7 @@
 #ifndef _RPC_RAW_H
 #define	_RPC_RAW_H
 
-#pragma ident	"@(#)raw.h	1.11	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

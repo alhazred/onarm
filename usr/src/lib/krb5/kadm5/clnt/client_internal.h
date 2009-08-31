@@ -6,7 +6,7 @@
 #ifndef	__KADM5_CLIENT_INTERNAL_H__
 #define	__KADM5_CLIENT_INTERNAL_H__
 
-#pragma ident	"@(#)client_internal.h	1.5	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING

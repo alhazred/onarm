@@ -27,7 +27,7 @@
 #ifndef	_RPCSEC_DEFS_H
 #define	_RPCSEC_DEFS_H
 
-#pragma ident	"@(#)rpcsec_defs.h	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 1993 OpenVision Technologies, Inc., All Rights Reserved.

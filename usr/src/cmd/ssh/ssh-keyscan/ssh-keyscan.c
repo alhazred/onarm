@@ -13,7 +13,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: ssh-keyscan.c,v 1.40 2002/07/06 17:47:58 stevesk Exp $");
 
-#pragma ident	"@(#)ssh-keyscan.c	1.5	04/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "sys-queue.h"
 

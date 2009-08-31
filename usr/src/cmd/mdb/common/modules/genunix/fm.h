@@ -26,7 +26,7 @@
 #ifndef	_FM_H
 #define	_FM_H
 
-#pragma ident	"@(#)fm.h	1.1	06/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

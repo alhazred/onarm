@@ -6,7 +6,7 @@
 #ifndef	_SYS_AGPTARGET_IO_H
 #define	_SYS_AGPTARGET_IO_H
 
-#pragma ident	"@(#)agptarget_io.h	1.1	05/05/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

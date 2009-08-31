@@ -26,7 +26,7 @@
 #ifndef _SYS_FSR_H
 #define	_SYS_FSR_H
 
-#pragma ident	"@(#)fsr.h	1.4	05/06/08 SMI" /* from SunOS psl.h 1.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* from SunOS psl.h 1.2 */
 
 #ifdef	__cplusplus
 extern "C" {

@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)chroot.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"chroot.s"
+	.file	"%M%"
 
 /* C library -- chroot						*/
 /* int chroot(const char *path)					*/

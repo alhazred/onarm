@@ -28,7 +28,7 @@
 #
 #
 #
-# ident	"@(#)Makefile.com	1.42	06/08/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY= libnsl.a

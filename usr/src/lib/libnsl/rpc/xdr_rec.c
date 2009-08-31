@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)xdr_rec.c	1.45	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * xdr_rec.c, Implements (TCP/IP based) XDR streams with a "record marking"

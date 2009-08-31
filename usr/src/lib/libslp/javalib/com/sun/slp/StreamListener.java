@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)StreamListener.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)StreamListener.java	1.4	06/08/05
+//  SCCS Status:      %W%	%G%
 //  StreamListener.java: Listen to stream socket, spawn request to
 //			  handle incoming request.
 //  Author:           James Kempf
@@ -47,7 +47,7 @@ import java.io.*;
  * Listen on the SLP port for clients requesting a stream connection. Spawn
  * a request handler to handle the connection.
  *
- * @version 1.4 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf, Erik Guttman
  */
 

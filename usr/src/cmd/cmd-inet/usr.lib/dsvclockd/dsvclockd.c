@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dsvclockd.c	1.7	07/09/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * #define _POSIX_PTHREAD_SEMANTICS before #including <signal.h> so that we

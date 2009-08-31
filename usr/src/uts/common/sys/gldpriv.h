@@ -33,7 +33,7 @@
 #ifndef	_SYS_GLDPRIV_H
 #define	_SYS_GLDPRIV_H
 
-#pragma ident	"@(#)gldpriv.h	1.30	06/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

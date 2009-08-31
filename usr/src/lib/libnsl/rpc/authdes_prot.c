@@ -33,7 +33,7 @@
  * California.
  */
 
-#pragma ident	"@(#)authdes_prot.c	1.13	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * XDR routines for DES authentication

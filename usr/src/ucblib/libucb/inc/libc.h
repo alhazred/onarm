@@ -32,7 +32,7 @@
 #ifndef _LIBC_H
 #define	_LIBC_H
 
-#pragma ident	"@(#)libc.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdarg.h>

@@ -12,7 +12,7 @@
  *
  */
 
-#pragma ident	"@(#)statusd_shm.h	1.1	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  The shared memory part of statusd.

@@ -27,7 +27,7 @@
  *
  */
 
-#pragma ident	"@(#)rmc_comm_dp.c	1.5	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  Header files

@@ -27,7 +27,7 @@
 #ifndef	_SNOOP_PPP_H
 #define	_SNOOP_PPP_H
 
-#pragma ident	"@(#)snoop_ppp.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  Control Protocol (LCP, IPCP, etc.) message code numbers.

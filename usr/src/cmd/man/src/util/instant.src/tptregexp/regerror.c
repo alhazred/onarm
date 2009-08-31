@@ -1,5 +1,5 @@
 #include <stdio.h>
-#pragma ident	"@(#)regerror.c	1.2	00/05/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 void
 tpt_regerror(s)
 char *s;

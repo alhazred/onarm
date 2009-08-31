@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.PL	1.3	06/02/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 require 5.6.1;

@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)ldap_nisdbquery.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_LDAP_NISDBQUERY_H
 #define	_LDAP_NISDBQUERY_H

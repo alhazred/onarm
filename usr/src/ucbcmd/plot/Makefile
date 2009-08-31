@@ -22,7 +22,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.10	08/01/30 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG=	tek t4013 t300 t300s t450 aedplot bgplot dumbplot gigiplot \

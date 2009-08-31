@@ -26,7 +26,7 @@
 #ifndef	_NETSTACK_H
 #define	_NETSTACK_H
 
-#pragma ident	"@(#)netstack.h	1.1	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

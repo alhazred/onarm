@@ -7,7 +7,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)inet.h	1.11	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * External definitions for

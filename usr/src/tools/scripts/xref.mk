@@ -21,7 +21,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)xref.mk	1.10	07/10/23 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This Makefile is used exclusively by `xref' to generate and maintain
 # cross-reference databases (right now: cscope, ctags, and etags).

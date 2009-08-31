@@ -24,7 +24,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)compress.sh	1.7	05/06/08 SMI"	/* SVr4.0 1.3	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 #	compress - compress the spell program log
 
 trap 'rm -f /usr/tmp/spellhist;exit' 1 2 3 15

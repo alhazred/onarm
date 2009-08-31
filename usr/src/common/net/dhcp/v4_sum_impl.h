@@ -27,7 +27,7 @@
 #ifndef	_V4_SUM_IMPL_H
 #define	_V4_SUM_IMPL_H
 
-#pragma ident	"@(#)v4_sum_impl.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <netinet/in.h>

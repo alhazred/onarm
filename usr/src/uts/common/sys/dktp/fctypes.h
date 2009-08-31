@@ -26,7 +26,7 @@
 #ifndef _SYS_DKTP_FCTYPES_H
 #define	_SYS_DKTP_FCTYPES_H
 
-#pragma ident	"@(#)fctypes.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

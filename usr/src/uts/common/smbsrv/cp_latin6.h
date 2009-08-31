@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_CP_LATIN6_H
 #define	_SMBSRV_CP_LATIN6_H
 
-#pragma ident	"@(#)cp_latin6.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the codepage for the Latin-6 Character Set.

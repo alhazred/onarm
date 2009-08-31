@@ -27,7 +27,7 @@
 #ifndef	_SSC050_H
 #define	_SSC050_H
 
-#pragma ident	"@(#)ssc050.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

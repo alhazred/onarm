@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)libumem.c	1.9	06/03/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "umem.h"
 #include <libproc.h>

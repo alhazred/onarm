@@ -27,7 +27,7 @@
 #ifndef	_DAKTARI_H
 #define	_DAKTARI_H
 
-#pragma ident	"@(#)daktari.h	1.9	05/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

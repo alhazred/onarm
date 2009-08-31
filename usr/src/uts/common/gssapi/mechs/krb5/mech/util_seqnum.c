@@ -1,4 +1,4 @@
-#pragma ident	"@(#)util_seqnum.c	1.6	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
   * Copyright2001 by the Massachusetts Institute of Technology.

@@ -27,7 +27,7 @@
 #ifndef	_SYS_LIST_H
 #define	_SYS_LIST_H
 
-#pragma ident	"@(#)list.h	1.5	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/list_impl.h>
 

@@ -30,7 +30,7 @@
  *
  */
 
-#pragma ident	"@(#)rmc_comm_drvintf.c	1.8	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  Header files

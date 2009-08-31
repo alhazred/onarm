@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ucode_drv.c	1.1	07/07/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/file.h>
@@ -287,7 +287,7 @@ static struct dev_ops ucode_dv_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"ucode driver v1.1",
+	"ucode driver v%I%",
 	&ucode_dv_ops
 };
 

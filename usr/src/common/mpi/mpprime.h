@@ -49,7 +49,7 @@
 #ifndef _MP_PRIME_H
 #define _MP_PRIME_H
 
-#pragma ident	"@(#)mpprime.h	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mpi.h"
 

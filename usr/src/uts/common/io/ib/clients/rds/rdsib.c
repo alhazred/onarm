@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rdsib.c	1.4	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stat.h>
@@ -134,7 +134,7 @@ static struct dev_ops rdsib_ops = {
 /*
  * Module linkage information.
  */
-#define	RDS_DEVDESC	"RDS IB driver 1.4"
+#define	RDS_DEVDESC	"RDS IB driver %I%"
 static struct modldrv rdsib_modldrv = {
 	&mod_driverops,		/* Driver module */
 	RDS_DEVDESC,		/* Driver name and version */

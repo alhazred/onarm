@@ -33,7 +33,7 @@
 #ifndef	_SYS_AC97_H
 #define	_SYS_AC97_H
 
-#pragma ident	"@(#)ac97.h	1.4	06/03/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

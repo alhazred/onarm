@@ -25,7 +25,7 @@
 INSERT COMMENT
  */
 
-#pragma ident	"@(#)priv_defs	1.17	08/02/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Privileges can be added to this file at any location, not

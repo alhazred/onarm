@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma	ident	"@(#)sseblk.s	1.7	07/01/10 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 #include <sys/regset.h>

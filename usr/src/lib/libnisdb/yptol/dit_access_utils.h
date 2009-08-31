@@ -27,7 +27,7 @@
 #ifndef _DIT_ACCESS_UTILS_H
 #define	_DIT_ACCESS_UTILS_H
 
-#pragma ident	"@(#)dit_access_utils.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

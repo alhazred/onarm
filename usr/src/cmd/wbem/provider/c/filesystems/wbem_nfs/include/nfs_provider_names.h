@@ -27,7 +27,7 @@
 #ifndef _NFS_PROVIDER_NAMES_H
 #define	_NFS_PROVIDER_NAMES_H
 
-#pragma ident	"@(#)nfs_provider_names.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -28,7 +28,7 @@
  * stats using the fmd's stats API.
  */
 
-#pragma ident	"@(#)stats.c	1.6	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <strings.h>

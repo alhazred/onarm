@@ -60,7 +60,7 @@
  *
  */
 
-#pragma ident	"@(#)smc93cx6.c	1.1	07/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

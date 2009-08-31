@@ -26,7 +26,7 @@
 #ifndef _TOPO_PROP_H
 #define	_TOPO_PROP_H
 
-#pragma ident	"@(#)topo_prop.h	1.3	07/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/libtopo.h>
 

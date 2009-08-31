@@ -26,7 +26,7 @@
 #ifndef _SMB_TOKEN_H
 #define	_SMB_TOKEN_H
 
-#pragma ident	"@(#)smb_token.h	1.2	08/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <smbsrv/netrauth.h>
 #include <smbsrv/smb_privilege.h>

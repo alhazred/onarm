@@ -25,7 +25,7 @@
  */
 
 /*
- * ident	"@(#)prototype.java	1.13	08/02/01 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  */
 
 /*

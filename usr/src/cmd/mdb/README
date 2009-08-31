@@ -23,7 +23,7 @@
 Copyright (c) 1999 by Sun Microsystems, Inc.
 All rights reserved.
 
-#ident	"@(#)README	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 mdb(1) is an extensible utility for low-level debugging and editing of the
 live operating system, operating system crash dumps, user processes, user

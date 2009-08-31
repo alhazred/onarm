@@ -33,7 +33,7 @@
 #ifndef	_NFS_NFS_H
 #define	_NFS_NFS_H
 
-#pragma ident	"@(#)nfs.h	1.152	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*	nfs.h 2.38 88/08/19 SMI 	*/
 
 #include <sys/isa_defs.h>

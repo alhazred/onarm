@@ -27,7 +27,7 @@
 #ifndef _MCAMD_H
 #define	_MCAMD_H
 
-#pragma ident	"@(#)mcamd.h	1.7	07/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Header file for the mc-amd AMD memory-controller driver.  This should be

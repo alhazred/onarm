@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)quot.c	1.31	05/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * quot

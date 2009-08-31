@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)pcs.c	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/byteorder.h>
@@ -62,7 +62,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module. This one is a driver */
-	"PCMCIA Socket Driver 1.8",	/* Name of the module. */
+	"PCMCIA Socket Driver %I%",	/* Name of the module. */
 	&pcs_devops,		/* driver ops */
 };
 

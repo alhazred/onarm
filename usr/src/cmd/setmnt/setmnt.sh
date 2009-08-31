@@ -25,7 +25,7 @@
 #	Copyright (c) 1999, Sun Microsystems Inc.
 #
 
-#ident	"@(#)setmnt.sh	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 echo "setmnt: Error: deprecated utility" >&2
 exit 1

@@ -27,7 +27,7 @@
 #ifndef	_ELFRD_H
 #define	_ELFRD_H
 
-#pragma ident	"@(#)elfrd.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 struct libpath *add_libpath(struct libpath *, char *, int);
 struct libpath *stk_libpath(struct libpath *, char *, int);

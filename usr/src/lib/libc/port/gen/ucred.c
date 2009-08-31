@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ucred.c	1.11	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak ucred_free	 = _ucred_free
 #pragma weak ucred_get	 = _ucred_get

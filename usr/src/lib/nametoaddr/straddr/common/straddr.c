@@ -31,7 +31,7 @@
  */
 
 
-#pragma ident	"@(#)straddr.c	1.26	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <ctype.h>
 #include <stdio.h>

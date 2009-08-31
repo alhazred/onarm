@@ -27,7 +27,7 @@
 #ifndef	_sys_mount_h
 #define	_sys_mount_h
 
-#pragma ident	"@(#)mount.h	1.7	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * mount options

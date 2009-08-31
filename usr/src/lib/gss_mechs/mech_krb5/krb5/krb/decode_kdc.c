@@ -1,4 +1,4 @@
-#pragma ident	"@(#)decode_kdc.c	1.3	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/krb/decode_kdc.c
  *

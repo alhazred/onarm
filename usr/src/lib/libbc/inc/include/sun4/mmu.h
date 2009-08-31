@@ -27,7 +27,7 @@
 #ifndef	_SUN4_MMU_H
 #define	_SUN4_MMU_H
 
-#pragma ident	"@(#)mmu.h	1.35	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

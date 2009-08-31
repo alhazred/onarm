@@ -23,7 +23,7 @@
 #ifndef _RES_DEBUG_H_
 #define _RES_DEBUG_H_
 
-#pragma ident	"@(#)res_debug.h	1.2	01/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef DEBUG
 #   define Dprint(cond, args) /*empty*/

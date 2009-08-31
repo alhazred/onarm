@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)usbkbm.c	1.43	07/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * USB keyboard input streams module - processes USB keypacket
@@ -144,7 +144,7 @@ static struct fmodsw fsw = {
  */
 static struct modlstrmod modlstrmod = {
 	&mod_strmodops,
-	"USB keyboard streams 1.43",
+	"USB keyboard streams %I%",
 	&fsw
 };
 

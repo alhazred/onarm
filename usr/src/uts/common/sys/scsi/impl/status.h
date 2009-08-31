@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCSI_IMPL_STATUS_H
 #define	_SYS_SCSI_IMPL_STATUS_H
 
-#pragma ident	"@(#)status.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

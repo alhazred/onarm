@@ -26,7 +26,7 @@
 #ifndef _NLIST_H
 #define	_NLIST_H
 
-#pragma ident	"@(#)nlist.h	1.11	05/06/08 SMI"	/* SVr4.0 1.8.2.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8.2.4 */
 
 #ifdef	__cplusplus
 extern "C" {

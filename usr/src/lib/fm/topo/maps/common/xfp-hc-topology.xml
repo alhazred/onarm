@@ -23,7 +23,7 @@
 
  CDDL HEADER END
 
-	ident	"@(#)xfp-hc-topology.xml	1.1	07/09/13 SMI"
+	ident	"%Z%%M%	%I%	%E% SMI"
 -->
 
 <topology name='xfp' scheme='hc'>

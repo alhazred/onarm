@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)fssnap.c	1.32	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/debug.h>
 #include <sys/types.h>
@@ -239,7 +239,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv md = {
 	&mod_driverops, /* Type of module. This is a driver */
-	"snapshot driver 1.32", 	/* Name of the module */
+	"snapshot driver %I%", 	/* Name of the module */
 	&snap_ops,
 };
 

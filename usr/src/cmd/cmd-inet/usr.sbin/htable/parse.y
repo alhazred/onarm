@@ -35,7 +35,7 @@
  */
 
 %{
-#ident	"@(#)parse.y	1.5	05/08/30 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "htable.h"
 %}

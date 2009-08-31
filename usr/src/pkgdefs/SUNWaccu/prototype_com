@@ -23,7 +23,7 @@
 # Copyright (c) 1990-93, 1996, 1998 Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)prototype_com	1.20	06/12/13 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This required package information file contains a list of package contents.
 # The 'pkgmk' command uses this file to identify the contents of a package

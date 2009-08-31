@@ -27,7 +27,7 @@
 #ifndef	_PCSAMPLE_H
 #define	_PCSAMPLE_H
 
-#pragma ident	"@(#)pcsample.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

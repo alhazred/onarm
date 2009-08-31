@@ -27,7 +27,7 @@
 #ifndef _SATA_CFGADM_H
 #define	_SATA_CFGADM_H
 
-#pragma ident	"@(#)sata_cfgadm.h	1.1	06/01/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

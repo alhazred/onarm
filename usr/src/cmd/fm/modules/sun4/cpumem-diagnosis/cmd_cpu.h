@@ -26,7 +26,7 @@
 #ifndef _CMD_CPU_H
 #define	_CMD_CPU_H
 
-#pragma ident	"@(#)cmd_cpu.h	1.19	07/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Each CPU of interest has a cmd_cpu_t structure.  CPUs become of interest when

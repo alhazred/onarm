@@ -30,7 +30,7 @@
 
 /* A panels subsystem built on curses--Update the pile of panels */
 
-#pragma ident	"@(#)update.c	1.7	05/06/08 SMI"	/* SVr4.0 1.3	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 
 /*LINTLIBRARY*/
 

@@ -32,7 +32,7 @@
 #ifndef	_CTLR_ATA_H
 #define	_CTLR_ATA_H
 
-#pragma ident	"@(#)ctlr_ata.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

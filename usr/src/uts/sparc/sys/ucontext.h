@@ -31,7 +31,7 @@
 #ifndef _SYS_UCONTEXT_H
 #define	_SYS_UCONTEXT_H
 
-#pragma ident	"@(#)ucontext.h	1.33	05/06/08 SMI"	/* from SVr4.0 1.10 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVr4.0 1.10 */
 
 #include <sys/feature_tests.h>
 

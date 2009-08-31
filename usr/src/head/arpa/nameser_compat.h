@@ -69,7 +69,7 @@
 #ifndef _ARPA_NAMESER_COMPAT_H
 #define	_ARPA_NAMESER_COMPAT_H
 
-#pragma ident	"@(#)nameser_compat.h	1.15	05/09/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

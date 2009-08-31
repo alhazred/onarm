@@ -58,7 +58,7 @@
  * Casper Dik (Casper.Dik@Holland.Sun.COM)
  */
 
-#pragma ident	"@(#)pmodes.c	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <unistd.h>

@@ -50,7 +50,7 @@
 #ifndef __SPPP_H
 #define	__SPPP_H
 
-#pragma ident	"@(#)sppp.h	1.6	07/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dlpi.h>
 #include <net/ppp_defs.h>

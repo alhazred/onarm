@@ -27,7 +27,7 @@
 #ifndef	_base_conversion_h
 #define	_base_conversion_h
 
-#pragma ident	"@(#)base_conversion.h	1.4	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <errno.h>
 

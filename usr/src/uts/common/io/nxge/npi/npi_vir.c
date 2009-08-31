@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)npi_vir.c	1.3	07/05/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <npi_vir.h>
 

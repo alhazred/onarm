@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)labelit.c	1.25	05/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Label a file system volume.

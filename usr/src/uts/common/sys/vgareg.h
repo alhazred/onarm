@@ -27,7 +27,7 @@
 #ifndef	_SYS_VGAREG_H
 #define	_SYS_VGAREG_H
 
-#pragma ident	"@(#)vgareg.h	1.19	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

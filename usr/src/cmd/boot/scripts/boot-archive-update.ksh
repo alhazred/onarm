@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)boot-archive-update.ksh	1.2	07/11/29 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 . /lib/svc/share/smf_include.sh
 . /lib/svc/share/fs_include.sh

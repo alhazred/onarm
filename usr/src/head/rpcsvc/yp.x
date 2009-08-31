@@ -26,7 +26,7 @@
  *	All Rights Reserved.
  */
 
-%#pragma ident	"@(#)yp.x	1.6	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Protocol description file for the Network Information Services

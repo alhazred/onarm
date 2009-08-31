@@ -10,7 +10,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_fil.h	1.8	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	__IP_FIL_H__
 #define	__IP_FIL_H__

@@ -30,7 +30,7 @@
 #ifndef	_LIBTSNET_H
 #define	_LIBTSNET_H
 
-#pragma ident	"@(#)libtsnet.h	1.2	07/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <sys/tsol/tndb.h>

@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)prototype_doc	1.1	07/08/13 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 d none usr/share/lib/java/javadoc 0755 root other
 d none usr/share/lib/java/javadoc/dnssd 0755 root other

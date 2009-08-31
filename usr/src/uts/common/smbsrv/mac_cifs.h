@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_MAC_CIFS_H
 #define	_SMBSRV_MAC_CIFS_H
 
-#pragma ident	"@(#)mac_cifs.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file provides definitions for the Macintosh Extensions for CIFS

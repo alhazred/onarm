@@ -27,7 +27,7 @@
 #ifndef _CACHEFS_LIB_STATS_H
 #define	_CACHEFS_LIB_STATS_H
 
-#pragma ident	"@(#)stats.h	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

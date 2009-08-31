@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)t6.c	1.10	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * t6.c

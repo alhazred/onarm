@@ -16,12 +16,12 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)conf.c	1.86	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 
 SM_RCSID("@(#)$Id: conf.c,v 8.1136 2007/10/10 00:06:45 ca Exp $")
-SM_IDSTR(i2, "@(#)conf.c	1.86 (Sun) 11/02/07")
+SM_IDSTR(i2, "%W% (Sun) %G%")
 
 #include <sm/sendmail.h>
 #include <sendmail/pathnames.h>

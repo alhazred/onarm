@@ -26,6 +26,6 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)llib-lmd5	1.4	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <md5.h>

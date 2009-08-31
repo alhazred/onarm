@@ -24,7 +24,7 @@
    * Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
    * Use is subject to license terms.
    *
-   * ident	"@(#)volume-defaults.dtd	1.2	05/06/10 SMI"
+   * ident	"%Z%%M%	%I%	%E% SMI"
    *
    * Describes the system- and diskset-wide defaults for new volume
    * requests used by metassist(1M).  Both global and diskset-specific

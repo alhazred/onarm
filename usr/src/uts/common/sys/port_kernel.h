@@ -27,7 +27,7 @@
 #ifndef	_SYS_PORT_KERNEL_H
 #define	_SYS_PORT_KERNEL_H
 
-#pragma ident	"@(#)port_kernel.h	1.9	07/08/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/vnode.h>
 #include <sys/list.h>

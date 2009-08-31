@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)power.c	1.22	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Power Button Driver
@@ -228,7 +228,7 @@ static struct dev_ops power_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"power button driver v1.22",	/* name of module */
+	"power button driver v%I%",	/* name of module */
 	&power_ops,		/* driver ops */
 };
 

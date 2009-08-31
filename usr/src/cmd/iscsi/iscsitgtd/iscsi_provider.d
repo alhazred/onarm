@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)iscsi_provider.d	1.1	07/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef struct uiscsiproto {
 	int dummy;

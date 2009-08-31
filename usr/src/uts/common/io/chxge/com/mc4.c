@@ -25,7 +25,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)mc4.c	1.4	07/03/15 SMI"	/* mc4.c */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* mc4.c */
 
 #include "common.h"
 #include "regs.h"

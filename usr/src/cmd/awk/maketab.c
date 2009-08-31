@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)maketab.c	1.10	05/07/27 SMI"	/* SVr4.0 2.5	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 2.5	*/
 
 #include <stdio.h>
 #include <string.h>

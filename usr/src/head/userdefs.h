@@ -31,7 +31,7 @@
 #ifndef	_USERDEFS_H
 #define	_USERDEFS_H
 
-#pragma ident	"@(#)userdefs.h	1.20	05/06/08 SMI"	/* SVr4.0 1.7.1.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.7.1.1 */
 
 #include <project.h>
 

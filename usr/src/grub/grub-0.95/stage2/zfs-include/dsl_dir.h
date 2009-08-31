@@ -24,7 +24,7 @@
 #ifndef	_SYS_DSL_DIR_H
 #define	_SYS_DSL_DIR_H
 
-#pragma ident	"@(#)dsl_dir.h	1.2	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef struct dsl_dir_phys {
 	uint64_t dd_creation_time; /* not actually used */

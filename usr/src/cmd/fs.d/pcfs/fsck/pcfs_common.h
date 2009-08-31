@@ -27,7 +27,7 @@
 #ifndef _PCFS_COMMON_H
 #define	_PCFS_COMMON_H
 
-#pragma ident	"@(#)pcfs_common.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Common routines for the pcfs user-level utilities

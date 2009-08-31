@@ -26,7 +26,7 @@
 #ifndef	_SYS_FD_DEBUG_H
 #define	_SYS_FD_DEBUG_H
 
-#pragma ident	"@(#)fd_debug.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

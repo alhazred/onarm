@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.2	06/09/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/brand/lx/librtld_db/amd64/Makefile
 

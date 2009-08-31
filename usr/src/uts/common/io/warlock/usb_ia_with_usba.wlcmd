@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)usb_ia_with_usba.wlcmd	1.4	07/08/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 
 one ohci_state

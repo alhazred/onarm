@@ -26,7 +26,7 @@
 #ifndef _SYS_HSVC_H
 #define	_SYS_HSVC_H
 
-#pragma ident	"@(#)hsvc.h	1.5	07/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

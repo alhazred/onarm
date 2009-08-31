@@ -27,7 +27,7 @@
 #ifndef	_LIBFS_IMPL_H
 #define	_LIBFS_IMPL_H
 
-#pragma ident	"@(#)libzfs_impl.h	1.25	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dmu.h>
 #include <sys/fs/zfs.h>

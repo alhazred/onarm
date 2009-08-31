@@ -26,7 +26,7 @@
 #ifndef _SOFTKEYSTORE_H
 #define	_SOFTKEYSTORE_H
 
-#pragma ident	"@(#)softKeystore.h	1.5	06/05/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

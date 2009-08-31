@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.4	07/03/23 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 ARCH = sun4u
 include ../../sun4/pcibus/Makefile.pci

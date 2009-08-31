@@ -27,7 +27,7 @@
 #ifndef _IA32_SYS_KDI_REGS_H
 #define	_IA32_SYS_KDI_REGS_H
 
-#pragma ident	"@(#)kdi_regs.h	1.1	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

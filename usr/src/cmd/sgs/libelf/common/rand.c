@@ -28,7 +28,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)rand.c	1.10	05/06/08 SMI" 	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.2	*/
 
 #pragma weak	elf_rand = _elf_rand
 

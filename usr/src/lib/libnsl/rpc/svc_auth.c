@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)svc_auth.c	1.27	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * svc_auth.c, Server-side rpc authenticator interface.

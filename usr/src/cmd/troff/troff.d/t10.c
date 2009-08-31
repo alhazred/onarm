@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)t10.c	1.12	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "tdef.h"
 #include <ctype.h>

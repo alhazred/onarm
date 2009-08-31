@@ -34,7 +34,7 @@
  * California.
  */
 
-#pragma ident	"@(#)yp_b_xdr.c	1.12	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <rpc/rpc.h>

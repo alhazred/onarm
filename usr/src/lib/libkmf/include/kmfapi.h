@@ -30,7 +30,7 @@
 #ifndef _KMFAPI_H
 #define	_KMFAPI_H
 
-#pragma ident	"@(#)kmfapi.h	1.7	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kmftypes.h>
 #include <security/cryptoki.h>

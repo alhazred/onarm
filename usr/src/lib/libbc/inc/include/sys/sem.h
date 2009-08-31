@@ -30,7 +30,7 @@
 #ifndef _sys_sem_h
 #define	_sys_sem_h
 
-#pragma ident	"@(#)sem.h	1.15	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	IPC Semaphore Facility.

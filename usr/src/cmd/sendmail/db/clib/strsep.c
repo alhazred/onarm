@@ -43,11 +43,11 @@
 
 #include "config.h"
 
-#pragma ident	"@(#)strsep.c	1.2	98/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
 static const char sccsid[] = "@(#)strsep.c	10.1 (Sleepycat) 4/12/97";
-static const char sccsi2[] = "@(#)strsep.c	1.2 (Sun) 04/02/98";
+static const char sccsi2[] = "%W% (Sun) %G%";
 #endif /* not lint */
 
 #ifndef NO_SYSTEM_INCLUDES

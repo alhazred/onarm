@@ -35,7 +35,7 @@
 #ifndef	SM_TAILQ_H_
 #define	SM_TAILQ_H_
 
-#pragma ident	"@(#)tailq.h	1.2	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * $Id: tailq.h,v 1.2 2007/06/29 23:09:57 ca Exp $

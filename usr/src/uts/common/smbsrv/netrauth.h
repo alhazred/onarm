@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_NETRAUTH_H
 #define	_SMBSRV_NETRAUTH_H
 
-#pragma ident	"@(#)netrauth.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

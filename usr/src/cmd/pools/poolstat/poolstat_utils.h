@@ -27,7 +27,7 @@
 #ifndef	_POOLSTAT_UTILS_H
 #define	_POOLSTAT_UTILS_H
 
-#pragma ident	"@(#)poolstat_utils.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 

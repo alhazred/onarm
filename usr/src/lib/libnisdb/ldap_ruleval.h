@@ -27,7 +27,7 @@
 #ifndef	_LDAP_RULEVAL_H
 #define	_LDAP_RULEVAL_H
 
-#pragma ident	"@(#)ldap_ruleval.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -32,7 +32,7 @@
 
 /*	from UCB 4.1 82/12/28	*/
 
-#pragma ident	"@(#)maperror.c	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * XError codes from 4.1

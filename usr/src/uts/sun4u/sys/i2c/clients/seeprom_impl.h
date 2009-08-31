@@ -27,7 +27,7 @@
 #ifndef _SEEPROM_IMPL_H
 #define	_SEEPROM_IMPL_H
 
-#pragma ident	"@(#)seeprom_impl.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_so_socketpair.s	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_so_socketpair.s"
+	.file	"%M%"
 
 /* C library -- _so_socketpair					*/
 /*

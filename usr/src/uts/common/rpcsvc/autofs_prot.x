@@ -23,7 +23,7 @@
 % * Use is subject to license terms.
 % */
 %
-%#pragma ident	"@(#)autofs_prot.x	1.22	07/01/02 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 %#include <sys/vfs.h>
 %#include <sys/dirent.h>

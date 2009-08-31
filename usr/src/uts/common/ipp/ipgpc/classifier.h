@@ -27,7 +27,7 @@
 #ifndef _IPP_IPGPC_CLASSIFIER_H
 #define	_IPP_IPGPC_CLASSIFIER_H
 
-#pragma ident	"@(#)classifier.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/cmn_err.h>

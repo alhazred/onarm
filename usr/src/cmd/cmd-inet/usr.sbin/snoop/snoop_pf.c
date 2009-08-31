@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)snoop_pf.c	1.30	07/01/16 SMI"	/* SunOS	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS	*/
 
 #include <stdio.h>
 #include <stddef.h>

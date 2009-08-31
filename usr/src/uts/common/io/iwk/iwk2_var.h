@@ -29,7 +29,7 @@
 #ifndef _IWK_VAR_H
 #define	_IWK_VAR_H
 
-#pragma ident	"@(#)iwk2_var.h	1.1	08/03/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

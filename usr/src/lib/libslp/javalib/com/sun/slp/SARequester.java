@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SARequester.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)SARequester.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SARequester.java: Requester operations for SA.
 //  Author:           James Kempf
 //  Created On:       Thu Jan  8 14:59:41 1998
@@ -47,7 +47,7 @@ import java.util.*;
  * by calling into the loopback I/O so the SA server does
  * the registration.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author Erik Guttman, James Kempf
  */
 

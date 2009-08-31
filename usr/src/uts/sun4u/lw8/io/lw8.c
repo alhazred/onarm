@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lw8.c	1.9	06/09/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/time.h>
 #include <sys/errno.h>
@@ -131,7 +131,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* Type of module. This is a driver */
-	"Netra-T12 control driver v1.9",	/* Name of the module */
+	"Netra-T12 control driver v%I%",	/* Name of the module */
 	&lw8_ops			/* pointer to the dev_ops structure */
 };
 

@@ -26,7 +26,7 @@
 #ifndef	_RDS_KSTAT_H
 #define	_RDS_KSTAT_H
 
-#pragma ident	"@(#)rds_kstat.h	1.1	06/12/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

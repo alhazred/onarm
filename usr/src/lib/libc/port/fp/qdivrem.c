@@ -35,7 +35,7 @@
  * SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)qdivrem.c	1.3	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Multiprecision divide.  This algorithm is from Knuth vol. 2 (2nd ed),

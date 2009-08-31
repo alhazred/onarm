@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)vuidmice.c	1.22	07/10/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

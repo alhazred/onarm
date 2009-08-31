@@ -3,7 +3,7 @@
 #ifndef	_AUTH_PAM_H
 #define	_AUTH_PAM_H
 
-#pragma ident	"@(#)auth-pam.h	1.8	04/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

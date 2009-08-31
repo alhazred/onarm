@@ -1,6 +1,6 @@
 // Copyright (c) 1994, 1997 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)XMLCodingSystem.cxx	1.3	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __GNUG__
 #pragma implementation

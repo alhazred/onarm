@@ -26,7 +26,7 @@
 #ifndef _SYS_LINUX_LDT_H
 #define	_SYS_LINUX_LDT_H
 
-#pragma ident	"@(#)lx_ldt.h	1.1	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/segments.h>
 

@@ -47,7 +47,7 @@
  *	share the code, we should make use of it.
  */
 
-#pragma ident	"@(#)getnetgrent.c	1.22	07/10/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <string.h>

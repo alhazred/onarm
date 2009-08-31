@@ -27,7 +27,7 @@
 #ifndef	_SOL_MPXIOCTRLRLOGICALIDENTITY_H_
 #define	_SOL_MPXIOCTRLRLOGICALIDENTITY_H_
 
-#pragma ident	"@(#)Sol_MPXIOCtrlrLogicalIdentity.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

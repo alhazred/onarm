@@ -26,7 +26,7 @@
 #ifndef _SYS_CLOCK_H
 #define	_SYS_CLOCK_H
 
-#pragma ident	"@(#)clock.h	1.27	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

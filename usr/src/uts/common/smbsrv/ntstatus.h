@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_NTSTATUS_H
 #define	_SMBSRV_NTSTATUS_H
 
-#pragma ident	"@(#)ntstatus.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines the list of NT status codes.

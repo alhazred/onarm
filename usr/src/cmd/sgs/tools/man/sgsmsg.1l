@@ -1,4 +1,4 @@
-.\" ident	"@(#)sgsmsg.1l	1.8	05/06/08 SMI"
+.\" ident	"%Z%%M%	%I%	%E% SMI"
 .\" Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 .\" Use is subject to license terms.
 .\"
@@ -229,7 +229,7 @@ strings used by
 .ft 1
 .if t .sp 0.35
 .if n .sp
-# ident "@(#)sgsmsg.1l 1.8    05/06/08 SMI"
+# ident "%Z%%M% %I%    %E% SMI"
 .if t .sp 0.35
 .if n .sp
 @ _START_

@@ -26,7 +26,7 @@
 #ifndef	_SMBSRV_SMBFMT_H
 #define	_SMBSRV_SMBFMT_H
 
-#pragma ident	"@(#)smbfmt.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SMB message header formats.

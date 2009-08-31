@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)pcishpc.c	1.9	07/03/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * PCISHPC - The Standard PCI HotPlug Controller driver module. This driver
@@ -302,7 +302,7 @@ static int pcishpc_debug_enabled = 0;
 extern struct mod_ops mod_miscops;
 static struct modlmisc modlmisc = {
 	&mod_miscops,
-	"PCI SHPC hotplug module v1.9",
+	"PCI SHPC hotplug module v%I%",
 };
 
 /* Module linkage information for the kernel */

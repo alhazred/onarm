@@ -28,7 +28,7 @@
 #ifndef _TAR_H
 #define	_TAR_H
 
-#pragma ident	"@(#)tar.h	1.10	06/04/28 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
 ! CDDL HEADER END
 !
 ! 
-! .ident	"@(#)__quad.il	1.2	05/06/08 SMI"
+! .ident	"%Z%%M%	%I%	%E% SMI"
 !
 ! This file contains inline templates for the internal routines used
 ! by the quad precision emulation code for SPARC.  It should be used

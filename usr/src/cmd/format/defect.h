@@ -27,7 +27,7 @@
 #ifndef	_DEFECT_H
 #define	_DEFECT_H
 
-#pragma ident	"@(#)defect.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

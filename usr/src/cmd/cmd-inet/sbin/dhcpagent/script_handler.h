@@ -26,7 +26,7 @@
 #ifndef	SCRIPT_HANDLER_H
 #define	SCRIPT_HANDLER_H
 
-#pragma ident	"@(#)script_handler.h	1.3	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "common.h"
 

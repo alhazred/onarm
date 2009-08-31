@@ -26,7 +26,7 @@
 #ifndef	_CONFIGD_H
 #define	_CONFIGD_H
 
-#pragma ident	"@(#)configd.h	1.12	08/02/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <bsm/adt.h>
 #include <door.h>

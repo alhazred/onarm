@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SrvLocMsgImpl.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)SrvLocMsgImpl.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SrvLocMsgImpl.java:  SrvLocMsg implementation.
 //  Author:           James Kempf
 //  Created On:       Tue Sep 15 10:06:27 1998
@@ -44,7 +44,7 @@ import java.util.*;
  * The SrvLocMsgImpl class is the base class for all SLPv2 side SrvLocMsg
  * implementations.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

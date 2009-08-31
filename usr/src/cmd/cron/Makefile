@@ -27,7 +27,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-# ident	"@(#)Makefile	1.37	07/06/18 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 DEFAULTFILES =	cron.dfl

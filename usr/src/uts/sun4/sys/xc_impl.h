@@ -27,7 +27,7 @@
 #ifndef	_SYS_XC_IMPL_H
 #define	_SYS_XC_IMPL_H
 
-#pragma ident	"@(#)xc_impl.h	1.47	06/02/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

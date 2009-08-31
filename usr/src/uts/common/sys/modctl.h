@@ -30,7 +30,7 @@
 #ifndef	_SYS_MODCTL_H
 #define	_SYS_MODCTL_H
 
-#pragma ident	"@(#)modctl.h	1.118	08/02/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * loadable module support.

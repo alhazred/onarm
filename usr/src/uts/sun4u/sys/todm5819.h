@@ -27,7 +27,7 @@
 #ifndef	_TODM5819_H
 #define	_TODM5819_H
 
-#pragma ident	"@(#)todm5819.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

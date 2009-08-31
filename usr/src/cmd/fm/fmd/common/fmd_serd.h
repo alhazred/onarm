@@ -27,7 +27,7 @@
 #ifndef	_FMD_SERD_H
 #define	_FMD_SERD_H
 
-#pragma ident	"@(#)fmd_serd.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

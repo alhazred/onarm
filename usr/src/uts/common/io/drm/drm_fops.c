@@ -41,7 +41,7 @@
 
 /* END CSTYLED */
 
-#pragma ident	"@(#)drm_fops.c	1.3	08/02/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "drmP.h"
 

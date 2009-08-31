@@ -27,7 +27,7 @@
 #ifndef	_FMD_API_H
 #define	_FMD_API_H
 
-#pragma ident	"@(#)fmd_api.h	1.9	07/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <libnvpair.h>

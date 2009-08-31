@@ -25,9 +25,9 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)abs.s	1.12	06/01/02 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"abs.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

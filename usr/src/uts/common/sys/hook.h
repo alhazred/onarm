@@ -30,7 +30,7 @@
 #ifndef _SYS_HOOK_H
 #define	_SYS_HOOK_H
 
-#pragma ident	"@(#)hook.h	1.2	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/queue.h>
 #include <sys/netstack.h>

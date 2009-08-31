@@ -27,7 +27,7 @@
 #ifndef _SYS_DCD_CONF_AUTOCONF_H
 #define	_SYS_DCD_CONF_AUTOCONF_H
 
-#pragma ident	"@(#)autoconf.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

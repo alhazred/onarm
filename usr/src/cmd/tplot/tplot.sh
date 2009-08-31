@@ -24,7 +24,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)tplot.sh	1.5	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 case $1 in
 -T*)	t=$1

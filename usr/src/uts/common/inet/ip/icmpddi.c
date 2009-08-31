@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)icmpddi.c	1.46	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -37,8 +37,8 @@
 #include <inet/ip.h>
 
 #define	INET_NAME	"icmp"
-#define	INET_MODDESC	"ICMP dummy STREAMS module 1.46"
-#define	INET_DEVDESC	"ICMP STREAMS driver 1.46"
+#define	INET_MODDESC	"ICMP dummy STREAMS module %I%"
+#define	INET_DEVDESC	"ICMP STREAMS driver %I%"
 #define	INET_DEVMINOR	0
 #define	INET_DEVSTRTAB	icmpinfov4
 #define	INET_MODSTRTAB	dummymodinfo

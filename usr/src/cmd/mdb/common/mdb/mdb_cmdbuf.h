@@ -26,7 +26,7 @@
 #ifndef	_MDB_CMDBUF_H
 #define	_MDB_CMDBUF_H
 
-#pragma ident	"@(#)mdb_cmdbuf.h	1.5	06/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

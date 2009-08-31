@@ -28,7 +28,7 @@
 
 #ifdef RPC_HDR
 %
-%#pragma ident	"@(#)bootparam_prot.x	1.4	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 #endif
 

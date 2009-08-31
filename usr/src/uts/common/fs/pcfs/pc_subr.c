@@ -33,7 +33,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)pc_subr.c	1.17	07/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef KERNEL
 #define	KERNEL

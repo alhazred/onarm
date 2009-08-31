@@ -27,7 +27,7 @@
 #ifndef _RDR_MESSAGES_H
 #define	_RDR_MESSAGES_H
 
-#pragma ident	"@(#)rdr_messages.h	1.3	05/12/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING: The contents of this file are shared by all projects
@@ -37,8 +37,8 @@
  *
  *	Project	    Location
  *	-------	    --------
- *	Solaris	    usr/src/cmd/dcs/sparc/sun4u/rdr_messages.h
- *	SMS	    src/sms/lib/librdr/rdr_messages.h
+ *	Solaris	    usr/src/cmd/dcs/sparc/sun4u/%M%
+ *	SMS	    src/sms/lib/librdr/%M%
  *
  * In order for proper communication to occur,  the files in the
  * above locations must match exactly. Any changes that are made

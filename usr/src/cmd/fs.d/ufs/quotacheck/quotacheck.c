@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)quotacheck.c	1.44	05/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Fix up / report on disc quotas & usage

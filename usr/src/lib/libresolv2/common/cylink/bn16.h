@@ -47,7 +47,7 @@
  * bn16.h - interface to 16-bit bignum routines.
  */
 
-#pragma ident	"@(#)bn16.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 struct BigNum;
 

@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)ypset.c	1.13	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is a user command which issues a "Set domain binding" command to a

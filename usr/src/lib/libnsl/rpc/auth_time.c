@@ -47,7 +47,7 @@
  *	needed to deal with TCP connections.
  */
 
-#pragma ident	"@(#)auth_time.c	1.24	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <stdio.h>

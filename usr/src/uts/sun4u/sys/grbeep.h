@@ -26,7 +26,7 @@
 #ifndef _SYS_GRBEEP_H
 #define	_SYS_GRBEEP_H
 
-#pragma ident	"@(#)grbeep.h	1.5	07/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

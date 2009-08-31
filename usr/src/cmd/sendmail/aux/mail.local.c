@@ -19,11 +19,11 @@ static char copyright[] =
 	The Regents of the University of California.  All rights reserved.\n";
 #endif /* not lint */
 
-#pragma ident	"@(#)mail.local.c	1.35	07/06/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
 static char sccsid[] = "@(#)mail.local.c	8.83 (Berkeley) 12/17/98";
-static char sccsi2[] = "@(#)mail.local.c	1.35 (Sun) 06/19/07";
+static char sccsi2[] = "%W% (Sun) %G%";
 #endif /* not lint */
 
 #include <sys/param.h>

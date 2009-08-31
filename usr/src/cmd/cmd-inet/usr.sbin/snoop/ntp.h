@@ -37,7 +37,7 @@
 #ifndef	_NTP_H
 #define	_NTP_H
 
-#pragma ident	"@(#)ntp.h	1.10	05/08/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

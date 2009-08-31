@@ -27,7 +27,7 @@
 #ifndef	_NFS_MOUNT_ATTR_H
 #define	_NFS_MOUNT_ATTR_H
 
-#pragma ident	"@(#)nfs_mount_attr.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

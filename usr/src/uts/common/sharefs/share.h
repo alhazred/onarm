@@ -27,7 +27,7 @@
 #ifndef _SHAREFS_SHARE_H
 #define	_SHAREFS_SHARE_H
 
-#pragma ident	"@(#)share.h	1.2	07/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

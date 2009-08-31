@@ -76,7 +76,7 @@
 #ifndef	_IWK_HW_H_
 #define	_IWK_HW_H_
 
-#pragma ident	"@(#)iwk_hw.h	1.3	08/03/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

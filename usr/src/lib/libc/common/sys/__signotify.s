@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)__signotify.s	1.9	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"__signotify.s"
+	.file	"%M%"
 
 #include "SYS.h"
 

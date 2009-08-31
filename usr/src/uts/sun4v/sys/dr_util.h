@@ -27,7 +27,7 @@
 #ifndef _DR_UTIL_H
 #define	_DR_UTIL_H
 
-#pragma ident	"@(#)dr_util.h	1.1	06/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sun4v Common DR Header

@@ -24,7 +24,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)dtest.pl	1.4	08/03/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 require 5.6.1;
 

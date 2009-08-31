@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)svccfg_xml.c	1.16	07/09/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libxml/parser.h>
 #include <libxml/xinclude.h>

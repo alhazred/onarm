@@ -28,7 +28,7 @@
 #ifndef	_ISNS_PROTOCOL_H
 #define	_ISNS_PROTOCOL_H
 
-#pragma ident	"@(#)isns_protocol.h	1.1	07/05/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

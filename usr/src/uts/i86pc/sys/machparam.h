@@ -30,7 +30,7 @@
 #ifndef _SYS_MACHPARAM_H
 #define	_SYS_MACHPARAM_H
 
-#pragma ident	"@(#)machparam.h	1.55	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(_ASM)
 #include <sys/types.h>

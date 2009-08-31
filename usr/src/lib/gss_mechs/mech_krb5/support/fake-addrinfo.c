@@ -1,4 +1,4 @@
-#pragma ident	"@(#)fake-addrinfo.c	1.1	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (C) 2004 by the Massachusetts Institute of Technology,

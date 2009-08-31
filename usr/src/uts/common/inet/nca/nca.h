@@ -26,7 +26,7 @@
 #ifndef	_INET_NCA_H
 #define	_INET_NCA_H
 
-#pragma ident	"@(#)nca.h	1.64	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

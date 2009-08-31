@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)simmstat.c	1.16	06/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -111,7 +111,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* module type, this one is a driver */
-	"SIMM-status Leaf v1.16",	/* module name */
+	"SIMM-status Leaf v%I%",	/* module name */
 	&simmstat_ops,			/* driver ops */
 };
 

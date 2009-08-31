@@ -76,7 +76,7 @@
 #ifndef _IWK_EEPROM_H_
 #define	_IWK_EEPROM_H_
 
-#pragma ident	"@(#)iwk_eeprom.h	1.3	08/03/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines EEPROM related constants, enums, and inline functions.

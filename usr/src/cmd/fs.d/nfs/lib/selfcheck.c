@@ -25,7 +25,7 @@
  *      All Rights Reserved.
  */
 
-#pragma ident	"@(#)selfcheck.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <errno.h>
 #include <syslog.h>

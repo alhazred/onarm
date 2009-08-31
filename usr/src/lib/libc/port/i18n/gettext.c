@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gettext.c	1.43	07/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak bindtextdomain = _bindtextdomain
 #pragma weak textdomain = _textdomain

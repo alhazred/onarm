@@ -39,7 +39,7 @@
 /*@{*/
 /* END CSTYLED */
 
-#pragma ident	"@(#)drm_pci.c	1.2	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "drmP.h"
 #include <vm/seg_kmem.h>

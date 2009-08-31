@@ -31,7 +31,7 @@
  * California.
  */
 
-#pragma ident	"@(#)bcmp.c	1.10	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _KMDB
 #include "synonyms.h"

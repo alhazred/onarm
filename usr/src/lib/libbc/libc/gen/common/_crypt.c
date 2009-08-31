@@ -27,7 +27,7 @@
 /*      Copyright (c) 1984,1988 AT&T */
 /*        All Rights Reserved   */
 
-#pragma ident	"@(#)_crypt.c	1.7	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 /*

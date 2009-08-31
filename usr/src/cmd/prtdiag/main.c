@@ -30,7 +30,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)main.c	1.24	05/08/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <locale.h>

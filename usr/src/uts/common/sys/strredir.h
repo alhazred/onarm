@@ -27,7 +27,7 @@
 #ifndef	_SYS_STRREDIR_H
 #define	_SYS_STRREDIR_H
 
-#pragma ident	"@(#)strredir.h	1.10	06/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

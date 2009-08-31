@@ -27,7 +27,7 @@
 #ifndef	_SYS_SALIB_H
 #define	_SYS_SALIB_H
 
-#pragma ident	"@(#)salib.h	1.17	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/memlist.h>

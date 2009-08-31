@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pool_rcm.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -108,7 +108,7 @@ rcm_mod_fini(void)
 const char *
 rcm_mod_info(void)
 {
-	return ("Pools RCM module 1.4");
+	return ("Pools RCM module %I%");
 }
 
 static int

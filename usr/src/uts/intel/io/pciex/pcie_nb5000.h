@@ -27,7 +27,7 @@
 #ifndef	_PCIEX_PCI_INTEL_NB5000_H
 #define	_PCIEX_PCI_INTEL_NB5000_H
 
-#pragma ident	"@(#)pcie_nb5000.h	1.3	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

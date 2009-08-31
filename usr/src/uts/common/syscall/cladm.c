@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#ident	"@(#)cladm.c	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/systm.h>
 #include <sys/errno.h>

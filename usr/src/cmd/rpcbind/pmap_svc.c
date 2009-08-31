@@ -35,7 +35,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)pmap_svc.c	1.18	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * pmap_svc.c

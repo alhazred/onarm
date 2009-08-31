@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)test.c	1.17	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *      test expression

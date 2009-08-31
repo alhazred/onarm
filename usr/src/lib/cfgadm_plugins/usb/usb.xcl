@@ -23,7 +23,7 @@
 # Copyright (c) 2001 by Sun Microsystems, Inc.
 # All rights reserved. 
 #
-#pragma ident	"@(#)usb.xcl	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/cfgadm_plugins/usb/usb.xcl
 #

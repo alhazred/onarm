@@ -23,7 +23,7 @@
  * Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
- * ident	"@(#)SB-tables.info	1.4	06/08/22 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * This file creates device tables for all of the fru's in the system
  * (except for hard disk drives and power supplies.)  Each table contains
@@ -41,7 +41,7 @@
 #ifndef id
 #define	id(s)	#ident s
 #endif
-id("@(#)SB-tables.info	1.4	06/08/22 SMI")
+id("%Z%%M%	%I%	%E% SMI")
 
 /*
  * add a Devices table to DVD

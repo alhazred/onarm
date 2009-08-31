@@ -27,7 +27,7 @@
 #ifndef _CIS_PROTOS_H
 #define	_CIS_PROTOS_H
 
-#pragma ident	"@(#)cis_protos.h	1.20	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

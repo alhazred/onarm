@@ -27,7 +27,7 @@
 #ifndef	__ELFDUMP_H
 #define	__ELFDUMP_H
 
-#pragma ident	"@(#)_elfdump.h	1.7	07/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<machelf.h>
 #include	<debug.h>

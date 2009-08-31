@@ -1,5 +1,5 @@
 !	.text
-!	.asciz ident	"@(#)misalign.s	1.8	05/06/08 SMI"
+!	.asciz ident	"%Z%%M%	%I%	%E% SMI"
 !	.align	4
 !	.seg	"text"
 

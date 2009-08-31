@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)lsign.s	1.5	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"lsign.s"
+	.file	"%M%"
 
 / Determine the sign of a double-long number.
 

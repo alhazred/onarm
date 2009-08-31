@@ -26,7 +26,7 @@
  * Solaris x86 ACPI CA Embedded Controller operation region handler
  */
 
-#pragma ident	"@(#)acpica_ec.c	1.4	06/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/file.h>
 #include <sys/errno.h>

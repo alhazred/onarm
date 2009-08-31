@@ -26,7 +26,7 @@
 #ifndef	_MPD_TABLES_H
 #define	_MPD_TABLES_H
 
-#pragma ident	"@(#)mpd_tables.h	1.23	07/07/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

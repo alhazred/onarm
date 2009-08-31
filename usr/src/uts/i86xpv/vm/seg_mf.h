@@ -27,7 +27,7 @@
 #ifndef	_VM_SEG_MF_H
 #define	_VM_SEG_MF_H
 
-#pragma ident	"@(#)seg_mf.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <vm/seg.h>

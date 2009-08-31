@@ -43,7 +43,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)stralloc.c	1.17	05/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * mailx -- a modified version of a University of California at Berkeley

@@ -20,6 +20,6 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)inc.flg	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 echo_file usr/src/cmd/chmod/common.c

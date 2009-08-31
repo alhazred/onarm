@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)facl.s	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"facl.s"
+	.file	"%M%"
 
 /* C library -- facl						*/
 /* int facl(int fd, int cmd, int cnt, struct aclent *buf)	*/

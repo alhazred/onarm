@@ -3,7 +3,7 @@
 #ifndef	_XMALLOC_H
 #define	_XMALLOC_H
 
-#pragma ident	"@(#)xmalloc.h	1.5	07/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

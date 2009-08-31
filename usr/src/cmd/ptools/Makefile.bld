@@ -27,7 +27,7 @@
 # Copyright (c) 2006-2008 NEC Corporation
 #
 #
-# ident	"@(#)Makefile.bld	1.16	08/01/28 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG:sh = basename `cd ..; pwd`

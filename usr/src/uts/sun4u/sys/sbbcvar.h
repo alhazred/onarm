@@ -26,7 +26,7 @@
 #ifndef	_SYS_SBBCVAR_H
 #define	_SYS_SBBCVAR_H
 
-#pragma ident	"@(#)sbbcvar.h	1.5	06/08/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

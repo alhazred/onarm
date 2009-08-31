@@ -24,7 +24,7 @@
 #ifndef _KMFPOLICY_H
 #define	_KMFPOLICY_H
 
-#pragma ident	"@(#)kmfpolicy.h	1.3	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kmfapi.h>
 #include <libxml/tree.h>

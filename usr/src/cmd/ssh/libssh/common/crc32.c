@@ -41,7 +41,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: crc32.c,v 1.8 2000/12/19 23:17:56 markus Exp $");
 
-#pragma ident	"@(#)crc32.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "crc32.h"
 

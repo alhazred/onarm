@@ -29,7 +29,7 @@
 #ifndef _XEN_SYS_XENBUS_H
 #define	_XEN_SYS_XENBUS_H
 
-#pragma ident	"@(#)xenbus.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Return the xenstore event channel.

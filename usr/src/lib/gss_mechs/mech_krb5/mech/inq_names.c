@@ -1,4 +1,4 @@
-#pragma ident	"@(#)inq_names.c	1.5	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lib/gssapi/krb5/inq_names.c

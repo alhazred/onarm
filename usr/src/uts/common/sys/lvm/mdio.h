@@ -26,7 +26,7 @@
 #ifndef	_SYS__MDIO_H
 #define	_SYS__MDIO_H
 
-#pragma ident	"@(#)mdio.h	2.22	06/05/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/debug.h>
 #include <sys/ioctl.h>

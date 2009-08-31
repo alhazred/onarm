@@ -37,7 +37,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: match.c,v 1.19 2002/03/01 13:12:10 markus Exp $");
 
-#pragma ident	"@(#)match.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "match.h"
 #include "xmalloc.h"

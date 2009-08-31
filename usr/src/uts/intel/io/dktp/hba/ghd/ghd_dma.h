@@ -26,7 +26,7 @@
 #ifndef _GHD_DMA_H
 #define	_GHD_DMA_H
 
-#pragma ident	"@(#)ghd_dma.h	1.9	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

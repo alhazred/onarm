@@ -28,7 +28,7 @@
 #ifndef	_ACPI_PCI_H
 #define	_ACPI_PCI_H
 
-#pragma ident	"@(#)acpi_pci.h	1.1	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

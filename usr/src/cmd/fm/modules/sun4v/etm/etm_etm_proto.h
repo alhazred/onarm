@@ -35,7 +35,7 @@
 #ifndef _ETM_ETM_PROTO_H
 #define	_ETM_ETM_PROTO_H
 
-#pragma ident	"@(#)etm_etm_proto.h	1.3	06/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

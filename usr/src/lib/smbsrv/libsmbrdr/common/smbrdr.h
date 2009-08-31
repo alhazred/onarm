@@ -26,7 +26,7 @@
 #ifndef _SMBRDR_H_
 #define	_SMBRDR_H_
 
-#pragma ident	"@(#)smbrdr.h	1.2	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

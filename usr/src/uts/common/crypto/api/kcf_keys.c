@@ -24,7 +24,7 @@
  */
 
 
-#pragma ident	"@(#)kcf_keys.c	1.2	06/03/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errno.h>
 #include <sys/types.h>

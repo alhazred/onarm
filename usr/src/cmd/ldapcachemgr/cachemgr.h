@@ -26,7 +26,7 @@
 #ifndef	_CACHEMGR_H
 #define	_CACHEMGR_H
 
-#pragma ident	"@(#)cachemgr.h	1.6	07/09/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

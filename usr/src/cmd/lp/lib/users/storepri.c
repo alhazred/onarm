@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)storepri.c	1.10	05/06/08 SMI"	/* SVr4.0 1.6	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 /* LINTLIBRARY */
 
 # include	<stdio.h>

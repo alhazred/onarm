@@ -26,7 +26,7 @@
 #ifndef _CHIP_H
 #define	_CHIP_H
 
-#pragma ident	"@(#)chip.h	1.7	08/01/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kstat.h>
 #include <libnvpair.h>

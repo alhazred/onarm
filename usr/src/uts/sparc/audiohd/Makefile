@@ -24,7 +24,7 @@
 #
 # uts/sparc/audiohd/Makefile
 #
-# ident	"@(#)Makefile	1.4	07/07/05 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of high definition audio
 #	driver (audiohd) kernel module.

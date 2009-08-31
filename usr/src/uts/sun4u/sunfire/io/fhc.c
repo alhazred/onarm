@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fhc.c	1.121	06/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -434,7 +434,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"FHC Nexus v1.121",	/* Name of module. */
+	"FHC Nexus v%I%",	/* Name of module. */
 	&fhc_ops,		/* driver ops */
 };
 

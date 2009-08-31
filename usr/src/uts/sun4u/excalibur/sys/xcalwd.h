@@ -27,7 +27,7 @@
 #ifndef _XCALWD_H
 #define	_XCALWD_H
 
-#pragma ident	"@(#)xcalwd.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Excalibur fan control failsafe timer

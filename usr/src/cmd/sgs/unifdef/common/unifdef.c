@@ -29,7 +29,7 @@
 
 /* Copyright (c) 1982 Regents of the University of California */
 
-#pragma ident	"@(#)unifdef.c	1.18	05/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *    unifdef - remove ifdef'ed lines

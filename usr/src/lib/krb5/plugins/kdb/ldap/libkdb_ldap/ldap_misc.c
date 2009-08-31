@@ -1,4 +1,4 @@
-#pragma ident	"@(#)ldap_misc.c	1.2	08/01/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/kdb/kdb_ldap/ldap_misc.c
  *

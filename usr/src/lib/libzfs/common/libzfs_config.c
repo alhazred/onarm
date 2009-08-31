@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)libzfs_config.c	1.9	07/04/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The pool configuration repository is stored in /etc/zfs/zpool.cache as a

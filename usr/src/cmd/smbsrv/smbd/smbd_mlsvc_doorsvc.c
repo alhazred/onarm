@@ -24,7 +24,7 @@
  */
 
 
-#pragma ident	"@(#)smbd_mlsvc_doorsvc.c	1.5	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <strings.h>

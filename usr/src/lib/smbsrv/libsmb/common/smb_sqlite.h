@@ -26,7 +26,7 @@
 #ifndef	_SMB_SQLITE_H
 #define	_SMB_SQLITE_H
 
-#pragma ident	"@(#)smb_sqlite.h	1.1	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -29,7 +29,7 @@
  *
  */
 
-#ident	"@(#)menu.h	1.6	05/06/08 SMI"       /* SVr4.0 1.1 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.1 */
 
 struct menu {
 	struct menu_line	(*disp)();

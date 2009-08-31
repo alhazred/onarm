@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dlmgmt_util.c	1.2	08/03/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Utility functions used by the dlmgmtd daemon.
@@ -473,30 +473,30 @@ dlmgmt_destroy_common(dlmgmt_link_t *linkp, uint32_t flags)
 	return (0);
 }
 
-void
+int
 dlmgmt_getattr_common(dlmgmt_linkattr_t **headp, const char *attr,
-    dlmgmt_getattr_retval_t *retvalp)
+    dlmgmt_getattr_retval_t **retvalpp, size_t *retszp)
 {
 	int			err;
 	void			*attrval;
 	size_t			attrsz;
 	dladm_datatype_t	attrtype;
+	dlmgmt_getattr_retval_t	*retvalp;
 
 	err = linkattr_get(headp, attr, &attrval, &attrsz, &attrtype);
 	if (err != 0)
-		goto done;
+		return (err);
 
 	assert(attrsz > 0);
-	if (attrsz > MAXLINKATTRVALLEN) {
-		err = EINVAL;
-		goto done;
-	}
+	*retszp = sizeof (dlmgmt_getattr_retval_t) + attrsz - 1;
+	if ((retvalp = malloc(*retszp)) == NULL)
+		return (ENOMEM);
 
+	retvalp->lr_err = 0;
 	retvalp->lr_type = attrtype;
-	retvalp->lr_attrsz = attrsz;
-	bcopy(attrval, retvalp->lr_attrval, attrsz);
-done:
-	retvalp->lr_err = err;
+	bcopy(attrval, retvalp->lr_attr, attrsz);
+	*retvalpp = retvalp;
+	return (0);
 }
 
 void

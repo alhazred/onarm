@@ -29,7 +29,7 @@
  * to communicate with entities that reside on service processor.
  */
 
-#pragma ident	"@(#)libpcp.c	1.7	06/08/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

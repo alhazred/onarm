@@ -26,7 +26,7 @@
 #ifndef	_DDIFM_IMPL_H
 #define	_DDIFM_IMPL_H
 
-#pragma ident	"@(#)ddifm_impl.h	1.9	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dditypes.h>
 #include <sys/errorq.h>

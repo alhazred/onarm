@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)Psymtab_machelf64.c	1.1	07/01/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Defining _ELF64 causes the code in Psymtab_machelf32.c to generate

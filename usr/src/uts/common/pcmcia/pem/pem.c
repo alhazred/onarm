@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)pem.c	1.53	06/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * pem - PCMCIA Event Manager
@@ -196,7 +196,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modlmisc = {
 	&mod_driverops,		/* Type of module - a utility provider */
-	"PCMCIA Event Manager 1.53",
+	"PCMCIA Event Manager %I%",
 	&pem_ops,		/* driver ops */
 };
 

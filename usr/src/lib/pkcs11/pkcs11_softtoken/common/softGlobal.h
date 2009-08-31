@@ -27,7 +27,7 @@
 #ifndef _SOFTGLOBAL_H
 #define	_SOFTGLOBAL_H
 
-#pragma ident	"@(#)softGlobal.h	1.8	05/10/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

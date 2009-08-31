@@ -28,7 +28,7 @@
 
 
 
-#pragma ident	"@(#)extern.c	1.2	02/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "k5-int.h"
 #include "extern.h"

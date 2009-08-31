@@ -34,7 +34,7 @@
 #ifndef _ERIE_H
 #define	_ERIE_H
 
-#pragma ident	"@(#)erie.h	1.3	06/07/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

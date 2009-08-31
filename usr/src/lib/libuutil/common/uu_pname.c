@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)uu_pname.c	1.4	05/08/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "libuutil_common.h"
 

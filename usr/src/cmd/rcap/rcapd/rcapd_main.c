@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rcapd_main.c	1.18	07/04/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rcapd is a long-running daemon enforcing project-based resource caps (see

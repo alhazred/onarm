@@ -40,7 +40,7 @@
 #ifndef	_COMPILER_H
 #define	_COMPILER_H
 
-#pragma ident	"@(#)compiler.h	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *			COPYRIGHT NOTICE

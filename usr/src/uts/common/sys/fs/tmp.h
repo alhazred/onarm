@@ -30,7 +30,7 @@
 #ifndef	_SYS_FS_TMP_H
 #define	_SYS_FS_TMP_H
 
-#pragma ident	"@(#)tmp.h	1.34	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

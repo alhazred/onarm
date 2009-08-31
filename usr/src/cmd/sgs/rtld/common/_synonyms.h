@@ -27,7 +27,7 @@
 #ifndef	__SYNONYMS_H
 #define	__SYNONYMS_H
 
-#pragma ident	"@(#)_synonyms.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef	_UTILS_H
 #define	_UTILS_H
 
-#pragma ident	"@(#)utils.h	1.7	05/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

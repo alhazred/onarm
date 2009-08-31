@@ -27,7 +27,7 @@
 #ifndef	_GNU_PRIME_H
 #define	_GNU_PRIME_H
 
-#pragma ident	"@(#)gnu_prime.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

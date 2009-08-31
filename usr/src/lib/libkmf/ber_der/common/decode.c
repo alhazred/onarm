@@ -35,7 +35,7 @@
 
 /* decode.c - ber input decoding routines */
 
-#pragma ident	"@(#)decode.c	1.3	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <strings.h>
 #include <sys/types.h>

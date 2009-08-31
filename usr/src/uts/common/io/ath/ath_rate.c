@@ -35,7 +35,7 @@
  * THE POSSIBILITY OF SUCH DAMAGES.
  */
 
-#pragma ident	"@(#)ath_rate.c	1.2	06/11/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

@@ -22,7 +22,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)README	1.3	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 This is an internal library for use only by:
 	usr/src/cmd/cmd-crypto

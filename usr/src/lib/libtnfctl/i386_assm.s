@@ -37,8 +37,8 @@
  * }
  */
 
-	.ident	"@(#)i386_assm.s	1.5	05/06/08 SMI"
-	.file	"i386_assm.s"
+	.ident	"%Z%%M%	%I%	%E% SMI"
+	.file	"%M%"
 	.data
 	.align	4
 	.globl	prb_callinfo

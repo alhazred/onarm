@@ -28,7 +28,7 @@
  *
  */
 
-#pragma ident	"@(#)spnego_mech.c	1.12	07/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<stdio.h>
 #include	<stdlib.h>

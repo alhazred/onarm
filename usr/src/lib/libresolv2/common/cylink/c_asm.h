@@ -64,7 +64,7 @@
 #if !defined( C_ASM_H )
 #define C_ASM_H
 
-#pragma ident	"@(#)c_asm.h	1.2	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include "cylink.h"

@@ -24,7 +24,7 @@
  */
 
 
-#pragma ident	"@(#)lx_kill.c	1.2	06/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/types.h>

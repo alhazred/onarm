@@ -26,7 +26,7 @@
 #ifndef _SYS_MD_MDDB_H
 #define	_SYS_MD_MDDB_H
 
-#pragma ident	"@(#)md_mddb.h	2.17	06/05/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/buf.h>

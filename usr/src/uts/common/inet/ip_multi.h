@@ -27,7 +27,7 @@
 #ifndef	_INET_IP_MULTI_H
 #define	_INET_IP_MULTI_H
 
-#pragma ident	"@(#)ip_multi.h	1.32	08/01/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

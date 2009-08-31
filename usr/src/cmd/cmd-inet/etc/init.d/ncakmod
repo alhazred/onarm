@@ -24,7 +24,7 @@
 # Copyright 1999-2002 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)ncakmod	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # Default config values used by script
 nca=drv/nca

@@ -27,7 +27,7 @@
 #ifndef _SNOOP_SLP_H
 #define	_SNOOP_SLP_H
 
-#pragma ident	"@(#)slp.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Structs and definitions for the snoop SLP interpreter only

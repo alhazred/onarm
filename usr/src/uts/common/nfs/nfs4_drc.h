@@ -26,7 +26,7 @@
 #ifndef _NFS4_DRC_H
 #define	_NFS4_DRC_H
 
-#pragma ident	"@(#)nfs4_drc.h	1.3	08/02/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

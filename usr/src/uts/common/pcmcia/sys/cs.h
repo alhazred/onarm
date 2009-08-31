@@ -27,7 +27,7 @@
 #ifndef _CS_H
 #define	_CS_H
 
-#pragma ident	"@(#)cs.h	1.68	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {
@@ -62,7 +62,7 @@ extern "C" {
 #define	CS_GET_CARDSERVICES_INFO_VENDOR_STRING	"Solaris UNIX Card Services\n" \
 		"Copyright (c) 1996 by Sun Microsystems, Inc.\n"	\
 		"All rights reserved\n"					\
-		"@(#)cs.h	1.68 05/06/08 SMI\n"	\
+		"%W% %E% SMI\n"	\
 		"Based on the PC Card Standard, February 1995\n"
 
 /*

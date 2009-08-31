@@ -3,7 +3,7 @@
 #ifndef	_BSD_CYGWIN_UTIL_H
 #define	_BSD_CYGWIN_UTIL_H
 
-#pragma ident	"@(#)bsd-cygwin_util.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

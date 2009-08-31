@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)send.c	1.38	05/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "rcv.h"
 #include <locale.h>

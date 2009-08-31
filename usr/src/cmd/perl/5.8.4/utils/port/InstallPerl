@@ -3,7 +3,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)InstallPerl	1.1	04/06/09 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This script builds and installs perl into the same location as when shipped
 # with ON.

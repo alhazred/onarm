@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dman.c	1.43	06/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Starcat Management Network Driver
@@ -725,7 +725,7 @@ extern int nodev(), nulldev();
 
 static struct modldrv modldrv = {
 	&mod_driverops, 	/* Module type.  This one is a pseudo driver */
-	"MAN MetaDriver v1.43",
+	"MAN MetaDriver v%I%",
 	&man_ops,		/* driver ops */
 };
 

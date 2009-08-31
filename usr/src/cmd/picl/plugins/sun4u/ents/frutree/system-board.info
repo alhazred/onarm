@@ -23,7 +23,7 @@
  * Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
- * #ident	"@(#)system-board.info	1.7	05/06/08 SMI"  
+ * #ident	"%Z%%M%	%I%	%E% SMI"  
  *
  * This file creates the system board structure
  */
@@ -35,7 +35,7 @@
 #ifndef id
 #define	id(s)	#ident s
 #endif
-id("@(#)system-board.info 1.7     05/06/08 SMI")
+id("%Z%%M% %I%     %E% SMI")
 
 /*
  * Motherboard properties

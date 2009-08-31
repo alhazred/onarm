@@ -27,7 +27,7 @@
 #ifndef _ATA_BLACKLIST_H
 #define	_ATA_BLACKLIST_H
 
-#pragma ident	"@(#)ata_blacklist.h	1.8	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

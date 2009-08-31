@@ -27,7 +27,7 @@
 #ifndef _SA_LIMITS_H
 #define	_SA_LIMITS_H
 
-#pragma ident	"@(#)limits.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Exported interfaces for standalone's subset of libc's <limits.h>.

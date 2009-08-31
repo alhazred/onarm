@@ -27,7 +27,7 @@
 #ifndef	_CFGA_SBD_H
 #define	_CFGA_SBD_H
 
-#pragma ident	"@(#)ap.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

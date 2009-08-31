@@ -24,7 +24,7 @@
 # Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)req.flg	1.5	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 echo_file usr/src/pkgdefs/Makefile
 echo_file usr/src/pkgdefs/Makefile.com

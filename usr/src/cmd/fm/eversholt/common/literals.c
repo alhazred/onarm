@@ -33,7 +33,7 @@
  * and avoid repeated calls to stable().
  */
 
-#pragma ident	"@(#)literals.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include "out.h"

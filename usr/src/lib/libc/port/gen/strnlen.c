@@ -24,7 +24,7 @@
  * All rights reserved.  Use is subject to license terms.
  */
 
-#pragma ident	"@(#)strnlen.c	1.1	06/11/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma	weak	strnlen = _strnlen
 

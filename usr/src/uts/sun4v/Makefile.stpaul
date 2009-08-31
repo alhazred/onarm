@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.stpaul	1.2	06/11/24 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	Global definitions for sun4v stpaul implementation specific modules.
 #

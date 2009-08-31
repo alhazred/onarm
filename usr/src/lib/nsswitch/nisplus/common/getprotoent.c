@@ -27,7 +27,7 @@
  *	nisplus/getprotoent.c -- NIS+ backend for nsswitch "proto" database
  */
 
-#pragma ident	"@(#)getprotoent.c	1.13	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 #include <netdb.h>

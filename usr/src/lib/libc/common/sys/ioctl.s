@@ -27,9 +27,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ioctl.s	1.10	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"ioctl.s"
+	.file	"%M%"
 
 /* C library -- ioctl						*/
 /* int ioctl (int fildes, int request, ... );			*/

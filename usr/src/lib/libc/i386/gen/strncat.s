@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)strncat.s	1.8	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"strncat.s"
+	.file	"%M%"
 
 /
 / strncat(s1, s2, n)

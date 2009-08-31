@@ -26,7 +26,7 @@
 #ifndef _SYS_LINUX_SCHED_H
 #define	_SYS_LINUX_SCHED_H
 
-#pragma ident	"@(#)lx_sched.h	1.1	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/procset.h>
 #include <sys/priocntl.h>

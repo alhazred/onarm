@@ -11,7 +11,7 @@
 #ifndef __WPA_ENC_H
 #define	__WPA_ENC_H
 
-#pragma ident	"@(#)wpa_enc.h	1.1	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <openssl/sha.h>
 #include <openssl/md5.h>

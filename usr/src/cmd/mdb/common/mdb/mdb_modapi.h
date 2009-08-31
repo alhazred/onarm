@@ -26,7 +26,7 @@
 #ifndef	_MDB_MODAPI_H
 #define	_MDB_MODAPI_H
 
-#pragma ident	"@(#)mdb_modapi.h	1.14	07/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * MDB Module API

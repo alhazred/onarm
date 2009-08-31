@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 #
-#ident	"@(#)Makefile	1.6	07/02/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 # lib/libadt_jni/com/sun/audit/Makefile
 
 #

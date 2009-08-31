@@ -27,7 +27,7 @@
 # All rights reserved.
 #
 #
-# ident	"@(#)fs-usr	1.12	08/03/04 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 . /lib/svc/share/smf_include.sh
 . /lib/svc/share/fs_include.sh

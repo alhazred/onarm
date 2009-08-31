@@ -28,7 +28,7 @@
 #ifndef _AT_H
 #define	_AT_H
 
-#pragma ident	"@(#)at.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

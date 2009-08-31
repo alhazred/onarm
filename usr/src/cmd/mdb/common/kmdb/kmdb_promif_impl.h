@@ -27,7 +27,7 @@
 #ifndef _KMDB_PROMIF_IMPL_H
 #define	_KMDB_PROMIF_IMPL_H
 
-#pragma ident	"@(#)kmdb_promif_impl.h	1.6	06/03/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/consdev.h>
 

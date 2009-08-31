@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.com	1.7	07/01/19 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #cmd/ipf/lib/Makefile.com
 #

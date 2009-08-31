@@ -1,7 +1,7 @@
 #ifndef __KRBASN1_H__
 #define __KRBASN1_H__
 
-#pragma ident	"@(#)krbasn1.h	1.4	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <k5-int.h>
 #include <stdio.h>

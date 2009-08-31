@@ -39,7 +39,7 @@
 #ifndef	_VM_HAT_H
 #define	_VM_HAT_H
 
-#pragma ident	"@(#)hat.h	1.111	07/06/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/t_lock.h>

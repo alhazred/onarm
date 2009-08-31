@@ -19,7 +19,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)DoPrinterAdd.java	1.9	06/06/02 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.

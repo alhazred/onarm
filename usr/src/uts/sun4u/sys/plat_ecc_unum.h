@@ -27,7 +27,7 @@
 #ifndef	_SYS_PLAT_ECC_NUM_H
 #define	_SYS_PLAT_ECC_NUM_H
 
-#pragma ident	"@(#)plat_ecc_unum.h	1.12	05/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

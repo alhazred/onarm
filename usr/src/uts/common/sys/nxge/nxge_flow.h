@@ -26,7 +26,7 @@
 #ifndef	_SYS_NXGE_NXGE_FLOW_H
 #define	_SYS_NXGE_NXGE_FLOW_H
 
-#pragma ident	"@(#)nxge_flow.h	1.2	06/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

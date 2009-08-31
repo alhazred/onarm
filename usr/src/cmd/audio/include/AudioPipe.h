@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIOPIPE_H
 #define	_MULTIMEDIA_AUDIOPIPE_H
 
-#pragma ident	"@(#)AudioPipe.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <AudioUnixfile.h>
 

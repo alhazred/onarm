@@ -27,7 +27,7 @@
 #ifndef	_CPU_MDESC_H
 #define	_CPU_MDESC_H
 
-#pragma ident	"@(#)cpu_mdesc.h	1.10	07/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/topo_mod.h>
 

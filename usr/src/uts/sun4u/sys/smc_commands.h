@@ -27,7 +27,7 @@
 #ifndef _SYS_SMC_COMMANDS_H
 #define	_SYS_SMC_COMMANDS_H
 
-#pragma ident	"@(#)smc_commands.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)update.c	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Administrative tool to add a new user to the publickey database

@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile	1.4	05/12/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 SUBDIRS = sgsbbc
 include $(SRC)/cmd/mdb/Makefile.subdirs

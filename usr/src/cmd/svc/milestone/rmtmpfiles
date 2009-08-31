@@ -24,7 +24,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)rmtmpfiles	1.21	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # Traditional SunOS 4.x behavior has been to not remove directories in
 # the /tmp directory; only simple files were removed. This lead to an

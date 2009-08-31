@@ -25,7 +25,7 @@
 #
 # usr/src/lib/pam_modules/passwd_auth/Makefile.com
 #
-# ident	"@(#)Makefile.com	1.4	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 LIBRARY=	pam_passwd_auth.a
 VERS=		.1

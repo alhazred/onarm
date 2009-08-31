@@ -26,7 +26,7 @@
 #ifndef _SYS_NETSTACK_H
 #define	_SYS_NETSTACK_H
 
-#pragma ident	"@(#)netstack.h	1.4	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/kstat.h>
 

@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dump.c	6.87	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Get definitions for the relocation types supported. */
 #define	ELF_TARGET_ALL

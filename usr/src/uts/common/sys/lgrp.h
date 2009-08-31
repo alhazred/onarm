@@ -31,7 +31,7 @@
 #ifndef	_LGRP_H
 #define	_LGRP_H
 
-#pragma ident	"@(#)lgrp.h	1.35	07/09/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * locality group definitions for kernel

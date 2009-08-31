@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_UHCI_H
 #define	_SYS_USB_UHCI_H
 
-#pragma ident	"@(#)uhci.h	1.25	06/05/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

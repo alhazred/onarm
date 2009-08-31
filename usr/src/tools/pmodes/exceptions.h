@@ -30,7 +30,7 @@
  *
  */
 
-#pragma ident	"@(#)exceptions.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 	"/etc/dumpdates",
 	"/etc/lp",

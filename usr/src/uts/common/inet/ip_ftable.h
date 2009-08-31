@@ -27,7 +27,7 @@
 #ifndef _INET_IP_FTABLE_H
 #define	_INET_IP_FTABLE_H
 
-#pragma ident	"@(#)ip_ftable.h	1.5	08/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

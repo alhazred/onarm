@@ -26,7 +26,7 @@
 #ifndef _SA_STDDEF_H
 #define	_SA_STDDEF_H
 
-#pragma ident	"@(#)stddef.h	1.3	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Exported interfaces for standalone's subset of libc's <stddef.h>.

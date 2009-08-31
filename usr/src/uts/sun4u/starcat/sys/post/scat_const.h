@@ -27,7 +27,7 @@
 #ifndef	_SCAT_CONST_H
 #define	_SCAT_CONST_H
 
-#pragma ident	"@(#)scat_const.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains definitions fundamental to the Starcat architecture;

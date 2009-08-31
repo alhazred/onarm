@@ -31,7 +31,7 @@
  * lib/libnsl/nss/getipnodeby.c
  */
 
-#pragma ident	"@(#)getipnodeby.c	1.19	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <stdlib.h>

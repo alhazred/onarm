@@ -31,7 +31,7 @@
 #ifndef _SYS_IEEEFP_H
 #define	_SYS_IEEEFP_H
 
-#pragma ident	"@(#)ieeefp.h	1.20	05/09/29 SMI"	/* SunOS4.0 1.6	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS4.0 1.6 */
 
 #ifdef	__cplusplus
 extern "C" {

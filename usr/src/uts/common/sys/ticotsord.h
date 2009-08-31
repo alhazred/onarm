@@ -26,7 +26,7 @@
 #ifndef _SYS_TICOTSORD_H
 #define	_SYS_TICOTSORD_H
 
-#pragma ident	"@(#)ticotsord.h	1.18	05/06/08 SMI"	/* SVr4 1.5 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4 1.5 */
 
 #ifdef	__cplusplus
 extern "C" {

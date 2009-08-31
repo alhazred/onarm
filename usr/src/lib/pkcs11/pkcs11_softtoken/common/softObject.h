@@ -26,7 +26,7 @@
 #ifndef	_SOFTOBJECT_H
 #define	_SOFTOBJECT_H
 
-#pragma ident	"@(#)softObject.h	1.18	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

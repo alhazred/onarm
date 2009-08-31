@@ -25,7 +25,7 @@
  * Assembly code support for Cheetah/Cheetah+ modules
  */
 
-#pragma ident	"@(#)us3_common_asm.s	1.26	07/11/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint)
 #include "assym.h"

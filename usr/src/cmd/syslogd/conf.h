@@ -26,7 +26,7 @@
 #ifndef	_CONF_H
 #define	_CONF_H
 
-#pragma ident	"@(#)conf.h	1.3	06/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

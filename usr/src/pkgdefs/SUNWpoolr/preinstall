@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)preinstall	1.2	07/06/21 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # If we are now installing pools on this system for the first
 # time, we will need to call svcadm to enable the new service. We

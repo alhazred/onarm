@@ -31,7 +31,7 @@
 #ifndef _STDARG_H
 #define	_STDARG_H
 
-#pragma ident	"@(#)stdarg.h	1.49	05/06/08 SMI"	/* SVr4.0 1.8	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8	*/
 
 /*
  * This header defines the ISO C 1989, ISO C++ 1998, and ISO C 1999

@@ -35,7 +35,7 @@
 #ifndef	_POOL_H
 #define	_POOL_H
 
-#pragma ident	"@(#)pool.h	1.6	06/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/procset.h>
 #include <sys/types.h>

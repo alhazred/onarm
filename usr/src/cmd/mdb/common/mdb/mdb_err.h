@@ -27,7 +27,7 @@
 #ifndef	_MDB_ERR_H
 #define	_MDB_ERR_H
 
-#pragma ident	"@(#)mdb_err.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdarg.h>
 #include <errno.h>

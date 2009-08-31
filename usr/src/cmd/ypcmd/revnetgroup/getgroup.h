@@ -28,7 +28,7 @@
 #ifndef	__GETGROUP_H
 #define	__GETGROUP_H
 
-#pragma ident	"@(#)getgroup.h	1.5	05/06/08 SMI"        /* SMI4.1 1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"        /* SMI4.1 1.4 */
 
 #ifdef	__cplusplus
 extern "C" {

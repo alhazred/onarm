@@ -27,7 +27,7 @@
 #ifndef	_SYS_1394_ADAPTERS_HCI1394_DESCRIPTORS_H
 #define	_SYS_1394_ADAPTERS_HCI1394_DESCRIPTORS_H
 
-#pragma ident	"@(#)hci1394_descriptors.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * hci1394_descriptors.h

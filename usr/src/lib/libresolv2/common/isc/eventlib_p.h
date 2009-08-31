@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)eventlib_p.h	1.9	05/07/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* eventlib_p.h - private interfaces for eventlib
  * vix 09sep95 [initial]

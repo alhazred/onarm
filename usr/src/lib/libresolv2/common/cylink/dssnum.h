@@ -61,7 +61,7 @@
 #ifndef DSSNUMBER_H    /* Prevent multiple inclusions */
 #define DSSNUMBER_H
 
-#pragma ident	"@(#)dssnum.h	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ctk_endian.h"
 

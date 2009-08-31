@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sparc_utrap_install.s	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"sparc_utrap_install.s"
+	.file	"%M%"
 
 #include "SYS.h"
 

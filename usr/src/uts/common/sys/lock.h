@@ -26,7 +26,7 @@
 #ifndef _SYS_LOCK_H
 #define	_SYS_LOCK_H
 
-#pragma ident	"@(#)lock.h	1.12	05/06/08 SMI"	/* SVr4.0 11.7	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.7	*/
 
 #ifdef	__cplusplus
 extern "C" {

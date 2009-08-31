@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)ainull.c	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Copyright (C) RSA Data Security, Inc. created 1990, 1996.  This is an
    unpublished work protected as such under copyright law.  This work

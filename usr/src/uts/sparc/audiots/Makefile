@@ -24,7 +24,7 @@
 #
 # uts/sparc/audiots/Makefile
 #
-#ident	"@(#)Makefile	1.15	07/07/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the T2 audio driver
 #	(audiots) kernel module.

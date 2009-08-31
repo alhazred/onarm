@@ -26,7 +26,7 @@
 #ifndef	_MDB_DISASM_IMPL_H
 #define	_MDB_DISASM_IMPL_H
 
-#pragma ident	"@(#)mdb_disasm_impl.h	1.7	06/03/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Disassembler Implementation

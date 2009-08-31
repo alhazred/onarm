@@ -27,7 +27,7 @@
 #ifndef	_DT_ERRTAGS_H
 #define	_DT_ERRTAGS_H
 
-#pragma ident	"@(#)dt_errtags.h	1.13	05/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef	_SYS_ENVCTRL_UE450_H
 #define	_SYS_ENVCTRL_UE450_H
 
-#pragma ident	"@(#)envctrl_ue450.h	1.5	06/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

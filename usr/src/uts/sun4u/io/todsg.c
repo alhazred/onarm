@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)todsg.c	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * tod driver module for Serengeti
  * This module implements a soft tod since
@@ -74,7 +74,7 @@ static int	adjust_sc_down = 0;
  * Module linkage information for the kernel.
  */
 static struct modlmisc modlmisc = {
-	&mod_miscops, "Serengeti tod module v.1.15"
+	&mod_miscops, "Serengeti tod module v.%I%"
 };
 
 static struct modlinkage modlinkage = {

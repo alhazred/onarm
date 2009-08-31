@@ -26,7 +26,7 @@
 #ifndef _SYS_PCI_IMPL_H
 #define	_SYS_PCI_IMPL_H
 
-#pragma ident	"@(#)pci_impl.h	1.19	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dditypes.h>
 #include <sys/memlist.h>

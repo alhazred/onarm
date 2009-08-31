@@ -26,7 +26,7 @@
  * Object.xs contains XS code for exacct file manipulation.
  */
 
-#pragma ident	"@(#)Object.xs	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <strings.h>
 #include "../exacct_common.xh"

@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 
-# ident	"@(#)create_ramdisk.ksh	1.21	08/02/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 format=ufs
 ALT_ROOT=

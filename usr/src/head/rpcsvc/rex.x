@@ -27,7 +27,7 @@
 
 #ifdef RPC_HDR
 %
-%#pragma ident	"@(#)rex.x	1.3	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 #endif
 

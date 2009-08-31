@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)agpmaster.c	1.7	08/02/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Misc module for AGP master device support
@@ -107,7 +107,7 @@ int agpm_debug = 0;
 
 
 static struct modlmisc modlmisc = {
-	&mod_miscops, "AGP master interfaces v1.7"
+	&mod_miscops, "AGP master interfaces v%I%"
 };
 
 static struct modlinkage modlinkage = {

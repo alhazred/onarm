@@ -26,7 +26,7 @@
 #ifndef _SYS_PSR_COMPAT_H
 #define	_SYS_PSR_COMPAT_H
 
-#pragma ident	"@(#)psr_compat.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* from SunOS psl.h 1.2 */
 
 #ifdef	__cplusplus

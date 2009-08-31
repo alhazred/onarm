@@ -26,7 +26,7 @@
 #ifndef	_AUTO_SENSE_H
 #define	_AUTO_SENSE_H
 
-#pragma ident	"@(#)auto_sense.h	1.7	06/02/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

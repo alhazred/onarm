@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)dump.c	1.8	07/06/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Dump driver.  Provides ioctls to get/set crash dump configuration.
@@ -233,7 +233,7 @@ struct dev_ops dump_ops = {
 };
 
 static struct modldrv modldrv = {
-	&mod_driverops, "crash dump driver 1.8", &dump_ops,
+	&mod_driverops, "crash dump driver %I%", &dump_ops,
 };
 
 static struct modlinkage modlinkage = {

@@ -26,7 +26,7 @@
 #ifndef	_SMBSRV_SMB_DOOR_SVC_H
 #define	_SMBSRV_SMB_DOOR_SVC_H
 
-#pragma ident	"@(#)smb_door_svc.h	1.3	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <smbsrv/smb_token.h>
 

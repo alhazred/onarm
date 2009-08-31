@@ -27,7 +27,7 @@
 #ifndef	_SOCKSDP_H_
 #define	_SOCKSDP_H_
 
-#pragma ident	"@(#)socksdp.h	1.1	07/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

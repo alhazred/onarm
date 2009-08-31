@@ -33,7 +33,7 @@
 #ifndef _SESSION_H_
 #define _SESSION_H_
 
-#pragma ident	"@(#)session.h	1.6	07/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef enum _Phase { PHASE_1=1, PHASE_2, PHASE_3} Phase;
 

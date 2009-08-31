@@ -27,7 +27,7 @@
 #ifndef	_MDB_DEBUG_H
 #define	_MDB_DEBUG_H
 
-#pragma ident	"@(#)mdb_debug.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -37,7 +37,7 @@
  * Well, at least the API doesn't involve pointers-to-static.
  */
 
-#pragma ident	"@(#)netnamer.c	1.35	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * netname utility routines convert from netnames to unix names (uid, gid)

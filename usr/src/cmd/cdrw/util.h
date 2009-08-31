@@ -27,7 +27,7 @@
 #ifndef	_UTIL_H
 #define	_UTIL_H
 
-#pragma ident	"@(#)util.h	1.8	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

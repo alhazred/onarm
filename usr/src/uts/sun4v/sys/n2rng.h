@@ -26,7 +26,7 @@
 #ifndef	_SYS_N2RNG_H
 #define	_SYS_N2RNG_H
 
-#pragma ident	"@(#)n2rng.h	1.3	07/12/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* skip following stuff when included in n2rng_hcall.s */
 #ifndef _ASM

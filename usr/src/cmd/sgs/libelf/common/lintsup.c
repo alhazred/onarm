@@ -27,7 +27,7 @@
 /* LINTLIBRARY */
 /* PROTOLIB1 */
 
-#pragma ident	"@(#)lintsup.c	1.4	06/04/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <malloc.h>
 #include <link.h>

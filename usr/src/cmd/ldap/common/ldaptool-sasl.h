@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ldaptool-sasl.h	1.1	03/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_LDAPTOOL_SASL_H
 #define	_LDAPTOOL_SASL_H

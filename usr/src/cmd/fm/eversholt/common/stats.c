@@ -27,7 +27,7 @@
  *
  */
 
-#pragma ident	"@(#)stats.c	1.5	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <strings.h>

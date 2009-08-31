@@ -2,7 +2,7 @@
  * Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)hash_ef_generic.c	1.4	04/09/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <k5-int.h>

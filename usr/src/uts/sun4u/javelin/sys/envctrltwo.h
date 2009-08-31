@@ -27,7 +27,7 @@
 #ifndef	_JAV_ENVCTRLTWO_H
 #define	_JAV_ENVCTRLTWO_H
 
-#pragma ident	"@(#)envctrltwo.h	1.2	06/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -81,7 +81,7 @@
  *	  friends.
  */
 
-#pragma ident	"@(#)getaddrinfo.c	1.5	04/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "port_before.h"
 

@@ -11,11 +11,11 @@
 
 #include "config.h"
 
-#pragma ident	"@(#)log_compare.c	1.2	98/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
 static const char sccsid[] = "@(#)log_compare.c	10.2 (Sleepycat) 6/21/97";
-static const char sccsi2[] = "@(#)log_compare.c	1.2 (Sun) 04/02/98";
+static const char sccsi2[] = "%W% (Sun) %G%";
 #endif /* not lint */
 
 #ifndef NO_SYSTEM_INCLUDES

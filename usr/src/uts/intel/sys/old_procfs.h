@@ -31,7 +31,7 @@
 #ifndef _SYS_OLD_PROCFS_H
 #define	_SYS_OLD_PROCFS_H
 
-#pragma ident	"@(#)old_procfs.h	1.30	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the definitions for the old ioctl()-based

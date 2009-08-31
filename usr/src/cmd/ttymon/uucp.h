@@ -30,7 +30,7 @@
 #ifndef _UUCP_H
 #define _UUCP_H
 
-#pragma ident	"@(#)uucp.h	1.11	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

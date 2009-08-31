@@ -1,5 +1,5 @@
 e awk.h
-g/#ident	"@(#)tokenscript	1.4	00/05/01 SMI"/p
+g/#ident	"%Z%%M%	%I%	%E% SMI"/p
 1,$s/# *define *//
 1,$s/^/"/
 1,$s/ /", /

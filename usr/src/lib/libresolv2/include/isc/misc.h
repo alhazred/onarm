@@ -24,7 +24,7 @@
  * $Id: misc.h,v 8.5 2001/06/18 06:40:43 marka Exp $
  */
 
-#pragma ident	"@(#)misc.h	1.4	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ISC_MISC_H
 #define _ISC_MISC_H

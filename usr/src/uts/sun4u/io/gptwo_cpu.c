@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gptwo_cpu.c	1.16	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * CPU functions to the Safari Configurator  (gptwo_cpu)
@@ -106,7 +106,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops, /* Type of module */
-	"gptwo->cpu configurator 1.16",
+	"gptwo->cpu configurator %I%",
 };
 
 static struct modlinkage modlinkage = {

@@ -30,7 +30,7 @@
 #ifndef	_DEVTAB_H
 #define	_DEVTAB_H
 
-#pragma ident	"@(#)devtab.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 

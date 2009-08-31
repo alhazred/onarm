@@ -72,7 +72,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)rdsib_ib.c	1.4	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/ddi.h>

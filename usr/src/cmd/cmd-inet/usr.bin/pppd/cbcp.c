@@ -21,7 +21,7 @@
  * WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-#pragma ident	"@(#)cbcp.c	1.1	00/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define RCSID	"$Id: cbcp.c,v 1.10 1999/08/13 06:46:10 paulus Exp $"
 
 #include <stdio.h>

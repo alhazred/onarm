@@ -25,7 +25,7 @@
 #ifndef _SYS_MCA_X86_H
 #define	_SYS_MCA_X86_H
 
-#pragma ident	"@(#)mca_x86.h	1.2	07/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Constants for the Memory Check Architecture as implemented on generic x86

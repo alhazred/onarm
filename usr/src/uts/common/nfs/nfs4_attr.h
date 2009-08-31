@@ -27,7 +27,7 @@
 #ifndef _NFS4_ATTR_H
 #define	_NFS4_ATTR_H
 
-#pragma ident	"@(#)nfs4_attr.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

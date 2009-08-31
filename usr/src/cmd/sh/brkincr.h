@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)brkincr.h	1.7	05/06/08 SMI"	/* SVr4.0 1.5	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5	*/
 /*	3.0 SID #	1.1	*/
 #define BRKINCR 01000
 #define BRKMAX 04000

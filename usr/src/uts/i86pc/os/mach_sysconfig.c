@@ -23,7 +23,7 @@
 /*	All Rights Reserved					*/
 
 
-#pragma ident	"@(#)mach_sysconfig.c	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errno.h>
 #include <sys/unistd.h>

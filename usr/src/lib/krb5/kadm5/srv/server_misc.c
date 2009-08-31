@@ -1,4 +1,4 @@
-#pragma ident	"@(#)server_misc.c	1.6	08/01/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING 

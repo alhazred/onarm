@@ -189,7 +189,7 @@ Update to APSL 2.0
 
  */
 
-#pragma ident	"@(#)dnssd_clientstub.c	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <errno.h>
 #include <stdlib.h>

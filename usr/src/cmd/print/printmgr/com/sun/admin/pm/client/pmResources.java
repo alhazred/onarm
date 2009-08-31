@@ -20,7 +20,7 @@
  */
 /*
  *
- * ident	"@(#)pmResources.java	1.19	06/06/02 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.

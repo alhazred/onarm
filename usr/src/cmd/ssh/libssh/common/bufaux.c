@@ -43,7 +43,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: bufaux.c,v 1.27 2002/06/26 08:53:12 markus Exp $");
 
-#pragma ident	"@(#)bufaux.c	1.6	06/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <langinfo.h>
 #include <openssl/bn.h>

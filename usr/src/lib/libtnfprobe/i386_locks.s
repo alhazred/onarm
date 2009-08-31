@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)i386_locks.s	1.3	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 	.file		"i386_locks.s"

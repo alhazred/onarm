@@ -26,7 +26,7 @@
  * This file contains CRC-32C code use to verify
  * iSCSI HeaderDigests and DataDigests.
  */
-#pragma ident	"@(#)iscsi_crc.c	1.1	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>	/* standard types */
 #include <sys/iscsi_protocol.h>	/* contains prototypes */

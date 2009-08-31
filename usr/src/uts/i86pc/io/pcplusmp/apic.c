@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)apic.c	1.132	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * PSMI 1.1 extensions are supported only in 2.6 and later versions.
@@ -249,7 +249,7 @@ static struct	psm_info apic_psm_info = {
 	PSM_OWN_EXCLUSIVE,			/* ownership */
 	(struct psm_ops *)&apic_ops,		/* operation */
 	APIC_PCPLUSMP_NAME,			/* machine name */
-	"pcplusmp v1.4 compatible 1.132",
+	"pcplusmp v1.4 compatible %I%",
 };
 
 static void *apic_hdlp;

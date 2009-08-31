@@ -67,7 +67,7 @@
 #ifndef TOOLKIT_H     /* Prevent multiple inclusions of same header file */
 #define TOOLKIT_H
 
-#pragma ident	"@(#)toolkit.h	1.2	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Error types */
 

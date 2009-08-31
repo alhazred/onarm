@@ -26,7 +26,7 @@
 #ifndef _RGE_HW_H
 #define	_RGE_HW_H
 
-#pragma ident	"@(#)rge_hw.h	1.4	07/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

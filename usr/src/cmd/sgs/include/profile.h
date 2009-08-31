@@ -27,7 +27,7 @@
 #ifndef	_PROFILE_H
 #define	_PROFILE_H
 
-#pragma ident	"@(#)profile.h	1.22	06/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

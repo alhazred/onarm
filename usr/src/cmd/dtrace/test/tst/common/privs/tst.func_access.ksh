@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)tst.func_access.ksh	1.1	06/10/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 ppriv -s A=basic,dtrace_proc,dtrace_user $$
 

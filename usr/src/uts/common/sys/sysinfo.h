@@ -31,7 +31,7 @@
 #ifndef _SYS_SYSINFO_H
 #define	_SYS_SYSINFO_H
 
-#pragma ident	"@(#)sysinfo.h	1.31	05/06/08 SMI"	/* SVr4.0 11.14 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.14 */
 
 #include <sys/types.h>
 #include <sys/t_lock.h>

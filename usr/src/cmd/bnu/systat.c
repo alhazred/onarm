@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)systat.c	1.6	05/06/08 SMI"	/* from SVR4 bnu:systat.c 2.7 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:systat.c 2.7 */
 
 #include "uucp.h"
 

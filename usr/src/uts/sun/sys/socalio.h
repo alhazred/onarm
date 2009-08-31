@@ -26,7 +26,7 @@
 #ifndef _SYS_SOCALIO_H
 #define	_SYS_SOCALIO_H
 
-#pragma ident	"@(#)socalio.h	1.5	05/10/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

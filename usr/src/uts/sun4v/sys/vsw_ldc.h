@@ -72,7 +72,7 @@
 #ifndef	_VSW_LDC_H
 #define	_VSW_LDC_H
 
-#pragma ident	"@(#)vsw_ldc.h	1.3	08/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

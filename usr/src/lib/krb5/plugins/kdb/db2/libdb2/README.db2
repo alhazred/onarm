@@ -1,5 +1,5 @@
 
-# ident	"@(#)README.db2	1.1	01/03/19 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 /usr/lib/krb5/libdb2.so.1 is the DB package that is shipped with MIT
 Kerberos 1.0.  It is *not* Berkeley DB 1.x or Sleepycat DB 2.x and is

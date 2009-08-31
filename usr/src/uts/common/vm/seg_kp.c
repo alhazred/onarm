@@ -35,7 +35,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)seg_kp.c	1.85	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * segkp is a segment driver that administers the allocation and deallocation

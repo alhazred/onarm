@@ -31,7 +31,7 @@
 #ifndef _ZLIB_H
 #define _ZLIB_H
 
-#pragma ident	"@(#)zlib.h	1.2	07/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "zconf.h"
 

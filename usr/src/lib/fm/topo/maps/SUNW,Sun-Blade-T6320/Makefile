@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.1	07/06/25 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 PLATFORMS = SUNW,Sun-Blade-T6320
 CLASS = platform

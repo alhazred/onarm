@@ -30,7 +30,7 @@
 #ifndef _SYS_SESSION_H
 #define	_SYS_SESSION_H
 
-#pragma ident	"@(#)session.h	1.20	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

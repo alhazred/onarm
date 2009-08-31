@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)keyserv.c	1.38	06/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * keyserv - server for storing private encryption keys

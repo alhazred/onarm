@@ -26,7 +26,7 @@
 #ifndef _SYS_CRTCTL_H
 #define	_SYS_CRTCTL_H
 
-#pragma ident	"@(#)crtctl.h	1.11	05/06/08 SMI"	/* SVr4.0 11.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.2	*/
 
 #ifdef	__cplusplus
 extern "C" {

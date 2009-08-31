@@ -28,7 +28,7 @@
 #ifndef _LIBINETUTIL_H
 #define	_LIBINETUTIL_H
 
-#pragma ident	"@(#)libinetutil.h	1.5	06/01/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Contains SMI-private API for general Internet functionality

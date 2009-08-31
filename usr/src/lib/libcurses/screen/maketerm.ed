@@ -176,7 +176,7 @@ w strvals
 1,$d
 r tnames.c
 1i
-#pragma ident	"@(#)maketerm.ed	1.22	06/05/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* tnames.c: Made automatically from caps and maketerm.ed - don't edit me! */
 .
@@ -187,7 +187,7 @@ w tnames.c
 1,$d
 r tinames.c
 1i
-#pragma ident	"@(#)maketerm.ed	1.22	06/05/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* tinames.c: Made automatically from caps and maketerm.ed - don't edit me! */
 .
@@ -198,7 +198,7 @@ w tinames.c
 1,$d
 r tifnames.c
 1i
-#pragma ident	"@(#)maketerm.ed	1.22	06/05/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* tifnames.c: Made automatically from caps and maketerm.ed - don't edit me! */
 .
@@ -339,7 +339,7 @@ e ./tmp/term.h.new
 #ifndef	_TERM_H
 #define	_TERM_H
 
-#pragma ident	"@(#)maketerm.ed	1.22	06/05/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * term.h - this file is automatically made from caps and maketerm.ed.

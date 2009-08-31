@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)audit_path.c	1.29	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * @(#)audit_path.c 2.7 92/02/16 SMI; SunOS CMW

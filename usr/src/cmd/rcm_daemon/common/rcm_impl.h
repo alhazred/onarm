@@ -26,7 +26,7 @@
 #ifndef _RCM_IMPL_H
 #define	_RCM_IMPL_H
 
-#pragma ident	"@(#)rcm_impl.h	1.8	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

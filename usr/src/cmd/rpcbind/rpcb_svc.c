@@ -35,7 +35,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rpcb_svc.c	1.19	05/09/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rpcb_svc.c

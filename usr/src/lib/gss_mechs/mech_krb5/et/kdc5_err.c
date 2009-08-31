@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kdc5_err.c	1.3	02/03/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
  
 #include <locale.h>
 const char *

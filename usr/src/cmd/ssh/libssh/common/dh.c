@@ -25,7 +25,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: dh.c,v 1.22 2002/06/27 08:49:44 markus Exp $");
 
-#pragma ident	"@(#)dh.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "xmalloc.h"
 

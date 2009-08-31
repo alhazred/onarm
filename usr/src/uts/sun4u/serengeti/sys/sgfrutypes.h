@@ -6,7 +6,7 @@
 #ifndef _SYS_SGFRUTYPES_H
 #define	_SYS_SGFRUTYPES_H
 
-#pragma ident	"@(#)sgfrutypes.h	1.2	03/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

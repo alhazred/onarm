@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sckmdrv.c	1.6	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Starcat IPSec Key Management Driver.
@@ -136,7 +136,7 @@ static struct dev_ops sckm_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"Key Management Driver v1.6",
+	"Key Management Driver v%I%",
 	&sckm_ops,
 };
 

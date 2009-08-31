@@ -22,7 +22,7 @@
 # Copyright (c) 1999 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/geniconvtbl/sparcv9/Makefile
 

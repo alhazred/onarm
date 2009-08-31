@@ -27,7 +27,7 @@
 #ifndef _LOGIN_H
 #define	_LOGIN_H
 
-#pragma ident	"@(#)iscsi_login.h	1.1	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

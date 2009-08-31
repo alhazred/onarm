@@ -13,7 +13,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)checkeq.c	1.6	05/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

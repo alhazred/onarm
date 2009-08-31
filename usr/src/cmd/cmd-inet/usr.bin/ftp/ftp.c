@@ -37,7 +37,7 @@
  *	contributors.
  */
 
-#pragma ident	"@(#)ftp.c	1.69	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ftp_var.h"
 #include <arpa/nameser.h>

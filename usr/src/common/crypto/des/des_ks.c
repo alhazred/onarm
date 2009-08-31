@@ -26,7 +26,7 @@
 
 #include <sys/types.h>
 
-#pragma ident	"@(#)des_ks.c	1.3	05/08/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* EXPORT DELETE START */
 

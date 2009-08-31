@@ -28,7 +28,7 @@
  * this module contains routines to print portions of the parse tree.
  */
 
-#pragma ident	"@(#)ptree.c	1.4	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

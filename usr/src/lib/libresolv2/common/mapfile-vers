@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)mapfile-vers	1.4	07/10/26 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 SUNW_2.3 {		# SunOS 5.11 (Solaris 11)

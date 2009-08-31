@@ -23,7 +23,7 @@
 # Copyright (c) 2000-2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 MODULE = sppp.so
 MDBTGT = kvm

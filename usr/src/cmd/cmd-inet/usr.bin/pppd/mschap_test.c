@@ -17,7 +17,7 @@
 #include "chap.h"
 #include "chap_ms.h"
 
-#pragma ident	"@(#)mschap_test.c	1.2	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 static void
 show_response(chap_state *cstate, const char *str)

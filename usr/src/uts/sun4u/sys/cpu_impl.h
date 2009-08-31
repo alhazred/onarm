@@ -26,7 +26,7 @@
 #ifndef _SYS_CPU_IMPL_H
 #define	_SYS_CPU_IMPL_H
 
-#pragma ident	"@(#)cpu_impl.h	1.2	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
 #ifndef	_SYS_SCSI_GENERIC_SENSE_H
 #define	_SYS_SCSI_GENERIC_SENSE_H
 
-#pragma ident	"@(#)sense.h	1.18	06/06/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)setjmp.s	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The UCB setjmp(env) is the same as SYSV's sigsetjmp(env, 1)
@@ -40,7 +40,7 @@
  * is essential for the correct operation of sigsetjmp.
  */
 
-	.file	"setjmp.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nl7c.c	1.6	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * NL7C (Network Layer 7 Cache) as part of SOCKFS provides an in-kernel

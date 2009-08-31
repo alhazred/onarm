@@ -29,7 +29,7 @@
 # Portions of this source code were derived from Berkeley 4.3 BSD
 # under license from the Regents of the University of California.
 
-#ident	"@(#)ypinit.sh	1.24	07/12/14 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # set -xv
 YPXFR=/usr/lib/netsvc/yp/ypxfr

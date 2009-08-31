@@ -33,7 +33,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)dev.h	1.6	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /*
 	dev.h: characteristics of a typesetter

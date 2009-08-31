@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)swap.c	1.37	06/05/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * 	Swap administrative interface

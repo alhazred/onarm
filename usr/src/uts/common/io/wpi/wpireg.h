@@ -23,7 +23,7 @@
 #ifndef	_WPIREG_H_
 #define	_WPIREG_H_
 
-#pragma ident	"@(#)wpireg.h	1.4	08/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

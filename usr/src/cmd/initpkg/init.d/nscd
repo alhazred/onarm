@@ -24,7 +24,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)nscd	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # This service is managed by smf(5).  Thus, this script provides
 # compatibility with previously documented init.d script behaviour.

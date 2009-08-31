@@ -3,7 +3,7 @@
 #ifndef	_BINDRESVPORT_H
 #define	_BINDRESVPORT_H
 
-#pragma ident	"@(#)bindresvport.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

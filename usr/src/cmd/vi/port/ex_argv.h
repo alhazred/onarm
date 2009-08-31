@@ -24,7 +24,7 @@
 
 
 /* Copyright (c) 1981 Regents of the University of California */
-#ident	"@(#)ex_argv.h	1.7	05/06/08 SMI"	/* SVr4.0 1.6	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 /*
  * The current implementation of the argument list is poor,
  * using an argv even for internally done "next" commands.

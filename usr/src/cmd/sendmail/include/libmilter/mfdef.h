@@ -17,7 +17,7 @@
 #ifndef _LIBMILTER_MFDEF_H
 #define	_LIBMILTER_MFDEF_H
 
-#pragma ident	"@(#)mfdef.h	1.9	07/04/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

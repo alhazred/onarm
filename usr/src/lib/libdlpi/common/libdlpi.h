@@ -26,7 +26,7 @@
 #ifndef _LIBDLPI_H
 #define	_LIBDLPI_H
 
-#pragma ident	"@(#)libdlpi.h	1.8	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/dlpi.h>

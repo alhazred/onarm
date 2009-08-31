@@ -25,7 +25,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: auth-krb4.c,v 1.28 2002/09/26 11:38:43 markus Exp $");
 
-#pragma ident	"@(#)auth-krb4.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ssh.h"
 #include "ssh1.h"

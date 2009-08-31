@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)scsa2usb.c	1.79	08/01/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * scsa2usb bridge nexus driver:
@@ -479,7 +479,7 @@ static struct dev_ops scsa2usb_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* Module type. This one is a driver */
-	"SCSA to USB Driver 1.79",	/* Name of the module. */
+	"SCSA to USB Driver %I%",	/* Name of the module. */
 	&scsa2usb_ops,			/* driver ops */
 };
 

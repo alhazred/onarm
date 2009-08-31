@@ -27,7 +27,7 @@
 #ifndef _SYS_ZIO_COMPRESS_H
 #define	_SYS_ZIO_COMPRESS_H
 
-#pragma ident	"@(#)zio_compress.h	1.2	07/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zio.h>
 

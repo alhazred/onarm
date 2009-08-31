@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)utime.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"utime.s"
+	.file	"%M%"
 
 /* C library -- utime						*/
 /* int utime (const char *path, const struct utimbuf *times);	*/

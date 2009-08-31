@@ -27,7 +27,7 @@
 #ifndef	_MDB_CYCLIC_H
 #define	_MDB_CYCLIC_H
 
-#pragma ident	"@(#)cyclic.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

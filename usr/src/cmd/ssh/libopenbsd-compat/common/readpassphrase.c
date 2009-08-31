@@ -189,4 +189,4 @@ static void handler(int s)
 }
 #endif /* HAVE_READPASSPHRASE */
 
-#pragma ident	"@(#)readpassphrase.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

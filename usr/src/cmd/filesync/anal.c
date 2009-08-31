@@ -56,7 +56,7 @@
  *	pass ... since we don't have complete information about files that
  *	were not evaluated in the previous pass.
  */
-#pragma ident	"@(#)anal.c	1.14	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -6,7 +6,7 @@
 #ifndef	SQLITE_CONFIG_H
 #define	SQLITE_CONFIG_H
 
-#pragma ident	"@(#)config.h	1.1	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

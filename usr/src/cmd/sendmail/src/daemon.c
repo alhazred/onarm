@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)daemon.c	1.91	07/04/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 #include "map.h"

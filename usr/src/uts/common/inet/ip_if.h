@@ -27,7 +27,7 @@
 #ifndef	_INET_IP_IF_H
 #define	_INET_IP_IF_H
 
-#pragma ident	"@(#)ip_if.h	1.85	08/01/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <net/route.h>
 

@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)msg.c	1.15	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  *	UNIX shell
  */

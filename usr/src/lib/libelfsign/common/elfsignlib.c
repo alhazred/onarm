@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)elfsignlib.c	1.30	08/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	ELF_TARGET_ALL	/* get definitions of all section flags */
 

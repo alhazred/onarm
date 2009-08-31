@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)pwd.c	1.12	06/06/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* 
  *	UNIX shell
  */

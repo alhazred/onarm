@@ -30,7 +30,7 @@
 #ifndef _SYS_KOBJ_H
 #define	_SYS_KOBJ_H
 
-#pragma ident	"@(#)kobj.h	1.55	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/modctl.h>
 #include <sys/elf.h>

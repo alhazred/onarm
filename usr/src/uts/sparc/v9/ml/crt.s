@@ -23,7 +23,7 @@
  *	Copyright (c) 1988-1991 by Sun Microsystems, Inc.
  */
 
-#ident	"@(#)crt.s	1.2	05/06/08 SMI"	/* From SunOS 4.1 1.6 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* From SunOS 4.1 1.6 */
 
 #if defined(lint)
 #include <sys/types.h>

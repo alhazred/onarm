@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 # 
-# ident	"@(#)Makefile	1.33	06/05/19 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # uts/common/nfs/Makefile
 #

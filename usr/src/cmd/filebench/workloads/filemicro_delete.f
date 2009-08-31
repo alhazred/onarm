@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)filemicro_delete.f	1.1	07/10/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # delete 1000 files
 

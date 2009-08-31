@@ -43,7 +43,7 @@
 
 #ifndef _SIGNAL_H
 
-#pragma ident	"@(#)signal.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/signal.h>
 

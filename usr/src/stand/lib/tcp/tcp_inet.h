@@ -12,7 +12,7 @@
 #ifndef _TCP_INET_H
 #define	_TCP_INET_H
 
-#pragma ident	"@(#)tcp_inet.h	1.3	05/03/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

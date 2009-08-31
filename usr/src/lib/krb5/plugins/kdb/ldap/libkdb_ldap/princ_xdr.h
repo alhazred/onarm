@@ -6,7 +6,7 @@
 #ifndef _PRINC_XDR_H
 #define _PRINC_XDR_H 1
 
-#pragma ident	"@(#)princ_xdr.h	1.2	08/01/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <krb5.h>

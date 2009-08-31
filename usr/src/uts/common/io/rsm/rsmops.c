@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)rsmops.c	1.8	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/modctl.h>
@@ -43,7 +43,7 @@
 
 /* lint -w2 */
 static struct modlmisc modlmisc = {
-	&mod_miscops, "RSMOPS module 1.8",
+	&mod_miscops, "RSMOPS module %I%",
 };
 
 static struct modlinkage modlinkage = {

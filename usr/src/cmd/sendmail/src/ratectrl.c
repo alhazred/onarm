@@ -44,7 +44,7 @@
  * SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)ratectrl.c	1.4	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 SM_RCSID("@(#)$Id: ratectrl.c,v 8.11 2006/08/15 23:24:57 ca Exp $")

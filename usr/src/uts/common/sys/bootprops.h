@@ -26,7 +26,7 @@
 #ifndef	_BOOTPROPS_H
 #define	_BOOTPROPS_H
 
-#pragma ident	"@(#)bootprops.h	1.3	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

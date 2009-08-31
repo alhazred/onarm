@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)fsr.s	1.3	05/06/28 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
 	.file	"fsr.s"
 

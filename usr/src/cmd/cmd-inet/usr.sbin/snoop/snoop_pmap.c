@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#ident	"@(#)snoop_pmap.c	1.11	05/06/08 SMI"	/* SunOS	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS	*/
 
 #include <sys/types.h>
 #include <sys/errno.h>

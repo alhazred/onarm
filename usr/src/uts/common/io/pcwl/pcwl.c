@@ -35,7 +35,7 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)pcwl.c	1.3	08/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/conf.h>
 #include <sys/ddi.h>

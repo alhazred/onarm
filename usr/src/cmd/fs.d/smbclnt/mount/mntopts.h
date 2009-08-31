@@ -42,7 +42,7 @@
 #ifndef	_CIFS_MNTOPTS_H
 #define	_CIFS_MNTOPTS_H
 
-#pragma ident	"@(#)mntopts.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

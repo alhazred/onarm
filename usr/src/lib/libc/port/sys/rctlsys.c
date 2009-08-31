@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rctlsys.c	1.5	07/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak setrctl = _setrctl
 #pragma weak getrctl = _getrctl

@@ -31,7 +31,7 @@
 #ifndef	_GLOB_H
 #define	_GLOB_H
 
-#pragma ident	"@(#)glob.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

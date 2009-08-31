@@ -27,7 +27,7 @@
 #ifndef _SYS_PTE_H
 #define	_SYS_PTE_H
 
-#pragma ident	"@(#)pte.h	1.5	05/09/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(__i386) || defined(__amd64)
 

@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)lx_install.ksh	1.6	07/09/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # Restrict executables to /bin, /usr/bin, /usr/sbin and /usr/sfw/bin

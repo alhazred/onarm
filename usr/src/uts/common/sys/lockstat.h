@@ -26,7 +26,7 @@
 #ifndef _SYS_LOCKSTAT_H
 #define	_SYS_LOCKSTAT_H
 
-#pragma ident	"@(#)lockstat.h	1.7	08/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dtrace.h>
 

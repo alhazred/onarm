@@ -40,7 +40,7 @@
 #ifndef _SYS_SIGNAL_H
 #define	_SYS_SIGNAL_H
 
-#pragma ident	"@(#)signal.h	1.69	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/iso/signal_iso.h>

@@ -3,7 +3,7 @@
 # Use is subject to license terms.
 #
 
-# ident	"@(#)Makefile	1.1	04/05/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 include ../Makefile.com
 

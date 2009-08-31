@@ -27,7 +27,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)lintsup.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Supplimental definitions for lint that help us avoid

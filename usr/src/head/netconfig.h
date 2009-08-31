@@ -26,7 +26,7 @@
 #ifndef	_NETCONFIG_H
 #define	_NETCONFIG_H
 
-#pragma ident	"@(#)netconfig.h	1.14	05/06/08 SMI"	/* SVr4.0 1.8 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8 */
 
 #include <sys/netconfig.h>
 

@@ -27,7 +27,7 @@
 #ifndef	_PCF8591_IMPL_H
 #define	_PCF8591_IMPL_H
 
-#pragma ident	"@(#)pcf8591_impl.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

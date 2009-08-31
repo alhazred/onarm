@@ -11,7 +11,7 @@
 
 #! /usr/bin/sh
 
-#pragma ident	"@(#)roffbib.sh	1.6	05/06/03 SMI" 
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 
 
 #
 #	roffbib sh script

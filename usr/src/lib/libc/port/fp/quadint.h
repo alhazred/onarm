@@ -56,7 +56,7 @@
 #ifndef __QUADINT_H
 #define	__QUADINT_H
 
-#pragma ident	"@(#)quadint.h	1.3	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/types.h>

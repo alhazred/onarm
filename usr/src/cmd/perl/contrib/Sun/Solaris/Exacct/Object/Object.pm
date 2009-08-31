@@ -22,7 +22,7 @@
 # Copyright 2002-2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Object.pm	1.3	05/06/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Object.pm contains perl code for exacct object manipulation.
 #
@@ -33,7 +33,7 @@ use warnings;
 
 package Sun::Solaris::Exacct::Object;
 
-our $VERSION = '1.3';
+our $VERSION = '%I%';
 use XSLoader;
 XSLoader::load(__PACKAGE__, $VERSION);
 

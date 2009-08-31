@@ -27,7 +27,7 @@
 #ifndef _SYS_AUDIODEBUG_H
 #define	_SYS_AUDIODEBUG_H
 
-#pragma ident	"@(#)audiodebug.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Audio debugging macros

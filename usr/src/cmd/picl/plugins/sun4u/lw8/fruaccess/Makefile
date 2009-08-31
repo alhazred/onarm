@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.6	06/03/23 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 include $(SRC)/Makefile.psm

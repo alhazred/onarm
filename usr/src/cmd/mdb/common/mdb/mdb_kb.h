@@ -26,7 +26,7 @@
 #ifndef	_MDB_KB_H
 #define	_MDB_KB_H
 
-#pragma ident	"@(#)mdb_kb.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * A KVM backend is used by the KVM target to interrogate the address space of

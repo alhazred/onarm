@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)unwind_frame.s	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"unwind_frame.s"
+	.file	"%M%"
 
 #include "SYS.h"
 #include <../assym.h>

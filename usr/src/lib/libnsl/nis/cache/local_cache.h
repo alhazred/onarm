@@ -27,7 +27,7 @@
 #ifndef	__LOCAL_CACHE_H
 #define	__LOCAL_CACHE_H
 
-#pragma ident	"@(#)local_cache.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "cache.h"
 

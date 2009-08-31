@@ -15,7 +15,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: mpaux.c,v 1.16 2001/02/08 19:30:52 itojun Exp $");
 
-#pragma ident	"@(#)mpaux.c	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <openssl/bn.h>
 #include "getput.h"

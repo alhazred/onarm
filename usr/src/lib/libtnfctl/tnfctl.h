@@ -26,7 +26,7 @@
 #ifndef _TNFCTL_H
 #define	_TNFCTL_H
 
-#pragma ident	"@(#)tnfctl.h	1.35	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <gelf.h>

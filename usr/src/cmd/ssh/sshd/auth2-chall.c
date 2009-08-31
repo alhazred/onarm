@@ -30,7 +30,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: auth2-chall.c,v 1.20 2002/06/30 21:59:45 deraadt Exp $");
 
-#pragma ident	"@(#)auth2-chall.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ssh2.h"
 #include "auth.h"

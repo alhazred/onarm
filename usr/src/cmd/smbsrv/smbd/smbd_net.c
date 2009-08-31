@@ -27,7 +27,7 @@
  * Structures and type definitions for the SMB module.
  */
 
-#pragma ident	"@(#)smbd_net.c	1.1	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ioccom.h>
 #include <strings.h>

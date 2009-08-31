@@ -27,7 +27,7 @@
 #ifndef	_PRFILE_H
 #define	_PRFILE_H
 
-#pragma ident	"@(#)prfile.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

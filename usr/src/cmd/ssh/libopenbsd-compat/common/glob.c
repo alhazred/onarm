@@ -915,4 +915,4 @@ qprintf(str, s)
           !defined(GLOB_HAS_GL_MATCHC) */
 
 
-#pragma ident	"@(#)glob.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

@@ -29,7 +29,7 @@
 #ifndef	_SYS_IDN_XF_H
 #define	_SYS_IDN_XF_H
 
-#pragma ident	"@(#)idn_xf.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/pda.h>
 #include <sys/cpu_sgnblk_defs.h>

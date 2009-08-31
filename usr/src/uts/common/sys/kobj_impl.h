@@ -30,7 +30,7 @@
 #ifndef	_SYS_KOBJ_IMPL_H
 #define	_SYS_KOBJ_IMPL_H
 
-#pragma ident	"@(#)kobj_impl.h	1.33	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/kdi.h>
 #include <sys/kobj.h>

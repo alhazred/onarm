@@ -31,7 +31,7 @@
 /* 	Portions Copyright(c) 1988, Sun Microsystems Inc.	*/
 /*	All Rights Reserved					*/
 
-#pragma ident	"@(#)regex.c	1.5	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /*LINTLIBRARY*/
 

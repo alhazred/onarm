@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)usb_ia.c	1.2	07/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * usb interface association driver
@@ -176,7 +176,7 @@ static struct dev_ops usb_ia_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module. This one is a driver */
-	"USB Interface Association Driver 1.2", /* Name of the module. */
+	"USB Interface Association Driver %I%", /* Name of the module. */
 	&usb_ia_ops,	/* driver ops */
 };
 

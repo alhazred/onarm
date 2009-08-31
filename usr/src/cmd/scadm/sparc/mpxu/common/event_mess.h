@@ -27,7 +27,7 @@
 #ifndef	_EVENT_MESS_H
 #define	_EVENT_MESS_H
 
-#pragma ident	"@(#)event_mess.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

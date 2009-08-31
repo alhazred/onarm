@@ -35,7 +35,7 @@
  * changes in monitored systems.)
  */
 
-%#pragma ident	"@(#)nlm_prot.x	1.9	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if RPC_HDR
 %

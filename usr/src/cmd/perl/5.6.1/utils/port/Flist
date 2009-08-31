@@ -4,7 +4,7 @@
 # Copyright (c) 2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Flist	1.1	01/07/12 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This script was used to produce a spreadsheet containing the details of the
 # files in the standard 5.005_03, the 5.005_03 files as shipped in S8, the files

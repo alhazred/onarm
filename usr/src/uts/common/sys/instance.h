@@ -27,7 +27,7 @@
 #ifndef	_SYS_INSTANCE_H
 #define	_SYS_INSTANCE_H
 
-#pragma ident	"@(#)instance.h	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Instance number assignment data structures

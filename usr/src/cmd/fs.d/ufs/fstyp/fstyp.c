@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)fstyp.c	1.36	06/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * libfstyp module for ufs

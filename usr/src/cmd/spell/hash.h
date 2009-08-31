@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)hash.h	1.9	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 #define	HASHWIDTH 27
 #define	HASHSIZE 134217689L	/* prime under 2^HASHWIDTH */
 #define	INDEXWIDTH 9

@@ -30,7 +30,7 @@
 #ifndef _SYS_STREAM_H
 #define	_SYS_STREAM_H
 
-#pragma ident	"@(#)stream.h	1.124	07/09/06 SMI"	/* SVr4.0 11.44	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.44	*/
 
 /*
  * For source compatibility

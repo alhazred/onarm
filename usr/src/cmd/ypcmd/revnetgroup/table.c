@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 							    
-#ident	"@(#)table.c	1.5	05/06/08 SMI"	/* SMI4.1 1.4 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SMI4.1 1.4 */
 
 #include <ctype.h>
 #include "util.h"

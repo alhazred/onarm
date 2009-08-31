@@ -4,7 +4,7 @@
 # Copyright (c) 1999-2000 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-# ident	"@(#)vgrind.ksh	1.4	05/06/12 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright (c) 1980 Regents of the University of California.
 # All rights reserved.  The Berkeley software License Agreement

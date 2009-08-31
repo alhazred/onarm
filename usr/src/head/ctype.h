@@ -31,7 +31,7 @@
 #ifndef _CTYPE_H
 #define	_CTYPE_H
 
-#pragma ident	"@(#)ctype.h	1.37	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <iso/ctype_iso.h>
 #include <iso/ctype_c99.h>

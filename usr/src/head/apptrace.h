@@ -27,7 +27,7 @@
 #ifndef	_APPTRACE_H
 #define	_APPTRACE_H
 
-#pragma ident	"@(#)apptrace.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

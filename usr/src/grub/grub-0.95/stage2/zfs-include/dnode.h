@@ -24,7 +24,7 @@
 #ifndef	_SYS_DNODE_H
 #define	_SYS_DNODE_H
 
-#pragma ident	"@(#)dnode.h	1.1	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Fixed constants.

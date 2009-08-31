@@ -9,7 +9,7 @@
  *	$Id: rpool.h,v 1.16 2003/09/05 23:07:49 ca Exp $
  */
 
-#pragma ident	"@(#)rpool.h	1.2	04/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  libsm resource pools

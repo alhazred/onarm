@@ -63,7 +63,7 @@ cl dns-sd.c -I../mDNSShared -DNOT_HAVE_GETOPT ws2_32.lib ..\mDNSWindows\DLL\Rele
 (may require that you run a Visual Studio script such as vsvars32.bat first)
 */
 
-#pragma ident	"@(#)dns-sd.c	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 // For testing changes to dnssd_clientstub.c, uncomment this line and the #include below
 // #define __APPLE_API_PRIVATE 1

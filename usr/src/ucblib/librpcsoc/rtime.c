@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rtime.c	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rtime - get time from remote machine

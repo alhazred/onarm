@@ -2,7 +2,7 @@
 # Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile	1.16	03/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/ldap/Makefile
 

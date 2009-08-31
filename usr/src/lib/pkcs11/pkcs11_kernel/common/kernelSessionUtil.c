@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kernelSessionUtil.c	1.14	08/01/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <pthread.h>

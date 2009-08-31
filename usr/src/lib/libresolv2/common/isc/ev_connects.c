@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#pragma ident	"@(#)ev_connects.c	1.6	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* ev_connects.c - implement asynch connect/accept for the eventlib
  * vix 16sep96 [initial]

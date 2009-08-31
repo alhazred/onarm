@@ -27,7 +27,7 @@
 #ifndef _VOLUME_SVM_UTIL_H
 #define	_VOLUME_SVM_UTIL_H
 
-#pragma ident	"@(#)layout_svm_util.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

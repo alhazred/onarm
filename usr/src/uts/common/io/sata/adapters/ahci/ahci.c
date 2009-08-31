@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ahci.c	1.7	08/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * AHCI (Advanced Host Controller Interface) SATA HBA Driver
@@ -277,7 +277,7 @@ extern struct mod_ops mod_driverops;
 
 static  struct modldrv modldrv = {
 	&mod_driverops,		/* driverops */
-	"ahci driver 1.7",
+	"ahci driver %I%",
 	&ahcictl_dev_ops,	/* driver ops */
 };
 
@@ -4108,22 +4108,11 @@ ahci_alloc_cmd_list(ahci_ctl_t *ahci_ctlp, ahci_port_t *ahci_portp,
 	    ahci_portp->ahciport_cmd_list_dma_cookie.dmac_address);
 
 	if (ahci_alloc_cmd_tables(ahci_ctlp, ahci_portp) != AHCI_SUCCESS) {
-		goto err_out;
+		ahci_dealloc_cmd_list(ahci_ctlp, ahci_portp);
+		return (AHCI_FAILURE);
 	}
 
 	return (AHCI_SUCCESS);
-
-err_out:
-	/* Unbind the cmd list dma handle first. */
-	(void) ddi_dma_unbind_handle(ahci_portp->ahciport_cmd_list_dma_handle);
-
-	/* Then free the underlying memory. */
-	ddi_dma_mem_free(&ahci_portp->ahciport_cmd_list_acc_handle);
-
-	/* Now free the handle itself. */
-	ddi_dma_free_handle(&ahci_portp->ahciport_cmd_list_dma_handle);
-
-	return (AHCI_FAILURE);
 }
 
 /*

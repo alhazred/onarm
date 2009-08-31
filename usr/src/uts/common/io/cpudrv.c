@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cpudrv.c	1.20	08/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * CPU Device driver. The driver is not DDI-compliant.
@@ -99,7 +99,7 @@ struct dev_ops cpudrv_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* modops */
-	"CPU Driver 1.20",		/* linkinfo */
+	"CPU Driver %I%",		/* linkinfo */
 	&cpudrv_ops,			/* dev_ops */
 };
 

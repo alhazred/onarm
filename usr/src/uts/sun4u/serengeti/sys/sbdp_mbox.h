@@ -27,7 +27,7 @@
 #ifndef _SBDP_MBOX_H
 #define	_SBDP_MBOX_H
 
-#pragma ident	"@(#)sbdp_mbox.h	1.5	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

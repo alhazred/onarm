@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)readdir.c	1.30	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * readdir -- C library extension routine

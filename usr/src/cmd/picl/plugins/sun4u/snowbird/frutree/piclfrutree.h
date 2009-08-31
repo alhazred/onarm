@@ -27,7 +27,7 @@
 #ifndef	_PICLFRUTREE_H
 #define	_PICLFRUTREE_H
 
-#pragma ident	"@(#)piclfrutree.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <syslog.h>

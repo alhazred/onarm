@@ -22,7 +22,7 @@
 # Copyright 2000 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)SampleLinks	1.3	05/06/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # these are additions or replacements to the /var/sadm/install/contents file
 # to make link resolution come out cleanly

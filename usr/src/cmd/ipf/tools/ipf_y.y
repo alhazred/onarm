@@ -8,7 +8,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ipf_y.y	1.22	08/01/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ipf.h"
 #include <sys/ioctl.h>

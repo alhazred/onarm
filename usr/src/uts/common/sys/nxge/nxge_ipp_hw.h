@@ -26,7 +26,7 @@
 #ifndef _SYS_NXGE_NXGE_IPP_HW_H
 #define	_SYS_NXGE_NXGE_IPP_HW_H
 
-#pragma ident	"@(#)nxge_ipp_hw.h	1.3	07/11/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

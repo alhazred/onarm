@@ -29,7 +29,7 @@
 #ifndef PPPOED_H
 #define	PPPOED_H
 
-#pragma ident	"@(#)pppoed.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include "common.h"

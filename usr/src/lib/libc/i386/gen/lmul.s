@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)lmul.s	1.5	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"lmul.s"
+	.file	"%M%"
 
 / Double long multiply routine.
 

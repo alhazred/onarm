@@ -27,7 +27,7 @@
 #ifndef _sys_mman_h
 #define	_sys_mman_h
 
-#pragma ident	"@(#)mman.h	2.21	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Protections are chosen from these bits, or-ed together.

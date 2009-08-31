@@ -27,7 +27,7 @@
 #ifndef _ADM1031_IMPL_H
 #define	_ADM1031_IMPL_H
 
-#pragma ident	"@(#)adm1031_impl.h	1.3	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

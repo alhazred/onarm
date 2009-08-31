@@ -5,7 +5,7 @@
 # uts/intel/amd64_gart/Makefile
 #
 #
-#ident	"@(#)Makefile	1.2	07/01/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the framework of agp protocol
 #	(amd64_gart) kernel module.

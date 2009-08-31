@@ -27,7 +27,7 @@
 #ifndef _SYS_STACK_H
 #define	_SYS_STACK_H
 
-#pragma ident	"@(#)stack.h	1.23	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(_ASM)
 

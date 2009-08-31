@@ -23,7 +23,7 @@
  * Use is subject to license terms. 
  */ 
 
-#pragma ident	"@(#)oberon.esc	1.3	07/09/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Eversholt rules for Oberon ASICs

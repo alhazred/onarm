@@ -32,7 +32,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)print.h	1.4	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /* Maximum number of digits in any integer representation */
 #define	MAXDIGS 11

@@ -31,7 +31,7 @@
 #ifndef _SYS_DIRENT_H
 #define	_SYS_DIRENT_H
 
-#pragma ident	"@(#)dirent.h	1.38	05/06/08 SMI"	/* SVr4.0 11.11 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.11 */
 
 #include <sys/feature_tests.h>
 

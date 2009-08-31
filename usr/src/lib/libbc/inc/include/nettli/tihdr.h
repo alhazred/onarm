@@ -21,7 +21,7 @@
  */
 /*	from S5R3 sys/tihdr.h	10.2" */
 
-#pragma ident	"@(#)tihdr.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*	Copyright (c) 1984 AT&T	*/
 /*	  All Rights Reserved  	*/

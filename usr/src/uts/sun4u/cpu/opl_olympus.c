@@ -27,7 +27,7 @@
  * Support for Olympus-C (SPARC64-VI) and Jupiter (SPARC64-VII).
  */
 
-#pragma ident	"@(#)opl_olympus.c	1.20	08/02/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/systm.h>

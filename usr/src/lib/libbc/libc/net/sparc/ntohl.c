@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ntohl.c	1.10	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 unsigned long
 ntohl(unsigned long a)

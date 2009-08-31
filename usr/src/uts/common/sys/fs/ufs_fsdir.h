@@ -40,7 +40,7 @@
 #ifndef	_SYS_FS_UFS_FSDIR_H
 #define	_SYS_FS_UFS_FSDIR_H
 
-#pragma ident	"@(#)ufs_fsdir.h	2.21	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

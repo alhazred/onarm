@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)init_allocated_keyblock.c	1.1	06/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "k5-int.h"
 

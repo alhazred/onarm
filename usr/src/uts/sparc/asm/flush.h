@@ -27,7 +27,7 @@
 #ifndef _ASM_FLUSH_H
 #define	_ASM_FLUSH_H
 
-#pragma ident	"@(#)flush.h	1.1	05/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

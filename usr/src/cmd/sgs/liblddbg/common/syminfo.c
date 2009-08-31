@@ -23,7 +23,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)syminfo.c	1.3	07/11/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<sgs.h>
 #include	<stdio.h>

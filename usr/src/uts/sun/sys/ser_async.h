@@ -27,7 +27,7 @@
 #ifndef	_SYS_SER_ASYNC_H
 #define	_SYS_SER_ASYNC_H
 
-#pragma ident	"@(#)ser_async.h	1.32	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Initial port setup parameters for async lines

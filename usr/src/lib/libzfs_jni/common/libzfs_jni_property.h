@@ -27,7 +27,7 @@
 #ifndef _LIBZFS_JNI_PROPERTY_H
 #define	_LIBZFS_JNI_PROPERTY_H
 
-#pragma ident	"@(#)libzfs_jni_property.h	1.4	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <jni.h>
 #include <libzfs.h>

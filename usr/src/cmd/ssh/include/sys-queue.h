@@ -4,7 +4,7 @@
 #ifndef	_SYS_QUEUE_H
 #define	_SYS_QUEUE_H
 
-#pragma ident	"@(#)sys-queue.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

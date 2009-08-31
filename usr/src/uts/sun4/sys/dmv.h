@@ -27,7 +27,7 @@
 #ifndef _SYS_DMV_H
 #define	_SYS_DMV_H
 
-#pragma ident	"@(#)dmv.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
 #ifndef _LIBW_H
 #define	_LIBW_H
 
-#pragma ident	"@(#)libw.h	1.12	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 #include <stdlib.h>
 

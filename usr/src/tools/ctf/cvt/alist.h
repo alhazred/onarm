@@ -27,7 +27,7 @@
 #ifndef _ASSOC_H
 #define	_ASSOC_H
 
-#pragma ident	"@(#)alist.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Create, manage, and destroy association lists.  alists are arrays with

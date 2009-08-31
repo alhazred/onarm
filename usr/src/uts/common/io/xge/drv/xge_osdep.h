@@ -37,7 +37,7 @@
 #ifndef _SYS_XGE_OSDEP_H
 #define	_SYS_XGE_OSDEP_H
 
-#pragma ident	"@(#)xge_osdep.h	1.5	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ddi.h>
 #include <sys/sunddi.h>

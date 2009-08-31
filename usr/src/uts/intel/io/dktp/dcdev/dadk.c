@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dadk.c	1.54	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Direct Attached Disk
@@ -247,7 +247,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc modlmisc = {
 	&mod_miscops,	/* Type of module */
-	"Direct Attached Disk 1.54"
+	"Direct Attached Disk %I%"
 };
 
 static struct modlinkage modlinkage = {

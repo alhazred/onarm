@@ -29,7 +29,7 @@
 #ifndef _ICMP4_H
 #define	_ICMP4_H
 
-#pragma ident	"@(#)icmp4.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

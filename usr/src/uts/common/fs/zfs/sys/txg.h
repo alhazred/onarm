@@ -31,7 +31,7 @@
 #ifndef _SYS_TXG_H
 #define	_SYS_TXG_H
 
-#pragma ident	"@(#)txg.h	1.1	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/spa.h>
 #include <sys/zfs_context.h>

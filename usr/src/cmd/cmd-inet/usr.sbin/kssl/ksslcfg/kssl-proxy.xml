@@ -24,7 +24,7 @@
 
  CDDL HEADER END
 
-	ident	"@(#)kssl-proxy.xml	1.1	05/11/12 SMI"
+	ident	"%Z%%M%	%I%	%E% SMI"
 
 	NOTE:  This service manifest is not editable; its contents will
 	be overwritten by package or patch operations, including

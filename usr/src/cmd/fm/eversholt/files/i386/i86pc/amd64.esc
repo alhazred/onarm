@@ -24,7 +24,7 @@
  * Use is subject to license terms. 
  */ 
  
-#pragma ident	"@(#)amd64.esc	1.8	07/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma dictionary "AMD" 
 

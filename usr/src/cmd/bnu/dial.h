@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)dial.h	1.4	05/06/08 SMI"	/* from SVR4 bnu:dial.h 1.1 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:dial.h 1.1 */
 
 #ifndef _DIAL_H
 #define _DIAL_H

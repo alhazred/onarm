@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sysiosbus.c	1.117	07/03/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -381,7 +381,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops, 	/* Type of module.  This one is a driver */
-	"SBus (sysio) nexus driver 1.117",	/* Name of module. */
+	"SBus (sysio) nexus driver %I%",	/* Name of module. */
 	&sbus_ops,		/* driver ops */
 };
 

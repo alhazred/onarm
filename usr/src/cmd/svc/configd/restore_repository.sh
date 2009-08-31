@@ -24,7 +24,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)restore_repository.sh	1.3	05/08/23 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 PATH=/sbin:/usr/bin:/usr/sbin
 LC_ALL=C

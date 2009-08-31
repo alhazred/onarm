@@ -35,7 +35,7 @@
  *   (see getipnodebyname.c and netdir_inet.c).
  */
 
-#pragma ident	"@(#)gethostent6.c	1.6	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <sys/socket.h>

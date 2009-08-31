@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)domainname.c	1.14	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * domainname -- get (or set domainname)

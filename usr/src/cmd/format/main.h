@@ -28,7 +28,7 @@
 #ifndef	_MAIN_H
 #define	_MAIN_H
 
-#pragma ident	"@(#)main.h	1.8	05/08/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)memcpy.s	1.6	07/06/29 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
 	.file	"memcpy.s"
 /*

@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)__clock_gettime.s	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"__clock_gettime.s"
+	.file	"%M%"
 
 #include <sys/time_impl.h>
 #include "SYS.h"

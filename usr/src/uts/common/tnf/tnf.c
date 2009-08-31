@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)tnf.c	1.53	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * tnf driver - provides probe control and kernel trace buffer access
@@ -176,7 +176,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"kernel probes driver 1.53",
+	"kernel probes driver %I%",
 	&tnf_ops,
 };
 

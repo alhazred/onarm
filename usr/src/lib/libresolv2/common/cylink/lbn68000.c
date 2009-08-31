@@ -63,7 +63,7 @@
  * (The order of bytes within words is irrelevant to this issue.)
  */
 
-#pragma ident	"@(#)lbn68000.c	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <limits.h>
 

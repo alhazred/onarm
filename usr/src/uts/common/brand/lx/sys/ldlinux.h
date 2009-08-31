@@ -26,7 +26,7 @@
 #ifndef _SYS_LDLINUX_H
 #define	_SYS_LDLINUX_H
 
-#pragma ident	"@(#)ldlinux.h	1.1	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The ldlinux streams module is only intended for use in lx branded zones.

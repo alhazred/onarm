@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)ether_addr.c	1.25	07/03/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * All routines necessary to deal the "ethers" database.  The sources

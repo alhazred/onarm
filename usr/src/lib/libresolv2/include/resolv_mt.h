@@ -5,7 +5,7 @@
 #ifndef	_RESOLV_MT_H
 #define	_RESOLV_MT_H
 
-#pragma ident	"@(#)resolv_mt.h	1.3	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

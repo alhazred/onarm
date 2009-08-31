@@ -3,7 +3,7 @@
 #ifndef	_DISPATCH_H
 #define	_DISPATCH_H
 
-#pragma ident	"@(#)dispatch.h	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

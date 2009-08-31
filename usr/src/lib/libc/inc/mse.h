@@ -27,7 +27,7 @@
 #ifndef	_MSE_H
 #define	_MSE_H
 
-#pragma ident	"@(#)mse.h	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <wchar.h>

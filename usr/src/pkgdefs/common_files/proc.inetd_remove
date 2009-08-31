@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)proc.inetd_remove	1.5	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # proc.inetd_remove -- common code for inetd.conf entry removal
 #

@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)__getloadavg.s	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"__getloadavg.s"
+	.file	"%M%"
 
 /*
  * int __getloadavg(int *buf, int nelem);

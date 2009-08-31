@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)isatty.c	1.4	05/06/08 SMI"  /* from S5R3 1.7 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"  /* from S5R3 1.7 */
 /*	Copyright (c) 1984 AT&T	*/
 /*	  All Rights Reserved  	*/
 

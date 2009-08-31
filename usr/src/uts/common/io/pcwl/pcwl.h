@@ -43,7 +43,7 @@
 #ifndef _SYS_PCWL_H
 #define	_SYS_PCWL_H
 
-#pragma ident	"@(#)pcwl.h	1.1	07/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

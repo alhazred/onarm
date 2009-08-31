@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.4	05/07/31 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 MODULE = dtrace.so
 MDBTGT = kvm

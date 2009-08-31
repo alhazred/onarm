@@ -27,7 +27,7 @@
 #ifndef	_SYS_FS_UDF_VOLUME_H
 #define	_SYS_FS_UDF_VOLUME_H
 
-#pragma ident	"@(#)udf_volume.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 

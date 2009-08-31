@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)libdwarf.h	1.1	04/09/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 

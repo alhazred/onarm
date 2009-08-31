@@ -22,7 +22,7 @@
 /*
  *	Copyright (c) 1991,1992 by Sun Microsystems, Inc.
  */
-#pragma ident	"@(#)boot_a.out.s	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	"machdep.h"
 #if	defined(lint)

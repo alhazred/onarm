@@ -27,7 +27,7 @@
 #ifndef	_SYS_SGSBBC_MAILBOX_PRIV_H
 #define	_SYS_SGSBBC_MAILBOX_PRIV_H
 
-#pragma ident	"@(#)sgsbbc_mailbox_priv.h	1.3	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sgsbbc_mailbox.h>
 

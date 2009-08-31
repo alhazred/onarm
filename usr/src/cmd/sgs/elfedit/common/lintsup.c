@@ -26,7 +26,7 @@
 /* LINTLIBRARY */
 /* PROTOLIB1 */
 
-#pragma ident	"@(#)lintsup.c	1.2	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Supplemental Pseudo-code to get lint to consider these symbols used.

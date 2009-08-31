@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)catv.fd	1.5	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 Input types: simple,postscript

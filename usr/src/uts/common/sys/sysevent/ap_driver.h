@@ -27,7 +27,7 @@
 #ifndef _SYS_SYSEVENT_AP_DRIVER_H
 #define	_SYS_SYSEVENT_AP_DRIVER_H
 
-#pragma ident	"@(#)ap_driver.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

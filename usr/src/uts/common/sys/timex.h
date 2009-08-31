@@ -20,7 +20,7 @@
 #ifndef	_SYS_TIMEX_H
 #define	_SYS_TIMEX_H
 
-#pragma ident	"@(#)timex.h	1.7	02/11/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

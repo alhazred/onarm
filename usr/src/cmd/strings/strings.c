@@ -37,7 +37,7 @@
  *	Copyright (c) 1979 Regents of the University of California
  */
 
-#pragma ident	"@(#)strings.c	1.24	07/04/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include "a.out.h"

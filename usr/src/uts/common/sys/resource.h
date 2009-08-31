@@ -39,7 +39,7 @@
 #ifndef _SYS_RESOURCE_H
 #define	_SYS_RESOURCE_H
 
-#pragma ident	"@(#)resource.h	1.39	06/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

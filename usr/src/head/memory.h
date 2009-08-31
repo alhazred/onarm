@@ -26,7 +26,7 @@
 #ifndef	_MEMORY_H
 #define	_MEMORY_H
 
-#pragma ident	"@(#)memory.h	1.15	05/06/08 SMI"	/* SVr4.0 1.4.1.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4.1.2 */
 
 #include <sys/types.h>
 

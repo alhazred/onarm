@@ -26,7 +26,7 @@
 #ifndef _SYS_IB_IB_TYPES_H
 #define	_SYS_IB_IB_TYPES_H
 
-#pragma ident	"@(#)ib_types.h	1.3	07/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ib_types.h

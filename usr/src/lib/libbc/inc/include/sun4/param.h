@@ -27,7 +27,7 @@
 #ifndef _sun4_param_h
 #define	_sun4_param_h
 
-#pragma ident	"@(#)param.h	1.22	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file is intended to contain the basic

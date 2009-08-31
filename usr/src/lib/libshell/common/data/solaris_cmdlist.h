@@ -27,7 +27,7 @@
 #ifndef _SOLARIS_CMDLIST_H
 #define	_SOLARIS_CMDLIST_H
 
-#pragma ident	"@(#)solaris_cmdlist.h	1.1	07/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

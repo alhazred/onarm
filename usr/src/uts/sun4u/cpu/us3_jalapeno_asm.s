@@ -26,7 +26,7 @@
  * Assembly code support for the jalapeno module
  */
 
-#pragma ident	"@(#)us3_jalapeno_asm.s	1.11	07/06/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint)
 #include "assym.h"

@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)ruptime.c	1.10	05/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <stdio.h>

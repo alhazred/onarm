@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bcrypt.c	1.4	05/07/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*	$OpenBSD: bcrypt.c,v 1.16 2002/02/19 19:39:36 millert Exp $	*/
 

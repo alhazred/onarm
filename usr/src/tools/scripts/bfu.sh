@@ -24,7 +24,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)bfu.sh	1.436	08/03/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Upgrade a machine from a cpio archive area in about 5 minutes.
 # By Roger Faulkner and Jeff Bonwick, April 1993.

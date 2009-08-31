@@ -29,7 +29,7 @@
  *  nisplus backend for nsswitch bootparams database.
  */
 
-#pragma ident	"@(#)bootparams_getbyname.c	1.13	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <nss_dbdefs.h>
 #include <strings.h>

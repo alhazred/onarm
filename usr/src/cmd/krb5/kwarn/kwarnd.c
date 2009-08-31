@@ -30,7 +30,7 @@
  * the code in this file was borrowed from gssd.c
  */
 
-#pragma ident	"@(#)kwarnd.c	1.5	07/05/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <rpc/rpc.h>

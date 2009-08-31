@@ -27,7 +27,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)getscn.c	1.10	05/06/08 SMI" 	/* SVr4.0 1.10	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.10	*/
 
 #pragma weak	elf_getscn = _elf_getscn
 

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)snoop.c	1.38	07/01/11 SMI"	/* SunOS	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS	*/
 
 #include <stdio.h>
 #include <unistd.h>

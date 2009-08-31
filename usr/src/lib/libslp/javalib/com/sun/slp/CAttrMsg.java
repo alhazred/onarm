@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)CAttrMsg.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status: @(#)CAttrMsg.java	1.3 06/08/05 
+//  SCCS Status: %W% %G% 
 //  CAttrMsg.java: Message class for SLP attribute
 //                 reply.  
 //  Author: James Kempf Created On: Thu Oct 9 15:17:36 1997 
@@ -45,7 +45,7 @@ import java.io.*;
 /**
  * The CAttrMsg class models the SLP client side attribute message.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

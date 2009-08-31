@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)makedbm.c	1.18	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #undef NULL
 #include <stdio.h>

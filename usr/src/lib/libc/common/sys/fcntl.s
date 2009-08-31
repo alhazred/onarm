@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fcntl.s	1.7	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"fcntl.s"
+	.file	"%M%"
 
 /*
  * int __fcntl_syscall(int fildes, int cmd [, arg])

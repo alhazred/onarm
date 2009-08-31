@@ -27,7 +27,7 @@
 #ifndef	_PCI_PCI_COMMON_H
 #define	_PCI_PCI_COMMON_H
 
-#pragma ident	"@(#)pci_common.h	1.4	06/04/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

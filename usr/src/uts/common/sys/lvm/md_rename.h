@@ -27,7 +27,7 @@
 #ifndef	_SYS_MD_RENAME_H
 #define	_SYS_MD_RENAME_H
 
-#pragma ident	"@(#)md_rename.h	2.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

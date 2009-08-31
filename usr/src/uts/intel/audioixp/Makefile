@@ -25,7 +25,7 @@
 # uts/intel/audioixp/Makefile
 #
 #
-#ident	"@(#)Makefile	1.5	07/07/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of high definition audio
 #	driver (audioixp) kernel module.

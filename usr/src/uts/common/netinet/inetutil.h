@@ -27,7 +27,7 @@
 #ifndef	_NETINET_INETUTIL_H
 #define	_NETINET_INETUTIL_H
 
-#pragma ident	"@(#)inetutil.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

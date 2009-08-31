@@ -27,7 +27,7 @@
 #ifndef _ZLIBZFS_JNI_MAIN_H
 #define	_ZLIBZFS_JNI_MAIN_H
 
-#pragma ident	"@(#)libzfs_jni_main.h	1.4	07/11/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <jni.h>
 

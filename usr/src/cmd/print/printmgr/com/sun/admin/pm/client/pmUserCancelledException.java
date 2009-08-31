@@ -20,7 +20,7 @@
  */
 /*
  *
- * ident	"@(#)pmUserCancelledException.java	1.6	06/06/02 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.

@@ -27,7 +27,7 @@
 #ifndef	_MONV_H
 #define	_MONV_H
 
-#pragma ident	"@(#)monv.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Versioned monitor file

@@ -26,7 +26,7 @@
 #ifndef _SYS_ASM_MISC_H
 #define	_SYS_ASM_MISC_H
 
-#pragma ident	"@(#)asm_misc.h	1.17	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

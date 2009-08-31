@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_SILENCE_DETECT_H
 #define	_MULTIMEDIA_SILENCE_DETECT_H
 
-#pragma ident	"@(#)silence_detect.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <audio_types.h>
 
@@ -36,7 +36,7 @@ extern "C" {
 #endif
 
 /*
- * silence_detect.h
+ * %M%
  *
  * Description:
  *

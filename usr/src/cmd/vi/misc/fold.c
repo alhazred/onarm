@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)fold.c	1.9	05/10/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 /*

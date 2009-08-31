@@ -1,4 +1,4 @@
-#pragma ident	"@(#)options.c	1.1	99/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 1987, 1988 by MIT Student Information Processing Board

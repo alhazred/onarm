@@ -26,7 +26,7 @@
 #ifndef _SYS_EUCIOCTL_H
 #define	_SYS_EUCIOCTL_H
 
-#pragma ident	"@(#)eucioctl.h	1.12	05/06/08 SMI"	/* SVr4.0 1.4	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4	*/
 
 #ifdef	__cplusplus
 extern "C" {

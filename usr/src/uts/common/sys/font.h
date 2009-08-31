@@ -27,7 +27,7 @@
 #ifndef _SYS_FONT_H
 #define	_SYS_FONT_H
 
-#pragma ident	"@(#)font.h	1.14	06/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

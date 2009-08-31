@@ -27,7 +27,7 @@
 #ifndef	_MDB_EVSET_H
 #define	_MDB_EVSET_H
 
-#pragma ident	"@(#)mdb_evset.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef	_SORT_INITIALIZE_H
 #define	_SORT_INITIALIZE_H
 
-#pragma ident	"@(#)initialize.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

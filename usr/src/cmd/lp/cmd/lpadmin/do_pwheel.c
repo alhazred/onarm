@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)do_pwheel.c	1.10	05/06/08 SMI"	/* SVr4.0 1.11	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.11	*/
 
 #include <stdio.h>
 #include <string.h>

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ipqosconf.c	1.10	05/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* enable debug output and some debug asserts */
 #undef	_IPQOS_CONF_DEBUG

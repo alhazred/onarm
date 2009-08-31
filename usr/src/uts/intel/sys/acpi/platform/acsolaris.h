@@ -26,7 +26,7 @@
 #ifndef _ACSOLARIS_H_
 #define	_ACSOLARIS_H_
 
-#pragma ident	"@(#)acsolaris.h	1.4	06/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

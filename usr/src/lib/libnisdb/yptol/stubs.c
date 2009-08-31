@@ -41,7 +41,7 @@
  *		preexisting code structure.
  */
 
-#pragma ident	"@(#)stubs.c	1.4	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <unistd.h>
 #include <syslog.h>

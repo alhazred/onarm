@@ -31,7 +31,7 @@
 
 RCSID("$Id: bsd-arc4random.c,v 1.5 2002/05/08 22:57:18 tim Exp $");
 
-#pragma ident	"@(#)bsd-arc4random.c	1.3	04/04/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef HAVE_ARC4RANDOM
 

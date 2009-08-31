@@ -27,7 +27,7 @@
 #ifndef	_SYS_VARCONFIG_H
 #define	_SYS_VARCONFIG_H
 
-#pragma ident	"@(#)varconfig.h	1.1	06/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

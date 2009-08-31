@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)version.c	1.4	03/06/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * version file for ntpdate
@@ -13,4 +13,4 @@
 #define	PATCH   ""
 
 const char *Version = "ntpdate "
-    PROTOCOL_VER "-" VERSION "+" VENDOR PATCH " 03/06/05 23:16:45 (1.4)";
+    PROTOCOL_VER "-" VERSION "+" VENDOR PATCH " %E% %U% (%I%)";

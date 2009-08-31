@@ -25,7 +25,7 @@
  */
 
 #if !defined(lint)
-	.ident	"@(#)muldiv.s	1.1	05/08/26 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
 	.file	"muldiv.s"
 #endif

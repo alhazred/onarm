@@ -27,7 +27,7 @@
 #ifndef	_SYS_PSHOT_H
 #define	_SYS_PSHOT_H
 
-#pragma ident	"@(#)pshot.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

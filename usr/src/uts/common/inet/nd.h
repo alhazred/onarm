@@ -27,7 +27,7 @@
 #ifndef _INET_ND_H
 #define	_INET_ND_H
 
-#pragma ident	"@(#)nd.h	1.19	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <inet/common.h>

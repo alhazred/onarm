@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_MSGBUF_H
 #define	_SMBSRV_MSGBUF_H
 
-#pragma ident	"@(#)msgbuf.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Definition and interface for smb_msgbuf buffer management.  The

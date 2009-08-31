@@ -25,7 +25,7 @@
  *	nis/getservent.c -- "nis" backend for nsswitch "services" database
  */
 
-#pragma ident	"@(#)getservent.c	1.14	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "nis_common.h"
 #include <stdio.h>

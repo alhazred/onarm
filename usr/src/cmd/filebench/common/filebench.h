@@ -26,7 +26,7 @@
 #ifndef _FB_FILEBENCH_H
 #define	_FB_FILEBENCH_H
 
-#pragma ident	"@(#)filebench.h	1.4	08/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "config.h"
 

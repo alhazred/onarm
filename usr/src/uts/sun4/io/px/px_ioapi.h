@@ -26,7 +26,7 @@
 #ifndef	_SYS_PX_IOAPI_H
 #define	_SYS_PX_IOAPI_H
 
-#pragma ident	"@(#)px_ioapi.h	1.4	06/11/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

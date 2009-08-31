@@ -32,7 +32,7 @@
  * $Id: subr.c,v 1.19 2005/02/09 00:23:45 lindak Exp $
  */
 
-#pragma ident	"@(#)subr.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

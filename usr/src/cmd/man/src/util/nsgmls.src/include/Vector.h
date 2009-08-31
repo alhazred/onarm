@@ -1,6 +1,6 @@
 // Copyright (c) 1994, 1996 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)Vector.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef Vector_INCLUDED
 #define Vector_INCLUDED 1

@@ -24,7 +24,7 @@
 # Copyright 2001-2002 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)preinstall	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 PATH=/usr/bin
 PRODREG=/usr/bin/prodreg

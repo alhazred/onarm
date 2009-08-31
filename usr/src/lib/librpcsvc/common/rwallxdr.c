@@ -32,7 +32,7 @@
  * under license from the Regents of the University of California.
  */
 
-#ident	"@(#)rwallxdr.c	1.10	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint) && defined(SCCSIDS)
 static char sccsid[] = "@(#)rwallxdr.c 1.3 89/03/24 Copyr 1985 Sun Micro";

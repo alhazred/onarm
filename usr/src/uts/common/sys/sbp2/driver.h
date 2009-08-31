@@ -27,7 +27,7 @@
 #ifndef	_SYS_SBP2_DRIVER_H
 #define	_SYS_SBP2_DRIVER_H
 
-#pragma ident	"@(#)driver.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Serial Bus Protocol 2 (SBP-2) driver interfaces

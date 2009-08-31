@@ -1,4 +1,4 @@
-#pragma ident	"@(#)promptusr.c	1.4	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * promptusr.c --- prompt user for input/output
  */

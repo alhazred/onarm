@@ -26,7 +26,7 @@
 #ifndef	_LIBRESTART_H
 #define	_LIBRESTART_H
 
-#pragma ident	"@(#)librestart.h	1.9	08/02/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libsysevent.h>
 #include <libcontract.h>

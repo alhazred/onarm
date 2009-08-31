@@ -27,7 +27,7 @@
 #ifndef _SYS_BOOTSYMS_H
 #define	_SYS_BOOTSYMS_H
 
-#pragma ident	"@(#)bootsyms.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header file should not exist.

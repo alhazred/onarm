@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)chkmsg.sh	1.11	06/03/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 TOOLDIR="${SRC}/cmd/sgs/tools/"
 

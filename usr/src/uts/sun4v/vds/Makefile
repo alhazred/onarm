@@ -25,7 +25,7 @@
 #
 # uts/sun4v/vds/Makefile
 #
-#ident	"@(#)Makefile	1.4	08/01/17 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This makefile drives the production of the vds driver module.
 #

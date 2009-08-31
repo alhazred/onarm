@@ -27,7 +27,7 @@
 #ifndef	_LIBCPC_IMPL_H
 #define	_LIBCPC_IMPL_H
 
-#pragma ident	"@(#)libcpc_impl.h	1.5	05/09/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libcpc.h>
 #include <inttypes.h>

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)nfs4_common.c	1.13	06/02/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

@@ -27,7 +27,7 @@
 #ifndef	_SYS_VGASUBR_H
 #define	_SYS_VGASUBR_H
 
-#pragma ident	"@(#)vgasubr.h	1.8	05/06/08 SMI"	/* SunOS4.1 1.11 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS4.1 1.11 */
 
 #ifdef	__cplusplus
 extern "C" {

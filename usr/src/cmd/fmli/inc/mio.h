@@ -28,7 +28,7 @@
  *	All Rights Reserved
  */
 
-#ident	"@(#)mio.h	1.6	05/06/08 SMI"       /* SVr4.0 1.2 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.2 */
 
 #ifndef	CONT
 /* compatibility w/ getok */

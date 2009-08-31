@@ -40,7 +40,7 @@
 #ifndef _SYS_VMMETER_H
 #define	_SYS_VMMETER_H
 
-#pragma ident	"@(#)vmmeter.h	2.28	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

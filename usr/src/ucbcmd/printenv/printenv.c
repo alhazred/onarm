@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)printenv.c	1.5	05/08/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * printenv

@@ -38,7 +38,7 @@
 #ifndef	_RPC_AUTH_SYS_H
 #define	_RPC_AUTH_SYS_H
 
-#pragma ident	"@(#)auth_sys.h	1.25	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The system is very weak.  The client uses no encryption for  it

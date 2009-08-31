@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)inuse_zpool.c	1.5	07/11/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Attempt to dynamically link in the ZFS libzfs.so.1 so that we can

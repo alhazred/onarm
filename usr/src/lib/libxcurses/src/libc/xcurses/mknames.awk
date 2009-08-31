@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)mknames.awk	1.5	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # mknames.awk	
 #

@@ -29,7 +29,7 @@
  *
  */
 
-#ident	"@(#)eval.h	1.6	05/06/08 SMI"       /* SVr4.0 1.3 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.3 */
 
 #define EV_TOKEN	0x20
 #define EV_GROUP	0x40

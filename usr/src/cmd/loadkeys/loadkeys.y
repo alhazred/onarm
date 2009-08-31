@@ -22,7 +22,7 @@
  */
 
 #ifndef lint
-#pragma ident	"@(#)loadkeys.y	1.13	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #endif
 
 /*

@@ -29,7 +29,7 @@
  *
  */
 
-#pragma ident	"@(#)file.c	1.33	06/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "gelf.h"
 #include "inc.h"

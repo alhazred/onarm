@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)tst.walltimestamp.ksh	1.1	07/04/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 if [ $# != 1 ]; then
 	echo expected one argument: '<'dtrace-path'>'

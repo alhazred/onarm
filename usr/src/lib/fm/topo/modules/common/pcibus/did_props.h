@@ -27,7 +27,7 @@
 #ifndef _DID_PROPS_H
 #define	_DID_PROPS_H
 
-#pragma ident	"@(#)did_props.h	1.5	07/03/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/pci.h>
 #include <fm/topo_mod.h>

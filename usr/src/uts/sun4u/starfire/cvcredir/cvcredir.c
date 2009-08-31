@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cvcredir.c	1.15	05/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * MT STREAMS Virtual Console Redirection Device Driver
@@ -112,7 +112,7 @@ char _depends_on[] = "drv/cvc";
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"CVC redirect driver 'cvcredir' v1.15",
+	"CVC redirect driver 'cvcredir' v%I%",
 	&cvcrops,	/* driver ops */
 };
 

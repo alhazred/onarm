@@ -27,7 +27,7 @@
 #ifndef _TARGET_CONN_H
 #define	_TARGET_CONN_H
 
-#pragma ident	"@(#)iscsi_conn.h	1.1	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Block comment which describes the contents of this file.

@@ -25,7 +25,7 @@
 #ifndef	_BSD_ARC4RANDOM_H
 #define	_BSD_ARC4RANDOM_H
 
-#pragma ident	"@(#)bsd-arc4random.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

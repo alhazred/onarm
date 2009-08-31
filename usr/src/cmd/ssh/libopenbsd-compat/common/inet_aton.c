@@ -192,4 +192,4 @@ inet_aton(const char *cp, struct in_addr *addr)
 
 #endif /* !defined(HAVE_INET_ATON) */
 
-#pragma ident	"@(#)inet_aton.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

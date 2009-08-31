@@ -26,7 +26,7 @@
 #ifndef	_PASSWDUTIL_H
 #define	_PASSWDUTIL_H
 
-#pragma ident	"@(#)passwdutil.h	1.21	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

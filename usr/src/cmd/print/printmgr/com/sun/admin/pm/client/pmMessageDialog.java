@@ -20,7 +20,7 @@
  */
 /*
  *
- * ident	"@(#)pmMessageDialog.java	1.7	06/06/02 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.

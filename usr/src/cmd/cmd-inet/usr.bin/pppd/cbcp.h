@@ -8,7 +8,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)cbcp.h	1.1	00/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef CBCP_H
 #define CBCP_H

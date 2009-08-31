@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)t_krcvudat.c	1.18	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Kernel TLI-like function to read a datagram off of a

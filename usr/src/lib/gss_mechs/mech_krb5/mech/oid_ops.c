@@ -1,4 +1,4 @@
-#pragma ident	"@(#)oid_ops.c	1.2	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lib/gssapi/generic/oid_ops.c

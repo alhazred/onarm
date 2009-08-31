@@ -34,7 +34,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rpcinfo.c	1.20	05/09/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rpcinfo: ping a particular rpc program

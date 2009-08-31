@@ -27,7 +27,7 @@
 #ifndef	_LIBDEVID_H
 #define	_LIBDEVID_H
 
-#pragma ident	"@(#)libdevid.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <errno.h>
 #include <sys/param.h>

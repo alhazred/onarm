@@ -26,7 +26,7 @@
 #ifndef _SYS_TRAPSTAT_H
 #define	_SYS_TRAPSTAT_H
 
-#pragma ident	"@(#)trapstat.h	1.7	07/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM
 #include <sys/processor.h>

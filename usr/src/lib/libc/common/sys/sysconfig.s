@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sysconfig.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"sysconfig.s"
+	.file	"%M%"
 
 /* C library -- _sysconfig					*/
 /* int _sysconfig(name)						*/

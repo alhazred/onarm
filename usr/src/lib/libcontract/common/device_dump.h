@@ -26,7 +26,7 @@
 #ifndef	_DEVICE_DUMP_H
 #define	_DEVICE_DUMP_H
 
-#pragma ident	"@(#)device_dump.h	1.1	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "libcontract_impl.h"
 

@@ -26,7 +26,7 @@
 #ifndef	_SYS_EXACCT_H
 #define	_SYS_EXACCT_H
 
-#pragma ident	"@(#)exacct.h	1.10	07/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/task.h>

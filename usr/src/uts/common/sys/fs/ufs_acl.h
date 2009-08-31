@@ -26,7 +26,7 @@
 #ifndef	_SYS_FS_UFS_ACL_H
 #define	_SYS_FS_UFS_ACL_H
 
-#pragma ident	"@(#)ufs_acl.h	1.22	07/09/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/cred.h>

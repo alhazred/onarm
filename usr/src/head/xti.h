@@ -26,7 +26,7 @@
 #ifndef _XTI_H
 #define	_XTI_H
 
-#pragma ident	"@(#)xti.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

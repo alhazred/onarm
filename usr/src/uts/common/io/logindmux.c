@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)logindmux.c	1.33	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Description: logindmux.c
@@ -175,7 +175,7 @@ DDI_DEFINE_STREAM_OPS(logdmux_ops, nulldev, nulldev, logdmux_attach,
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"logindmux driver 1.33",
+	"logindmux driver %I%",
 	&logdmux_ops
 };
 

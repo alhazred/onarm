@@ -31,7 +31,7 @@
  *      P1003.2/D11.2
  *
  */
-#pragma ident	"@(#)pathchk.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Original ident string for reference
  * ident	"$Id: pathchk.c,v 1.29 1994/05/24 15:51:19 mark Exp $"

@@ -26,7 +26,7 @@
 #ifndef _SYS_ASM_LINKAGE_H
 #define _SYS_ASM_LINKAGE_H
 
-#pragma ident	"@(#)asm_linkage.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 		/* from SunOS 4.0 1.4 */
 
 /* allow word aligned user stacks */

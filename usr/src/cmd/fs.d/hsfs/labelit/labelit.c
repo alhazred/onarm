@@ -38,7 +38,7 @@
  *      bibfile:        bibliographic file identifier   (d-charcters, 37 max)
  */
 
-#pragma ident	"@(#)labelit.c	1.6	05/08/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <fcntl.h>

@@ -1,4 +1,4 @@
-#pragma ident	"@(#)misc_free.c	1.2	02/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING 

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)amd8111s_hw.c	1.1	07/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright (c) 2001-2006 Advanced Micro Devices, Inc.  All rights reserved.

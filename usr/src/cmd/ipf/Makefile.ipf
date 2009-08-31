@@ -2,7 +2,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.ipf	1.5	07/10/19 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #cmd/ipf/Makefile.ipf
 #

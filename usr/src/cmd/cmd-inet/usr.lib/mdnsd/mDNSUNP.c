@@ -130,7 +130,7 @@ First checkin
 
 */
 
-#pragma ident	"@(#)mDNSUNP.c	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mDNSUNP.h"
 

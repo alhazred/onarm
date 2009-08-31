@@ -27,7 +27,7 @@
 #ifndef	_LTC1427_IMPL_H
 #define	_LTC1427_IMPL_H
 
-#pragma ident	"@(#)ltc1427_impl.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

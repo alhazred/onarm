@@ -27,7 +27,7 @@
 #ifndef	_SNMPPLUGIN_H
 #define	_SNMPPLUGIN_H
 
-#pragma ident	"@(#)snmpplugin.h	1.2	07/12/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

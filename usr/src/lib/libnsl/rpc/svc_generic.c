@@ -27,7 +27,7 @@
 /*	Copyright (c) 1988 AT&T */
 /*	All Rights Reserved   */
 
-#pragma ident	"@(#)svc_generic.c	1.42	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * svc_generic.c, Server side for RPC.

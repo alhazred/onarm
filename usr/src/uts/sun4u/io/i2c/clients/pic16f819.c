@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pic16f819.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/stat.h>		/* ddi_create_minor_node S_IFCHR */
@@ -102,7 +102,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv pic16f819_modldrv = {
 	&mod_driverops,			/* type of module - driver */
-	"PIC16F819 i2c device driver: v1.3",
+	"PIC16F819 i2c device driver: v%I%",
 	&pic16f819_ops
 };
 

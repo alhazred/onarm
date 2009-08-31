@@ -26,7 +26,7 @@
 #ifndef	_SYS_PX_DMA_H
 #define	_SYS_PX_DMA_H
 
-#pragma ident	"@(#)px_dma.h	1.9	06/11/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

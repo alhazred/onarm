@@ -21,7 +21,7 @@
 #include "pppd.h"
 #include "pathnames.h"
 
-#pragma ident	"@(#)pppoe.c	1.3	04/07/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Saved hook pointers */
 static int (*old_check_options)(uid_t uid);

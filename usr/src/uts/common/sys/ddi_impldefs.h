@@ -30,7 +30,7 @@
 #ifndef _SYS_DDI_IMPLDEFS_H
 #define	_SYS_DDI_IMPLDEFS_H
 
-#pragma ident	"@(#)ddi_impldefs.h	1.123	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

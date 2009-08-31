@@ -1,4 +1,4 @@
-#pragma ident	"@(#)prof_set.c	1.2	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * prof_set.c --- routines that expose the public interfaces for
  * 	inserting, updating and deleting items from the profile.

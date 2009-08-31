@@ -30,7 +30,7 @@
 #ifndef _SA_H
 #define	_SA_H
 
-#pragma ident	"@(#)sa.h	1.19	07/05/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sa.h contains struct sa and defines variables used in sadc.c and sar.c.

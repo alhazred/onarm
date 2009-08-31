@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile.files	1.7	07/07/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This Makefile defines all file modules for the directory
 #	uts/sun4u/starcat and its children. These are the source files which

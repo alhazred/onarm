@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)gen_drv.c	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*
@@ -163,7 +163,7 @@ static char *mnodetypes[] = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"generic test driver 1.11",
+	"generic test driver %I%",
 	&gen_ops
 };
 

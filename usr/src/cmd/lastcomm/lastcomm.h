@@ -27,7 +27,7 @@
 #ifndef	_LASTCOMM_H
 #define	_LASTCOMM_H
 
-#pragma ident	"@(#)lastcomm.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

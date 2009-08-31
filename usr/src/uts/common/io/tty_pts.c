@@ -18,7 +18,7 @@
  * This is the "slave" side.
  */
 
-#pragma ident	"@(#)tty_pts.c	1.31	05/02/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/systm.h>
@@ -146,7 +146,7 @@ MODDRV_DEPENDS_ON("drv/ptc");
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"tty pseudo driver slave 'ptsl' 1.31",
+	"tty pseudo driver slave 'ptsl' %I%",
 	&ptsl_ops,	/* driver ops */
 };
 

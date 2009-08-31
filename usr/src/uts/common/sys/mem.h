@@ -26,7 +26,7 @@
 #ifndef _SYS_MEM_H
 #define	_SYS_MEM_H
 
-#pragma ident	"@(#)mem.h	1.27	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

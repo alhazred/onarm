@@ -26,7 +26,7 @@
 #ifndef	_FATAL_H
 #define	_FATAL_H
 
-#pragma ident	"@(#)fatal.h	1.9	05/06/08 SMI"	/* SVr4.0 1.4.1.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4.1.1 */
 
 #ifdef	__cplusplus
 extern "C" {

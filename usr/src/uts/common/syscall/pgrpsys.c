@@ -27,7 +27,7 @@
 /*	  All Rights Reserved	*/
 
 
-#pragma ident	"@(#)pgrpsys.c	1.9	06/09/11 SMI"	/* from SVr4.0 1.78 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVr4.0 1.78 */
 
 #include <sys/param.h>
 #include <sys/types.h>

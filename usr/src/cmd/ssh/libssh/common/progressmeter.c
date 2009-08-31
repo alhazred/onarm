@@ -24,7 +24,7 @@
 
 /* $OpenBSD: progressmeter.c,v 1.37 2006/08/03 03:34:42 deraadt Exp $ */
 
-#pragma ident	"@(#)progressmeter.c	1.1	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "includes.h"
 

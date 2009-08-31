@@ -29,7 +29,7 @@
 #
 
 #
-#ident	"@(#)Makefile	1.1	08/02/13 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	intel architecture dependent
 #

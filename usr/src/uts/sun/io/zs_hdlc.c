@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)zs_hdlc.c	1.65	05/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	HDLC protocol handler for Z8530 SCC.
@@ -219,7 +219,7 @@ DDI_DEFINE_STREAM_OPS(zsh_ops, nulldev, zsh_probe, zsh_attach,
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a driver */
-	"Z8530 serial HDLC drv V1.65",
+	"Z8530 serial HDLC drv V%I%",
 	&zsh_ops,	/* our own ops for this module */
 };
 

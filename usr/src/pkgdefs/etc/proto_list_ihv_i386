@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)proto_list_ihv_i386	1.2	07/01/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #
 # proto_list file listing all realmode components installed in

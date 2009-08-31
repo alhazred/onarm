@@ -43,7 +43,7 @@
  * Sun elects to use this software under the MPL license.
  */
 
-#pragma ident	"@(#)mpmontg.c	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* $Id: mpmontg.c,v 1.20 2006/08/29 02:41:38 nelson%bolyard.com Exp $ */
 

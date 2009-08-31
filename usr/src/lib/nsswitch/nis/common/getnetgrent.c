@@ -41,7 +41,7 @@
  *	and return NSS_SUCCESS / NSS_NOTFOUND).
  */
 
-#pragma ident	"@(#)getnetgrent.c	1.20	07/01/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "nis_common.h"
 #include <ctype.h>

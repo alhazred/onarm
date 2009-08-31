@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)ltc1427.c	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/stat.h>		/* ddi_create_minor_node S_IFCHR */
@@ -99,7 +99,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv ltc1427_modldrv = {
 	&mod_driverops,			/* type of module - driver */
-	"LTC1427 i2c device driver: v1.6",
+	"LTC1427 i2c device driver: v%I%",
 	&ltc1427_ops
 };
 

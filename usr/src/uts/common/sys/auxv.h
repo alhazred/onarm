@@ -30,7 +30,7 @@
 #ifndef	_SYS_AUXV_H
 #define	_SYS_AUXV_H
 
-#pragma ident	"@(#)auxv.h	1.40	07/07/25 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 #include <sys/types.h>
 

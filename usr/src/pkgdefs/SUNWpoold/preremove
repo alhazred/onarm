@@ -22,7 +22,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)preremove	1.1	05/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Make sure that dynamic pools are not enabled before removing this package.

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)hsfs_sig.h	1.7	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 static char *hsfs_sig_tab[] = {
 	SUSP_SP,

@@ -27,7 +27,7 @@
 #ifndef _SYS_BOOTSVCS_H
 #define	_SYS_BOOTSVCS_H
 
-#pragma ident	"@(#)bootsvcs.h	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

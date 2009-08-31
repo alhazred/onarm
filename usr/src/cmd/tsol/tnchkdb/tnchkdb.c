@@ -24,7 +24,7 @@
  *  Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tnchkdb.c	1.2	07/08/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * tnchkdb.c - Trusted network database checking utility

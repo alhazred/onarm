@@ -28,7 +28,7 @@
 /*      All Rights Reserved   */
   
 
-#pragma ident	"@(#)listdgrp.c	1.8	05/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  listdgrp.c

@@ -23,9 +23,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)byteorder.s	1.10	07/05/21 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"byteorder.s"
+	.file	"%M%"
 
 #include "SYS.h"
 

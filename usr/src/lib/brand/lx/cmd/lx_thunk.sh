@@ -24,6 +24,6 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)lx_thunk.sh	1.1	06/09/11 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 exec /native/usr/lib/brand/lx/lx_thunk

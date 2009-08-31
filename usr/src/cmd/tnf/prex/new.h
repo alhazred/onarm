@@ -26,7 +26,7 @@
 #ifndef _NEW_H
 #define	_NEW_H
 
-#pragma ident	"@(#)new.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Includes

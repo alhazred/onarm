@@ -10,7 +10,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_pptp_pxy.c	1.3	07/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	IPF_PPTP_PROXY
 

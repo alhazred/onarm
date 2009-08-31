@@ -26,7 +26,7 @@
 #ifndef	_ETHERADDR_H
 #define	_ETHERADDR_H
 
-#pragma ident	"@(#)etheraddr.h	1.5	07/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Module:	etheraddr

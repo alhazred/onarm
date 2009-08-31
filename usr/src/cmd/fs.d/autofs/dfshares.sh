@@ -24,7 +24,7 @@
 # Copyright (c) 1999 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)dfshares.sh	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # dfshares is a server utility but autofs is a client
 # filesystem, so dfshares for autofs will do nothing.

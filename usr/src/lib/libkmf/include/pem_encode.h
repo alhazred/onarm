@@ -6,7 +6,7 @@
 #ifndef _PEM_ENCODE_H
 #define	_PEM_ENCODE_H
 
-#pragma ident	"@(#)pem_encode.h	1.2	07/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

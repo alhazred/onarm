@@ -25,7 +25,7 @@
  */
 
 !	.seg	"data"
-!	.asciz ident	"@(#)remque.s	1.11	05/06/08 SMI"
+!	.asciz ident	"%Z%%M%	%I%	%E% SMI"
 !	.seg	"text"
 
 	.file	"remque.s"

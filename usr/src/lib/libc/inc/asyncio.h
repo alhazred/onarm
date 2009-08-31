@@ -27,7 +27,7 @@
 #ifndef	_ASYNCIO_H
 #define	_ASYNCIO_H
 
-#pragma ident	"@(#)asyncio.h	1.44	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

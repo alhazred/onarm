@@ -9,7 +9,7 @@
  *	$Id: path.h,v 1.6 2001/04/03 01:53:00 gshapiro Exp $
  */
 
-#pragma ident	"@(#)path.h	1.1	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  Portable names for standard filesystem paths

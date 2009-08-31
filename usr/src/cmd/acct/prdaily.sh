@@ -28,7 +28,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)prdaily.sh	1.8	05/06/08 SMI"	/* SVr4.0 1.12	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.12	*/
 #	"prdaily	prints daily report"
 #	"last command executed in runacct"
 #	"if given a date mmdd, will print that report"

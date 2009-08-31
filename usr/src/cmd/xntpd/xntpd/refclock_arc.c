@@ -2,7 +2,7 @@
  * refclock_arc - clock driver for ARCRON MSF receivers
  */
 
-#pragma ident	"@(#)refclock_arc.c	1.1	99/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef HAVE_CONFIG_H
 #include <config.h>

@@ -27,7 +27,7 @@
 #ifndef	_COMMON_UTIL_SSCANF_H
 #define	_COMMON_UTIL_SSCANF_H
 
-#pragma ident	"@(#)sscanf.h	1.1	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/varargs.h>

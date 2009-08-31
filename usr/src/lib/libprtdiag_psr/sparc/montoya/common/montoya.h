@@ -34,7 +34,7 @@
 #ifndef _MONTOYA_H
 #define	_MONTOYA_H
 
-#pragma ident	"@(#)montoya.h	1.1	06/05/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

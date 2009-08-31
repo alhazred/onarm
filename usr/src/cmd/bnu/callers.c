@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)callers.c	1.17	07/05/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include "uucp.h"

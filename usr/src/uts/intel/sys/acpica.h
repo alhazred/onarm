@@ -26,7 +26,7 @@
 #ifndef _SYS_ACPICA_H
 #define	_SYS_ACPICA_H
 
-#pragma ident	"@(#)acpica.h	1.6	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

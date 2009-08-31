@@ -27,7 +27,7 @@
 #ifndef	_WCHAR_H
 #define	_WCHAR_H
 
-#pragma ident	"@(#)wchar.h	1.38	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

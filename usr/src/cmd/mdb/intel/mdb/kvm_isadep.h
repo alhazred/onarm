@@ -26,7 +26,7 @@
 #ifndef	_KVM_ISADEP_H
 #define	_KVM_ISADEP_H
 
-#pragma ident	"@(#)kvm_isadep.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

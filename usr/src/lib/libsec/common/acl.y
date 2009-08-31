@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma	ident	"@(#)acl.y	1.5	07/11/13 SMI"
+#pragma	ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <acl_common.h>
 #include <aclutils.h>

@@ -27,7 +27,7 @@
 #ifndef	_PCIDR_CFGA_H
 #define	_PCIDR_CFGA_H
 
-#pragma ident	"@(#)pcidr_cfga.h	1.1	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <config_admin.h>
 #include <pcidr.h>

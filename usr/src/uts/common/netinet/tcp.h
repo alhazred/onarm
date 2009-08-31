@@ -12,7 +12,7 @@
 #ifndef	_NETINET_TCP_H
 #define	_NETINET_TCP_H
 
-#pragma ident	"@(#)tcp.h	1.20	05/03/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* tcp.h 1.11 88/08/19 SMI; from UCB 7.2 10/28/86	*/
 
 

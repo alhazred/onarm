@@ -30,7 +30,7 @@
 #ifndef _E1000_OSDEP_H
 #define	_E1000_OSDEP_H
 
-#pragma ident	"@(#)e1000_osdep.h	1.9	07/08/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

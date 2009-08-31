@@ -24,7 +24,7 @@
  *
  * private interfaces for auditd plugins and auditd.
  */
-#pragma ident	"@(#)audit_plugin.c	1.8	06/08/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <bsm/audit.h>
 #include <bsm/audit_record.h>

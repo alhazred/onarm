@@ -23,7 +23,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)dynamic.c	1.29	07/07/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<sgs.h>
 #include	<stdio.h>

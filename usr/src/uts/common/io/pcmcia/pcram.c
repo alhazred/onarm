@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)pcram.c	1.108	06/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(DEBUG)
 #define	PCRAM_DEBUG
@@ -220,7 +220,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv md = {
 	&mod_driverops,		/* Type of module. This is a driver */
-	PCRAM_DRIVERID " 1.108",	/* Driver Identifier string */
+	PCRAM_DRIVERID " %I%",	/* Driver Identifier string */
 	&pcram_ops,		/* Device Operation Structure */
 };
 

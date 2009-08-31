@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)CSrvDereg.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)CSrvDereg.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  CSrvDereg.java:   Client side Service Deregistration
 //  Author:           James Kempf
 //  Created On:       Tue Feb 10 13:17:41 1998
@@ -45,7 +45,7 @@ import java.io.*;
 /**
  * The SrvDeReg class models the server side SLP service deregistration. 
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

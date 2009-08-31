@@ -19,7 +19,7 @@
 #ifndef	_SYS_SYSLOG_H
 #define	_SYS_SYSLOG_H
 
-#pragma ident	"@(#)syslog.h	1.12	05/06/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

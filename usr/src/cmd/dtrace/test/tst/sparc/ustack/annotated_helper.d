@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#ident	"@(#)annotated_helper.d	1.1	06/08/28 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 dtrace:helper:ustack:
 {

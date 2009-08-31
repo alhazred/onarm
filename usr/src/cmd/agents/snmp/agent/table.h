@@ -26,7 +26,7 @@
 #ifndef _TABLE_H_
 #define _TABLE_H_
 
-#pragma ident	"@(#)table.h	1.3	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 typedef struct Table {
 	int regTblIndex;

@@ -33,7 +33,7 @@
 #ifndef _SYMINT_H
 #define	_SYMINT_H
 
-#pragma ident	"@(#)symint.h	6.5	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "symintHdr.h"
 

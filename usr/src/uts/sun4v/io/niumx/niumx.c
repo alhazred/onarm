@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)niumx.c	1.8	07/08/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Niagara2 Network Interface Unit (NIU) Nexus Driver
@@ -122,7 +122,7 @@ static struct dev_ops niumx_ops = {
 /* Module linkage information for the kernel. */
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module */
-	"NIU Nexus Driver 1.8",
+	"NIU Nexus Driver %I%",
 	&niumx_ops,	/* driver ops */
 };
 

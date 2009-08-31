@@ -26,7 +26,7 @@
 #ifndef _KMDB_DPI_IMPL_H
 #define	_KMDB_DPI_IMPL_H
 
-#pragma ident	"@(#)kmdb_dpi_impl.h	1.7	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <setjmp.h>
 #ifdef	__sparc

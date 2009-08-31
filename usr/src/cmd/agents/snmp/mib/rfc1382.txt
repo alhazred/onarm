@@ -1,4 +1,4 @@
--- #ident	"@(#)rfc1382.txt	1.3	05/06/12 SMI"
+-- #ident	"%Z%%M%	%I%	%E% SMI"
 
 
           RFC1382-MIB DEFINITIONS ::= BEGIN

@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)lofi.c	1.27	07/12/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lofi (loopback file) driver - allows you to attach a file to a device,
@@ -1717,7 +1717,7 @@ static struct dev_ops lofi_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"loopback file driver (1.27)",
+	"loopback file driver (%I%)",
 	&lofi_ops,
 };
 

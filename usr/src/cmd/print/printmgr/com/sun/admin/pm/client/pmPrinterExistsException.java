@@ -21,7 +21,7 @@
  */
 /*
  *
- * ident	"@(#)pmPrinterExistsException.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.

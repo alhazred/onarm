@@ -27,7 +27,7 @@
 #ifndef	_SYS_SAIO_H
 #define	_SYS_SAIO_H
 
-#pragma ident	"@(#)saio.h	1.17	05/06/08 SMI" /* from SunOS 4.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* from SunOS 4.1 */
 
 /*
  * NOTE: This header file is a vestige from a previous era.  The RESOURCES

@@ -2,7 +2,7 @@
  * ntpdc.h - definitions of interest to xntpdc
  */
 
-#pragma ident	"@(#)ntpdc.h	1.1	99/06/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ntp_fp.h"
 #include "ntp.h"

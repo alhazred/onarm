@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pcf8584.c	1.31	07/03/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * pcf8584.c is the nexus driver for all pcf8584 controller
@@ -158,7 +158,7 @@ static struct dev_ops pcf8584_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module. This one is a driver */
-	"I2C Nexus Driver 1.31",	/* Name of the module. */
+	"I2C Nexus Driver %I%",	/* Name of the module. */
 	&pcf8584_ops,		/* driver ops */
 };
 

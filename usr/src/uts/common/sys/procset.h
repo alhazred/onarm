@@ -31,7 +31,7 @@
 #ifndef _SYS_PROCSET_H
 #define	_SYS_PROCSET_H
 
-#pragma ident	"@(#)procset.h	1.27	05/06/08 SMI"	/* SVr4.0 1.6 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6 */
 
 #ifdef	__cplusplus
 extern "C" {

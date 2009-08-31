@@ -34,7 +34,7 @@
 #ifndef	_SYS_AM_SRC1_H
 #define	_SYS_AM_SRC1_H
 
-#pragma ident	"@(#)am_src1.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

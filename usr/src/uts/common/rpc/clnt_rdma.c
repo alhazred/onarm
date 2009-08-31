@@ -31,7 +31,7 @@
  * California.
  */
 
-#pragma ident	"@(#)clnt_rdma.c	1.10	05/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

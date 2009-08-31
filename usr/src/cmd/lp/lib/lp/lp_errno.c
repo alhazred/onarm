@@ -23,6 +23,6 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)lp_errno.c	1.5	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 /* LINTLIBRARY */
 int lp_errno;

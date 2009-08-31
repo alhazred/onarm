@@ -26,7 +26,7 @@
 #ifndef	_SYS_FC_PLAT_H
 #define	_SYS_FC_PLAT_H
 
-#pragma ident	"@(#)fc_plat.h	1.4	06/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/inttypes.h>
 #include <sys/obpdefs.h>

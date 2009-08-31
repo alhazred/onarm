@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)usage.h	1.6	05/06/08 SMI"	/* SVr4.0 1.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1 */
 
 #define	OPTMESG	"where options may include:\n"
 

@@ -25,7 +25,7 @@
  * From "misc.c	5.15	00/05/31 SMI; TSOL 2.x"
  */
 
-#pragma ident	"@(#)misc.c	1.2	06/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Miscellaneous user interfaces to trusted label functions.

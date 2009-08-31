@@ -26,7 +26,7 @@
 #ifndef	_INET_IPSEC_INFO_H
 #define	_INET_IPSEC_INFO_H
 
-#pragma ident	"@(#)ipsec_info.h	1.27	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

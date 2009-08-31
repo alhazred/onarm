@@ -27,7 +27,7 @@
 #ifndef _SYS_FRAME_H
 #define	_SYS_FRAME_H
 
-#pragma ident	"@(#)frame.h	1.18	05/06/08 SMI"	/* sys4-3.2L 1.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* sys4-3.2L 1.1 */
 
 #ifdef	__cplusplus
 extern "C" {

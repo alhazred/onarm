@@ -27,7 +27,7 @@
 #ifndef _TNF_BUF_H
 #define	_TNF_BUF_H
 
-#pragma ident	"@(#)tnf_buf.h	1.19	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/tnf_com.h>
 #include <sys/machlock.h>

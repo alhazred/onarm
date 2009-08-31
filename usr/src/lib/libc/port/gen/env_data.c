@@ -29,7 +29,7 @@
  *	All Rights Reserved.
  */
 
-#pragma ident	"@(#)env_data.c	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * NOTE: The environment symbol pair may also occur in crt1.o.  The definitions

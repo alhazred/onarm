@@ -26,7 +26,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)gid.c	1.9	07/05/24 SMI"	/* SVr4.0 1.5 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5 */
 
 #include <sys/types.h>
 #include <stdio.h>

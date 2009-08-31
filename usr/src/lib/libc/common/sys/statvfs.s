@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)statvfs.s	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"statvfs.s"
+	.file	"%M%"
 
 /* C library -- statvfs						*/
 /* int statvfs(const char *path, struct statvfs *statbuf)	*/

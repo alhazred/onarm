@@ -27,7 +27,7 @@
 #ifndef	_SYS_PROM_EMUL_H
 #define	_SYS_PROM_EMUL_H
 
-#pragma ident	"@(#)prom_emul.h	1.6	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

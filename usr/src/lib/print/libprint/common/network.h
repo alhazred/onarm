@@ -26,7 +26,7 @@
 #ifndef _NETWORK_H
 #define	_NETWORK_H
 
-#pragma ident	"@(#)network.h	1.6	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ServiceLocationAttributeV1.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)ServiceLocationAttributeV1.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ServiceLocationAttributeV1.java: SLPv1 character encoding and decoding
 //  Author:           James Kempf
 //  Created On:       Fri Oct  9 19:18:17 1998
@@ -43,7 +43,7 @@ import java.util.*;
 /**
  * Handles attribute string encoding and decoding for SLPv1.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 
@@ -60,7 +60,7 @@ class ServiceLocationAttributeV1 extends ServiceLocationAttribute {
     /**
      * Handles radix64 string encoding and decoding for SLPv1.
      *
-     * @version 1.3 08/03/23
+     * @version %R%.%L% %D%
      * @author James Kempf
      */
 

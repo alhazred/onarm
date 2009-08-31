@@ -33,7 +33,7 @@
  * California.
  */
 
-#pragma ident	"@(#)yp_b_subr.c	1.39	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ypsym.h"
 #include <stdlib.h>

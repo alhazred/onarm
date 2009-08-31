@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)filemicro_seqwrite.f	1.1	07/10/04 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # 4- Sequential write(32K) of a 1G file, cached 
 # 5- Sequential write(32K) of a 1G file, uncached 

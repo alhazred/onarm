@@ -26,7 +26,7 @@
 #ifndef	_SYS_SCSI_SCSI_PKT_H
 #define	_SYS_SCSI_SCSI_PKT_H
 
-#pragma ident	"@(#)scsi_pkt.h	1.44	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/scsi/scsi_types.h>
 

@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)tdef.h	1.12	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* starting values for typesetting parameters: */
 

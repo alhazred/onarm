@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dtrace.c	1.28	07/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * explicitly define DTRACE_ERRDEBUG to pull in definition of dtrace_errhash_t

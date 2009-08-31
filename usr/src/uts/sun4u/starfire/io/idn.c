@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)idn.c	1.56	06/10/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sysmacros.h>
@@ -572,7 +572,7 @@ extern cpuset_t	cpu_ready_set;
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* This module is a pseudo driver */
-	IDNDESC " 1.56",
+	IDNDESC " %I%",
 	&idnops
 };
 

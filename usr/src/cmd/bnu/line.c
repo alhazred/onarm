@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)line.c	1.13	07/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* This is a new line.c, which consists of line.c and culine.c
  * merged together.

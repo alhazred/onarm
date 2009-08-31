@@ -26,7 +26,7 @@
 #ifndef	_SYS_MAC_H
 #define	_SYS_MAC_H
 
-#pragma ident	"@(#)mac.h	1.22	08/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/ddi.h>
@@ -45,7 +45,7 @@ extern "C" {
 /*
  * MAC Information (text emitted by modinfo(1m))
  */
-#define	MAC_INFO	"MAC Services v1.22"
+#define	MAC_INFO	"MAC Services v%I%"
 
 /*
  * MAC version identifier.  This is used by mac_alloc() mac_register() to

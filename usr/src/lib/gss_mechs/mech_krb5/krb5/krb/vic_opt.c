@@ -1,4 +1,4 @@
-#pragma ident	"@(#)vic_opt.c	1.2	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #include <k5-int.h>
 
 void KRB5_CALLCONV

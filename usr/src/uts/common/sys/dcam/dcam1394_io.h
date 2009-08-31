@@ -27,7 +27,7 @@
 #ifndef _SYS_DCAM_DCAM1394_IO_H
 #define	_SYS_DCAM_DCAM1394_IO_H
 
-#pragma ident	"@(#)dcam1394_io.h	1.3	05/06/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/time.h>
 

@@ -26,7 +26,7 @@
 #ifndef	_SYS_FM_IO_DDI_H
 #define	_SYS_FM_IO_DDI_H
 
-#pragma ident	"@(#)ddi.h	1.4	06/04/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

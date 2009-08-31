@@ -27,7 +27,7 @@
 #ifndef	_SYS_DADA_DADA_RESOURCE_H
 #define	_SYS_DADA_DADA_RESOURCE_H
 
-#pragma ident	"@(#)dada_resource.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dada/dada_types.h>
 

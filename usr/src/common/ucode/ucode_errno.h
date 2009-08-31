@@ -27,7 +27,7 @@
 #ifndef _UCODE_ERRNO_H
 #define	_UCODE_ERRNO_H
 
-#pragma ident	"@(#)ucode_errno.h	1.1	07/07/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

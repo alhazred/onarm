@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)conv.c	1.7	05/06/08 SMI"	/* SVr4.0 1.13	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.13	*/
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "string.h"

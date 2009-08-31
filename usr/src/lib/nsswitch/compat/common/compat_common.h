@@ -29,7 +29,7 @@
 #ifndef _COMPAT_COMMON_H
 #define	_COMPAT_COMMON_H
 
-#pragma ident	"@(#)compat_common.h	1.13	06/10/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <nss_common.h>
 #include <nss_dbdefs.h>

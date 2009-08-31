@@ -41,7 +41,7 @@
 #ifndef	_FILE64_H
 #define	_FILE64_H
 
-#pragma ident	"@(#)file64.h	1.16	06/04/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <synch.h>
 #include <stdio_tag.h>

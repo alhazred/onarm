@@ -1,4 +1,4 @@
-#pragma ident	"@(#)ldap_key_seq.c	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* ... copyright ... */
 

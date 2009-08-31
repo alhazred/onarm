@@ -26,7 +26,7 @@
 #ifndef	_SYS_DEVCACHE_H
 #define	_SYS_DEVCACHE_H
 
-#pragma ident	"@(#)devcache.h	1.1	06/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

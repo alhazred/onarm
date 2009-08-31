@@ -39,7 +39,7 @@
 #ifndef _MCHAIN_H_
 #define	_MCHAIN_H_
 
-#pragma ident	"@(#)mchain.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/isa_defs.h>

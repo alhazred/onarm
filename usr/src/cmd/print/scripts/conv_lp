@@ -24,7 +24,7 @@
 # Copyright (c) 1994, 1995, 1996 by Sun Microsystems, Inc.
 # All  Rights Reserved
 #
-# ident	"@(#)conv_lp	1.13	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This script will automatically generate a "printcap" file
 #	from the currently configured LP printer configuration.

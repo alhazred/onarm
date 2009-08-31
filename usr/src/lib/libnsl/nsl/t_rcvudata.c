@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)t_rcvudata.c	1.27	05/06/29 SMI"	/* SVr4.0 1.5 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5 */
 
 /*
  * t_rcvudata.c and t_rcvvudata.c are very similar and contain common code.

@@ -26,7 +26,7 @@
 #ifndef	AGENT_H
 #define	AGENT_H
 
-#pragma ident	"@(#)agent.h	1.9	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <libinetutil.h>

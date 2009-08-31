@@ -1,4 +1,4 @@
-#pragma ident	"@(#)port-sockets.h	1.3	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _PORT_SOCKET_H
 #define _PORT_SOCKET_H

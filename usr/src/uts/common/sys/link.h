@@ -30,7 +30,7 @@
 #ifndef _SYS_LINK_H
 #define	_SYS_LINK_H
 
-#pragma ident	"@(#)link.h	1.79	07/10/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_ASM
 #include <sys/types.h>

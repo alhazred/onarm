@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.targ	1.8	07/01/10 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 install: all $(USR_PSM_SBIN_PROG) $(USR_PSM_SBIN_PROG_LINKS)
 	$(RM) $(ROOTUSRSBINPROG)

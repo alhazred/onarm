@@ -28,7 +28,7 @@
 
 RCSID("$OpenBSD: radix.c,v 1.22 2002/09/09 14:54:15 markus Exp $");
 
-#pragma ident	"@(#)radix.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef AFS
 #include <krb.h>

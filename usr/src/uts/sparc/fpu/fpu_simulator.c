@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fpu_simulator.c	1.53	06/04/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Main procedures for sparc FPU simulator. */
 

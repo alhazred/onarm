@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 # 
-# ident	"@(#)Makefile	1.8	06/04/18 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # See the README file in this directory for a description of how to cull
 # objects unused by the standalone boot applications from the OBJECTS list.

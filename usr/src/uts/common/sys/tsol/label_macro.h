@@ -26,7 +26,7 @@
 #ifndef	_LABEL_MACRO_H
 #define	_LABEL_MACRO_H
 
-#pragma ident	"@(#)label_macro.h	1.2	06/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

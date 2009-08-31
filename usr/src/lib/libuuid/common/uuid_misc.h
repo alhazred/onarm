@@ -27,7 +27,7 @@
 #ifndef	_UUID_MISC_H
 #define	_UUID_MISC_H
 
-#pragma ident	"@(#)uuid_misc.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The copyright in this file is taken from the original Leach

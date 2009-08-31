@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)confstr.c	1.19	06/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma	weak confstr = _confstr
 

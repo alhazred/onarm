@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)quota.c	1.39	06/05/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Disk quota reporting program.

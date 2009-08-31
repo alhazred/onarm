@@ -27,7 +27,7 @@
 #ifndef	_PICLD_PLUGINUTIL_H
 #define	_PICLD_PLUGINUTIL_H
 
-#pragma ident	"@(#)picld_pluginutil.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

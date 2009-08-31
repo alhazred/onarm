@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ibcm_impl.c	1.23	07/04/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ibcm_impl.c
@@ -381,7 +381,7 @@ int		ibcm_test_mode = 0;	/* set to 1, if running tests */
 /* Module Driver Info */
 static struct modlmisc ibcm_modlmisc = {
 	&mod_miscops,
-	"IB Communication Manager 1.23"
+	"IB Communication Manager %I%"
 };
 
 /* Module Linkage */

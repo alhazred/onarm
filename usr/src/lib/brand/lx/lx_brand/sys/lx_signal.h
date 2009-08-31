@@ -26,7 +26,7 @@
 #ifndef _SYS_LX_SIGNAL_H
 #define	_SYS_LX_SIGNAL_H
 
-#pragma ident	"@(#)lx_signal.h	1.4	07/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(_ASM)
 #include <sys/lx_types.h>

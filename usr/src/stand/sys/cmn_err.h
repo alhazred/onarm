@@ -27,7 +27,7 @@
 #ifndef _SA_CMN_ERR_H
 #define	_SA_CMN_ERR_H
 
-#pragma ident	"@(#)cmn_err.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Exported interfaces for standalone's subset of kernel's <sys/cmn_err.h>.

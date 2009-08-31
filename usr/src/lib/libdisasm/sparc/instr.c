@@ -29,7 +29,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)instr.c	1.1	07/10/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "libdisasm.h"
 #include "libdisasm_impl.h"

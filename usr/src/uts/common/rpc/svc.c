@@ -36,7 +36,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)svc.c	1.104	07/06/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Server-side remote procedure call interface.

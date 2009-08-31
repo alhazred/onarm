@@ -26,7 +26,7 @@
 #ifndef	_LX_IMPL_H
 #define	_LX_IMPL_H
 
-#pragma ident	"@(#)lx_impl.h	1.1	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

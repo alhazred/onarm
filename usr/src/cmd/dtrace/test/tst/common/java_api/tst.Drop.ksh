@@ -25,7 +25,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)tst.Drop.ksh	1.1	07/02/13 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 ############################################################################
 # ASSERTION:

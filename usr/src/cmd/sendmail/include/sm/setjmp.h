@@ -9,7 +9,7 @@
  *	$Id: setjmp.h,v 1.3 2001/03/08 03:23:08 ca Exp $
  */
 
-#pragma ident	"@(#)setjmp.h	1.1	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef SM_SETJMP_H
 # define SM_SETJMP_H

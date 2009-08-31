@@ -31,7 +31,7 @@
 #ifndef _SYS_STAT_H
 #define	_SYS_STAT_H
 
-#pragma ident	"@(#)stat.h	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

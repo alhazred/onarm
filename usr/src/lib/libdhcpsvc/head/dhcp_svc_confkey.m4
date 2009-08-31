@@ -23,7 +23,7 @@ divert(-1)
 #
 # CDDL HEADER END
 #
-#ident	"@(#)dhcp_svc_confkey.m4	1.9	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Select the appropriate type of output format based on whether -Djava is set
 # on the command line

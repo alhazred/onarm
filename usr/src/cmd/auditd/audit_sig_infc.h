@@ -29,7 +29,7 @@
 #ifndef	_AUDIT_SIG_INFC_H
 #define	_AUDIT_SIG_INFC_H
 
-#pragma ident	"@(#)audit_sig_infc.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

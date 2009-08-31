@@ -30,7 +30,7 @@
 #ifndef	_SYS_MEM_CAGE_H
 #define	_SYS_MEM_CAGE_H
 
-#pragma ident	"@(#)mem_cage.h	1.24	08/01/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/memlist.h>

@@ -6,7 +6,7 @@
 #ifndef	_KRB5_RC_MEM_H
 #define	_KRB5_RC_MEM_H
 
-#pragma ident	"@(#)rc_mem.h	1.3	06/04/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "rc-int.h"
 

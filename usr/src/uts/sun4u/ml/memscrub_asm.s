@@ -23,7 +23,7 @@
  * Copyright (c) 2007 by Sun Microsystems, Inc.
  */
 
-#pragma ident	"@(#)memscrub_asm.s	1.19	07/03/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * General machine architecture & implementation specific

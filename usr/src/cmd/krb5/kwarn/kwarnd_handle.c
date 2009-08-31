@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kwarnd_handle.c	1.4	05/02/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*	from kerbd_handle.c	1.3	92/01/29 SMI */
 
 /*

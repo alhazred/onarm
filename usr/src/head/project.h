@@ -27,7 +27,7 @@
 #ifndef _PROJECT_H
 #define	_PROJECT_H
 
-#pragma ident	"@(#)project.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <sys/types.h>

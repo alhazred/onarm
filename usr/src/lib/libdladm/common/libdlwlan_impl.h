@@ -26,7 +26,7 @@
 #ifndef _LIBDLWLAN_IMPL_H
 #define	_LIBDLWLAN_IMPL_H
 
-#pragma ident	"@(#)libdlwlan_impl.h	1.4	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <inet/wifi_ioctl.h>

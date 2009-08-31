@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 #
-# ident	"@(#)Lgrp.pm	1.1	06/09/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #
@@ -32,7 +32,7 @@
 # liblgrp(3LIB) library.
 #
 
-#ident	"@(#)Lgrp.pm	1.1	06/09/01 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 require 5.6.1;
 use strict;
@@ -41,7 +41,7 @@ use Carp;
 
 package Sun::Solaris::Lgrp;
 
-our $VERSION = '1.1';
+our $VERSION = '%I%';
 use XSLoader;
 XSLoader::load(__PACKAGE__, $VERSION);
 

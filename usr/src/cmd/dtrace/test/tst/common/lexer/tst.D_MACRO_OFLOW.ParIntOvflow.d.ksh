@@ -26,7 +26,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)tst.D_MACRO_OFLOW.ParIntOvflow.d.ksh	1.2	06/09/26 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # ASSERTION:

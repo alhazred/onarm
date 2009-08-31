@@ -27,7 +27,7 @@
 #ifndef _CDA_H
 #define	_CDA_H
 
-#pragma ident	"@(#)cda.h	1.1	05/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/fmd_api.h>
 

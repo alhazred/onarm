@@ -31,7 +31,7 @@
 #ifndef	_SYS_CONSDEV_H
 #define	_SYS_CONSDEV_H
 
-#pragma ident	"@(#)consdev.h	5.33	07/06/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/dditypes.h>

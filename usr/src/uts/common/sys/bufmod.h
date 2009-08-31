@@ -27,7 +27,7 @@
 #ifndef	_SYS_BUFMOD_H
 #define	_SYS_BUFMOD_H
 
-#pragma ident	"@(#)bufmod.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/types32.h>

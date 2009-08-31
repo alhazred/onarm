@@ -17,7 +17,7 @@
 
 #ifndef __COM_ERR_H
 
-#pragma ident	"@(#)com_err.h	1.4	06/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(_WIN32)
 #include <win-mac.h>

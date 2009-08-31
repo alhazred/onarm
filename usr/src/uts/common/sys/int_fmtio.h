@@ -27,7 +27,7 @@
 #ifndef _SYS_INT_FMTIO_H
 #define	_SYS_INT_FMTIO_H
 
-#pragma ident	"@(#)int_fmtio.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file, <sys/int_fmtio.h>, is part of the Sun Microsystems implementation

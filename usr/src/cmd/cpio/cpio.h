@@ -29,7 +29,7 @@
 #ifndef	_CPIO_H
 #define	_CPIO_H
 
-#pragma ident	"@(#)cpio.h	1.23	07/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

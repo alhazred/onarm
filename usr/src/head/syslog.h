@@ -26,7 +26,7 @@
 #ifndef	_SYSLOG_H
 #define	_SYSLOG_H
 
-#pragma ident	"@(#)syslog.h	1.13	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 #include <sys/feature_tests.h>
 #include <sys/syslog.h>

@@ -28,7 +28,7 @@
 #ifndef _NIS_LOCAL_H
 #define	_NIS_LOCAL_H
 
-#pragma ident	"@(#)nis_local.h	1.31	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "../../rpc/rpc_mt.h"
 #include <rpc/rpc.h>

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)piclsbl.c	1.6	06/11/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *  PICL Ontario platform plug-in to message the SC to light

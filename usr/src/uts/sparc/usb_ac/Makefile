@@ -27,7 +27,7 @@
 #	This makefile drives the production of the usb_ac driver
 #	kernel module. sparc architecture dependent
 #
-#ident	"@(#)Makefile	1.12	07/07/05 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	Path to the base of the uts directory tree (usually /usr/src/uts).
 #

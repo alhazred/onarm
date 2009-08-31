@@ -38,7 +38,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: authfile.c,v 1.50 2002/06/24 14:55:38 markus Exp $");
 
-#pragma ident	"@(#)authfile.c	1.6	05/05/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <openssl/err.h>
 #include <openssl/evp.h>

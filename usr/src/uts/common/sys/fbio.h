@@ -27,7 +27,7 @@
 #ifndef _SYS_FBIO_H
 #define	_SYS_FBIO_H
 
-#pragma ident	"@(#)fbio.h	5.35	05/06/08 SMI"	/* SunOS4.1.2 5.49 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS4.1.2 5.49 */
 
 #include <sys/types.h>
 

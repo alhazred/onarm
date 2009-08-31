@@ -1,4 +1,4 @@
-#pragma ident	"@(#)kt-int.h	1.1	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lib/krb5/keytab/kt-int.h

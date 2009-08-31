@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ibmf_saa_events.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ib/mgt/ibmf/ibmf_saa_impl.h>
 #include <sys/ib/mgt/ibmf/ibmf_saa_utils.h>

@@ -28,7 +28,7 @@
 #
 
 
-#ident	"@(#)ttydefs.sh	1.17	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 DEFAULT_BAUDRATE=38400
 

@@ -26,7 +26,7 @@
 #ifndef _SYS_SHA2_H
 #define	_SYS_SHA2_H
 
-#pragma ident	"@(#)sha2.h	1.4	06/03/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>		/* for uint_* */
 

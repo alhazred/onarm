@@ -26,7 +26,7 @@
 #ifndef	_INET_SPDSOCK_H
 #define	_INET_SPDSOCK_H
 
-#pragma ident	"@(#)spdsock.h	1.9	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/netstack.h>
 

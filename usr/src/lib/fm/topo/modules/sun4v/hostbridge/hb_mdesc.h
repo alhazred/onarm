@@ -27,7 +27,7 @@
 #ifndef	_HB_MDESC_H
 #define	_HB_MDESC_H
 
-#pragma ident	"@(#)hb_mdesc.h	1.1	08/01/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/topo_mod.h>
 

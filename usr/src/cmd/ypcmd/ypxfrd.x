@@ -23,7 +23,7 @@
 % * Use is subject to license terms.
 % */
 %
-%#pragma ident	"@(#)ypxfrd.x	1.3	05/06/10 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 %/*
 % * This is NOT source code!

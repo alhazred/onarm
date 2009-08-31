@@ -26,7 +26,7 @@
 #ifndef _MACH_DOT_H
 #define	_MACH_DOT_H
 
-#pragma ident	"@(#)mach.h	1.8	07/02/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/reg.h>
 #include <sys/types.h>

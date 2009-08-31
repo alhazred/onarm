@@ -29,7 +29,7 @@
 #ifndef _MAC_H
 #define	_MAC_H
 
-#pragma ident	"@(#)mac.h	1.4	06/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

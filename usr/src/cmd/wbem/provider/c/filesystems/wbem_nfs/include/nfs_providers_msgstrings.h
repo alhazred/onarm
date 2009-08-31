@@ -27,7 +27,7 @@
 #ifndef _NFS_PROVIDERS_MSGSTRINGS_H
 #define	_NFS_PROVIDERS_MSGSTRINGS_H
 
-#pragma ident	"@(#)nfs_providers_msgstrings.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

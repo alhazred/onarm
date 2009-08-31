@@ -20,7 +20,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: cipher-ctr.c,v 1.4 2004/02/06 23:41:13 dtucker Exp $");
 
-#pragma ident	"@(#)cipher-ctr.c	1.2	04/09/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <openssl/evp.h>
 

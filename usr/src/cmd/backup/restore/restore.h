@@ -15,7 +15,7 @@
 #ifndef _RESTORE_H
 #define	_RESTORE_H
 
-#pragma ident	"@(#)restore.h	1.37	05/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

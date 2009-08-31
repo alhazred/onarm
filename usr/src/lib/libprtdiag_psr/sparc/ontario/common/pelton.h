@@ -34,7 +34,7 @@
 #ifndef _PELTON_H
 #define	_PELTON_H
 
-#pragma ident	"@(#)pelton.h	1.2	07/05/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -35,7 +35,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)version.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	FILEVERSION	13	/* symbol database file format version */
 #define	FIXVERSION	".4"	/* feature and bug fix version */

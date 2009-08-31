@@ -55,7 +55,7 @@
  * IN THE SOFTWARE.
  */
 
-#pragma ident	"@(#)xenbus_dev.c	1.2	07/12/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sysmacros.h>
@@ -179,7 +179,7 @@ static struct dev_ops xenbusdrv_dev_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"virtual bus driver v1.2",	/* Name of the module. */
+	"virtual bus driver v%I%",	/* Name of the module. */
 	&xenbusdrv_dev_ops	/* driver ops */
 };
 

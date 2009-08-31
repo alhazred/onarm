@@ -26,7 +26,7 @@
 #ifndef _SYS_CPU_MODULE_H
 #define	_SYS_CPU_MODULE_H
 
-#pragma ident	"@(#)cpu_module.h	1.51	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/pte.h>
 #include <sys/async.h>

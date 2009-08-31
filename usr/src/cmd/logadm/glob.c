@@ -62,7 +62,7 @@
  * braces, and don't support the more powerful reglobs required by logadm.
  */
 
-#pragma ident	"@(#)glob.c	1.3	06/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <libintl.h>

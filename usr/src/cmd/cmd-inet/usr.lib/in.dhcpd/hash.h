@@ -27,7 +27,7 @@
 #ifndef	_HASH_H
 #define	_HASH_H
 
-#pragma ident	"@(#)hash.h	1.6	01/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Generalized hash table ADT

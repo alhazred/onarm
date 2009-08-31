@@ -26,7 +26,7 @@
 #ifndef	_SYS_ERI_COMMON_H
 #define	_SYS_ERI_COMMON_H
 
-#pragma ident	"@(#)eri_common.h	1.8	07/06/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

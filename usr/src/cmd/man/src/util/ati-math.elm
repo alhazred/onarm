@@ -23,7 +23,7 @@
     CDDL HEADER END
 -->
 <!-- SCCS keyword
-#pragma ident	"@(#)ati-math.elm	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 -->
 <!-- Public document type declaration subset. Typical invocation:
 <!ENTITY % atimath PUBLIC "-//ArborText//ELEMENTS Math Equation Structures//EN">

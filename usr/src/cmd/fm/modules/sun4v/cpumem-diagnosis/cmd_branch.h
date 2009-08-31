@@ -26,7 +26,7 @@
 #ifndef _CMD_BRANCH_H
 #define	_CMD_BRANCH_H
 
-#pragma ident	"@(#)cmd_branch.h	1.2	07/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Memory modules are described by the cmd_branch general-purpose state

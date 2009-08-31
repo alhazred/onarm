@@ -1,4 +1,4 @@
-#pragma ident	"@(#)xa_ext.h	1.1	00/03/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* DO NOT EDIT: automatically built by dist/distrib. */
 #ifndef _xa_ext_h_

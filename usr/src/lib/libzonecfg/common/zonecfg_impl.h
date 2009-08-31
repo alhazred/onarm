@@ -26,7 +26,7 @@
 #ifndef _ZONECFG_IMPL_H
 #define	_ZONECFG_IMPL_H
 
-#pragma ident	"@(#)zonecfg_impl.h	1.7	06/06/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

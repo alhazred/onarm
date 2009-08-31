@@ -12,7 +12,7 @@
 #ifndef	__sys_ioccom_h
 #define	__sys_ioccom_h
 
-#pragma ident	"@(#)ioccom.h	1.11	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Ioctl's have the command encoded in the lower word,

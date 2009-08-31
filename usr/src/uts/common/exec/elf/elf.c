@@ -31,7 +31,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)elf.c	1.128	08/02/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>
@@ -2024,7 +2024,7 @@ static struct execsw esw = {
 };
 
 static struct modlexec modlexec = {
-	&mod_execops, "exec module for elf 1.128", &esw
+	&mod_execops, "exec module for elf %I%", &esw
 };
 
 #ifdef	_LP64

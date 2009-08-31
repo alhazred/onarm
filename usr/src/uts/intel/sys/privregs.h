@@ -27,7 +27,7 @@
 #ifndef	_SYS_PRIVREGS_H
 #define	_SYS_PRIVREGS_H
 
-#pragma ident	"@(#)privregs.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(__amd64)
 

@@ -26,7 +26,7 @@
 #ifndef	_TIUSER_H
 #define	_TIUSER_H
 
-#pragma ident	"@(#)tiuser.h	1.15	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /*
  * TLI user interface definitions.

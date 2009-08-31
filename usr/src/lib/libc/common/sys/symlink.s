@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)symlink.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"symlink.s"
+	.file	"%M%"
 
 /* C library -- symlink						*/
 /* int symlink(const char *name1, const char *name2)		*/

@@ -27,7 +27,7 @@
  * @(#)$Header: traceroute.c,v 1.49 97/06/13 02:30:23 leres Exp $ (LBL)
  */
 
-#pragma ident	"@(#)traceroute.c	1.21	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/file.h>

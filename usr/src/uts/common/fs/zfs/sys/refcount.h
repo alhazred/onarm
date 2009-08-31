@@ -29,7 +29,7 @@
 #ifndef	_SYS_REFCOUNT_H
 #define	_SYS_REFCOUNT_H
 
-#pragma ident	"@(#)refcount.h	1.3	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/inttypes.h>
 #include <sys/list.h>

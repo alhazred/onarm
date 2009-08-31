@@ -61,7 +61,7 @@ Update to APSL 2.0
 
  */
 
-#pragma ident	"@(#)dnssd_ipc.c	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "dnssd_ipc.h"
 

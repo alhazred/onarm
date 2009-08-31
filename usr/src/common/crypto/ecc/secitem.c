@@ -40,7 +40,7 @@
  * Sun elects to use this software under the MPL license.
  */
 
-#pragma ident	"@(#)secitem.c	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Support routines for SECItem data structure.

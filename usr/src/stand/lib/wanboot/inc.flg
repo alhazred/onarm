@@ -24,7 +24,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)inc.flg	1.4	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 find_files "s.*" usr/src/common/net/wanboot
 find_files "s.*.h" usr/src/common/net/dhcp

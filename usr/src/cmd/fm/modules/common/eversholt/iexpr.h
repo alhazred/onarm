@@ -29,7 +29,7 @@
 #ifndef	_EFT_IEXPR_H
 #define	_EFT_IEXPR_H
 
-#pragma ident	"@(#)iexpr.h	1.2	06/04/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

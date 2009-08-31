@@ -27,7 +27,7 @@
 #ifndef	_MIT_SIPB_COPYRIGHT_H
 #define	_MIT_SIPB_COPYRIGHT_H
 
-#pragma ident	"@(#)mit-sipb-copyright.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

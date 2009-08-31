@@ -19,10 +19,10 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)ypserv1.c	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
-static char sccsid[] = "@(#)ypserv1.c	1.6	05/06/08 SMI";
+static char sccsid[] = "%Z%%M%	%I%	%E% SMI";
 #endif
 /*
  * YP Version 1 compatibility code added to rpc.nisd.

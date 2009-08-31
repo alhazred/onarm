@@ -27,7 +27,7 @@
 #ifndef _NETINET_IN_H
 #define	_NETINET_IN_H
 
-#pragma ident	"@(#)in.h	1.65	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

@@ -39,7 +39,7 @@
 #ifndef	_VM_AS_H
 #define	_VM_AS_H
 
-#pragma ident	"@(#)as.h	1.93	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/watchpoint.h>
 #include <vm/seg.h>

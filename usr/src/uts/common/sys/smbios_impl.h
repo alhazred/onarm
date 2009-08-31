@@ -36,7 +36,7 @@
 #ifndef	_SYS_SMBIOS_IMPL_H
 #define	_SYS_SMBIOS_IMPL_H
 
-#pragma ident	"@(#)smbios_impl.h	1.2	06/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/smbios.h>
 #include <sys/sysmacros.h>

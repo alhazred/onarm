@@ -26,7 +26,7 @@
 #ifndef	_LIBMLRPC_H
 #define	_LIBMLRPC_H
 
-#pragma ident	"@(#)libmlrpc.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

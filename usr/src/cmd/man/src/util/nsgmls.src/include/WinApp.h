@@ -1,6 +1,6 @@
 // Copyright (c) 1997 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)WinApp.h	1.3	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef WinApp_INCLUDED
 #define WinApp_INCLUDED 1

@@ -26,7 +26,7 @@
  */
 	.seg	"text"
 
-#ident	"@(#)umultiply.s	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 !	Copyright (c) 1987 by Sun Microsystems, Inc.
 

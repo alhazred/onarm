@@ -27,7 +27,7 @@
 #ifndef _PATHNAME_H
 #define	_PATHNAME_H
 
-#pragma ident	"@(#)pathname.h	1.11	05/06/08 SMI" /* from SunOS4.1 2.12 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* from SunOS4.1 2.12 */
 
 #ifdef	__cplusplus
 extern "C" {

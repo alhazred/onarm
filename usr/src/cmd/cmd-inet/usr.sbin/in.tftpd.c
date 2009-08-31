@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)in.tftpd.c	1.36	07/08/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Trivial file transfer protocol server.  A top level process runs in

@@ -31,7 +31,7 @@
 #ifndef	__5include_stdio_h
 #define	__5include_stdio_h
 
-#pragma ident	"@(#)stdio.h	1.24	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stdtypes.h>	/* for size_t */
 

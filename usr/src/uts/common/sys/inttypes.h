@@ -27,7 +27,7 @@
 #ifndef _SYS_INTTYPES_H
 #define	_SYS_INTTYPES_H
 
-#pragma ident	"@(#)inttypes.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header, <sys/inttypes.h>, contains (through nested inclusion) the

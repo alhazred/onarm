@@ -28,7 +28,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-#ident	"@(#)Makefile	1.39	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 SHFILES=	dfstab vfstab

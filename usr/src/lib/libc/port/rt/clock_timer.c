@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)clock_timer.c	1.13	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma	weak clock_getres = _clock_getres
 #pragma	weak clock_gettime = _clock_gettime

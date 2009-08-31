@@ -26,7 +26,7 @@
 #ifndef	_IKEDOOR_H
 #define	_IKEDOOR_H
 
-#pragma ident	"@(#)ikedoor.h	1.15	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

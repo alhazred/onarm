@@ -30,7 +30,7 @@
 #ifndef	_VM_DEP_H
 #define	_VM_DEP_H
 
-#pragma ident	"@(#)vm_dep.h	1.30	08/02/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

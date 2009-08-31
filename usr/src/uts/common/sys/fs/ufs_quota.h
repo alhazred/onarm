@@ -40,7 +40,7 @@
 #ifndef	_SYS_FS_UFS_QUOTA_H
 #define	_SYS_FS_UFS_QUOTA_H
 
-#pragma ident	"@(#)ufs_quota.h	2.44	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

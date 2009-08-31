@@ -40,7 +40,7 @@
 #ifndef	_SYS_UN_H
 #define	_SYS_UN_H
 
-#pragma ident	"@(#)un.h	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

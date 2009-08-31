@@ -2,7 +2,7 @@
  * xntpdc - control and monitor your xntpd daemon
  */
 
-#pragma ident	"@(#)ntpdc.c	1.1	99/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

@@ -30,7 +30,7 @@
 
 
 
-#pragma ident	"@(#)expr.c	1.7	05/09/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<stdio.h>
 /*

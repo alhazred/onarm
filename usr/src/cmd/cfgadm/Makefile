@@ -23,7 +23,7 @@
 # Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.8	05/08/22 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/cfgadm/Makefile
 

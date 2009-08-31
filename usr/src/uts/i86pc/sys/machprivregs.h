@@ -27,7 +27,7 @@
 #ifndef	_SYS_MACHPRIVREGS_H
 #define	_SYS_MACHPRIVREGS_H
 
-#pragma ident	"@(#)machprivregs.h	1.2	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Platform dependent instruction sequences for manipulating

@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 # 
-#ident	"@(#)mkacr.sh	1.5	07/04/19 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # This script builds the overhead information used by bfu to do
 # automatic conflict resolution.  This overhead information is stored

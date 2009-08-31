@@ -26,7 +26,7 @@
 #ifndef _SYS_VMEM_H
 #define	_SYS_VMEM_H
 
-#pragma ident	"@(#)vmem.h	1.14	07/05/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

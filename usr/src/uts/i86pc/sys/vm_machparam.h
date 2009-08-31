@@ -28,7 +28,7 @@
 #ifndef _SYS_VM_MACHPARAM_H
 #define	_SYS_VM_MACHPARAM_H
 
-#pragma ident	"@(#)vm_machparam.h	1.28	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.com	1.6	07/08/09 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 LIBRARY = libcontract.a

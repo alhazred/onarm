@@ -26,7 +26,7 @@
 #ifndef _POWERD_H
 #define	_POWERD_H
 
-#pragma ident	"@(#)powerd.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

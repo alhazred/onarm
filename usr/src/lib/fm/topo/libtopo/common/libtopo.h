@@ -27,7 +27,7 @@
 #ifndef _LIBTOPO_H
 #define	_LIBTOPO_H
 
-#pragma ident	"@(#)libtopo.h	1.8	07/09/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/nvpair.h>
 #include <stdio.h>

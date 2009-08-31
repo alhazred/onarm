@@ -31,7 +31,7 @@
 #ifndef _SYS_UTSNAME_H
 #define	_SYS_UTSNAME_H
 
-#pragma ident	"@(#)utsname.h	1.32	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

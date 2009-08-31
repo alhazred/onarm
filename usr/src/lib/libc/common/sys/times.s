@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)times.s	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"times.s"
+	.file	"%M%"
 
 /* C library -- times						*/
 /* long times (struct tms *buffer);				*/

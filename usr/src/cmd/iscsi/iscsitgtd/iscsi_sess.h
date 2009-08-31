@@ -27,7 +27,7 @@
 #ifndef	_SESSION_H
 #define	_SESSION_H
 
-#pragma ident	"@(#)iscsi_sess.h	1.3	07/08/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Block comment which describes the contents of this file.

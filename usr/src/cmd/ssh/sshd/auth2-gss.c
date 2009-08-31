@@ -28,7 +28,7 @@
 
 #include "includes.h"
 
-#pragma ident	"@(#)auth2-gss.c	1.6	08/01/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef GSSAPI
 #include "auth.h"

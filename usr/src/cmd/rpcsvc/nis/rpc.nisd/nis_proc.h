@@ -27,7 +27,7 @@
 #ifndef _NIS_PROC_H
 #define	_NIS_PROC_H
 
-#pragma ident	"@(#)nis_proc.h	1.32	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <pthread.h>
 #include <nis_servlist.h>

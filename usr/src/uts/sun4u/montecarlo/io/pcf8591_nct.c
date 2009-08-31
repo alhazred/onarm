@@ -25,7 +25,7 @@
  */
 
 
-#pragma ident	"@(#)pcf8591_nct.c	1.15	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 
@@ -162,7 +162,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv pcf8591_modldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"Netract pcf8591 (adio) 1.15 ",
+	"Netract pcf8591 (adio) %I% ",
 	&pcf8591_ops,
 };
 

@@ -28,7 +28,7 @@
 #	This makefile drives the production of the hubd driver kernel module.
 #	sparc architecture dependent
 #
-#ident	"@(#)Makefile	1.7	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	Path to the base of the uts directory tree (usually /usr/src/uts).

@@ -26,7 +26,7 @@
 #ifndef _SYS_DKTP_DADEV_H
 #define	_SYS_DKTP_DADEV_H
 
-#pragma ident	"@(#)dadev.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dktp/controller.h>
 #include <sys/dktp/cmpkt.h>

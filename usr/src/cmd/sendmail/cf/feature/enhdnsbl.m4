@@ -7,7 +7,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-# ident	"@(#)enhdnsbl.m4	1.5	07/02/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 ifelse(defn(`_ARG_'), `', 

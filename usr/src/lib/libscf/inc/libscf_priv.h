@@ -26,7 +26,7 @@
 #ifndef	_LIBSCF_PRIV_H
 #define	_LIBSCF_PRIV_H
 
-#pragma ident	"@(#)libscf_priv.h	1.21	08/02/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libscf.h>
 #include <unistd.h>

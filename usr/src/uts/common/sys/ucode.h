@@ -26,7 +26,7 @@
 #ifndef	_SYS_UCODE_H
 #define	_SYS_UCODE_H
 
-#pragma ident	"@(#)ucode.h	1.1	07/07/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/priv.h>

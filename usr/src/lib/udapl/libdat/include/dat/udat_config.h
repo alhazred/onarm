@@ -31,7 +31,7 @@
 #ifndef _UDAT_CONFIG_H_
 #define	_UDAT_CONFIG_H_
 
-#pragma ident	"@(#)udat_config.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

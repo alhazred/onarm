@@ -27,7 +27,7 @@
 #ifndef _SYS_VMEM_IMPL_USER_H
 #define	_SYS_VMEM_IMPL_USER_H
 
-#pragma ident	"@(#)vmem_impl_user.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/kstat.h>
 #include <sys/time.h>

@@ -26,7 +26,7 @@
 #ifndef	_KERNEL_SLOT_H
 #define	_KERNEL_SLOT_H
 
-#pragma ident	"@(#)kernelSlot.h	1.5	07/07/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
 #ifndef _AR_H
 #define	_AR_H
 
-#pragma ident	"@(#)ar.h	1.12	05/06/08 SMI"	/* SVr4.0 2.12	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 2.12	*/
 
 #ifdef	__cplusplus
 extern "C" {

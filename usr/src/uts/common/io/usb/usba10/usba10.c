@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)usba10.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Dummy module to load usba module on behalf of legacy drivers.
@@ -48,7 +48,7 @@ extern struct mod_ops mod_miscops;
 
 struct modlmisc modlmisc	= {
 	&mod_miscops,	/* Type	of module */
-	"USBA10: USB V0.8 Drvr Supp 1.2"
+	"USBA10: USB V0.8 Drvr Supp %I%"
 };
 
 struct modlinkage modlinkage = {

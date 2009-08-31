@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)setitimer.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"setitimer.s"
+	.file	"%M%"
 
 /* C library -- setitimer					*/
 /* int setitimer (int, const struct itimerval *, struct itimerval *);	*/

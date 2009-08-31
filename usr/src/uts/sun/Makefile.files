@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile.files	1.121	07/08/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 # uts/sun/Makefile.files
 #

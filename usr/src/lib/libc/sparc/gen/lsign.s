@@ -25,7 +25,7 @@
 
 /*       Copyright (c) 1989 by Sun Microsystems, Inc.		*/
 
-.ident	"@(#)lsign.s	1.8	05/06/08 SMI"	/* SVr4.0 1.1	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 /*
  * Determine the sign of a double-long number.

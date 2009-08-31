@@ -26,7 +26,7 @@
 #ifndef _SYS_LX_PID_H
 #define	_SYS_LX_PID_H
 
-#pragma ident	"@(#)lx_pid.h	1.1	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 

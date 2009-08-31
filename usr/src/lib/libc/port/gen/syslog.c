@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)syslog.c	1.47	06/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SYSLOG -- print message on log file

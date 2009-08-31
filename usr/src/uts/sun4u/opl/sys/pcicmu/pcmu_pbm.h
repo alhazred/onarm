@@ -26,7 +26,7 @@
 #ifndef	_SYS_PCMU_PBM_H
 #define	_SYS_PCMU_PBM_H
 
-#pragma ident	"@(#)pcmu_pbm.h	1.1	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/dditypes.h>

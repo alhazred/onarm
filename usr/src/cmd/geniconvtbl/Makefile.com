@@ -21,7 +21,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.com	1.21	07/05/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/geniconvtbl/Makefile.com
 

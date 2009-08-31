@@ -24,7 +24,7 @@
 # Copyright (c) 1995 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)ranlib.sh	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # ranlib is obsolete in SunOS 5.x; the ar(1) command does this
 # automatically.  This script is provided as a convenience for

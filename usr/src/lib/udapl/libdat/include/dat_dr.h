@@ -40,7 +40,7 @@
 #ifndef __DAT_DR_H__
 #define	__DAT_DR_H__
 
-#pragma ident	"@(#)dat_dr.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dat/udat.h>
 #include <dat/dat_registry.h>

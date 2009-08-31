@@ -30,7 +30,7 @@
 #ifndef _SMBSRV_SMB_KTYPES_H
 #define	_SMBSRV_SMB_KTYPES_H
 
-#pragma ident	"@(#)smb_ktypes.h	1.7	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

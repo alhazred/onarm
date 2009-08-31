@@ -40,7 +40,7 @@
 #ifndef _SYS_IOCCOM_H
 #define	_SYS_IOCCOM_H
 
-#pragma ident	"@(#)ioccom.h	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

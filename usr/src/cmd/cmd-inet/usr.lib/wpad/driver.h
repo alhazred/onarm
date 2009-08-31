@@ -11,7 +11,7 @@
 #ifndef __DRIVER_H
 #define	__DRIVER_H
 
-#pragma ident	"@(#)driver.h	1.2	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libdlwlan.h>
 #include <libdllink.h>

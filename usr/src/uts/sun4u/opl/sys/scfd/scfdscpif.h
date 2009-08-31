@@ -25,7 +25,7 @@
 #ifndef _SCFDSCPIF_H
 #define	_SCFDSCPIF_H
 
-#pragma ident	"@(#)scfdscpif.h	1.1	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

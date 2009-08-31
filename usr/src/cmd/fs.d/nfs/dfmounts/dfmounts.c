@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)dfmounts.c	1.14	05/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * nfs dfmounts

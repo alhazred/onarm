@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)boot_elf.s	1.6	08/03/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if	defined(lint)
 

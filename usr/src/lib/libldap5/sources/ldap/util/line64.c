@@ -4,7 +4,7 @@
  */
 
 
-#pragma ident	"@(#)line64.c	1.2	02/10/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The contents of this file are subject to the Netscape Public

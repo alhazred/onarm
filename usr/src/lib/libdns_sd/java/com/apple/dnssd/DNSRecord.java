@@ -27,7 +27,7 @@ Revision 1.1  2004/04/30 16:32:34  rpantos
 First checked in.
 
 
-ident	"@(#)DNSRecord.java	1.1	07/08/13 SMI"
+ident	"%Z%%M%	%I%	%E% SMI"
 
  */
 

@@ -23,7 +23,7 @@
 # CDDL HEADER END
 #
 #
-#ident	"@(#)READ_ME	1.8	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 This directory contains the source files for sendmail.
 
@@ -89,4 +89,4 @@ version.c	The current version of sendmail.
 
 Eric Allman
 
-(Version 1.8, last update 05/06/08)
+(Version %I%, last update %E%)

@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  */
-#pragma ident	"@(#)mkepoch.c	1.9	05/06/08 SMI" 
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 
 
 /*
  * Copyright (c) 1986 Sun Microsystems Inc.

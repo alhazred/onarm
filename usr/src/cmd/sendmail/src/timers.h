@@ -12,7 +12,7 @@
  *
  */
 
-#pragma ident	"@(#)timers.h	1.2	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef TIMERS_H
 #define TIMERS_H 1

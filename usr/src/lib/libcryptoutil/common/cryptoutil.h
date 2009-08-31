@@ -26,7 +26,7 @@
 #ifndef _CRYPTOUTIL_H
 #define	_CRYPTOUTIL_H
 
-#pragma ident	"@(#)cryptoutil.h	1.11	08/02/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

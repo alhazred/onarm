@@ -7,7 +7,7 @@
 #ifndef	_KEX_H
 #define	_KEX_H
 
-#pragma ident	"@(#)kex.h	1.6	04/03/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

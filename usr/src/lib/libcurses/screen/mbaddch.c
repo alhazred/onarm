@@ -28,7 +28,7 @@
  *      All rights reserved.
  */
 
-#pragma ident	"@(#)mbaddch.c	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*LINTLIBRARY*/
 

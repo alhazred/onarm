@@ -32,7 +32,7 @@
  * that return lists of strings return a struct fn_list.
  */
 
-#pragma ident	"@(#)fn.c	1.7	07/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <libintl.h>

@@ -1,7 +1,7 @@
 #ifndef _SMBUTIL_COMMON_H
 #define	_SMBUTIL_COMMON_H
 
-#pragma ident	"@(#)common.h	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

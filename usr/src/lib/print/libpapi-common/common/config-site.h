@@ -30,7 +30,7 @@
 
 /* $Id: config-site.h.in 171 2006-05-20 06:00:32Z njacobs $ */
 
-#pragma ident	"@(#)config-site.h	1.1	06/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <config.h>
 

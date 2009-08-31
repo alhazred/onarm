@@ -26,7 +26,7 @@
 #ifndef _SYS_PTE_H
 #define	_SYS_PTE_H
 
-#pragma ident	"@(#)pte.h	1.56	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _ASM
 #include <sys/types.h>

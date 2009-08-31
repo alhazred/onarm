@@ -27,7 +27,7 @@
 #ifndef	_VSW_FDB_H
 #define	_VSW_FDB_H
 
-#pragma ident	"@(#)vsw_fdb.h	1.1	06/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

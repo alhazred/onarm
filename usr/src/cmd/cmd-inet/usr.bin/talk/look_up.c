@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)look_up.c	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "talk_ctl.h"
 #include <libintl.h>

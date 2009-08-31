@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)func.c	1.3	07/12/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 ** 2002 February 23

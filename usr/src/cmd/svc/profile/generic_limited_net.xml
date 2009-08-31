@@ -23,7 +23,7 @@
     Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
     Use is subject to license terms.
 
-    ident	"@(#)generic_limited_net.xml	1.15	08/02/13 SMI"
+    ident	"%Z%%M%	%I%	%E% SMI"
 
     The purpose of the limited_net profile is to provide a set of
     active services that allow one to connect to the machine via ssh

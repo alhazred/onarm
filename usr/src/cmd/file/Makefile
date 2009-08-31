@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.20	07/11/30 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG= file

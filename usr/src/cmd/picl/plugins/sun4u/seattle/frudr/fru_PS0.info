@@ -25,7 +25,7 @@
  */
 
 /*
- * ident	"@(#)fru_PS0.info	1.2	06/07/18 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * This configuration file is parsed by PICL plugin envmon in response
  * to a PICL_FRU_ADDED event for PS0
@@ -68,7 +68,7 @@
 #ifndef id
 #define	id(s)	#ident s
 #endif
-id("@(#)fru_PS0.info 1.2     06/07/18 SMI")
+id("%Z%%M% %I%     %E% SMI")
 
 VERSION 1.1
 VERBOSE 1

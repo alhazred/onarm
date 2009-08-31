@@ -32,7 +32,7 @@
  * Selected code from smb_conn.c
  */
 
-#pragma ident	"@(#)smb_tran.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * Helper functions for smb_trantcp.c
  * (and maybe future transports)

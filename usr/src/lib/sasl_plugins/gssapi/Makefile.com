@@ -2,7 +2,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.com	1.2	04/09/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 LIBRARY= gssapi.a
 VERS= .1

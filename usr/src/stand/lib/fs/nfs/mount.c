@@ -27,7 +27,7 @@
 /*	Copyright (c) 1988 AT&T */
 /*	All Rights Reserved */
 
-#pragma ident	"@(#)mount.c	1.30	06/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/utsname.h>
 #include <sys/types.h>

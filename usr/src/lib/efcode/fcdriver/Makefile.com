@@ -23,7 +23,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.com	1.2	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 OBJECTS	= ioctl.o misc.o dma.o property.o fcdebug.o phandle.o build_tree.o \

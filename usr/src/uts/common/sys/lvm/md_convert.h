@@ -26,7 +26,7 @@
 #ifndef _SYS__MD_CONVERT_H
 #define	_SYS__MD_CONVERT_H
 
-#pragma ident	"@(#)md_convert.h	1.3	07/05/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/lvm/md_stripe.h>
 #include <sys/lvm/md_mirror.h>

@@ -31,7 +31,7 @@
 #ifndef _LDAP_SERVICE_H
 #define _LDAP_SERVICE_H 1
 
-#pragma ident	"@(#)ldap_services.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* service specific mask */
 #define LDAP_SERVICE_SERVICEFLAG      0x0001

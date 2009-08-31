@@ -27,7 +27,7 @@
 #ifndef	_LIBSYSEVENT_H
 #define	_LIBSYSEVENT_H
 
-#pragma ident	"@(#)libsysevent.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <thread.h>

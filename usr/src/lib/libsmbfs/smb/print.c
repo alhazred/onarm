@@ -32,7 +32,7 @@
  * $Id: print.c,v 1.1.1.3 2001/07/06 22:38:43 conrad Exp $
  */
 
-#pragma ident	"@(#)print.c	1.1	08/02/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/ioctl.h>

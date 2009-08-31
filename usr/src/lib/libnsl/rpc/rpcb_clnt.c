@@ -33,7 +33,7 @@
  * California.
  */
 
-#pragma ident	"@(#)rpcb_clnt.c	1.69	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * interface to rpcbind rpc service.

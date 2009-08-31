@@ -26,7 +26,7 @@
 #ifndef	_SYS_DDIDEVMAP_H
 #define	_SYS_DDIDEVMAP_H
 
-#pragma ident	"@(#)ddidevmap.h	1.23	06/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

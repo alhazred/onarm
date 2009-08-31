@@ -27,7 +27,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-#ident	"@(#)Makefile	1.29	08/02/13 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/pam_modules/Makefile
 #

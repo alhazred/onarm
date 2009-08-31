@@ -32,7 +32,7 @@
 #ifndef _DRM_SAREA_H
 #define _DRM_SAREA_H
 
-#pragma ident	"@(#)drm_sarea.h	1.2	07/04/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "drm.h"
 

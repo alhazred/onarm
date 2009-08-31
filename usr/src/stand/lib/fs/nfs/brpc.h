@@ -27,7 +27,7 @@
 #ifndef	_BRPC_H
 #define	_BRPC_H
 
-#pragma ident	"@(#)brpc.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/rpc.h>
 

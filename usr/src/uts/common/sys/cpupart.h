@@ -26,7 +26,7 @@
 #ifndef	_SYS_CPUPART_H
 #define	_SYS_CPUPART_H
 
-#pragma ident	"@(#)cpupart.h	1.24	07/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/processor.h>

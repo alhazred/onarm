@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)krb5_authenticate.c	1.43	07/10/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <security/pam_appl.h>
 #include <security/pam_modules.h>

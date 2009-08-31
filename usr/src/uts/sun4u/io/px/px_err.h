@@ -26,7 +26,7 @@
 #ifndef	_SYS_PX_ERR_H
 #define	_SYS_PX_ERR_H
 
-#pragma ident	"@(#)px_err.h	1.3	06/08/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

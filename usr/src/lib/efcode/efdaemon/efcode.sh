@@ -24,7 +24,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)efcode.sh	1.3	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # The open /dev/fcode file descriptor is passed by efdaemon in file

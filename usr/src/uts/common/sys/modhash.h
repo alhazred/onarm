@@ -31,7 +31,7 @@
 #ifndef _SYS_MODHASH_H
 #define	_SYS_MODHASH_H
 
-#pragma ident	"@(#)modhash.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Generic hash implementation for the kernel.

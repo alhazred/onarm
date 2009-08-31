@@ -27,7 +27,7 @@
 #ifndef _KMDB_START_H
 #define	_KMDB_START_H
 
-#pragma ident	"@(#)kmdb_start.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Used for initial initialization of kmdb

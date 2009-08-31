@@ -4,7 +4,7 @@
  */
 
 
-#pragma ident	"@(#)io.c	1.4	04/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*-

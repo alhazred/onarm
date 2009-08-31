@@ -1,4 +1,4 @@
-#pragma ident	"@(#)rel_cred.c	1.7	07/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 1993 by OpenVision Technologies, Inc.

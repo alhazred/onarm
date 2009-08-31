@@ -36,7 +36,7 @@
  * SUCH DAMAGES.
  *
  */
-#pragma ident	"@(#)hal_x86_64.o.uu	1.2	06/11/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	ATH_HAL_VERSION	"0.9.17.2"
 begin-base64 644 hal.o

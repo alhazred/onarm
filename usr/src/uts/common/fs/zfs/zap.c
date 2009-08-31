@@ -27,7 +27,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)zap.c	1.13	07/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

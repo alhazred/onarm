@@ -35,7 +35,7 @@
 /* Macros for bit twiddling. */
 /* TBD factor w/ dev/ic/atwreg.h. */
 
-#pragma ident	"@(#)rtwreg.h	1.1	07/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _RTW_REG_H_
 #define	_RTW_REG_H_

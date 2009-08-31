@@ -26,7 +26,7 @@
 #ifndef _CTFTOOLS_H
 #define	_CTFTOOLS_H
 
-#pragma ident	"@(#)ctftools.h	1.16	06/08/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Functions and data structures used in the manipulation of stabs and CTF data

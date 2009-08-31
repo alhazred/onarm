@@ -27,7 +27,7 @@
 #ifndef	_MBOXSC_H
 #define	_MBOXSC_H
 
-#pragma ident	"@(#)mboxsc.h	1.2	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines the Starcat Domain Mailbox Interface, as implemented in

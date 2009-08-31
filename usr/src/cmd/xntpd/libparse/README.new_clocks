@@ -1,4 +1,4 @@
- ident	"@(#)README.new_clocks	1.2	00/07/17 SMI"
+ ident	"%Z%%M%	%I%	%E% SMI"
 
 Here is an attempt to sketch out what you need to do in order to
 add another clock to the parse driver:

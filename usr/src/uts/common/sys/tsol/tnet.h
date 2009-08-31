@@ -28,7 +28,7 @@
 #ifndef	_SYS_TSOL_TNET_H
 #define	_SYS_TSOL_TNET_H
 
-#pragma ident	"@(#)tnet.h	1.4	07/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stream.h>

@@ -28,7 +28,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)t_open.c	1.32	06/01/04 SMI"	/* SVr4.0 1.5.3.3 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5.3.3 */
 
 #include "mt.h"
 #include <stdlib.h>

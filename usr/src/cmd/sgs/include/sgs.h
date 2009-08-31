@@ -33,7 +33,7 @@
 #ifndef	_SGS_H
 #define	_SGS_H
 
-#pragma ident	"@(#)sgs.h	1.53	06/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

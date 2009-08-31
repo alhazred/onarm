@@ -117,7 +117,7 @@ Revision 1.1  2003/12/08 20:47:02  rpantos
 Add support for mDNSResponder on Linux.
 */
 
-#pragma ident	"@(#)PosixDaemon.c	1.2	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

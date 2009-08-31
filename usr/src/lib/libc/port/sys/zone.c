@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)zone.c	1.14	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak getzoneid = _getzoneid
 #pragma weak getzoneidbyname = _getzoneidbyname

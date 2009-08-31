@@ -18,7 +18,7 @@
  * it connects to a "slave" side.
  */
 
-#pragma ident	"@(#)tty_pty.c	1.58	05/02/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/systm.h>
@@ -119,7 +119,7 @@ extern struct dev_ops ptc_ops;
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"tty pseudo driver control 'ptc' 1.58",
+	"tty pseudo driver control 'ptc' %I%",
 	&ptc_ops,	/* driver ops */
 };
 

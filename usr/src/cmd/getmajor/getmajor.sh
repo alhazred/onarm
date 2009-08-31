@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)getmajor.sh	1.4	06/09/11 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 if [ $# -ne 1 ]
 then

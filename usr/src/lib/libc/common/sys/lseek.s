@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lseek.s	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"lseek.s"
+	.file	"%M%"
 
 /* C library -- lseek						*/
 /* off_t lseek(int fildes, off_t offset, int whence);		*/

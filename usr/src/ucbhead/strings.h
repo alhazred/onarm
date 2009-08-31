@@ -45,7 +45,7 @@
 #ifndef	_STRINGS_H
 #define	_STRINGS_H
 
-#pragma ident	"@(#)strings.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <string.h>
 

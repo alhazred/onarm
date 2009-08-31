@@ -32,7 +32,7 @@
 #ifndef	BASE_CONVERSION_H
 #define	BASE_CONVERSION_H
 
-#pragma ident	"@(#)base_conversion.h	1.26	05/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <errno.h>
 #include <floatingpoint.h>

@@ -26,7 +26,7 @@
 #ifndef _KMDB_AUXV_H
 #define	_KMDB_AUXV_H
 
-#pragma ident	"@(#)kmdb_auxv.h	1.7	06/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The kmdb_auxv is the interface between the driver and the debugger portions

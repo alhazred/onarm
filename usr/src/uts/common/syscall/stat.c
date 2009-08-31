@@ -35,7 +35,7 @@
  * Copyright (c) 2007-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)stat.c	1.46	07/12/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Get file attribute information through a file name or a file descriptor.

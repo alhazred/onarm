@@ -24,7 +24,7 @@
 # Copyright 2003 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)mkerrno.sh	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 echo "\
 /*\n\
@@ -32,7 +32,7 @@ echo "\
  * Use is subject to license terms.\n\
  */\n\
 \n\
-#pragma ident\t\"@(#)mkerrno.sh\t1.2\t05/06/08 SMI\"\n"
+#pragma ident\t\"%Z%%M%\t%I%\t%E% SMI\"\n"
 
 pattern='^#define[	 ]\(E[A-Z0-9]*\)[	 ]*\([A-Z0-9]*\).*$'
 replace='inline int \1 = \2;@#pragma D binding "1.0" \1'

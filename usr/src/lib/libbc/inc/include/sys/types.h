@@ -12,7 +12,7 @@
 #ifndef	__sys_types_h
 #define	__sys_types_h
 
-#pragma ident	"@(#)types.h	2.35	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Basic system types.

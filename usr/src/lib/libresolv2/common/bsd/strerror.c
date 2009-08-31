@@ -41,7 +41,7 @@ static const char rcsid[] = "$Id: strerror.c,v 8.7 2001/08/28 11:48:10 marka Exp
  * SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)strerror.c	1.5	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "port_before.h"
 

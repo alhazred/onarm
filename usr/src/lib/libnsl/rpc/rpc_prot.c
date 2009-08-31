@@ -33,7 +33,7 @@
  * California.
  */
 
-#pragma ident	"@(#)rpc_prot.c	1.23	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This set of routines implements the rpc message definition,

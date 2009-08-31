@@ -27,7 +27,7 @@
 #ifndef	_SYS_VIS_SIMULATOR_H
 #define	_SYS_VIS_SIMULATOR_H
 
-#pragma ident	"@(#)vis_simulator.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * VIS opf codes, instruction type

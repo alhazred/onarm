@@ -24,7 +24,7 @@
 # Copyright (c) 1997-2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)newsyslog	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # NOTE: This script is no longer used -- see logadm(1M)
 #

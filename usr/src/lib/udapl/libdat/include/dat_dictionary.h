@@ -40,7 +40,7 @@
 #ifndef _DAT_DICTIONARY_H_
 #define	_DAT_DICTIONARY_H_
 
-#pragma ident	"@(#)dat_dictionary.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dat_osd.h>
 

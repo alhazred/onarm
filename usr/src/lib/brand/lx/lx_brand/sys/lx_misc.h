@@ -27,7 +27,7 @@
 #ifndef _SYS_LX_H
 #define	_SYS_LX_H
 
-#pragma ident	"@(#)lx_misc.h	1.5	07/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <alloca.h>

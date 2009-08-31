@@ -27,7 +27,7 @@
 #ifndef	_SYS_NCANDD_H
 #define	_SYS_NCANDD_H
 
-#pragma ident	"@(#)ncandd.h	1.16	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

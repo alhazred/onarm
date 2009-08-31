@@ -27,7 +27,7 @@
 #ifndef _PCSER_REG_H
 #define	_PCSER_REG_H
 
-#pragma ident	"@(#)pcser_reg.h	1.10	05/06/08 SMI"
+#pragma ident	"%W%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

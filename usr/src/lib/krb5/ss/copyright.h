@@ -1,4 +1,4 @@
-#pragma ident	"@(#)copyright.h	1.2	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 

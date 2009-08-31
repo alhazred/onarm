@@ -35,7 +35,7 @@ Add Log header
 
 */
 
-#pragma ident	"@(#)GenLinkedList.c	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "GenLinkedList.h"
 

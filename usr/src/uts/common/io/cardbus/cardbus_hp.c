@@ -29,7 +29,7 @@
  * From "@(#)pcicfg.c   1.31    99/06/18 SMI"
  */
 
-#pragma ident	"@(#)cardbus_hp.c	1.2	06/07/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Cardbus hotplug module

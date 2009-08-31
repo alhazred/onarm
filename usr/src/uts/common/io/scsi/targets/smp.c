@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)smp.c	1.2	08/01/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SMP - Serial Management Protocol Device Driver
@@ -103,7 +103,7 @@ static struct dev_ops smp_dev_ops = {
 static void *smp_soft_state = NULL;
 
 static struct modldrv modldrv = {
-	&mod_driverops, "smp device driver 1.2", &smp_dev_ops
+	&mod_driverops, "smp device driver %I%", &smp_dev_ops
 };
 
 static struct modlinkage modlinkage = {

@@ -32,7 +32,7 @@
 #ifndef	_BADSEC_H
 #define	_BADSEC_H
 
-#pragma ident	"@(#)badsec.h	1.8	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

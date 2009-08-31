@@ -26,7 +26,7 @@
  * Littleneck Platform specific functions.
  */
 
-#pragma ident	"@(#)workfile.c	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libprtdiag.h>
 #include <sys/mc.h>

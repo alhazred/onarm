@@ -31,7 +31,7 @@
 #ifndef	_WORDEXP_H
 #define	_WORDEXP_H
 
-#pragma ident	"@(#)wordexp.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

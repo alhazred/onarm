@@ -6,7 +6,7 @@
 #ifndef	_SYS_TSS_H
 #define	_SYS_TSS_H
 
-#pragma ident	"@(#)tss.h	1.8	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

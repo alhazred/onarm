@@ -1,6 +1,6 @@
 // Copyright (c) 1996 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)WinInetStorage.h	1.3	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef WinInetStorage_INCLUDED
 #define WinInetStorage_INCLUDED 1

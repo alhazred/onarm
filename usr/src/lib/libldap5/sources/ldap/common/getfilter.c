@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getfilter.c	1.3	06/04/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*-

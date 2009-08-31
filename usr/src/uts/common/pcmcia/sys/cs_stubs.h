@@ -27,7 +27,7 @@
 #ifndef _CS_STUBS_H
 #define	_CS_STUBS_H
 
-#pragma ident	"@(#)cs_stubs.h	1.12	05/06/08 SMI"
+#pragma ident	"%W%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

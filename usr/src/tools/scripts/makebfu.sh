@@ -24,7 +24,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)makebfu.sh	1.14	06/10/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # Builds bfu archives. If no arguments, uses the environment variables

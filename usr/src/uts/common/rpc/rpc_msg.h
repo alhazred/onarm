@@ -34,7 +34,7 @@
 #ifndef _RPC_RPC_MSG_H
 #define	_RPC_RPC_MSG_H
 
-#pragma ident	"@(#)rpc_msg.h	1.19	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/clnt.h>
 /*

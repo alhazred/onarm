@@ -27,7 +27,7 @@
 #ifndef _vm_faultcode_h
 #define	_vm_faultcode_h
 
-#pragma ident	"@(#)faultcode.h	1.8	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file describes the "code" that is delivered during

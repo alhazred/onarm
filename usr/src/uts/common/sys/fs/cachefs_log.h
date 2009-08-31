@@ -27,7 +27,7 @@
 #ifndef _SYS_FS_CACHEFS_LOG_H
 #define	_SYS_FS_CACHEFS_LOG_H
 
-#pragma ident	"@(#)cachefs_log.h	1.26	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/types32.h>

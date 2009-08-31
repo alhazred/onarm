@@ -31,7 +31,7 @@
 /*      Copyright (c) 1987, 1988 Microsoft Corporation  */
 /*        All Rights Reserved   */
 
-#pragma ident	"@(#)float.s	1.33	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 #include <sys/asm_misc.h>

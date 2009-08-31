@@ -3,7 +3,7 @@
 #ifndef	_STRMODE_H
 #define	_STRMODE_H
 
-#pragma ident	"@(#)strmode.h	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

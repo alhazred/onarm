@@ -24,7 +24,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)proto.sh	1.41	07/10/24 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Generate a proto area suitable for the current architecture ($(MACH))
 # sufficient to support the sgs build.

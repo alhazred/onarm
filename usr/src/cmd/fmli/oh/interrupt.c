@@ -27,7 +27,7 @@
  * Copyright  (c) 1988 AT&T
  *	All Rights Reserved
  */
-#ident	"@(#)interrupt.c	1.6	05/06/08 SMI"       /* SVr4.0 1.2 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.2 */
 
 #include "wish.h"
 

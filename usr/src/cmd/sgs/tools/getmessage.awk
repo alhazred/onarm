@@ -22,7 +22,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)getmessage.awk	1.4	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #

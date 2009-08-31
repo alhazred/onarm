@@ -12,7 +12,7 @@
 #ifndef	__sys_wait_h
 #define	__sys_wait_h
 
-#pragma ident	"@(#)wait.h	2.24	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file holds definitions relevant to the wait system call.

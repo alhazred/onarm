@@ -23,7 +23,7 @@
 % * Use is subject to license terms.
 % */
 %
-%#pragma ident	"@(#)ypupdate_prot.x	1.10	05/06/10 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 %/*
 % * Compiled from ypupdate_prot.x using rpcgen

@@ -25,7 +25,7 @@
 
 /*	from UCB 4.11 06/09/83	*/
 
-#pragma ident	"@(#)xsyscall.h	1.5	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	__sys_syscall_h
 #define	__sys_syscall_h

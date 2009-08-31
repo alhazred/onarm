@@ -23,7 +23,7 @@
 % * CDDL HEADER END
 % */
 %
-%#pragma ident	"@(#)metad.x	2.11	06/05/04 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 
 %#include <mdiox.h>

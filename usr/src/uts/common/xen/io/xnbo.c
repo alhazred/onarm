@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xnbo.c	1.5	08/01/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Xen network backend - mac client edition.
@@ -538,7 +538,7 @@ static struct dev_ops ops = {
 };
 
 static struct modldrv modldrv = {
-	&mod_driverops, "xnbo driver 1.5", &ops,
+	&mod_driverops, "xnbo driver %I%", &ops,
 };
 
 static struct modlinkage modlinkage = {

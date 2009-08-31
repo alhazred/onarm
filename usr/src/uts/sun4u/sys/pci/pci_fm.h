@@ -26,7 +26,7 @@
 #ifndef	_PCI_FM_H
 #define	_PCI_FM_H
 
-#pragma ident	"@(#)pci_fm.h	1.9	06/04/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ddifm.h>
 

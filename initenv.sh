@@ -19,10 +19,10 @@
 #
 # CDDL HEADER END
 #
-# Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
+# Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident  "@(#)opensolaris.sh 1.8 08/02/07 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #
@@ -51,50 +51,50 @@ ARM_PLATFORM=${ARM_PLATFORM:-ne1}
 
 get_workspace_root()
 {
-    dir=`$PWD`
-    while [ ! -d $dir/usr -o ! -d $dir/usr/src -o \
-	    ! -f $dir/README.opensolaris ]; do
+	dir=`$PWD`
+	while [ ! -d $dir/usr -o ! -d $dir/usr/src -o \
+		! -f $dir/README.opensolaris ]; do
 	if [ $dir = "/" ]; then
-	    echo "Can't detect workspace path." >&2
-	    exit 1
+		echo "Can't detect workspace path." >&2
+		exit 1
 	fi
 	dir=`$DIRNAME $dir`
-    done
-    workspace=$dir
+	done
+	workspace=$dir
 }
 
 
 dump_config()
 {
-    ws=$1
-    staffer=$2
-    mach=$3
+	ws=$1
+	staffer=$2
+	mach=$3
 
-    gate=`$BASENAME $ws`
-    native_mach=`$UNAME -p`
+	gate=`$BASENAME $ws`
+	native_mach=`$UNAME -p`
 
-    cross=`eval echo '$'"${mach}"_COMPILER_ROOT`
-    target=
-    xtarget=
-    xprefix=
-    xtool_prefix=
-    xsysroot=
-    if [ "$cross" != "" ]; then
-	# Use cross compiler
-	cross="GNU_ROOT=${cross};	export GNU_ROOT"
-	prefix=`eval echo '$'"${mach}"_COMPILER_PREFIX`
-	xprefix="GNU_PREFIX=${prefix};	export GNU_PREFIX"
-	xld_prefix="LD_PREFIX=${prefix};	export LD_PREFIX"
+	cross=`eval echo '$'"${mach}"_COMPILER_ROOT`
+	target=
+	xtarget=
+	xprefix=
+	xtool_prefix=
+	xsysroot=
+	if [ "$cross" != "" ]; then
+		# Use cross compiler
+		cross="GNU_ROOT=${cross};					export GNU_ROOT"
+		prefix=`eval echo '$'"${mach}"_COMPILER_PREFIX`
+		xprefix="GNU_PREFIX=${prefix};				export GNU_PREFIX"
+		xld_prefix="LD_PREFIX=${prefix};			export LD_PREFIX"
 
-	target=`eval echo '$'"${mach}"_COMPILER_TARGET`
-	xtarget="GNU_TOOL_TARGET=${target};	export GNU_TOOL_TARGET"
-	xtool_prefix="GNU_TOOL_PREFIX=${target}-;	export GNU_TOOL_PREFIX"
-	sysroot=`eval echo '$'"${mach}"_DEFAULT_SYSROOT`
-	xsysroot="DEFAULT_SYSROOT=${sysroot};	export DEFAULT_SYSROOT"
-    fi
+		target=`eval echo '$'"${mach}"_COMPILER_TARGET`
+		xtarget="GNU_TOOL_TARGET=${target};			export GNU_TOOL_TARGET"
+		xtool_prefix="GNU_TOOL_PREFIX=${target}-;	export GNU_TOOL_PREFIX"
+		sysroot=`eval echo '$'"${mach}"_DEFAULT_SYSROOT`
+		xsysroot="DEFAULT_SYSROOT=${sysroot};		export DEFAULT_SYSROOT"
+	fi
 
-    fname="opensolaris-${mach}.sh"
-    $CAT > $fname <<EOF
+	fname="opensolaris-${mach}.sh"
+	$CAT > $fname <<EOF
 
 #
 #	Configuration variables for the runtime environment of the nightly
@@ -111,17 +111,16 @@ dump_config()
 #	runs lint in usr/src (-l plus the LINTDIRS variable)
 #	sends mail on completion (-m and the MAILTO variable)
 #	checks for changes in ELF runpaths (-r)
-#	build and use this workspace's tools in \$SRC/tools (-t)
+#	build and use this workspace's tools in $SRC/tools (-t)
 #
-#NIGHTLY_OPTIONS="-FNnaCDlmrt";		export NIGHTLY_OPTIONS
-NIGHTLY_OPTIONS="-FNnDt";		export NIGHTLY_OPTIONS
+NIGHTLY_OPTIONS="-FNnDt";			export NIGHTLY_OPTIONS
 
 # This is a variable for the rest of the script - GATE doesn't matter to
 # nightly itself
-GATE=$gate;			export GATE
+GATE=$gate;				export GATE
 
 # CODEMGR_WS - where is your workspace at (or what should nightly name it)
-CODEMGR_WS="$ws";	export CODEMGR_WS
+CODEMGR_WS="$ws";					export CODEMGR_WS
 
 # Location of encumbered binaries.
 ON_CLOSED_BINS="\$CODEMGR_WS/closed";		export ON_CLOSED_BINS
@@ -144,8 +143,8 @@ DMAKE_MAX_JOBS=\`maxjobs\`;			export DMAKE_MAX_JOBS
 ONBLD_BIN="/opt/onbld/bin"
 
 # used by bfu.
-FASTFS=\$ONBLD_BIN/${mach}/fastfs;		export FASTFS
-BFULD=\$ONBLD_BIN/${mach}/bfuld;		export BFULD
+FASTFS=\$ONBLD_BIN/${mach}/fastfs;	export FASTFS
+BFULD=\$ONBLD_BIN/${mach}/bfuld;	export BFULD
 GZIPBIN=/usr/bin/gzip;				export GZIPBIN
 ACR=\$ONBLD_BIN/acr;				export ACR
 
@@ -165,8 +164,8 @@ CLONE_WS="";			export CLONE_WS
 # workspace as root.
 # Some scripts optionally send mail messages to MAILTO.
 #
-STAFFER=$staffer;				export STAFFER
-MAILTO=\$STAFFER;			export MAILTO
+STAFFER=$staffer;					export STAFFER
+MAILTO=\$STAFFER;					export MAILTO
 
 # The project (see project(4)) under which to run this build.  If not
 # specified, the build is simply run in a new task in the current project.
@@ -175,19 +174,20 @@ BUILD_PROJECT=;				export BUILD_PROJECT
 # You should not need to change the next four lines
 LOCKNAME="\`basename \$CODEMGR_WS\`_nightly.lock"; export LOCKNAME
 ATLOG="\$CODEMGR_WS/log";			export ATLOG
-LOGFILE="\$ATLOG/nightly.log";			export LOGFILE
-MACH=$mach;					export MACH
-NATIVE_MACH=$native_mach;				export NATIVE_MACH
+LOGFILE="\$ATLOG/nightly.log";		export LOGFILE
+MACH=$mach;							export MACH
+NATIVE_MACH=$native_mach;			export NATIVE_MACH
+
 
 # REF_PROTO_LIST - for comparing the list of stuff in your proto area
 # with. Generally this should be left alone, since you want to see differences
 # from your parent (the gate).
 #
-REF_PROTO_LIST=\$PARENT_WS/usr/src/proto_list_\${MACH}; export REF_PROTO_LIST
+REF_PROTO_LIST=\$PARENT_WS/usr/src/proto_list_\${MACH};	export REF_PROTO_LIST
 
 # where cpio archives of the OS are placed. Usually this should be left
 # alone too.
-CPIODIR="\${CODEMGR_WS}/archives/\${MACH}/nightly";	export CPIODIR
+CPIODIR="\${CODEMGR_WS}/archives/\${MACH}/nightly";		export CPIODIR
 
 #
 #	build environment variables, including version info for mcs, motd,
@@ -196,8 +196,8 @@ CPIODIR="\${CODEMGR_WS}/archives/\${MACH}/nightly";	export CPIODIR
 # release
 #
 ROOT="\$CODEMGR_WS/proto/root_\${MACH}";	export ROOT
-SRC="\$CODEMGR_WS/usr/src";         	export SRC
-VERSION="$VERSION";			export VERSION
+SRC="\$CODEMGR_WS/usr/src";					export SRC
+VERSION="$VERSION";							export VERSION
 
 #
 # the RELEASE and RELEASE_DATE variables are set in Makefile.master;
@@ -211,7 +211,7 @@ VERSION="$VERSION";			export VERSION
 # libraries corresponding to the protolibs target
 # not applicable given the NIGHTLY_OPTIONS
 #
-PARENT_ROOT=\$PARENT_WS/proto/root_\$MACH; export PARENT_ROOT
+PARENT_ROOT=\$PARENT_WS/proto/root_\$MACH;	export PARENT_ROOT
 
 #
 #       package creation variable. you probably shouldn't change this either.
@@ -235,7 +235,7 @@ UT_NO_USAGE_TRACKING="1"; export UT_NO_USAGE_TRACKING
 BUILD_TOOLS=/opt;				export BUILD_TOOLS
 #ONBLD_TOOLS=/opt/onbld;			export ONBLD_TOOLS
 #SPRO_ROOT=/opt/SUNWspro;			export SPRO_ROOT
-#SPRO_VROOT=\$SPRO_ROOT;				export SPRO_VROOT
+#SPRO_VROOT=$SPRO_ROOT;				export SPRO_VROOT
 
 # This goes along with lint - it is a series of the form "A [y|n]" which
 # means "go to directory A and run 'make lint'" Then mail me (y) the
@@ -246,7 +246,6 @@ BUILD_TOOLS=/opt;				export BUILD_TOOLS
 
 # Set this flag to 'n' to disable the automatic validation of the dmake
 # version in use.  The default is to check it.
-#CHECK_DMAKE=y
 CHECK_DMAKE=n
 
 # Set this flag to 'n' to disable the use of 'checkpaths'.  The default,
@@ -275,7 +274,7 @@ EXPORT_SRC="\$CODEMGR_WS/export_src";	export EXPORT_SRC
 # the domestic build.
 #
 
-CRYPT_SRC="\$CODEMGR_WS/crypt_src";	export CRYPT_SRC
+CRYPT_SRC="\$CODEMGR_WS/crypt_src";		export CRYPT_SRC
 
 #
 # OPEN_SRCDIR is where we copy the open tree to so that we can be sure
@@ -292,29 +291,29 @@ OPEN_SRCDIR="\$CODEMGR_WS/open_src";	export OPEN_SRCDIR
 # increases storage consumption.  Will be forced to "yes" for
 # OpenSolaris deliveries.
 #
-MULTI_PROTO=no;				export MULTI_PROTO
+MULTI_PROTO=no;							export MULTI_PROTO
 
-__GNUC="";			export __GNUC
-CW_NO_SHADOW=1;			export CW_NO_SHADOW
+__GNUC="";          export __GNUC
+CW_NO_SHADOW=1;         export CW_NO_SHADOW
 $cross
 $xprefix
 $xtarget
 $xtool_prefix
 $xsysroot
 $xld_prefix
-__LINT=#;			export __LINT
-__ARLIB=#;			export __ARLIB
-__SOLIB="";			export __SOLIB
-USE_WS_TOOLS=;			export USE_WS_TOOLS
-USE_UTSTUNE=;			export USE_UTSTUNE
+__LINT=#;           export __LINT
+__ARLIB=#;          export __ARLIB
+__SOLIB="";         export __SOLIB
+USE_WS_TOOLS=;          export USE_WS_TOOLS
+USE_UTSTUNE=;           export USE_UTSTUNE
 
 EOF
 
-    if [ "$mach" = "arm" ]; then
+	if [ "$mach" = "arm" ]; then
 	$CAT >> $fname <<EOF
 
 # Target ARM platform.
-ARM_PLATFORM=$ARM_PLATFORM;	export ARM_PLATFORM
+ARM_PLATFORM=$ARM_PLATFORM; export ARM_PLATFORM
 
 # Comment out below line if you want to use GNU binutils linker
 # to build OpenSolaris.
@@ -324,23 +323,22 @@ __GNU_LD=#;			export __GNU_LD
 BUILD64=#;			export BUILD64
 
 # Use ARM EABI mode.
-GNUC_ARM_EABI=;			export GNUC_ARM_EABI
+GNUC_ARM_EABI=;		export GNUC_ARM_EABI
 
 # Install all kernel modules under /usr directory.
 # Set '#' if you don't want to.
-KMODS_INST_USR=;		export KMODS_INST_USR
+KMODS_INST_USR=;	export KMODS_INST_USR
 
 # IPv4 only.
-USE_INET6=#;                    export USE_INET6
+USE_INET6=#;		export USE_INET6
 EOF
-    fi
+	fi
 }
-
 
 get_workspace_root
 VERSION='$GATE'
 staffer=`$WHO -m|$AWK '{print $1}'`
 
 for mach in arm i386; do
-    dump_config "$workspace" "$staffer" "$mach"
+	dump_config "$workspace" "$staffer" "$mach"
 done

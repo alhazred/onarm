@@ -27,7 +27,7 @@
 #ifndef	_SYS_FDC_H
 #define	_SYS_FDC_H
 
-#pragma ident	"@(#)fdc.h	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

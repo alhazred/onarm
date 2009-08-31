@@ -27,7 +27,7 @@
 #ifndef	_PAYLOADREADER_H
 #define	_PAYLOADREADER_H
 
-#pragma ident	"@(#)PayloadReader.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

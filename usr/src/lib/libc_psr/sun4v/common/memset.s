@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-.ident	"@(#)memset.s	1.4	07/03/20 SMI"
+.ident	"%Z%%M%	%I%	%E% SMI"
 
 	.file	"memset.s"
 /*

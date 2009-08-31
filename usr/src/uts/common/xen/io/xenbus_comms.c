@@ -54,7 +54,7 @@
  * IN THE SOFTWARE.
  */
 
-#pragma ident	"@(#)xenbus_comms.c	1.2	07/12/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <vm/hat.h>

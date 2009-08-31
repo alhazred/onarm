@@ -1,5 +1,5 @@
 #
-# ident	"@(#)man.sed	1.3	04/11/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.

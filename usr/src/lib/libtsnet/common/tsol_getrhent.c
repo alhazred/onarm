@@ -25,7 +25,7 @@
  * From "tsol_getrhent.c	7.6	00/09/22 SMI; TSOL 2.x"
  */
 
-#pragma ident	"@(#)tsol_getrhent.c	1.1	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <nss_dbdefs.h>

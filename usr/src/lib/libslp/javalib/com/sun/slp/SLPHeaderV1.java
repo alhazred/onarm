@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SLPHeaderV1.java	1.5	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright 2001-2002 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  *
  */
 
-//  SCCS Status:      @(#)SLPHeaderV1.java	1.5	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SLPHeaderV1.java: SLPv1 Header.
 //  Author:           James Kempf
 //  Created On:       Thu Sep 10 15:12:14 1998
@@ -44,7 +44,7 @@ import java.io.*;
 /**
  * The SLPHeaderV1 class models the SLPv1 server side header.
  *
- * @version 1.5 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

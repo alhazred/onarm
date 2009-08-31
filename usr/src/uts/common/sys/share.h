@@ -27,7 +27,7 @@
 #ifndef _SYS_SHARE_H
 #define	_SYS_SHARE_H
 
-#pragma ident	"@(#)share.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

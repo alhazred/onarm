@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pathconf.s	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"pathconf.s"
+	.file	"%M%"
 
 /* C library -- pathconf					*/
 /* long pathconf(char *path, int name)				*/

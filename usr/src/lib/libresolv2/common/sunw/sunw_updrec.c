@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)sunw_updrec.c	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * As of BIND 8.2.2, ISC (a) removed res_mkupdate(), res_update(), and

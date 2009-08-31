@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)usbms.c	1.25	06/08/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/usb/usba/usbai_version.h>
 #include <sys/usb/usba.h>
@@ -64,7 +64,7 @@ static struct fmodsw fsw = {
  */
 static struct modlstrmod modlstrmod = {
 	&mod_strmodops,
-	"USB mouse streams 1.25",
+	"USB mouse streams %I%",
 	&fsw
 };
 

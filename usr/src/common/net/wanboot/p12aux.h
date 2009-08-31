@@ -27,7 +27,7 @@
 #ifndef	_P12AUX_H
 #define	_P12AUX_H
 
-#pragma ident	"@(#)p12aux.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <openssl/pkcs12.h>
 

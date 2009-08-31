@@ -23,10 +23,10 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getfacl.c	1.10	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
-static char sccsid[] = "@(#)getfacl.c	1.10	07/05/23 SMI";
+static char sccsid[] = "%Z%%M%	%I%	%E% SMI";
 #endif
 
 /*

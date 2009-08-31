@@ -34,7 +34,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)rpcbind.c	1.48	06/06/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * rpcbind.c

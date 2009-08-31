@@ -26,7 +26,7 @@
 #ifndef	_OPL_H
 #define	_OPL_H
 
-#pragma ident	"@(#)opl.h	1.6	08/01/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -26,7 +26,7 @@
 #ifndef _SYS_NIAGARA2REGS_H
 #define	_SYS_NIAGARA2REGS_H
 
-#pragma ident	"@(#)niagara2regs.h	1.6	07/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

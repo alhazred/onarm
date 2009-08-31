@@ -22,7 +22,7 @@
 -- --
 -- CDDL HEADER END --
 -- --
--- ident	"@(#)solbook.dcl	1.7	05/07/08 SMI" --
+-- ident	"%Z%%M%	%I%	%E% SMI" --
 
          --  SGML Declaration for SolBook 2.0  --
 

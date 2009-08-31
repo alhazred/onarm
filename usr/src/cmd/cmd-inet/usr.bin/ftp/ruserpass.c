@@ -36,7 +36,7 @@
  *	contributors.
  */
 
-#pragma ident	"@(#)ruserpass.c	1.14	06/07/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "ftp_var.h"
 

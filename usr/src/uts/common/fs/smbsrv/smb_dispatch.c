@@ -26,7 +26,7 @@
  * Dispatching SMB requests.
  */
 
-#pragma ident	"@(#)smb_dispatch.c	1.4	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ALMOST EVERYTHING YOU NEED TO KNOW ABOUT A SERVER MESSAGE BLOCK

@@ -34,7 +34,7 @@
 #ifndef _LIBC_SYNONYMS_H
 #define	_LIBC_SYNONYMS_H
 
-#pragma ident	"@(#)synonyms.h	1.152	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

@@ -13,7 +13,7 @@
  *	$Id: bitops.h,v 1.2 2001/09/22 22:05:42 ca Exp $
  */
 
-#pragma ident	"@(#)bitops.h	1.2	01/09/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	SM_BITOPS_H
 # define SM_BITOPS_H

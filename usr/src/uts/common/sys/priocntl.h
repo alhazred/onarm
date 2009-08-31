@@ -30,7 +30,7 @@
 #ifndef _SYS_PRIOCNTL_H
 #define	_SYS_PRIOCNTL_H
 
-#pragma ident	"@(#)priocntl.h	1.23	06/12/11 SMI"	/* from SVR4 1.6 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 1.6 */
 
 #include <sys/types.h>
 #include <sys/procset.h>

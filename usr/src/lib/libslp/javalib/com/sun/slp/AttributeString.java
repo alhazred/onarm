@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)AttributeString.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)AttributeString.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  AttributeString.java: Model an Attribute value string.
 //  Author:           James Kempf
 //  Created On:       Wed Apr  8 10:40:03 1998
@@ -48,7 +48,7 @@ import java.io.*;
  * The toString() method returns the original string. Note that it does
  * NOT handle pattern wildcard matching. 
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

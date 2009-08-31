@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)bofi.c	1.17	07/08/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sysmacros.h>
@@ -279,7 +279,7 @@ static void    *statep;
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"bofi driver 1.17",
+	"bofi driver %I%",
 	&bofi_ops
 };
 

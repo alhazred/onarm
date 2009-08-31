@@ -29,7 +29,7 @@
  */
 
 
-#pragma ident	"@(#)getphdr.c	1.11	05/06/08 SMI" 	/* SVr4.0 1.10	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.10	*/
 
 #pragma weak	elf32_getphdr = _elf32_getphdr
 

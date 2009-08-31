@@ -25,7 +25,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)krb_include.sh	1.3	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 BINDIR=/usr/lib/krb5
 KDC_CONF_DIR=/etc/krb5

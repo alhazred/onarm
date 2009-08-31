@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pcf8574.c	1.6	05/11/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/stat.h>		/* ddi_create_minor_node S_IFCHR */
@@ -100,7 +100,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv pcf8574_modldrv = {
 	&mod_driverops,			/* type of module - driver */
-	"PCF8574 i2c device driver: v1.6",
+	"PCF8574 i2c device driver: v%I%",
 	&pcf8574_ops
 };
 

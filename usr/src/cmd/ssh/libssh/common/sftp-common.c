@@ -25,7 +25,7 @@
 
 /* $OpenBSD: sftp-common.c,v 1.20 2006/08/03 03:34:42 deraadt Exp $ */
 
-#pragma ident	"@(#)sftp-common.c	1.5	07/09/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "includes.h"
 

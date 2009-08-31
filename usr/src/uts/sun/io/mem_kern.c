@@ -23,7 +23,7 @@
  * Copyright 1990 by Sun Microsystems, Inc.
  */
 
-#ident	"@(#)mem_kern.c	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Memory pixrect (non)creation in kernel

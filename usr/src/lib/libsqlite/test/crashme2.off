@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)crashme2.off	1.1	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 set testdir [file dirname $argv0]

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)cylink_link.c	1.3	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef CYLINK_DSS
 static const char rcsid[] = "$Header: /proj/cvs/isc/bind8/src/lib/dst/cylink_link.c,v 1.9 2001/05/29 05:48:05 marka Exp $";

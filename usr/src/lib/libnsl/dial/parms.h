@@ -31,7 +31,7 @@
 #ifndef _PARMS_H
 #define	_PARMS_H
 
-#pragma ident	"@(#)parms.h	1.9	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

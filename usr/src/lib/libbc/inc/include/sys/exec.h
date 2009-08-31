@@ -27,7 +27,7 @@
 #ifndef _sys_exec_h
 #define	_sys_exec_h
 
-#pragma ident	"@(#)exec.h	1.11	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * format of the exec header

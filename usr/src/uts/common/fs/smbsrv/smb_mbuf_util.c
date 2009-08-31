@@ -57,7 +57,7 @@
  *
  */
 
-#pragma ident	"@(#)smb_mbuf_util.c	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * MLRPC server-side library processing. This is where we decode the

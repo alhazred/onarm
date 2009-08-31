@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)saghdr.h	1.5	05/06/08 SMI"       /* SVr4.0 1.4 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.4 */
 /*	saghdr.h 1.4 of 5/13/85	*/
 #include <stdio.h>
 #define	NPTS	100

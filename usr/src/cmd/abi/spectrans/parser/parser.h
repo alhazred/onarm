@@ -27,7 +27,7 @@
 #ifndef _PARSER_H
 #define	_PARSER_H
 
-#pragma ident	"@(#)parser.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 

@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)svc_udp.c	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * svc_udp.c,

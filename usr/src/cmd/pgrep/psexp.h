@@ -27,7 +27,7 @@
 #ifndef	_PSEXP_H
 #define	_PSEXP_H
 
-#pragma ident	"@(#)psexp.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <procfs.h>

@@ -23,7 +23,7 @@
 /*	Copyright (c) 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)ncform	6.14	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 int yylineno =1;
 # define YYU(x) x

@@ -27,7 +27,7 @@
 /*	  All Rights Reserved	*/
 
 
-#pragma ident	"@(#)umask.c	1.5	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/types.h>

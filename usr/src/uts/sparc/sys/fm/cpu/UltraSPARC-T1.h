@@ -26,7 +26,7 @@
 #ifndef _SYS_FM_ULTRASPARC_T1_H
 #define	_SYS_FM_ULTRASPARC_T1_H
 
-#pragma ident	"@(#)UltraSPARC-T1.h	1.5	07/07/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

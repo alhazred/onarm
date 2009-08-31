@@ -27,7 +27,7 @@
 #ifndef _SYS_MD_MIRROR_SHARED_H
 #define	_SYS_MD_MIRROR_SHARED_H
 
-#pragma ident	"@(#)md_mirror_shared.h	2.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/lvm/mdvar.h>
 

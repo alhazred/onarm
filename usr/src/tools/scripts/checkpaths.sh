@@ -24,7 +24,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)checkpaths.sh	1.9	07/05/03 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # Quis custodiet ipsos custodies?
 

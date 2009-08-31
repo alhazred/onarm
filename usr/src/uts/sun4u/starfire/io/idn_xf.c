@@ -23,7 +23,7 @@
  * Copyright (c) 1996 by Sun Microsystems, Inc.
  */
 
-#pragma ident	"@(#)idn_xf.c	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sysmacros.h>

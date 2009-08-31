@@ -40,7 +40,7 @@
 #ifndef _SYS_ERRNO_H
 #define	_SYS_ERRNO_H
 
-#pragma ident	"@(#)errno.h	1.22	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

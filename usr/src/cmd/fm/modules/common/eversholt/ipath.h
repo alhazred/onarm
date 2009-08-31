@@ -30,7 +30,7 @@
 #ifndef	_EFT_IPATH_H
 #define	_EFT_IPATH_H
 
-#pragma ident	"@(#)ipath.h	1.3	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

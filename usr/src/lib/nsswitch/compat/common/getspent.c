@@ -46,7 +46,7 @@
  *	confusing.
  */
 
-#pragma ident	"@(#)getspent.c	1.14	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <shadow.h>
 #include <string.h>

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ldap-private.h	1.8	02/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _LDAP_PRIVATE_H
 #define _LDAP_PRIVATE_H

@@ -27,7 +27,7 @@
 #ifndef _SYS_DKTP_FLOWCTRL_H
 #define	_SYS_DKTP_FLOWCTRL_H
 
-#pragma ident	"@(#)flowctrl.h	1.8	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

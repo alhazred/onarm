@@ -27,7 +27,7 @@
  * ptree -- print family tree of processes
  */
 
-#pragma ident	"@(#)ptree.c	1.22	07/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <assert.h>
 #include <stdio.h>

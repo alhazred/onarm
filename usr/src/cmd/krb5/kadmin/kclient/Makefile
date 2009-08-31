@@ -2,7 +2,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.3	04/04/01 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # Makefile for Kerberos client-install utility.
 #

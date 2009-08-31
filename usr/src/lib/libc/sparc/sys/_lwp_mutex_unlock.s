@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_lwp_mutex_unlock.s	1.20	07/06/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file "_lwp_mutex_unlock.s"
+	.file "%M%"
 
 #include <sys/asm_linkage.h>
 

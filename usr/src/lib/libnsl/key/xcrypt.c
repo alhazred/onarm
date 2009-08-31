@@ -33,7 +33,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)xcrypt.c	1.21	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Hex encryption/decryption and utility routines

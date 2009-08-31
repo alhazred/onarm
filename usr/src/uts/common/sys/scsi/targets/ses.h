@@ -28,7 +28,7 @@
 #ifndef _SYS_SCSI_TARGETS_SES_H
 #define	_SYS_SCSI_TARGETS_SES_H
 
-#pragma ident	"@(#)ses.h	1.22	07/01/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 

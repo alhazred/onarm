@@ -2,7 +2,7 @@
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  */
-#pragma ident	"@(#)kdb_dbc.h	1.1	99/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lib/gss_mechs/mech_krb5/include/krb5/kdb_dbc.h

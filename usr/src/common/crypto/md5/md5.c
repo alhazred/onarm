@@ -9,7 +9,7 @@
  * below.
  */
 
-#pragma ident	"@(#)md5.c	1.28	08/01/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * MD5C.C - RSA Data Security, Inc., MD5 message-digest algorithm

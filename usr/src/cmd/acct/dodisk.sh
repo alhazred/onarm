@@ -29,7 +29,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)dodisk.sh	1.11	05/06/08 SMI"	/* SVr4.0 1.13	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.13	*/
 # 'perform disk accounting'
 PATH=:/usr/lib/acct:/usr/bin:/usr/sbin
 export PATH

@@ -26,7 +26,7 @@
 #ifndef	_SYS_KLWP_H
 #define	_SYS_KLWP_H
 
-#pragma ident	"@(#)klwp.h	1.54	07/03/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/condvar.h>

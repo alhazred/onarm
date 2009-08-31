@@ -26,7 +26,7 @@
 #ifndef	_LIBDEVINFO_H
 #define	_LIBDEVINFO_H
 
-#pragma ident	"@(#)libdevinfo.h	1.37	08/02/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

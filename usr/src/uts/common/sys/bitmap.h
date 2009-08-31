@@ -31,7 +31,7 @@
 #ifndef _SYS_BITMAP_H
 #define	_SYS_BITMAP_H
 
-#pragma ident	"@(#)bitmap.h	1.29	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

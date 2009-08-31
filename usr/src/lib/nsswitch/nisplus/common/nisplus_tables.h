@@ -30,7 +30,7 @@
 #ifndef	_NISPLUS_TABLES_H
 #define	_NISPLUS_TABLES_H
 
-#pragma ident	"@(#)nisplus_tables.h	1.18	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

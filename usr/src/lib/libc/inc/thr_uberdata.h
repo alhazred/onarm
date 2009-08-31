@@ -31,7 +31,7 @@
 #ifndef _THR_UBERDATA_H
 #define	_THR_UBERDATA_H
 
-#pragma ident	"@(#)thr_uberdata.h	1.79	08/02/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <unistd.h>

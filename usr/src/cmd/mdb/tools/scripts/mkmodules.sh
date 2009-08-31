@@ -24,7 +24,7 @@
 # Copyright (c) 1998-2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)mkmodules.sh	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Script to build the MDB modules present in a workspace against the set of

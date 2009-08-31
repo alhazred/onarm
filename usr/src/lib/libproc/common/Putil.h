@@ -27,7 +27,7 @@
 #ifndef	_PUTIL_H
 #define	_PUTIL_H
 
-#pragma ident	"@(#)Putil.h	1.4	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

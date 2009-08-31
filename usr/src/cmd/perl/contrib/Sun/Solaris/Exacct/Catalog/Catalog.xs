@@ -29,7 +29,7 @@
  * creaing double-typed SVs.
  */
 
-#pragma ident	"@(#)Catalog.xs	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "../exacct_common.xh"
 

@@ -1,4 +1,4 @@
-#pragma ident	"@(#)ntp_proto.h	1.1	99/08/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __ntp_proto_h
 #define __ntp_proto_h

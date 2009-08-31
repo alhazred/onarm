@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#ident	"@(#)processor_info.c	1.8	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/param.h>

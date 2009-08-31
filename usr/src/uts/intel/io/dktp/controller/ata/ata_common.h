@@ -27,7 +27,7 @@
 #ifndef _ATA_COMMON_H
 #define	_ATA_COMMON_H
 
-#pragma ident	"@(#)ata_common.h	1.58	07/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

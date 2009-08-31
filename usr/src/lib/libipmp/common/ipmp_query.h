@@ -27,7 +27,7 @@
 #ifndef _IPMP_QUERY_H
 #define	_IPMP_QUERY_H
 
-#pragma ident	"@(#)ipmp_query.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/socket.h>			/* needed by <net/if.h> */

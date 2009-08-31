@@ -30,7 +30,7 @@
 #ifndef _SYS_PROC_PRDATA_H
 #define	_SYS_PROC_PRDATA_H
 
-#pragma ident	"@(#)prdata.h	1.78	07/04/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/proc.h>

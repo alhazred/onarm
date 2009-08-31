@@ -26,7 +26,7 @@
 #ifndef _TNF_WRITER_H
 #define	_TNF_WRITER_H
 
-#pragma ident	"@(#)writer.h	1.20	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <tnf/com.h>
 #include <sys/tnf_writer.h>

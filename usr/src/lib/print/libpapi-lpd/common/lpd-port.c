@@ -27,7 +27,7 @@
 
 /* $Id: lpd-port.c 155 2006-04-26 02:34:54Z ktou $ */
 
-#pragma ident	"@(#)lpd-port.c	1.2	07/05/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <config-site.h>
 

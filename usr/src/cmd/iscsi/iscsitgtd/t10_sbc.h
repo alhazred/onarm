@@ -27,7 +27,7 @@
 #ifndef _T10_SBC_H
 #define	_T10_SBC_H
 
-#pragma ident	"@(#)t10_sbc.h	1.5	07/08/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SBC-2 specific structures and defines

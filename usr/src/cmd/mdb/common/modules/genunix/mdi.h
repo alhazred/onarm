@@ -26,7 +26,7 @@
 #ifndef	_MDI_H
 #define	_MDI_H
 
-#pragma ident	"@(#)mdi.h	1.1	06/08/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

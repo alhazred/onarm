@@ -28,7 +28,7 @@
 #ifndef	_FMD_ERROR_H
 #define	_FMD_ERROR_H
 
-#pragma ident	"@(#)fmd_error.h	1.9	06/02/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <errno.h>
 

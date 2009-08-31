@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fasttrap_isa.c	1.26	07/08/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/fasttrap_isa.h>
 #include <sys/fasttrap_impl.h>

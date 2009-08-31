@@ -30,7 +30,7 @@
 #ifndef	_SYS_ZIL_IMPL_H
 #define	_SYS_ZIL_IMPL_H
 
-#pragma ident	"@(#)zil_impl.h	1.7	07/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zil.h>
 #include <sys/dmu_objset.h>

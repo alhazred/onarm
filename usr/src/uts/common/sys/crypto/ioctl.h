@@ -27,7 +27,7 @@
 #ifndef	_SYS_CRYPTO_IOCTL_H
 #define	_SYS_CRYPTO_IOCTL_H
 
-#pragma ident	"@(#)ioctl.h	1.15	07/07/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

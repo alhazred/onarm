@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_CIFS_H
 #define	_SMBSRV_CIFS_H
 
-#pragma ident	"@(#)cifs.h	1.3	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file provides definitions for the CIFS interface. The Macintosh

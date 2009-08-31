@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)malloc.bsd43.c	1.10	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * wizard:/space/4.3reno/usr/src/lib/libc/stdlib/malloc.c
  * Copyright (c) 1983 Regents of the University of California.

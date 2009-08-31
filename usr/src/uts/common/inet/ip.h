@@ -32,7 +32,7 @@
 #ifndef	_INET_IP_H
 #define	_INET_IP_H
 
-#pragma ident	"@(#)ip.h	1.244	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

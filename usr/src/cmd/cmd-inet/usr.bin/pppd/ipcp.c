@@ -20,7 +20,7 @@
  * WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-#pragma ident	"@(#)ipcp.c	1.3	04/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #define RCSID	"$Id: ipcp.c,v 1.54 2000/04/15 01:27:11 masputra Exp $"
 
 /*

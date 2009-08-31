@@ -35,7 +35,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_netbios_pxy.c	1.3	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	IPF_NETBIOS_PROXY
 

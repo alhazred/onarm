@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-# ident	"@(#)err.copyoutstrbadaddr.ksh	1.3	07/08/13 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 
 dtrace_script()

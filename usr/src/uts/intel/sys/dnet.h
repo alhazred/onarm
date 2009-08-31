@@ -26,7 +26,7 @@
 #ifndef _SYS_DNET_H
 #define	_SYS_DNET_H
 
-#pragma ident	"@(#)dnet.h	1.31	07/12/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

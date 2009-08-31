@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)relocate_sparc.msg	1.11	06/09/28 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 @ MSG_R_SPARC_NONE		"R_SPARC_NONE"

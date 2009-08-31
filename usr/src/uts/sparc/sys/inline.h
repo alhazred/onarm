@@ -31,7 +31,7 @@
 #ifndef _SYS_INLINE_H
 #define	_SYS_INLINE_H
 
-#pragma ident	"@(#)inline.h	1.9	05/06/08 SMI"	/* SVr4 11.9	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4 11.9	*/
 
 #ifdef	__cplusplus
 extern "C" {

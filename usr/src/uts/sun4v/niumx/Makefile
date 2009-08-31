@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.1	06/11/17 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #	This makefile drives the production of the niumx driver kernel module

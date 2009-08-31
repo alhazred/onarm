@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)parse.c	1.11	05/08/16 SMI" 
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 
 
 #include "mail.h"
 /*

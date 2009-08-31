@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ibmf_saa_impl.c	1.7	06/12/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ib/mgt/ibmf/ibmf_saa_impl.h>
 #include <sys/ib/mgt/ibmf/ibmf_saa_utils.h>

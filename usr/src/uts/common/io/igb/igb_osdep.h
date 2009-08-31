@@ -29,7 +29,7 @@
 #ifndef	_IGB_OSDEP_H
 #define	_IGB_OSDEP_H
 
-#pragma ident	"@(#)igb_osdep.h	1.1	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

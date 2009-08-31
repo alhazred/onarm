@@ -1,4 +1,4 @@
-#pragma ident	"@(#)crc-32.h	1.4	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * include/krb5/crc-32.h
  *

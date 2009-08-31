@@ -26,7 +26,7 @@
 #ifndef	_SYS_PCIFM_H
 #define	_SYS_PCIFM_H
 
-#pragma ident	"@(#)pcifm.h	1.3	07/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/dditypes.h>		/* for ddi_acc_handle_t */
 

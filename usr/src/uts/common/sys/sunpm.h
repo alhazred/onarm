@@ -26,7 +26,7 @@
 #ifndef	_SYS_SUNPM_H
 #define	_SYS_SUNPM_H
 
-#pragma ident	"@(#)sunpm.h	1.11	07/07/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Sun Specific Power Management definitions

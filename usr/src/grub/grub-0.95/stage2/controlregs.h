@@ -25,7 +25,7 @@
 #ifndef	_SYS_CONTROLREGS_H
 #define	_SYS_CONTROLREGS_H
 
-#pragma ident	"@(#)controlregs.h	1.1	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

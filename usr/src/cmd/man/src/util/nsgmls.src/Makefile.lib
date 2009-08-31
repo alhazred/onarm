@@ -3,7 +3,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)Makefile.lib	1.5	05/08/22 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 include ../../../../../Makefile.cmd
 CLEANFILES=lib$(LIB).a $(OBJS) $(COBJS) core

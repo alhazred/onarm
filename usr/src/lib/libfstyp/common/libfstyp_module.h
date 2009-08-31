@@ -26,7 +26,7 @@
 #ifndef	_LIBFSTYP_MODULE_H
 #define	_LIBFSTYP_MODULE_H
 
-#pragma ident	"@(#)libfstyp_module.h	1.1	06/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * libfstyp: module interface

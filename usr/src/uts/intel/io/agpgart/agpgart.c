@@ -6,7 +6,7 @@
  * Portions Philip Brown phil@bolthole.com Dec 2001
  */
 
-#pragma ident	"@(#)agpgart.c	1.10	07/11/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * agpgart driver

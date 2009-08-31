@@ -1,4 +1,4 @@
-#pragma ident	"@(#)gssapiv2_init.c	1.1	03/07/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <config.h>
 

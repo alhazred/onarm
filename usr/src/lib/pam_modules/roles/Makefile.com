@@ -25,7 +25,7 @@
 #
 # usr/src/lib/pam_modules/roles/Makefile.com
 #
-#ident	"@(#)Makefile.com	1.9	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 LIBRARY=	pam_roles.a
 VERS=		.1

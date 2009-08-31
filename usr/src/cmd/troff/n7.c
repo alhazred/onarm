@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)n7.c	1.11	05/07/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef EUC
 #ifdef NROFF

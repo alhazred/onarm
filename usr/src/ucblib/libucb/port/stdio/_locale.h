@@ -32,7 +32,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)_locale.h	1.6	05/06/08 SMI"	/* SVr4.0 1.1	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1	*/
 
 #define	LC_NAMELEN	15		/* maximum part name length (inc. \0) */
 #define	SZ_CTYPE	(257 + 257)	/* is* and to{upp,low}er tables */

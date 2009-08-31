@@ -4,7 +4,7 @@
  */
 
 
-#pragma ident	"@(#)strdup.c	1.2	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "port_before.h"
 

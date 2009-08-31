@@ -3,7 +3,7 @@
 # Copyright (c) 1999 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)make_os_version.sh	1.1	00/06/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 UNAME_R=`/usr/bin/uname -r`
 

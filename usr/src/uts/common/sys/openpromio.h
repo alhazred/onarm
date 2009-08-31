@@ -27,7 +27,7 @@
 #ifndef	_SYS_OPENPROMIO_H
 #define	_SYS_OPENPROMIO_H
 
-#pragma ident	"@(#)openpromio.h	1.21	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* From SunOS 4.1.1 <sundev/openpromio.h> */
 
 #ifdef	__cplusplus

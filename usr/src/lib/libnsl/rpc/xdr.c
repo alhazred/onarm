@@ -33,7 +33,7 @@
  * California.
  */
 
-#pragma ident	"@(#)xdr.c	1.29	06/01/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Generic XDR routines implementation.

@@ -34,7 +34,7 @@
  * a character device driver based transport
  */
 
-#pragma ident	"@(#)etm_xport_api_dd.c	1.5	07/09/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * --------------------------------- includes --------------------------------

@@ -27,7 +27,7 @@
 #ifndef	_LIBSCF_H
 #define	_LIBSCF_H
 
-#pragma ident	"@(#)libscf.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stddef.h>
 #include <sys/types.h>

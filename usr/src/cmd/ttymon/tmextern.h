@@ -31,7 +31,7 @@
 #ifndef	__TMEXTERN_H
 #define	__TMEXTERN_H
 
-#pragma ident	"@(#)tmextern.h	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

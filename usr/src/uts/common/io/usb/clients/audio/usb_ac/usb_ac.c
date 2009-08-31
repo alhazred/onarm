@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)usb_ac.c	1.35	07/03/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * AUDIO CONTROL Driver: usb_ac is a streams multiplexor that sits
@@ -412,7 +412,7 @@ static struct dev_ops usb_ac_dev_ops = {
 /* Linkage structure for loadable drivers */
 static struct modldrv usb_ac_modldrv = {
 	&mod_driverops,				/* drv_modops */
-	"USB Audio Control Driver 1.35",		/* drv_linkinfo */
+	"USB Audio Control Driver %I%",		/* drv_linkinfo */
 	&usb_ac_dev_ops				/* drv_dev_ops */
 };
 

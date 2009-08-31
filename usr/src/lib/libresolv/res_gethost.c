@@ -20,7 +20,7 @@
  * Copyright (c) 2007 NEC Corporation
  */
 
-#pragma ident	"@(#)res_gethost.c	1.18	06/01/04 SMI" /* SunOS 1.11; UCB 6.32 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* SunOS 1.11; UCB 6.32 */
 
 #include "c_synonyms.h"
 #include <sys/param.h>

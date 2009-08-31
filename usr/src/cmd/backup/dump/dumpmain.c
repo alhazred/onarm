@@ -33,7 +33,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)dumpmain.c	1.124	07/10/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "dump.h"
 #include <rmt.h>

@@ -1,4 +1,4 @@
-#pragma ident	"@(#)prof_get.c	1.2	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * prof_get.c --- routines that expose the public interfaces for
  * 	querying items from the profile.

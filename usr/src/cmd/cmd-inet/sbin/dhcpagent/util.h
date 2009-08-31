@@ -26,7 +26,7 @@
 #ifndef	UTIL_H
 #define	UTIL_H
 
-#pragma ident	"@(#)util.h	1.14	07/04/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <netinet/in.h>

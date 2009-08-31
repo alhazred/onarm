@@ -24,7 +24,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.20	07/05/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/lp/lib/lp/Makefile
 #

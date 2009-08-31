@@ -3,7 +3,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)sshd	1.4	04/11/17 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 SSHDIR=/etc/ssh
 KEYGEN="/usr/bin/ssh-keygen -q"

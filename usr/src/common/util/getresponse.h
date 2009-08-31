@@ -26,7 +26,7 @@
 #ifndef _UTIL_GETRESPONSE_H
 #define	_UTIL_GETRESPONSE_H
 
-#pragma ident	"@(#)getresponse.h	1.1	07/06/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Declarations for getresponse().

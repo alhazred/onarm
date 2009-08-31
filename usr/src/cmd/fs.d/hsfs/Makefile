@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile	1.13	06/10/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 #  /usr/src/cmd/lib/fs/hsfs is the directory of all ufs specific commands
 #  whose executable reside in $(INSDIR1) and $(INSDIR2).

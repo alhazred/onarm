@@ -30,7 +30,7 @@
 
 /* 6to4 tunnel module */
 
-#pragma ident	"@(#)6to4tun.c	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stream.h>

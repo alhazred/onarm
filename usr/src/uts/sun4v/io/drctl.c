@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)drctl.c	1.3	06/12/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * DR control module for LDoms
@@ -99,7 +99,7 @@ static struct dev_ops drctl_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* type of module - driver */
-	"DR Control pseudo driver v1.3",
+	"DR Control pseudo driver v%I%",
 	&drctl_ops
 };
 

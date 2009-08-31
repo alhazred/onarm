@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ksyms.c	1.31	08/02/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ksyms driver - exports a single symbol/string table for the kernel
@@ -445,7 +445,7 @@ static struct dev_ops ksyms_ops = {
 };
 
 static struct modldrv modldrv = {
-	&mod_driverops, "kernel symbols driver 1.31", &ksyms_ops,
+	&mod_driverops, "kernel symbols driver %I%", &ksyms_ops,
 };
 
 static struct modlinkage modlinkage = {

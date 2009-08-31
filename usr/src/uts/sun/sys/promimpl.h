@@ -27,7 +27,7 @@
 #ifndef	_SYS_PROMIMPL_H
 #define	_SYS_PROMIMPL_H
 
-#pragma ident	"@(#)promimpl.h	1.36	06/01/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * promif implementation header file; private to promif implementation.

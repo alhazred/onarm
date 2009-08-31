@@ -25,7 +25,7 @@
 # Use is subject to license terms.
 #
 # @(#)cstyle 1.58 98/09/09 (from shannon)
-#ident	"@(#)cstyle.pl	1.7	05/10/14 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cstyle - check for some common stylistic errors.
 #

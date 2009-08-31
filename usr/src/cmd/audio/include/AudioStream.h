@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIOSTREAM_H
 #define	_MULTIMEDIA_AUDIOSTREAM_H
 
-#pragma ident	"@(#)AudioStream.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <Audio.h>
 #include <AudioHdr.h>

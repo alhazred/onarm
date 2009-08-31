@@ -31,7 +31,7 @@
 #ifndef _SYS_FS_LOFS_NODE_H
 #define	_SYS_FS_LOFS_NODE_H
 
-#pragma ident	"@(#)lofs_node.h	1.13	05/07/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/fs/lofs_info.h>
 

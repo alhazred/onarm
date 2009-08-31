@@ -23,7 +23,7 @@
  * Use is subject to license terms of the CDDLv1.
  */
 
-#pragma ident	"@(#)e1000_osdep.c	1.2	07/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "e1000_osdep.h"
 #include "e1000_api.h"

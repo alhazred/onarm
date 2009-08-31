@@ -26,7 +26,7 @@
 #ifndef	_LISTEN_H
 #define	_LISTEN_H
 
-#pragma ident	"@(#)listen.h	1.8	05/06/08 SMI"	/* SVr4.0 1.4.3.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4.3.1 */
 
 #ifdef	__cplusplus
 extern "C" {

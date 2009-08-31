@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)meta_admin.c	2.4	05/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

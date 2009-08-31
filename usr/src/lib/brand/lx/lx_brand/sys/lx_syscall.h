@@ -27,7 +27,7 @@
 #ifndef _SYS_LX_SYSCALL_H
 #define	_SYS_LX_SYSCALL_H
 
-#pragma ident	"@(#)lx_syscall.h	1.5	08/03/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(_ASM)
 

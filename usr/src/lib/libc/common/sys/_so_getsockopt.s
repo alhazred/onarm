@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_so_getsockopt.s	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_so_getsockopt.s"
+	.file	"%M%"
 
 /* C library -- _so_getsockopt					*/
 /* int _so_getsockopt (int socket, int level, int option_name,	*/

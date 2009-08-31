@@ -26,7 +26,7 @@
 #ifndef _NODE_H_
 #define _NODE_H_
 
-#pragma ident	"@(#)node.h	1.13	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "asn1.h"
 #define COLUMN		1

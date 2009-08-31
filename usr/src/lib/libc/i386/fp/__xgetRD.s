@@ -1,4 +1,4 @@
-	.ident	"@(#)__xgetRD.s	1.4	05/06/08 SMI"
+	.ident	"%W%	%E% SMI"
 
 / Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
 / Use is subject to license terms.

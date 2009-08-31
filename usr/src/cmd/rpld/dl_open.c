@@ -28,7 +28,7 @@
  * Data Link API - Open/Setup
  */
 
-#pragma ident	"@(#)dl_open.c	1.7	07/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/stream.h>

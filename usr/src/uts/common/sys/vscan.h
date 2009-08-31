@@ -26,7 +26,7 @@
 #ifndef	_VSCAN_H
 #define	_VSCAN_H
 
-#pragma ident	"@(#)vscan.h	1.2	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ldc.c	1.17	08/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sun4v LDC Link Layer
@@ -146,7 +146,7 @@ static ldc_soft_state_t *ldcssp;
 
 static struct modldrv md = {
 	&mod_miscops,			/* This is a misc module */
-	"sun4v LDC module v1.17",	/* Name of the module */
+	"sun4v LDC module v%I%",	/* Name of the module */
 };
 
 static struct modlinkage ml = {

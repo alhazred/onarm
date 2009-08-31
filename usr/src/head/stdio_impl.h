@@ -27,7 +27,7 @@
 #ifndef _STDIO_IMPL_H
 #define	_STDIO_IMPL_H
 
-#pragma ident	"@(#)stdio_impl.h	1.16	06/04/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 

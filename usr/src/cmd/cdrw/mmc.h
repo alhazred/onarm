@@ -26,7 +26,7 @@
 #ifndef	_MMC_H
 #define	_MMC_H
 
-#pragma ident	"@(#)mmc.h	1.12	07/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_AUDIOTYPEPCM_H
 #define	_MULTIMEDIA_AUDIOTYPEPCM_H
 
-#pragma ident	"@(#)AudioTypePcm.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <AudioTypeConvert.h>
 

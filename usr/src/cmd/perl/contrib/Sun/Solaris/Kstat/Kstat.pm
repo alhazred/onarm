@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Kstat.pm	1.3	06/02/07 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 #
@@ -34,7 +34,7 @@ package Sun::Solaris::Kstat;
 use strict;
 use DynaLoader;
 use vars qw($VERSION @ISA);
-$VERSION = '1.3';
+$VERSION = '%I%';
 @ISA = qw(DynaLoader);
 bootstrap Sun::Solaris::Kstat $VERSION;
 1;

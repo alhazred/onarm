@@ -27,7 +27,7 @@
 #ifndef	_RTS_IMPL_H
 #define	_RTS_IMPL_H
 
-#pragma ident	"@(#)rts_impl.h	1.1	07/09/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

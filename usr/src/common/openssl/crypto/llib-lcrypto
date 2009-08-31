@@ -6,7 +6,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)llib-lcrypto	1.6	05/06/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <openssl/asn1.h>
 #include <openssl/asn1_mac.h>

@@ -27,7 +27,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)turnacct.sh	1.11	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #	"control process accounting (must be root)"
 #	"turnacct on	makes sure it's on"
 #	"turnacct off	turns it off"

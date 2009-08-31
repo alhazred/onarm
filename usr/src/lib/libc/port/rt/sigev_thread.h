@@ -27,7 +27,7 @@
 #ifndef	_SIGEV_THREAD_H
 #define	_SIGEV_THREAD_H
 
-#pragma ident	"@(#)sigev_thread.h	1.2	06/04/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

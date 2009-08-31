@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)devinfo.c	1.77	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * driver for accessing kernel devinfo tree.
@@ -353,7 +353,7 @@ static struct dev_ops di_ops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"DEVINFO Driver 1.77",
+	"DEVINFO Driver %I%",
 	&di_ops
 };
 

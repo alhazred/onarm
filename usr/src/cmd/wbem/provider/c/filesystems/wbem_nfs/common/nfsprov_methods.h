@@ -27,7 +27,7 @@
 #ifndef	_NFSPROV_METHODS_H
 #define	_NFSPROV_METHODS_H
 
-#pragma ident	"@(#)nfsprov_methods.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

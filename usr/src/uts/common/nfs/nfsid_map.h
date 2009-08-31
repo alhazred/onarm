@@ -27,7 +27,7 @@
 #ifndef _NFSID_MAP_H
 #define	_NFSID_MAP_H
 
-#pragma ident	"@(#)nfsid_map.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef _KERNEL
 #include <stddef.h>

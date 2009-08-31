@@ -27,7 +27,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-# ident	"@(#)Makefile	1.51	06/10/11 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # build two versions, su and su.static
 # su.static is dynamically linked; the .static suffix is historical.

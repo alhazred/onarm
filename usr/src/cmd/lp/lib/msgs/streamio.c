@@ -29,7 +29,7 @@
 
 
 
-#pragma ident	"@(#)streamio.c	1.10	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 #include	<unistd.h>
 #include	<signal.h>

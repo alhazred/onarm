@@ -22,7 +22,7 @@
 # Use is subject to license terms.
 #
 #
-#pragma ident	"@(#)Makefile	1.1	07/06/20 SMI"	
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	
 #
 # uts/common/idmap/Makefile
 #

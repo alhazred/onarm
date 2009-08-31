@@ -26,7 +26,7 @@
 #ifndef	_SYS_RAMDAC_H
 #define	_SYS_RAMDAC_H
 
-#pragma ident	"@(#)ramdac.h	1.5	05/06/08 SMI"	/* SunOS-4.1 1.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS-4.1 1.2 */
 
 #include <sys/pixrect.h>
 

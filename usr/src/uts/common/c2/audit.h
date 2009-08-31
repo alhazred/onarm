@@ -35,7 +35,7 @@
 #ifndef	_BSM_AUDIT_H
 #define	_BSM_AUDIT_H
 
-#pragma ident	"@(#)audit.h	1.100	08/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

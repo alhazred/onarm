@@ -23,7 +23,7 @@
  * Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)_relocate.c	1.21	07/10/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<string.h>
 #include	"machdep.h"

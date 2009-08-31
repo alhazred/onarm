@@ -27,7 +27,7 @@
  * Copyright  (c) 1986 AT&T
  *	All Rights Reserved
  */
-#ident	"@(#)wputchar.c	1.6	05/06/08 SMI"       /* SVr4.0 1.5 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.5 */
 
 #include	<curses.h>
 #include	"wish.h"

@@ -24,9 +24,9 @@
  * All rights reserved.
  */
 
-#ident	"@(#)alloca.s	1.15	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"alloca.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 #include <sys/stack.h>

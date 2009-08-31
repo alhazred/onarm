@@ -29,7 +29,7 @@
 #ifndef _SYS_BRAND_H
 #define	_SYS_BRAND_H
 
-#pragma ident	"@(#)brand.h	1.6	07/08/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

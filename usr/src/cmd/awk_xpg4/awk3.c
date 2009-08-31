@@ -29,7 +29,7 @@
  * Based on MKS awk(1) ported to be /usr/xpg4/bin/awk with POSIX/XCU4 changes
  */
 
-#pragma ident	"@(#)awk3.c	1.13	07/07/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "awk.h"
 #include "y.tab.h"

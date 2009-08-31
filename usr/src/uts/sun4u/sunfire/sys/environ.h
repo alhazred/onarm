@@ -27,7 +27,7 @@
 #ifndef	_SYS_ENVIRON_H
 #define	_SYS_ENVIRON_H
 
-#pragma ident	"@(#)environ.h	1.20	06/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

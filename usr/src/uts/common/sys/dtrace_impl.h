@@ -27,7 +27,7 @@
 #ifndef _SYS_DTRACE_IMPL_H
 #define	_SYS_DTRACE_IMPL_H
 
-#pragma ident	"@(#)dtrace_impl.h	1.23	07/02/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef _NFS_NFS_ACL_H
 #define	_NFS_NFS_ACL_H
 
-#pragma ident	"@(#)nfs_acl.h	1.17	06/03/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

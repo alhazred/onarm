@@ -26,7 +26,7 @@
 #ifndef	_SYS_TASK_H
 #define	_SYS_TASK_H
 
-#pragma ident	"@(#)task.h	1.11	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

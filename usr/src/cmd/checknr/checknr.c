@@ -13,7 +13,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)checknr.c	1.8	05/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * checknr: check an nroff/troff input file for matching macro calls.

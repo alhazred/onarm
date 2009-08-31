@@ -27,7 +27,7 @@
 /*      Copyright (c) 1984 AT&T */
 /*        All Rights Reserved   */
 
-#pragma ident	"@(#)filbuf.c	1.16	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*LINTLIBRARY*/

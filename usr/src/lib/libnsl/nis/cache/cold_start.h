@@ -27,7 +27,7 @@
 #ifndef	__COLD_START_H
 #define	__COLD_START_H
 
-#pragma ident	"@(#)cold_start.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern bool_t readColdStartFile(char *fileName, directory_obj *dobj);
 extern bool_t __nis_writeColdStartFile(char *fileName, directory_obj *dobj);

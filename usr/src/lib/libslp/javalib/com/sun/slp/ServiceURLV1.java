@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ServiceURLV1.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 1999 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)ServiceURLV1.java	1.3	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ServiceURLV1.java: SLPv1 Service URL class.
 //  Author:           James Kempf
 //  Created On:       Fri Oct  9 19:08:53 1998
@@ -45,7 +45,7 @@ import java.io.*;
  * ServiceURLV1 enforces no abstract types and no non-service: URL types for
  * SLPv1 queries.
  *
- * @version 1.3 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

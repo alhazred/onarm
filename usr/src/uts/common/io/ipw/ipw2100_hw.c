@@ -30,7 +30,7 @@
  * SUCH DAMAGE.
  */
 
-#pragma ident	"@(#)ipw2100_hw.c	1.1	07/03/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Intel Wireless PRO/2100 mini-PCI adapter driver

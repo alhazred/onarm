@@ -32,7 +32,7 @@ Add Log header
 
 */
 
-#pragma ident	"@(#)GenLinkedList.h	1.1	07/08/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __GenLinkedList__
 #define __GenLinkedList__

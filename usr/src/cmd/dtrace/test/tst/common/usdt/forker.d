@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)forker.d	1.1	07/05/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 provider forker {
 	probe fire();

@@ -27,7 +27,7 @@
 #ifndef _TCP_TRACE_H
 #define	_TCP_TRACE_H
 
-#pragma ident	"@(#)tcp_trace.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

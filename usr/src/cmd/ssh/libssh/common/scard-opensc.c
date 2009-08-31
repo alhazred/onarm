@@ -461,4 +461,4 @@ sc_put_key(Key *prv, const char *id)
 
 #endif /* SMARTCARD */
 
-#pragma ident	"@(#)scard-opensc.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

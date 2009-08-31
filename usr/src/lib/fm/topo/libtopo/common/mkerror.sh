@@ -25,7 +25,7 @@
 #
 #ident	"@(#)mkerror.sh	1.1	06/02/11 SMI"
 
-#pragma ident	"@(#)mkerror.sh	1.7	07/04/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 input="`cat`"

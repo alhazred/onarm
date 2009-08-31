@@ -28,10 +28,10 @@
  * mbtowc
  */
 
-#pragma ident	"@(#)mbtowc.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint) && defined(SCCSIDS)
-static  char *sccsid = "@(#)mbtowc.c 1.4     05/06/08 SMI";
+static  char *sccsid = "%Z%%M% %I%     %E% SMI";
 #endif 
 
 #include <stdlib.h>

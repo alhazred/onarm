@@ -6,7 +6,7 @@
 #ifndef	_BLOWFISH_CBC_CRYPT_H
 #define	_BLOWFISH_CBC_CRYPT_H
 
-#pragma ident	"@(#)blowfish_cbc_crypt.h	1.1	05/10/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

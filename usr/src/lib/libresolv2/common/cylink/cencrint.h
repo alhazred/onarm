@@ -67,7 +67,7 @@
 #ifndef CENCRINT_H     /* Prevent multiple inclusions of same header file */
 #define CENCRINT_H
 
-#pragma ident	"@(#)cencrint.h	1.2	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /****************************************************************************
 *  INCLUDE FILES

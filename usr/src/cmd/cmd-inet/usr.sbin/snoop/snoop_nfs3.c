@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#ident	"@(#)snoop_nfs3.c	1.15	05/06/08 SMI"	/* SunOS	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS	*/
 
 #include <sys/types.h>
 #include <sys/errno.h>

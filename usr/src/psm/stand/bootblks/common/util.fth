@@ -19,12 +19,12 @@
 \ CDDL HEADER END
 \
 \
-\ ident	"@(#)util.fth	1.1	07/11/29 SMI"
+\ ident	"%Z%%M%	%I%	%E% SMI"
 \ Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 \ Use is subject to license terms.
 \
 
-id: @(#)util.fth	1.1	07/11/29 SMI
+id: %Z%%M%	%I%	%E% SMI
 purpose: utility words
 copyright: Copyright 2007 Sun Microsystems, Inc. All Rights Reserved
 

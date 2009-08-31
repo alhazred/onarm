@@ -27,7 +27,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)rc2.sh	1.24	06/08/25 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # Run Commands executed when the system is changing to init state 2,
 # traditionally called "multi-user". Pick up start-up packages for mounts,

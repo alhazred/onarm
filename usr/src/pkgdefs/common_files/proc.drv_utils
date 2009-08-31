@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)proc.drv_utils	1.1	07/09/26 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # proc.drv_utils -- common code for driver add/remove

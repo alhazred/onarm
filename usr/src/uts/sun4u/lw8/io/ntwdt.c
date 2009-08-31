@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ntwdt.c	1.6	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ntwdt driver
@@ -487,7 +487,7 @@ static struct dev_ops ntwdt_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, 		/* This one is a driver */
-	"ntwdt-Netra-T12 v1.6", 	/* Name of the module. */
+	"ntwdt-Netra-T12 v%I%", 	/* Name of the module. */
 	&ntwdt_ops,			/* Driver ops */
 };
 

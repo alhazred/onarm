@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)scsb.c	1.32	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Netra ct800 and Netra ct400 (MonteCarlo/Tonga)
@@ -191,7 +191,7 @@ static struct modldrv modldrv = {
 #ifdef DEBUG
 	"SCB/SSB driver DBG" SCSB_BUILD_VERSION,
 #else
-	"v1.32 Netra ct System Control/Status Board driver",
+	"v%I% Netra ct System Control/Status Board driver",
 #endif
 	&scsb_ops,	/* driver ops */
 };

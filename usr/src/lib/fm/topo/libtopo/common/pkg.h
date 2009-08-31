@@ -27,7 +27,7 @@
 #ifndef	_PKG_H
 #define	_PKG_H
 
-#pragma ident	"@(#)pkg.h	1.1	06/11/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

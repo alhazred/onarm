@@ -24,7 +24,7 @@
 % * Use is subject to license terms.
 % */
 %
-%#pragma ident	"@(#)mdiox.x	2.42	07/08/02 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 %/*
 % *	MDD interface definitions

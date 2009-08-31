@@ -30,7 +30,7 @@
 #ifndef _SYS_MAP_H
 #define	_SYS_MAP_H
 
-#pragma ident	"@(#)map.h	1.29	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/t_lock.h>
 

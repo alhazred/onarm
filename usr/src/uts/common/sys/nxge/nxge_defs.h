@@ -26,7 +26,7 @@
 #ifndef	_SYS_NXGE_NXGE_DEFS_H
 #define	_SYS_NXGE_NXGE_DEFS_H
 
-#pragma ident	"@(#)nxge_defs.h	1.2	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

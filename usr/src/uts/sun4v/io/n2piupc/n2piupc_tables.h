@@ -27,7 +27,7 @@
 #ifndef	_N2PIUPC_TABLES_H
 #define	_N2PIUPC_TABLES_H
 
-#pragma ident	"@(#)n2piupc_tables.h	1.1	06/12/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Table definitions for the N2 PIU performance counter driver.

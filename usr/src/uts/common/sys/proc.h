@@ -30,7 +30,7 @@
 #ifndef _SYS_PROC_H
 #define	_SYS_PROC_H
 
-#pragma ident	"@(#)proc.h	1.217	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/time.h>
 

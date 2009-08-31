@@ -27,7 +27,7 @@
 #ifndef	_MDB_TARGET_H
 #define	_MDB_TARGET_H
 
-#pragma ident	"@(#)mdb_target.h	1.11	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/utsname.h>
 #include <sys/types.h>

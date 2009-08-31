@@ -27,7 +27,7 @@
  * Niagara2 Performance Counter Backend
  */
 
-#pragma ident	"@(#)niagara2_pcbe.c	1.4	07/07/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/cpuvar.h>
 #include <sys/systm.h>
@@ -644,9 +644,9 @@ ni2_pcbe_free(void *config)
 static struct modlpcbe modlpcbe = {
 	&mod_pcbeops,
 #if defined(NIAGARA2_IMPL)
-	"UltraSPARC T2 Performance Counters v1.4",
+	"UltraSPARC T2 Performance Counters v%I%",
 #elif defined(VFALLS_IMPL)
-	"UltraSPARC T2+ Performance Counters v1.4",
+	"UltraSPARC T2+ Performance Counters v%I%",
 #endif
 	&ni2_pcbe_ops
 };

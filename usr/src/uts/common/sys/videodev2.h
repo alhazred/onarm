@@ -26,7 +26,7 @@
 #ifndef __LINUX_VIDEODEV2_H
 #define	__LINUX_VIDEODEV2_H
 
-#pragma ident	"@(#)videodev2.h	1.2	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

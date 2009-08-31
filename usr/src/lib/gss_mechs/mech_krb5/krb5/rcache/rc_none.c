@@ -1,4 +1,4 @@
-#pragma ident	"@(#)rc_none.c	1.2	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lib/krb5/rcache/rc_none.c

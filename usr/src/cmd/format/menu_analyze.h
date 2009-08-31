@@ -26,7 +26,7 @@
 #ifndef	_MENU_ANALYZE_H
 #define	_MENU_ANALYZE_H
 
-#pragma ident	"@(#)menu_analyze.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

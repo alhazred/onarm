@@ -34,7 +34,7 @@
 #ifndef _NFS4_CLNT_H
 #define	_NFS4_CLNT_H
 
-#pragma ident	"@(#)nfs4_clnt.h	1.58	07/10/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/errno.h>
 #include <sys/types.h>

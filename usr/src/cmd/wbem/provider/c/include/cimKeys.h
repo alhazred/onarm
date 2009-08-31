@@ -27,7 +27,7 @@
 #ifndef _CIMKEYS_H
 #define	_CIMKEYS_H
 
-#pragma ident	"@(#)cimKeys.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

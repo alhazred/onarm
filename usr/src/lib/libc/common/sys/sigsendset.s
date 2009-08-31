@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sigsendset.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"sigsendset.s"
+	.file	"%M%"
 
 /* C library -- sigsendset					*/
 /* int sigsendset(procset_t *psp, int sig)			*/

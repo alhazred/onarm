@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_USBSER_KEYSPAN_VAR_H
 #define	_SYS_USB_USBSER_KEYSPAN_VAR_H
 
-#pragma ident	"@(#)keyspan_var.h	1.3	06/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * keyspan implementation definitions

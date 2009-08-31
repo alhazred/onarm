@@ -26,7 +26,7 @@
 #ifndef _INET_SCTP_SCTP_ASCONF_H
 #define	_INET_SCTP_SCTP_ASCONF_H
 
-#pragma ident	"@(#)sctp_asconf.h	1.5	07/07/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

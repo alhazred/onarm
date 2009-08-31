@@ -35,7 +35,7 @@
  * configuration.
  */
 
-#pragma ident	"@(#)tsol_sgettpent.c	1.4	07/10/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

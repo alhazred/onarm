@@ -27,7 +27,7 @@
 #ifndef _SYS_DRMACH_H_
 #define	_SYS_DRMACH_H_
 
-#pragma ident	"@(#)drmach.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/memlist.h>

@@ -27,7 +27,7 @@
 #ifndef _CMD_OPL_H
 #define	_CMD_OPL_H
 
-#pragma ident	"@(#)cmd_opl.h	1.6	07/09/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <cmd.h>
 #include <cmd_cpu.h>

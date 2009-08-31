@@ -27,7 +27,7 @@
 #ifndef	_SYS_MACHELF_H
 #define	_SYS_MACHELF_H
 
-#pragma ident	"@(#)machelf.h	1.22	06/03/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

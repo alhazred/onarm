@@ -29,7 +29,7 @@
 #ifndef	_PCI_VAR_H
 #define	_PCI_VAR_H
 
-#pragma ident	"@(#)pci_var.h	1.3	05/11/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

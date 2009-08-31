@@ -44,7 +44,7 @@
 #ifndef _SECOIDT_H_
 #define _SECOIDT_H_
 
-#pragma ident	"@(#)secoidt.h	1.1	07/12/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * secoidt.h - public data structures for ASN.1 OID functions

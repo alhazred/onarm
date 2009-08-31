@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)scsi.c	1.4	06/11/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * scsi.c - Warlock versions of DDI/DKI routines associated with scsi

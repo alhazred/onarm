@@ -10,7 +10,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-#ident	"@(#)nullclient.m4	1.5	01/08/27 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 ifelse(defn(`_ARG_'), `', `errprint(`Feature "nullclient" requires argument')',
 	`define(`_NULL_CLIENT_', _ARG_)')

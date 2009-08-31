@@ -23,7 +23,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)Makefile	1.5	07/12/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 PROG= lofiadm

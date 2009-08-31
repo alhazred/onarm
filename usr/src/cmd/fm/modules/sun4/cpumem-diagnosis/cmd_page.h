@@ -26,7 +26,7 @@
 #ifndef _CMD_PAGE_H
 #define	_CMD_PAGE_H
 
-#pragma ident	"@(#)cmd_page.h	1.4	06/12/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines for the creation of page retirement faults and for the management of

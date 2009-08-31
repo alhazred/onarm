@@ -27,7 +27,7 @@
 #ifndef _MD_MONITORD_H
 #define	_MD_MONITORD_H
 
-#pragma ident	"@(#)md_monitord.h	2.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -27,7 +27,7 @@
 #ifndef	_ZONEADMD_H
 #define	_ZONEADMD_H
 
-#pragma ident	"@(#)zoneadmd.h	1.15	08/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

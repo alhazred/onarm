@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)speedtest2.tcl	1.1	04/07/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #!/usr/bin/tclsh
 #

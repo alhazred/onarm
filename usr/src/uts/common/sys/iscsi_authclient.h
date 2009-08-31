@@ -27,7 +27,7 @@
 #ifndef	_ISCSI_AUTHCLIENT_H
 #define	_ISCSI_AUTHCLIENT_H
 
-#pragma ident	"@(#)iscsi_authclient.h	1.1	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file is the include file for for iscsiAuthClient.c

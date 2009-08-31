@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ntp_adjtime.s	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"ntp_adjtime.s"
+	.file	"%M%"
 
 /* C library -- ntp_adjtime					*/
 /* int ntp_adjtime (struct timex *);				*/

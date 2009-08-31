@@ -26,7 +26,7 @@
 #ifndef _SYS_OBERON_REGS_H
 #define	_SYS_OBERON_REGS_H
 
-#pragma ident	"@(#)oberon_regs.h	1.4	07/09/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

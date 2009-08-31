@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)dtj_attr.c	1.1	06/02/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <dtrace_jni.h>
 

@@ -37,7 +37,7 @@
 #ifndef	_MESSAGES_H
 #define	_MESSAGES_H
 
-#pragma ident	"@(#)messages.h	1.19	05/06/08 SMI"
+#pragma ident	"%W%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)tic_error.c	1.14	05/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *			COPYRIGHT NOTICE

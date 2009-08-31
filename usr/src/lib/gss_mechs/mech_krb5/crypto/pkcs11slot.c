@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pkcs11slot.c	1.6	07/05/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <etypes.h>
 #include <security/cryptoki.h>

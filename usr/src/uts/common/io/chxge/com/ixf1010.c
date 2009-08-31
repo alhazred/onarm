@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)ixf1010.c	1.4	07/03/15 SMI"	/* ixf1010.c */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* ixf1010.c */
 
 #include "gmac.h"
 #include "elmer0.h"

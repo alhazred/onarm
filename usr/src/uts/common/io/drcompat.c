@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)drcompat.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Standard module for handling DLPI Style 2 attach/detach
@@ -60,7 +60,7 @@ static struct fmodsw fsw = {
  */
 
 static struct modlstrmod modlstrmod = {
-	&mod_strmodops, "dr compatibility for DLPI style 2 drivers 1.4", &fsw
+	&mod_strmodops, "dr compatibility for DLPI style 2 drivers %I%", &fsw
 };
 
 

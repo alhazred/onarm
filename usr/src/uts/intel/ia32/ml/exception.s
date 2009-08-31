@@ -39,7 +39,7 @@
  * $FreeBSD: src/sys/amd64/amd64/exception.S,v 1.113 2003/10/15 02:04:52 peter Exp $
  */
 
-#pragma ident	"@(#)exception.s	1.18	08/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/asm_linkage.h>
 #include <sys/asm_misc.h>

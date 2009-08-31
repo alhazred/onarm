@@ -25,7 +25,7 @@
  * $Id: chap_ms.h,v 1.2 1997/11/27 06:08:10 paulus Exp $
  */
 
-#pragma ident	"@(#)chap_ms.h	1.1	00/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __CHAPMS_INCLUDE__
 

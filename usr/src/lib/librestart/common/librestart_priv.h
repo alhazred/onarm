@@ -27,7 +27,7 @@
 #ifndef	_LIBRESTART_PRIV_H
 #define	_LIBRESTART_PRIV_H
 
-#pragma ident	"@(#)librestart_priv.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libscf.h>
 #include <librestart.h>

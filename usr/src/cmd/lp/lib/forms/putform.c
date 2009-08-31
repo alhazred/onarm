@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)putform.c	1.8	05/11/09 SMI"	/* SVr4.0 1.10	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.10	*/
 /* EMACS_MODES: !fill, lnumb, !overwrite, !nodelete, !picture */
 
 #include "sys/types.h"

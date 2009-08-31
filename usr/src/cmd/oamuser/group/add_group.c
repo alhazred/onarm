@@ -27,7 +27,7 @@
 /*	All Rights Reserved	*/
 
 
-#pragma ident	"@(#)add_group.c	1.11	07/05/23 SMI"	/* SVr4.0 1.3 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3 */
 
 #include	<sys/types.h>
 #include	<sys/stat.h>

@@ -29,7 +29,7 @@
  */
 
 
-#pragma ident	"@(#)newdata.c	1.12	05/06/08 SMI" 	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.2	*/
 
 #pragma weak	elf_newdata = _elf_newdata
 

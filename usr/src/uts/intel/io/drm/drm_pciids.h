@@ -7,7 +7,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)drm_pciids.h	1.2	08/02/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	_DRM_PCIIDS_H_
 #define	_DRM_PCIIDS_H_

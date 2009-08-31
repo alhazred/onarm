@@ -28,7 +28,7 @@
 #ifndef _AHCIVAR_H
 #define	_AHCIVAR_H
 
-#pragma ident	"@(#)ahcivar.h	1.4	08/03/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

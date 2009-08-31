@@ -27,7 +27,7 @@
 #ifndef _DC_KI_H
 #define	_DC_KI_H
 
-#pragma ident	"@(#)dc_ki.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/sunddi.h>

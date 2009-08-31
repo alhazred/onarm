@@ -25,7 +25,7 @@
  * Task.xs contains XS wrappers for the task maniplulation functions.
  */
 
-#pragma ident	"@(#)Task.xs	1.3	07/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Solaris includes. */
 #include <sys/task.h>

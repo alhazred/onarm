@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)filemicro_rwrite.f	1.1	07/10/03 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # 10- 128M worth of 2K write(2) (to random offset), open with
 #     O_DSYNC, uncached.

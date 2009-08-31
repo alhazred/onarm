@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)mv88x201x.c	1.3	07/03/15 SMI"	/* mv88x201x.c */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* mv88x201x.c */
 
 #include "cphy.h"
 #include "elmer0.h"

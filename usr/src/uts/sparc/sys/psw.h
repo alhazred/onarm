@@ -26,7 +26,7 @@
 #ifndef _SYS_PSW_H
 #define	_SYS_PSW_H
 
-#pragma ident	"@(#)psw.h	1.18	05/06/08 SMI" /* from SunOS psl.h 1.2 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* from SunOS psl.h 1.2 */
 
 #ifdef	__cplusplus
 extern "C" {

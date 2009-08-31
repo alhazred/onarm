@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_MAILSLOT_H
 #define	_SMBSRV_MAILSLOT_H
 
-#pragma ident	"@(#)mailslot.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Mailslots are a one-way, unreliable IPC mechanism that allows a

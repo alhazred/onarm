@@ -25,7 +25,7 @@
 
 /*	Copyright (c) 1989 by Sun Microsystems, Inc.		*/
 
-.ident	"@(#)uadmin.s	1.7	05/06/08 SMI"	/* SVr4.0 1.6	*/
+.ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6	*/
 
 /* C library -- uadmin						*/
 /* int uadmin (int cmd, int fcn, int mdep);			*/

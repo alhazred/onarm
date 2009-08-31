@@ -26,7 +26,7 @@
 #ifndef _SYS_IB_MGT_IBCM_IBCM_IMPL_H
 #define	_SYS_IB_MGT_IBCM_IBCM_IMPL_H
 
-#pragma ident	"@(#)ibcm_impl.h	1.20	07/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ibcm_impl.h

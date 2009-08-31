@@ -27,7 +27,7 @@
 #ifndef _SYS_USB_USBSER_KEYSPAN_USA90MSG_H
 #define	_SYS_USB_USBSER_KEYSPAN_USA90MSG_H
 
-#pragma ident	"@(#)usa90msg.h	1.2	06/08/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

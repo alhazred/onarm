@@ -27,7 +27,7 @@
  * ACPI CA OSL for Solaris x86
  */
 
-#pragma ident	"@(#)osl.c	1.16	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include <sys/types.h>

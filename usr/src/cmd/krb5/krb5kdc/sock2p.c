@@ -1,4 +1,4 @@
-#pragma ident	"@(#)sock2p.c	1.1	02/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * kdc/sock2p.c
  *

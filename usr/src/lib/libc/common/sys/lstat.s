@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)lstat.s	1.12	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"lstat.s"
+	.file	"%M%"
 
 /* C library -- lstat						*/
 /* error = lstat(const char *path, struct lstat *buf)		*/

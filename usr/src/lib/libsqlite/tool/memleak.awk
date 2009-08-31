@@ -1,5 +1,5 @@
 
-#pragma ident	"@(#)memleak.awk	1.2	04/11/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # This script looks for memory leaks by analyzing the output of "sqlite" 

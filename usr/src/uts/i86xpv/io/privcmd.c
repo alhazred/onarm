@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)privcmd.c	1.2	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/file.h>
@@ -375,7 +375,7 @@ static struct dev_ops privcmd_dv_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"privcmd driver 1.2",
+	"privcmd driver %I%",
 	&privcmd_dv_ops
 };
 

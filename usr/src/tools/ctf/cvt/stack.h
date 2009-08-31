@@ -27,7 +27,7 @@
 #ifndef _STACK_H
 #define	_STACK_H
 
-#pragma ident	"@(#)stack.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Routines for manipulating stacks

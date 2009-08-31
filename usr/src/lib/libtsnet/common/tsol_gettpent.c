@@ -25,7 +25,7 @@
  * From "tsol_gettpent.c	7.13	00/10/13 SMI; TSOL 2.x"
  */
 
-#pragma ident	"@(#)tsol_gettpent.c	1.1	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <string.h>

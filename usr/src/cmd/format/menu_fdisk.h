@@ -28,7 +28,7 @@
 #ifndef	_MENU_FDISK_H
 #define	_MENU_FDISK_H
 
-#pragma ident	"@(#)menu_fdisk.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -1,4 +1,4 @@
--- #ident	"@(#)mib_II.txt	1.3	05/06/12 SMI"
+-- #ident	"%Z%%M%	%I%	%E% SMI"
 
           RFC1213-MIB DEFINITIONS ::= BEGIN
 

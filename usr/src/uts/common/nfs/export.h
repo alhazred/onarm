@@ -29,7 +29,7 @@
 #ifndef	_NFS_EXPORT_H
 #define	_NFS_EXPORT_H
 
-#pragma ident	"@(#)export.h	1.65	07/08/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <nfs/nfs_sec.h>
 #include <nfs/auth.h>

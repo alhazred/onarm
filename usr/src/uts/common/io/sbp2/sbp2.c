@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)sbp2.c	1.6	05/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * SBP2 module
@@ -105,7 +105,7 @@ extern struct mod_ops mod_miscops;
 
 static struct modlmisc sbp2_modlmisc = {
 	&mod_miscops,		/* module type */
-	"Serial Bus Protocol 2 module 1.6" /* module name */
+	"Serial Bus Protocol 2 module %I%" /* module name */
 };
 
 static struct modlinkage sbp2_modlinkage = {

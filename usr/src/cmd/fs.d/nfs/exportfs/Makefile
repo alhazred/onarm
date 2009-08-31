@@ -20,7 +20,7 @@
 # CDDL HEADER END
 #
 #
-#ident	"@(#)Makefile	1.13	05/06/08 SMI"	/* SVr4 1.11 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4 1.11 */
 #
 # Copyright (c) 1989 by Sun Microsystems, Inc.
 #

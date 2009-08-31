@@ -33,7 +33,7 @@
 #ifndef	_MACHDEP_H
 #define	_MACHDEP_H
 
-#pragma ident	"@(#)machdep.h	1.58	07/01/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <link.h>
 #include <sys/machelf.h>

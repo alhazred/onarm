@@ -26,7 +26,7 @@
 #ifndef	_SMBSRV_CTYPE_H
 #define	_SMBSRV_CTYPE_H
 
-#pragma ident	"@(#)ctype.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <smbsrv/codepage.h>
 

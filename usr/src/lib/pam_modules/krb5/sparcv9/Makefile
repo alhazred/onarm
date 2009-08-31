@@ -25,7 +25,7 @@
 #
 # usr/src/lib/pam_modules/krb5/sparcv9/Makefile
 #
-#ident	"@(#)Makefile	1.10	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 include ../Makefile.com

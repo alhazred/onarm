@@ -31,7 +31,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)kb8042.c	1.68	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/errno.h>
@@ -254,7 +254,7 @@ struct dev_ops kb8042_ops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a driver */
-	"PS/2 Keyboard 1.68, 07/10/18",
+	"PS/2 Keyboard %I%, %E%",
 	&kb8042_ops,	/* driver ops */
 };
 
@@ -550,7 +550,7 @@ kb8042_attach(dev_info_t *devi, ddi_attach_cmd_t cmd)
 
 #ifdef	KD_DEBUG
 	cmn_err(CE_CONT, "?%s #%d: version %s\n",
-	    DRIVER_NAME(devi), ddi_get_instance(devi), "1.68 (07/10/18)");
+	    DRIVER_NAME(devi), ddi_get_instance(devi), "%I% (%E%)");
 #endif
 
 	return (DDI_SUCCESS);

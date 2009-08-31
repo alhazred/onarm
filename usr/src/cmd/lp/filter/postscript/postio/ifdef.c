@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)ifdef.c	1.14	05/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  *
  * Conditionally compiled routines for setting up and reading the line. Things

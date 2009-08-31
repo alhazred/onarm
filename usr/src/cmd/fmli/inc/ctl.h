@@ -29,7 +29,7 @@
  *
  */
 
-#ident	"@(#)ctl.h	1.6	05/06/08 SMI"       /* SVr4.0 1.8 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.8 */
 
 #define	CTGETVT		1
 #define CTGETPID	2

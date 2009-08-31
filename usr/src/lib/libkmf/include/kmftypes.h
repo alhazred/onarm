@@ -9,7 +9,7 @@
 #ifndef _KMFTYPES_H
 #define	_KMFTYPES_H
 
-#pragma ident	"@(#)kmftypes.h	1.10	08/02/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <stdlib.h>

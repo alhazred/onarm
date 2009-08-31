@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)tp.h	1.3	07/03/15 SMI"	/* tp.h */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* tp.h */
 
 #ifndef CHELSIO_TP_H
 #define CHELSIO_TP_H

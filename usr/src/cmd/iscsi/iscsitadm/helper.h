@@ -27,7 +27,7 @@
 #ifndef	_HELPER_H
 #define	_HELPER_H
 
-#pragma ident	"@(#)helper.h	1.2	06/11/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

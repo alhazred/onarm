@@ -320,7 +320,7 @@ ___
 
 $code=<<___;
 #if !defined(lint) && !defined(__lint)
-	.ident	"@(#)sha1-x86_64.pl	1.1	08/03/02 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 #include <sys/asm_linkage.h>
 ___
 

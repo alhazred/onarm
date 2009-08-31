@@ -5,7 +5,7 @@
  *
  */
 
-#pragma ident	"@(#)client_door.h	1.3	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern int connect_dsserv(int pid, int cid, void ** scid,
 													struct in_addr * addr);

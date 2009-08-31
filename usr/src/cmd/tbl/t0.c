@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
      
-#pragma ident	"@(#)t0.c	1.4	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
  /* t0.c: storage allocation */
 #

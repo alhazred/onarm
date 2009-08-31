@@ -27,7 +27,7 @@
 #ifndef	__LIBRTLD_H
 #define	__LIBRTLD_H
 
-#pragma ident	"@(#)_librtld.h	1.20	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libelf.h>
 #include <rtld.h>

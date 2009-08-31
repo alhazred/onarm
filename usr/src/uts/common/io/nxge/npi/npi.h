@@ -26,7 +26,7 @@
 #ifndef _NPI_H
 #define	_NPI_H
 
-#pragma ident	"@(#)npi.h	1.2	07/08/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

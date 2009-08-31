@@ -25,7 +25,7 @@
  * File: CLIENT.C
  */
 
-#pragma ident	"@(#)client.c	1.2	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

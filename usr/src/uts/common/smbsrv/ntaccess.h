@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_NTACCESS_H
 #define	_SMBSRV_NTACCESS_H
 
-#pragma ident	"@(#)ntaccess.h	1.1	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file defines the NT compatible access control masks and values.

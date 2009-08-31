@@ -26,7 +26,7 @@
 #ifndef	_VOLMGT_PRIVATE_H
 #define	_VOLMGT_PRIVATE_H
 
-#pragma ident	"@(#)volmgt_private.h	1.7	06/10/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

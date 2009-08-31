@@ -39,7 +39,7 @@
 #ifndef	_RESOLV_H
 #define	_RESOLV_H
 
-#pragma ident	"@(#)resolv.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 

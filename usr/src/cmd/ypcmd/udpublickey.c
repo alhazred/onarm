@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)udpublickey.c	1.7	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * YP updater for public key map

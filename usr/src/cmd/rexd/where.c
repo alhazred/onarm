@@ -28,7 +28,7 @@
  * where.c - get full pathname including host:
  */
 
-#pragma ident	"@(#)where.c	1.15	07/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netdb.h>
 #include <stdio.h>

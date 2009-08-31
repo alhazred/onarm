@@ -25,7 +25,7 @@
 #
 
 #
-# ident	"@(#)Makefile	1.2	06/08/22 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/picl/plugins/sun4u/seattle/frudr/Makefile
 #

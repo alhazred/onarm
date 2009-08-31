@@ -27,7 +27,7 @@
 #ifndef	_CRYPTO_CMDS_H
 #define	_CRYPTO_CMDS_H
 
-#pragma ident	"@(#)crypto_cmds.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

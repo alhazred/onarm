@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#pragma ident	"@(#)README	1.5	07/02/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 This directory contains sample programs that demonstrate how to
 use the libelf library.  Manual pages for libelf routines are

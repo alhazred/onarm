@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)w.c	1.31	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is the new w command which takes advantage of

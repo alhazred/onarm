@@ -26,7 +26,7 @@
 #ifndef	_SYS_FCODE_H
 #define	_SYS_FCODE_H
 
-#pragma ident	"@(#)fcode.h	1.7	05/12/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sysmacros.h>
 #include <sys/ddi.h>

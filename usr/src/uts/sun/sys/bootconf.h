@@ -26,7 +26,7 @@
 #ifndef	_SYS_BOOTCONF_H
 #define	_SYS_BOOTCONF_H
 
-#pragma ident	"@(#)bootconf.h	1.66	08/01/18 SMI" /* SunOS-4.0 1.7 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* SunOS-4.0 1.7 */
 
 /*
  * Boot time configuration information objects

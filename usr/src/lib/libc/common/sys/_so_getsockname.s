@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)_so_getsockname.s	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"_so_getsockname.s"
+	.file	"%M%"
 
 /* C library -- _so_getsockname						*/
 /* int _so_getsockname (int fildes, struct sockaddr *name, int namelen,	*/

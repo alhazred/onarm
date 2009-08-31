@@ -31,7 +31,7 @@
 #ifndef _AUDIO_AU_H
 #define	_AUDIO_AU_H
 
-#pragma ident	"@(#)au.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/isa_defs.h>
 #include <sys/types.h>

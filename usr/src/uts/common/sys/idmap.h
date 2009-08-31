@@ -26,7 +26,7 @@
 #ifndef _SYS_IDMAP_H
 #define	_SYS_IDMAP_H
 
-#pragma ident	"@(#)idmap.h	1.5	08/02/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Idmap status codes */
 #define	IDMAP_SUCCESS			0

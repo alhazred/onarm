@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)md_rename.c	2.11	06/05/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

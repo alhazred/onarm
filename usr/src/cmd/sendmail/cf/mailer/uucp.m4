@@ -10,7 +10,7 @@ PUSHDIVERT(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-#ident	"@(#)uucp.m4	1.3	01/08/27 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 ifdef(`UUCP_MAILER_PATH',, `define(`UUCP_MAILER_PATH', /usr/bin/uux)')

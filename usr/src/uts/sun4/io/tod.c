@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tod.c	1.17	05/11/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/time.h>
@@ -94,7 +94,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,
-	"tod driver (v1.0) 1.17",
+	"tod driver (v1.0) %I%",
 	&tod_dev_ops
 };
 

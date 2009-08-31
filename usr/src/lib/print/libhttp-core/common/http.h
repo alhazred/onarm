@@ -28,7 +28,7 @@
 #ifndef _CUPS_HTTP_H_
 #define _CUPS_HTTP_H_
 
-#pragma ident	"@(#)http.h	1.2	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Include necessary headers...

@@ -27,7 +27,7 @@
 #ifndef _CTF_HEADERS_H
 #define	_CTF_HEADERS_H
 
-#pragma ident	"@(#)ctf_headers.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Because the ON tools are executed on the system where they are built,

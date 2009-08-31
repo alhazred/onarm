@@ -2,7 +2,7 @@
  * ntpdc_ops.c - subroutines which are called to perform operations by xntpdc
  */
 
-#pragma ident	"@(#)ntpdc_ops.c	1.1	99/09/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <ctype.h>

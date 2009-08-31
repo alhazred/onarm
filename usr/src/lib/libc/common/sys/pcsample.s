@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pcsample.s	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"pcsample.s"
+	.file	"%M%"
 
 /* C library -- pcsample */
 /* long pcsample(uintptr_t buf[], long nsamples); */

@@ -30,7 +30,7 @@
 #ifndef _SYS_BEEP_H
 #define	_SYS_BEEP_H
 
-#pragma ident	"@(#)beep.h	1.8	07/06/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/mutex.h>
 

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)eay_dss_link.c	1.3	03/10/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef EAY_DSS
 static const char rcsid[] = "$Header: /proj/cvs/isc/bind8/src/lib/dst/eay_dss_link.c,v 1.6 2001/05/29 05:48:09 marka Exp $";

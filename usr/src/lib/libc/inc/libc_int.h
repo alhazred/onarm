@@ -27,7 +27,7 @@
 #ifndef _LIBC_INT_H
 #define	_LIBC_INT_H
 
-#pragma ident	"@(#)libc_int.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

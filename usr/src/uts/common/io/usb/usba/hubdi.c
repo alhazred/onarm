@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)hubdi.c	1.87	08/02/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

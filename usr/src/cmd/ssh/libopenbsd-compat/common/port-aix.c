@@ -55,4 +55,4 @@ aix_usrinfo(struct passwd *pw)
 #endif /* _AIX */
 
 
-#pragma ident	"@(#)port-aix.c	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"

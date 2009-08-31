@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)port_after.h	1.15	05/07/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	PORT_AFTER_H
 #define	PORT_AFTER_H

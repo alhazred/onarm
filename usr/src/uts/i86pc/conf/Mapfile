@@ -21,7 +21,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Mapfile	1.13	07/01/10 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # this is the 32 bit 1:1 mapped code to which grub jumps.

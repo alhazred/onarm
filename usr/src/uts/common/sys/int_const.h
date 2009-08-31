@@ -31,7 +31,7 @@
 #ifndef _SYS_INT_CONST_H
 #define	_SYS_INT_CONST_H
 
-#pragma ident	"@(#)int_const.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file, <sys/int_const.h>, is part of the Sun Microsystems implementation

@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)i.seedmanifest	1.1	08/01/22 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # i.seedmanifest - smf(5) service manifest install class action script
 #   for services that must be in the seed repository.

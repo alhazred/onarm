@@ -26,7 +26,7 @@
 #ifndef	_INET_KSSL_KSSLAPI_H
 #define	_INET_KSSL_KSSLAPI_H
 
-#pragma ident	"@(#)ksslapi.h	1.2	08/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The kernel SSL proxy interface

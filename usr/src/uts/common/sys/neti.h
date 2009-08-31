@@ -26,7 +26,7 @@
 #ifndef _SYS_NETI_H
 #define	_SYS_NETI_H
 
-#pragma ident	"@(#)neti.h	1.2	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <netinet/in.h>
 #include <sys/int_types.h>

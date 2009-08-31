@@ -38,7 +38,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)ex_vars.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	vi_AUTOINDENT		0
 #define	vi_AUTOPRINT		1

@@ -27,7 +27,7 @@
 #ifndef	_SYS_TREE_H
 #define	_SYS_TREE_H
 
-#pragma ident	"@(#)sys-tree.h	1.1	03/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

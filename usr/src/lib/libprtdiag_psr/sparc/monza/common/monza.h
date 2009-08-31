@@ -34,7 +34,7 @@
 #ifndef _MONZA_H
 #define	_MONZA_H
 
-#pragma ident	"@(#)monza.h	1.1	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

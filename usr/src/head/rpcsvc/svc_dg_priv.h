@@ -27,7 +27,7 @@
 #ifndef _SVC_DG_PRIV_H
 #define	_SVC_DG_PRIV_H
 
-#pragma ident	"@(#)svc_dg_priv.h	1.1	07/05/23 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * The svc_dg_data private datastructure shared by some services

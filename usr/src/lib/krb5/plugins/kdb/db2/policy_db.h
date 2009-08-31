@@ -11,7 +11,7 @@
 #ifndef __ADB_H__
 #define __ADB_H__
 
-#pragma ident	"@(#)policy_db.h	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <errno.h>

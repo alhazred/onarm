@@ -26,7 +26,7 @@
 #ifndef _KCTL_H
 #define	_KCTL_H
 
-#pragma ident	"@(#)kctl.h	1.7	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <kmdb/kmdb_auxv.h>
 #include <kmdb/kmdb_wr.h>

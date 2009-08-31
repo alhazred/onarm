@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)bindings.c	1.19	07/06/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #include	<link.h>

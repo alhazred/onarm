@@ -27,7 +27,7 @@
 /*	Copyright (c) 1984, 1986, 1987, 1988, 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)makeprctab.c	1.7	05/10/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "awk.h"
 /* tmaino #define NULL 0 */

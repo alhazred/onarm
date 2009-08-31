@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)npe.c	1.8	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Host to PCI-Express local bus driver
@@ -164,7 +164,7 @@ extern int	npe_disable_empty_bridges_workaround(dev_info_t *child);
  */
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module */
-	"Host to PCIe nexus driver 1.8",
+	"Host to PCIe nexus driver %I%",
 	&npe_ops,	/* driver ops */
 };
 

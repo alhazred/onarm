@@ -26,7 +26,7 @@
 #ifndef _INET_IPDROP_H
 #define	_INET_IPDROP_H
 
-#pragma ident	"@(#)ipdrop.h	1.7	07/08/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

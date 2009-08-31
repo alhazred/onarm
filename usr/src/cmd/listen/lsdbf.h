@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)lsdbf.h	1.4	05/06/08 SMI"	/* SVr4.0 1.3.4.1	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3.4.1	*/
 
 /*
  * lsdbf.h:	listener data base file defines and structs

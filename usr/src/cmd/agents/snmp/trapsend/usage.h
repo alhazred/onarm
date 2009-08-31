@@ -26,7 +26,7 @@
 #ifndef _USAGE_H_
 #define _USAGE_H_
 
-#pragma ident	"@(#)usage.h	1.4	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 extern void usage(); 
 

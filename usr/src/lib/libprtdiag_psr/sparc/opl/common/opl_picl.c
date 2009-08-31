@@ -28,7 +28,7 @@
  *	machine_type == MTYPE_OPL
  */
 
-#pragma ident	"@(#)opl_picl.c	1.4	07/11/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

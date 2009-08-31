@@ -9,7 +9,7 @@
  * See README for more details.
  */
 
-#pragma ident	"@(#)wpa_supplicant.c	1.2	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

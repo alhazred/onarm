@@ -14,7 +14,7 @@
 #ifndef _LIBMILTER_H
 # define _LIBMILTER_H	1
 
-#pragma ident	"@(#)libmilter.h	1.4	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sm/gen.h>
 

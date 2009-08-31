@@ -29,7 +29,7 @@
 #ifndef	_LOGADM_LUT_H
 #define	_LOGADM_LUT_H
 
-#pragma ident	"@(#)lut.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

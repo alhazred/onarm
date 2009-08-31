@@ -27,7 +27,7 @@
  * rewritten from SunOS 4.1 SID 1.18 89/10/06
  */
 
-#pragma ident	"@(#)iostat.c	1.55	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

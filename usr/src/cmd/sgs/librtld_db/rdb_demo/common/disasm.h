@@ -23,7 +23,7 @@
  * Copyright 1996 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)disasm.h	1.5	05/06/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if ! defined(_DISASM_H)
 #define	_DISASM_H

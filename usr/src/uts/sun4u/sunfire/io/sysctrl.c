@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sysctrl.c	1.99	06/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/conf.h>
@@ -316,7 +316,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,		/* Type of module.  This one is a driver */
-	"Clock Board 1.99",	/* name of module */
+	"Clock Board %I%",	/* name of module */
 	&sysctrl_ops,		/* driver ops */
 };
 

@@ -12,7 +12,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)symtab.c	1.18	05/03/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * These routines maintain the symbol table which tracks the state

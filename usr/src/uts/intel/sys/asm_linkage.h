@@ -27,7 +27,7 @@
 #ifndef _SYS_ASM_LINKAGE_H
 #define	_SYS_ASM_LINKAGE_H
 
-#pragma ident	"@(#)asm_linkage.h	1.14	05/09/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if defined(__i386) || defined(__amd64)
 

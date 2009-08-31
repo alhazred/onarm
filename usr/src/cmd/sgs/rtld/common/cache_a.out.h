@@ -25,7 +25,7 @@
 #ifndef	_CACHE_DOT_H
 #define	_CACHE_DOT_H
 
-#pragma ident	"@(#)cache_a.out.h	1.6	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * ld.so directory caching

@@ -23,7 +23,7 @@
 # Copyright (c) 1997 - 1998 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)Makefile	1.7	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/gss/Makefile
 #

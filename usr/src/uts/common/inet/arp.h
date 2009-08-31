@@ -27,7 +27,7 @@
 #ifndef	_INET_ARP_H
 #define	_INET_ARP_H
 
-#pragma ident	"@(#)arp.h	1.33	06/12/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

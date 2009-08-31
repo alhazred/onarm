@@ -8,7 +8,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ippool_y.y	1.8	06/08/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/time.h>

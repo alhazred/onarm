@@ -9,7 +9,7 @@
  *	$Id: exc.h,v 1.23 2001/06/07 20:04:53 ca Exp $
  */
 
-#pragma ident	"@(#)exc.h	1.1	01/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  libsm exception handling

@@ -33,7 +33,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)lock.c	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lock a file pointer

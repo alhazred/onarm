@@ -27,7 +27,7 @@
 #ifndef	__SYS_STAT_H
 #define	__SYS_STAT_H
 
-#pragma ident	"@(#)stat.h	2.24	05/09/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * NOTE: changes to this file should also be made to xpg2include/sys/stat.h

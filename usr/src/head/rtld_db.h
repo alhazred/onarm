@@ -26,7 +26,7 @@
 #ifndef	_RTLD_DB_H
 #define	_RTLD_DB_H
 
-#pragma ident	"@(#)rtld_db.h	1.18	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)kbd_layouts	1.5	08/03/17 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 # The following lines define the keyboard layouts supported in kernel.

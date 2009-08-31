@@ -23,7 +23,7 @@
 % * CDDL HEADER END
 % */
 %
-%#pragma ident	"@(#)mhdx.x	2.2	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 %/*
 % * MH shadow structure for struct mhioctkown (sys/mhd.h)

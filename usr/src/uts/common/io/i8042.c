@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)i8042.c	1.41	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/ddi.h>
@@ -333,7 +333,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops, 	/* Type of module.  This one is a driver */
-	"i8042 nexus driver 1.41",	/* Name of module. */
+	"i8042 nexus driver %I%",	/* Name of module. */
 	&i8042_ops,		/* driver ops */
 };
 

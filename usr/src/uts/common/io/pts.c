@@ -29,7 +29,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)pts.c	1.52	06/08/25 SMI"	/* SVR4 1.13    */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVR4 1.13	*/
 
 /*
  * Pseudo Terminal Slave Driver.

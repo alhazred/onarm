@@ -32,7 +32,7 @@
 #ifndef	_MXFE_H
 #define	_MXFE_H
 
-#pragma ident	"@(#)mxfe.h	1.1	07/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * These are conveniently defined to have the same values

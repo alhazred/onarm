@@ -33,7 +33,7 @@
 #ifndef	_SYS_ULIMIT_H
 #define	_SYS_ULIMIT_H
 
-#pragma ident	"@(#)ulimit.h	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

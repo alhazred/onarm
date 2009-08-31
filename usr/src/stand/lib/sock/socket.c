@@ -26,7 +26,7 @@
  * socket.c, Code implementing a simple socket interface.
  */
 
-#pragma ident	"@(#)socket.c	1.11	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include "socket_impl.h"

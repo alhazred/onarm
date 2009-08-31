@@ -27,7 +27,7 @@
 #ifndef	_PARAM_H
 #define	_PARAM_H
 
-#pragma ident	"@(#)param.h	1.10	08/01/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

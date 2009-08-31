@@ -30,7 +30,7 @@
 #ifndef	_AUDITD_H
 #define	_AUDITD_H
 
-#pragma ident	"@(#)auditd.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <secdb.h>
 #include <sys/types.h>

@@ -26,7 +26,7 @@
 #ifndef _SYS_DMFE_IMPL_H
 #define	_SYS_DMFE_IMPL_H
 
-#pragma ident	"@(#)dmfe_impl.h	1.18	07/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

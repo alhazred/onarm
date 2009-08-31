@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)bl.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Blacklist special file
@@ -220,7 +220,7 @@ static struct dev_ops bl_ops = {
 };
 
 static struct modldrv modldrv = {
-	&mod_driverops, "blacklist driver 1.4", &bl_ops,
+	&mod_driverops, "blacklist driver %I%", &bl_ops,
 };
 
 static struct modlinkage modlinkage = {

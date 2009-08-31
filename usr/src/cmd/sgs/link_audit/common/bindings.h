@@ -27,7 +27,7 @@
 #ifndef	_BINDINGS_H
 #define	_BINDINGS_H
 
-#pragma ident	"@(#)bindings.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/lwp.h>
 

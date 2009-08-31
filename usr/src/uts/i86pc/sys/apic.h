@@ -26,7 +26,7 @@
 #ifndef _SYS_APIC_APIC_H
 #define	_SYS_APIC_APIC_H
 
-#pragma ident	"@(#)apic.h	1.52	07/10/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/psm_types.h>
 #include <sys/avintr.h>

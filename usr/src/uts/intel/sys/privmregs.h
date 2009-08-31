@@ -26,7 +26,7 @@
 #ifndef	_SYS_PRIVMREGS_H
 #define	_SYS_PRIVMREGS_H
 
-#pragma ident	"@(#)privmregs.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/privregs.h>
 

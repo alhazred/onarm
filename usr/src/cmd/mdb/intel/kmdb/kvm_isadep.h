@@ -26,7 +26,7 @@
 #ifndef _KVM_ISADEP_H
 #define	_KVM_ISADEP_H
 
-#pragma ident	"@(#)kvm_isadep.h	1.7	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

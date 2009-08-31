@@ -26,7 +26,7 @@
 #ifndef _SYS_CRYPTO_COMMON_H
 #define	_SYS_CRYPTO_COMMON_H
 
-#pragma ident	"@(#)common.h	1.26	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Header file for the common data structures of the cryptographic framework

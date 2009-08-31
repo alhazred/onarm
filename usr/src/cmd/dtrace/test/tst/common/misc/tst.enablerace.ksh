@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)tst.enablerace.ksh	1.2	06/09/26 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # This script attempts to tease out a race when probes are initially enabled.

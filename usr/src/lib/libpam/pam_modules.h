@@ -27,7 +27,7 @@
 #ifndef	_PAM_MODULES_H
 #define	_PAM_MODULES_H
 
-#pragma ident	"@(#)pam_modules.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

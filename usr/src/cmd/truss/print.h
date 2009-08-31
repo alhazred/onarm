@@ -30,7 +30,7 @@
 #ifndef	_TRUSS_PRINT_H
 #define	_TRUSS_PRINT_H
 
-#pragma ident	"@(#)print.h	1.50	07/05/23 SMI"	/* SVr4.0 1.6   */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.6   */
 
 #ifdef	__cplusplus
 extern "C" {

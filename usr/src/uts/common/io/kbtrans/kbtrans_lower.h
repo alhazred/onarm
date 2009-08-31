@@ -27,7 +27,7 @@
 #ifndef _KBTRANS_LOWER_H
 #define	_KBTRANS_LOWER_H
 
-#pragma ident	"@(#)kbtrans_lower.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

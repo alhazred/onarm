@@ -27,7 +27,7 @@
 #ifndef _T10_OSD_H
 #define	_T10_OSD_H
 
-#pragma ident	"@(#)t10_osd.h	1.1	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

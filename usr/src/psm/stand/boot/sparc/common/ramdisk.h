@@ -26,7 +26,7 @@
 #ifndef	_RAMDISK_H
 #define	_RAMDISK_H
 
-#pragma ident	"@(#)ramdisk.h	1.4	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

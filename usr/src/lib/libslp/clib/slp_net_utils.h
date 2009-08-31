@@ -27,7 +27,7 @@
 #ifndef _SLP_NET_UTILS_H
 #define	_SLP_NET_UTILS_H
 
-#pragma ident	"@(#)slp_net_utils.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

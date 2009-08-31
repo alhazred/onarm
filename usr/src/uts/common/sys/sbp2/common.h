@@ -27,7 +27,7 @@
 #ifndef	_SYS_SBP2_COMMON_H
 #define	_SYS_SBP2_COMMON_H
 
-#pragma ident	"@(#)common.h	1.3	05/08/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Serial Bus Protocol 2 (SBP-2) common definitions

@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SunServerDATable.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)SunServerDATable.java	1.4	06/08/05
+//  SCCS Status:      %W%	%G%
 //  SunServerDATable.java: Server DA Table for Sun's client/SA server SLP.
 //  Author:           James Kempf
 //  Created On:       Wed May 20 09:58:46 1998
@@ -59,7 +59,7 @@ import java.io.*;
  * initialized to be the local machine name, but it may also include other
  * names.
  *
- * @version 1.4 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

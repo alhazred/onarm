@@ -26,7 +26,7 @@
 #ifndef _SMBSRV_ADS_H
 #define	_SMBSRV_ADS_H
 
-#pragma ident	"@(#)smbns_ads.h	1.2	08/03/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <stdlib.h>

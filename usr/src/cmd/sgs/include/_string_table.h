@@ -26,7 +26,7 @@
 #ifndef	__STRING_TABLE_DOT_H
 #define	__STRING_TABLE_DOT_H
 
-#pragma ident	"@(#)_string_table.h	1.2	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/avl.h>

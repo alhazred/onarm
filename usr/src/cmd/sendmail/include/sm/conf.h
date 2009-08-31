@@ -18,7 +18,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)conf.h	1.21	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  CONF.H -- All user-configurable parameters for sendmail

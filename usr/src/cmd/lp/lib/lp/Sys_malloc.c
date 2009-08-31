@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)Sys_malloc.c	1.4	05/06/08 SMI"	/* SVr4.0 1.14	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.14	*/
 /* LINTLIBRARY */
 
 #include "unistd.h"

@@ -30,7 +30,7 @@
 #ifndef _TRACEROUTE_H
 #define	_TRACEROUTE_H
 
-#pragma ident	"@(#)traceroute.h	1.2	03/12/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

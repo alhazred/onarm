@@ -31,7 +31,7 @@
 #ifndef	_LANGINFO_H
 #define	_LANGINFO_H
 
-#pragma ident	"@(#)langinfo.h	1.13	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 #include <sys/feature_tests.h>
 #include <nl_types.h>

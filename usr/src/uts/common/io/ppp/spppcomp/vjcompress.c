@@ -48,7 +48,7 @@
 #include <net/ppp_defs.h>
 #include <net/vjcompress.h>
 
-#pragma ident	"@(#)vjcompress.c	1.2	05/06/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef VJ_NO_STATS
 #define	INCR(counter) ++comp->stats.counter

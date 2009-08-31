@@ -24,7 +24,7 @@
 # Copyright 1997 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)uudemon.cleanup	1.14	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This demon cleans up uucp directories.
 #	It is started by /var/spool/cron/crontabs/uucp;

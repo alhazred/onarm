@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)unpack.c	1.23	05/06/08 SMI"	/* SunOS-4.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SunOS-4.1 */
 
 /* Unpack procedures for Sparc FPU simulator. */
 

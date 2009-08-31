@@ -27,7 +27,7 @@
 #ifndef	_SYS_FM_PROTOCOL_H
 #define	_SYS_FM_PROTOCOL_H
 
-#pragma ident	"@(#)protocol.h	1.14	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

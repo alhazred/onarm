@@ -27,7 +27,7 @@
 #ifndef _SYS_VDEV_FILE_H
 #define	_SYS_VDEV_FILE_H
 
-#pragma ident	"@(#)vdev_file.h	1.1	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/vdev.h>
 

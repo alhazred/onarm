@@ -21,7 +21,7 @@
 #
 # CDDL HEADER END
 #
-#pragma ident	"@(#)rtld.sparc.msg	1.8	07/10/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 @ _START_
 

@@ -24,7 +24,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)i.manifest	1.6	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # i.manifest - smf(5) service manifest install class action script
 #

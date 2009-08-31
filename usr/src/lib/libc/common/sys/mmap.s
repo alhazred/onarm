@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)mmap.s	1.14	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"mmap.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

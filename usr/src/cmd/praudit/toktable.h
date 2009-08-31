@@ -26,7 +26,7 @@
 #ifndef	_TOKTABLE_H
 #define	_TOKTABLE_H
 
-#pragma ident	"@(#)toktable.h	1.16	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

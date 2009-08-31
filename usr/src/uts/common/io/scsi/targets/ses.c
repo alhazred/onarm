@@ -29,7 +29,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)ses.c	1.47	07/01/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/modctl.h>
 #include <sys/file.h>
@@ -187,7 +187,7 @@ static const char *fail_msg = "%stransport failed: reason '%s': %s";
 MODDRV_DEPENDS_ON("misc/scsi");
 
 static struct modldrv modldrv = {
-	&mod_driverops, "SCSI Enclosure Services 1.47", &ses_dev_ops
+	&mod_driverops, "SCSI Enclosure Services %I%", &ses_dev_ops
 };
 
 static struct modlinkage modlinkage = {

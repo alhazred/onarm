@@ -30,7 +30,7 @@
 #ifndef _BSM_AUDIT_KERNEL_H
 #define	_BSM_AUDIT_KERNEL_H
 
-#pragma ident	"@(#)audit_kernel.h	1.48	08/01/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains the basic auditing control structure definitions.

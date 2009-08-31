@@ -23,7 +23,7 @@
 #	  All Rights Reserved
 
 
-#ident	"@(#)hardcopy.ti	1.7	05/06/08 SMI"	/* SVr4.0 1.5	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.5	*/
 # # HARDCOPY - various hard copy terminals.
 #
 # Manufacturer:	Generic Hard copy Terminals

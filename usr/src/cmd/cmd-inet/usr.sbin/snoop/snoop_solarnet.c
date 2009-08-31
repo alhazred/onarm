@@ -24,7 +24,7 @@
  * All rights reserved.
  */
 
-#pragma	ident	"@(#)snoop_solarnet.c	1.5	05/06/08 SMI"
+#pragma	ident	"%W%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/errno.h>

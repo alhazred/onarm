@@ -23,7 +23,7 @@
  * Copyright (C) 2003-2005 Chelsio Communications.  All rights reserved.
  */
 
-#pragma ident	"@(#)vsc7321.c	1.3	07/03/15 SMI"	/* vsc7321.c */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* vsc7321.c */
 
 /* Driver for Vitesse VSC7321 (Meigs II) MAC */
 

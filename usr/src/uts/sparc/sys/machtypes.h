@@ -31,7 +31,7 @@
 #ifndef _SYS_MACHTYPES_H
 #define	_SYS_MACHTYPES_H
 
-#pragma ident	"@(#)machtypes.h	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

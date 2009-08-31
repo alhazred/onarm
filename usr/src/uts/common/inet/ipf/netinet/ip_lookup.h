@@ -6,7 +6,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)ip_lookup.h	1.3	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef __IP_LOOKUP_H__
 #define __IP_LOOKUP_H__

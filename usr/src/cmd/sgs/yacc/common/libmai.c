@@ -28,7 +28,7 @@
 /*	Copyright (c) 1989 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)libmai.c	6.10	05/06/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <locale.h>
 

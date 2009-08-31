@@ -31,7 +31,7 @@
 #ifndef	_SYS_SEGMENT_H
 #define	_SYS_SEGMENT_H
 
-#pragma ident	"@(#)segment.h	1.24	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

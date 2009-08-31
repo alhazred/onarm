@@ -42,7 +42,7 @@
 
 /* $OpenBSD: packet.c,v 1.148 2007/06/07 19:37:34 pvalchev Exp $ */
 
-#pragma ident	"@(#)packet.c	1.9	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "includes.h"
 

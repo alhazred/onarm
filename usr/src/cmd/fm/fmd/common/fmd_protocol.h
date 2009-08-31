@@ -27,7 +27,7 @@
 #ifndef	_FMD_PROTOCOL_H
 #define	_FMD_PROTOCOL_H
 
-#pragma ident	"@(#)fmd_protocol.h	1.7	07/10/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/fm/protocol.h>
 #include <libnvpair.h>

@@ -27,7 +27,7 @@
 #ifndef _SYS_PROCFS_H
 #define	_SYS_PROCFS_H
 
-#pragma ident	"@(#)procfs.h	1.41	06/12/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

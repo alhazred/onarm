@@ -22,7 +22,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.com	1.5	08/02/26 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # lib/pkcs11/pkcs11_softtoken/Makefile.com
 #

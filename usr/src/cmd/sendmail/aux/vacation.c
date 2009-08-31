@@ -16,10 +16,10 @@
  *  specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)vacation.c	1.57	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef lint
-static char	SccsId[] = "@(#)vacation.c	1.57	06/09/28 SMI";
+static char	SccsId[] = "%W%	%E% SMI";
 #endif /* not lint */
 
 #include <stdio.h>
@@ -794,7 +794,7 @@ sendmessage(msgf, user, myname)
 	}
 	fprintf(fpipe, "To: %s\n", user);
 	fputs("Auto-Submitted: auto-replied\n", fpipe);
-	fputs("X-Mailer: vacation 1.57\n", fpipe);
+	fputs("X-Mailer: vacation %I%\n", fpipe);
 
 	/*
 	 * We used to write directly to the pipe.  But now we need to know

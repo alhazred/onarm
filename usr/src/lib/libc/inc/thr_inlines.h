@@ -31,7 +31,7 @@
 #ifndef _THR_INLINES_H
 #define	_THR_INLINES_H
 
-#pragma ident	"@(#)thr_inlines.h	1.3	07/05/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(__lint) && defined(__GNUC__)
 

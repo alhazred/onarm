@@ -34,7 +34,7 @@
 #ifndef _SYS_SOFTDES_H
 #define	_SYS_SOFTDES_H
 
-#pragma ident	"@(#)softdes.h	1.11	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

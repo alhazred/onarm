@@ -39,7 +39,7 @@
 /* LINTLIBRARY */
 /* PROTOLIB1 */
 
-#pragma ident	"@(#)nfsd.c	1.81	07/12/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* NFS server */
 

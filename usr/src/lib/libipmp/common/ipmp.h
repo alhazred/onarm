@@ -27,7 +27,7 @@
 #ifndef _IPMP_H
 #define	_IPMP_H
 
-#pragma ident	"@(#)ipmp.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * General IPMP-related definitions and functions.

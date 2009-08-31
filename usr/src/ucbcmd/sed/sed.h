@@ -30,7 +30,7 @@
 #ifndef	_SED_H
 #define	_SED_H
 
-#pragma ident	"@(#)sed.h	1.7	05/09/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * sed -- stream  editor

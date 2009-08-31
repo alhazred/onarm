@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)stdhosts.c	1.10	07/08/17 SMI"	/* SMI4.1 1.7  */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SMI4.1 1.7  */
 
 #include <stdio.h>
 #include <ndbm.h>

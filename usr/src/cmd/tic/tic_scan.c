@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)tic_scan.c	1.13	05/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *			COPYRIGHT NOTICE

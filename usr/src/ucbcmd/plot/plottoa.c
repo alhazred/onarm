@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution. 
  */ 
  
-#pragma ident	"@(#)plottoa.c	1.3	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Convert the standard plot input into a readable form for debugging.

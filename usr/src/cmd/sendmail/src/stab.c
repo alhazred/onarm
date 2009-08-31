@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)stab.c	1.26	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 

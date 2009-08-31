@@ -9,7 +9,7 @@
  *	$Id: debug.h,v 1.16 2003/01/10 00:26:06 ca Exp $
  */
 
-#pragma ident	"@(#)debug.h	1.2	04/06/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 **  libsm debugging and tracing

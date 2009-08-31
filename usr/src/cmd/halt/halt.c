@@ -39,7 +39,7 @@
  * Copyright (c) 2006-2007 NEC Corporation
  */
 
-#pragma ident	"@(#)halt.c	1.33	06/06/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Common code for halt(1M), poweroff(1M), and reboot(1M).  We use

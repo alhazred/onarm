@@ -27,7 +27,7 @@
 #ifndef	_EXEC_ATTR_H
 #define	_EXEC_ATTR_H
 
-#pragma ident	"@(#)exec_attr.h	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

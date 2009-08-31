@@ -12,7 +12,7 @@
  * specifies the terms and conditions for redistribution.
  */
 
-#pragma ident	"@(#)restore.c	1.20	06/09/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "restore.h"
 /* undef MAXNAMLEN to prevent compiler warnings about redef in dirent.h */

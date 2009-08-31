@@ -23,7 +23,7 @@
 # Copyright 2004 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)Makefile.common	1.4	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 MODULES = example1.so example2.so

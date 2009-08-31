@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)msgfmts.c	1.14	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* LINTLIBRARY */
 
 char	*_lp_msg_fmts[] =

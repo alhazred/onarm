@@ -31,7 +31,7 @@
 
 #ifdef RPC_HDR
 %
-%#pragma ident	"@(#)rstat_v2.x	1.5	05/06/08 SMI"
+%#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %
 #endif
 

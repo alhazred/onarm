@@ -4,7 +4,7 @@
 #
 # Licensed under the Academic Free License version 2.1
 #
-# ident	"@(#)hal.pc.in	1.1	06/10/11 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 prefix=/usr
 exec_prefix=${prefix}

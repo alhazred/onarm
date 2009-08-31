@@ -27,7 +27,7 @@
 #ifndef	_LIST_H
 #define	_LIST_H
 
-#pragma ident	"@(#)list.h	1.3	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <mdb/mdb_modapi.h>
 

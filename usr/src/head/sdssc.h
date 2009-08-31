@@ -27,7 +27,7 @@
 #ifndef _SDSSC_H
 #define	_SDSSC_H
 
-#pragma ident	"@(#)sdssc.h	2.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This header supports DiskSuite cluster operations and describes the

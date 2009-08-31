@@ -31,7 +31,7 @@
 #ifndef _STDIO_EXT_H
 #define	_STDIO_EXT_H
 
-#pragma ident	"@(#)stdio_ext.h	1.5	06/04/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 

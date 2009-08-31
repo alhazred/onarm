@@ -26,7 +26,7 @@
 #ifndef _INETSVC_H
 #define	_INETSVC_H
 
-#pragma ident	"@(#)inetsvc.h	1.9	07/07/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libscf.h>
 #include <sys/socket.h>

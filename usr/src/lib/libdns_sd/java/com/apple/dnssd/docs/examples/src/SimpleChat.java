@@ -43,7 +43,7 @@
 	To do:
 	- implement better coloring algorithm
 
-ident	"@(#)SimpleChat.java	1.1	07/08/13 SMI"
+ident	"%Z%%M%	%I%	%E% SMI"
 
  */
 

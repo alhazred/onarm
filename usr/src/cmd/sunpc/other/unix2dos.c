@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)unix2dos.c	1.12	05/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

@@ -29,7 +29,7 @@
 /*	  All Rights Reserved					*/
 /*								*/
 
-#pragma ident	"@(#)mkdir.c	1.25	05/07/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * make directory.

@@ -27,7 +27,7 @@
 #ifndef	_SYS_PCI_PBM_H
 #define	_SYS_PCI_PBM_H
 
-#pragma ident	"@(#)pci_pbm.h	1.28	06/01/12 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/dditypes.h>

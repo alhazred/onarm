@@ -26,7 +26,7 @@
 #ifndef _SYS_PPMIO_H
 #define	_SYS_PPMIO_H
 
-#pragma ident	"@(#)ppmio.h	1.4	07/07/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

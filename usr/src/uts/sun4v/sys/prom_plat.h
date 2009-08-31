@@ -26,7 +26,7 @@
 #ifndef	_SYS_PROM_PLAT_H
 #define	_SYS_PROM_PLAT_H
 
-#pragma ident	"@(#)prom_plat.h	1.5	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/cpuvar.h>

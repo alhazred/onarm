@@ -11,7 +11,7 @@
  *
  */
 
-#pragma ident	"@(#)usersmtp.c	1.65	07/11/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sendmail.h>
 

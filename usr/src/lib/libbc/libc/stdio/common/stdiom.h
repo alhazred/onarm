@@ -22,7 +22,7 @@
 /*      Copyright (c) 1984 AT&T */
 /*        All Rights Reserved   */
 
-#pragma ident	"@(#)stdiom.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* The following macros improve performance of the stdio by reducing the
 	number of calls to _bufsync and _wrtchk.  _BUFSYNC has the same

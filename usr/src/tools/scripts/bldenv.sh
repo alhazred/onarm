@@ -24,7 +24,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)bldenv.sh	1.36	08/02/04 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Copyright (c) 2006-2009 NEC Corporation

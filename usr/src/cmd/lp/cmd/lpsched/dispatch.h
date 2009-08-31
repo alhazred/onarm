@@ -27,7 +27,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)dispatch.h	1.10	06/11/13 SMI"	/* SVr4.0 1.4.1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.4.1.2	*/
 
 # include	<time.h>
 

@@ -33,7 +33,7 @@
 #ifndef	_SYS_KIDMAP_H
 #define	_SYS_KIDMAP_H
 
-#pragma ident	"@(#)kidmap.h	1.2	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/idmap.h>
 #include <sys/door.h>

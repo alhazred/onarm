@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rge_chip.c	1.6	07/12/21 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "rge.h"
 

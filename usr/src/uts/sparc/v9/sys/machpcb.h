@@ -26,7 +26,7 @@
 #ifndef _SYS_MACHPCB_H
 #define	_SYS_MACHPCB_H
 
-#pragma ident	"@(#)machpcb.h	1.22	06/05/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stack.h>
 #include <sys/regset.h>

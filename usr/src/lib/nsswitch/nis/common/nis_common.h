@@ -32,7 +32,7 @@
 #ifndef _NIS_COMMON_H
 #define	_NIS_COMMON_H
 
-#pragma ident	"@(#)nis_common.h	1.14	06/09/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <nss_dbdefs.h>
 #include <signal.h>

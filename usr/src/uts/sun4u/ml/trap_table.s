@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
  
-#pragma ident	"@(#)trap_table.s	1.194	08/02/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(lint)
 #include "assym.h"

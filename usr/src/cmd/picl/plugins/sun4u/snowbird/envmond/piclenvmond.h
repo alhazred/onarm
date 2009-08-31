@@ -27,7 +27,7 @@
 #ifndef	_PICLENVMOND_H
 #define	_PICLENVMOND_H
 
-#pragma ident	"@(#)piclenvmond.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

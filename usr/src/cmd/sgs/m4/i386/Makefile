@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile	1.9	07/06/25 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/sgs/m4/i386/Makefile
 #

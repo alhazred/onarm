@@ -20,14 +20,14 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)ActiveDiscoverer.java	1.4	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
  *
  */
 
-//  SCCS Status:      @(#)ActiveDiscoverer.java	1.4	06/08/05
+//  SCCS Status:      %W%	%G%
 //  ActiveDiscoverer.java: Object to perform active DA discovery.
 //  Author:           James Kempf
 //  Created On:       Thu Sep  3 08:45:21 1998
@@ -46,7 +46,7 @@ import java.net.*;
  * sending out a SrvRqst for "service:directory-agent". Replies are
  * entered into the DA table.
  *
- * @version 1.4 08/03/23
+ * @version %R%.%L% %D%
  * @author James Kempf
  */
 

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)fcgp2.c	1.7	06/04/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * fcgp2.c: Framework gp2 (Safari) fcode ops
@@ -74,7 +74,7 @@ int no_advisory_dma;
  * Module linkage information for the kernel.
  */
 static struct modlmisc modlmisc = {
-	&mod_miscops, "FCode gp2 (safari) bus functions 1.7"
+	&mod_miscops, "FCode gp2 (safari) bus functions %I%"
 };
 
 static struct modlinkage modlinkage = {

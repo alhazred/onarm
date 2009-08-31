@@ -53,7 +53,7 @@
  *	creations first (depth ordered) and deletions last (inversely
  *	depth ordered).  all other changes have been ordered by mod time.
  */
-#ident	"@(#)recon.c	1.13	05/06/08 SMI"
+#ident	"%W%	%E% SMI"
 
 #include <stdio.h>
 #include <unistd.h>

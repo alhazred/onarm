@@ -27,7 +27,7 @@
 #ifndef _MULTIMEDIA_RESAMPLE_H
 #define	_MULTIMEDIA_RESAMPLE_H
 
-#pragma ident	"@(#)Resample.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * To convert the sampling rate of fi of input signal to fo of output signal,

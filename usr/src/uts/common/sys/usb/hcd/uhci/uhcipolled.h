@@ -26,7 +26,7 @@
 #ifndef	_SYS_USB_UHCI_POLLED_H
 #define	_SYS_USB_UHCI_POLLED_H
 
-#pragma ident	"@(#)uhcipolled.h	1.10	06/06/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

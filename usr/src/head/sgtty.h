@@ -26,7 +26,7 @@
 #ifndef _SGTTY_H
 #define	_SGTTY_H
 
-#pragma ident	"@(#)sgtty.h	1.9	05/06/08 SMI"	/* SVr4.0 1.3.1.3 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3.1.3 */
 
 #ifdef	__cplusplus
 extern "C" {

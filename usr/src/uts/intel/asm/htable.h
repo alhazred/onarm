@@ -27,7 +27,7 @@
 #ifndef _ASM_HTABLE_H
 #define	_ASM_HTABLE_H
 
-#pragma ident	"@(#)htable.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 

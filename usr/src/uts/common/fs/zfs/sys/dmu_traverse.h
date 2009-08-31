@@ -30,7 +30,7 @@
 #ifndef	_SYS_DMU_TRAVERSE_H
 #define	_SYS_DMU_TRAVERSE_H
 
-#pragma ident	"@(#)dmu_traverse.h	1.3	06/04/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/zfs_context.h>
 #include <sys/spa.h>

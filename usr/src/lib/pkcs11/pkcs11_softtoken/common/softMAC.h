@@ -27,7 +27,7 @@
 #ifndef _SOFTMAC_H
 #define	_SOFTMAC_H
 
-#pragma ident	"@(#)softMAC.h	1.6	05/10/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

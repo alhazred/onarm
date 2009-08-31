@@ -27,7 +27,7 @@
 #ifndef	_DEVFSEVENT_SIGNAL_H
 #define	_DEVFSEVENT_SIGNAL_H
 
-#pragma ident	"@(#)sysevent_signal.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

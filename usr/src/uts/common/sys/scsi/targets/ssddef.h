@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCSI_TARGETS_SSDDEF_H
 #define	_SYS_SCSI_TARGETS_SSDDEF_H
 
-#pragma ident	"@(#)ssddef.h	1.51	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

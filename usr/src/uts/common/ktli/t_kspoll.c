@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)t_kspoll.c	1.28	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This function waits for timo clock ticks for something to arrive on

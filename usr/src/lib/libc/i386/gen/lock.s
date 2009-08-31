@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-	.ident	"@(#)lock.s	1.9	05/06/08 SMI"
+	.ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"lock.s"
+	.file	"%M%"
 
 #include "SYS.h"
 

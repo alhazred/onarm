@@ -20,7 +20,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)Install	1.5	05/06/08 SMI"	/* from SVR4 bnu:Install 2.3 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:Install 2.3 */
 
 # This shell simulates the action of the install command that
 # is available on system V systems.

@@ -27,7 +27,7 @@
 #ifndef _TRACKIO_H
 #define	_TRACKIO_H
 
-#pragma ident	"@(#)trackio.h	1.8	05/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

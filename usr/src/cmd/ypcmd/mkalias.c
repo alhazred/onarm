@@ -30,7 +30,7 @@
  * inverse map of <user@host> back to <preferred-alias>
  */
 
-#pragma ident	"@(#)mkalias.c	1.9	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdlib.h>
 #include <unistd.h>

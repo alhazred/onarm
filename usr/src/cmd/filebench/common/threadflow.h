@@ -26,7 +26,7 @@
 #ifndef _FB_THREADFLOW_H
 #define	_FB_THREADFLOW_H
 
-#pragma ident	"@(#)threadflow.h	1.2	08/02/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "config.h"
 #include <pthread.h>

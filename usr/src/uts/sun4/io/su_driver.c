@@ -27,7 +27,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)su_driver.c	1.92	08/01/31 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  *	Serial I/O driver for 82510/8250/16450/16550AF/16C554D chips.
@@ -282,7 +282,7 @@ struct dev_ops asy_ops = {
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a driver */
-	"su driver 1.92",
+	"su driver %I%",
 	&asy_ops,	/* driver ops */
 };
 

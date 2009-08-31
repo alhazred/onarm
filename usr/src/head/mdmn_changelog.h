@@ -27,7 +27,7 @@
 #ifndef	_MDMN_CHANGELOG_H
 #define	_MDMN_CHANGELOG_H
 
-#pragma ident	"@(#)mdmn_changelog.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/lvm/mdmn_commd.h>
 

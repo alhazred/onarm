@@ -28,7 +28,7 @@
 #ifndef	_MODIFY_PARTITION_H
 #define	_MODIFY_PARTITION_H
 
-#pragma ident	"@(#)modify_partition.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

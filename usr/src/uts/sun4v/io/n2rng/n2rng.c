@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)n2rng.c	1.5	07/12/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Niagara 2 Random Number Generator (RNG) driver
@@ -84,7 +84,7 @@ static struct dev_ops devops = {
  */
 static struct modldrv modldrv = {
 	&mod_driverops,			/* drv_modops */
-	"N2 RNG Driver v1.5",		/* drv_linkinfo */
+	"N2 RNG Driver v%I%",		/* drv_linkinfo */
 	&devops,			/* drv_dev_ops */
 };
 

@@ -7,7 +7,7 @@ divert(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-# ident	"@(#)mtamark.m4	1.2	05/09/19 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 divert(0)

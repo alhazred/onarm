@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)gprof.c	1.27	06/01/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<sysexits.h>
 #include	<stdlib.h>

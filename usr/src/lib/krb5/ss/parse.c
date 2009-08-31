@@ -1,4 +1,4 @@
-#pragma ident	"@(#)parse.c	1.2	06/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Copyright 1987, 1988 by MIT Student Information Processing Board

@@ -29,7 +29,7 @@
 #ifndef	_IGB_DEBUG_H
 #define	_IGB_DEBUG_H
 
-#pragma ident	"@(#)igb_debug.h	1.1	08/01/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

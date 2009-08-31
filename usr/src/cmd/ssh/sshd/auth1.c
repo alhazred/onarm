@@ -16,7 +16,7 @@
 #include "includes.h"
 RCSID("$OpenBSD: auth1.c,v 1.44 2002/09/26 11:38:43 markus Exp $");
 
-#pragma ident	"@(#)auth1.c	1.11	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "xmalloc.h"
 #include "rsa.h"

@@ -28,7 +28,7 @@
 # All rights reserved.
 #
 #
-#ident	"@(#)swapadd.sh	1.11	05/12/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 # Set noinuse checking during boot. We want to disable device in use checking
 # so that normal swap use, such as specified in /etc/vfstab, will not cause

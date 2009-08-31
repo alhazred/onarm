@@ -30,7 +30,7 @@
  * California.
  */
 
-#pragma ident	"@(#)yppush.c	1.31	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #define	_SVID_GETTOD
 #include	<sys/time.h>

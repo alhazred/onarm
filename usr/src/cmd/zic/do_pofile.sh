@@ -3,7 +3,7 @@
 # Copyright (c) 2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-# ident	"@(#)do_pofile.sh	1.2	01/09/14 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 # Create messages file for zone_sun.tab, country.tab, continent.tab

@@ -32,7 +32,7 @@
  * California.
  */
 
-#pragma ident	"@(#)ypcat.c	1.12	05/10/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is a user command which dumps each entry in a yp data base.  It gets

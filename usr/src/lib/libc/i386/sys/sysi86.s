@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)sysi86.s	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"sysi86.s"
+	.file	"%M%"
 
 #include <sys/asm_linkage.h>
 

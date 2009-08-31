@@ -25,7 +25,7 @@
 #
 
 #
-# ident	"@(#)Makefile	1.1	05/12/12 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # cmd/picl/plugins/sun4u/seattle/envmon/Makefile
 #

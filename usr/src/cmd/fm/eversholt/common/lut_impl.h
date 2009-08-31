@@ -26,7 +26,7 @@
 #ifndef	_LUT_IMPL_H
 #define	_LUT_IMPL_H
 
-#pragma ident	"@(#)lut_impl.h	1.1	07/10/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

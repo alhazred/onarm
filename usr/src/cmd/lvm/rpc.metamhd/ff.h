@@ -31,7 +31,7 @@
 #ifndef	_FF_H
 #define	_FF_H
 
-#pragma ident	"@(#)ff.h	2.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

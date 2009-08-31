@@ -28,7 +28,7 @@
 #ifndef _SYS_USB_AUDIO_H
 #define	_SYS_USB_AUDIO_H
 
-#pragma ident	"@(#)usb_audio.h	1.6	05/11/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

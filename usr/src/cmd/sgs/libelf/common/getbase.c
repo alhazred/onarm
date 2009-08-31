@@ -28,7 +28,7 @@
  * All rights reserved.
  */
 
-#pragma ident	"@(#)getbase.c	1.9	05/06/08 SMI" 	/* SVr4.0 1.6	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 	/* SVr4.0 1.6	*/
 
 #pragma weak	elf_getbase = _elf_getbase
 

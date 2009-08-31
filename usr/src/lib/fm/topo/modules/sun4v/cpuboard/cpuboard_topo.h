@@ -27,7 +27,7 @@
 #ifndef _CPUBOARD_TOPO_H
 #define	_CPUBOARD_TOPO_H
 
-#pragma ident	"@(#)cpuboard_topo.h	1.1	07/11/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <fm/topo_hc.h>
 #include <fm/topo_mod.h>

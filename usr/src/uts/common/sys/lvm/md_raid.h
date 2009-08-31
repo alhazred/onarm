@@ -26,7 +26,7 @@
 #ifndef _SYS_MD_RAID_H
 #define	_SYS_MD_RAID_H
 
-#pragma ident	"@(#)md_raid.h	2.7	06/03/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/lvm/mdvar.h>
 #include <sys/lvm/md_rename.h>

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)btree.c	1.3	05/04/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
 ** 2001 September 15

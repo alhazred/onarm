@@ -27,7 +27,7 @@
 #ifndef	_QSORT_H
 #define	_QSORT_H
 
-#pragma ident	"@(#)qsort.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Declarations for qsort().

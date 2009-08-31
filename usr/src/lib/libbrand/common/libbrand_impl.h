@@ -26,7 +26,7 @@
 #ifndef	_LIBBRAND_IMPL_H
 #define	_LIBBRAND_IMPL_H
 
-#pragma ident	"@(#)libbrand_impl.h	1.1	06/09/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <libxml/xmlmemory.h>
 #include <libxml/parser.h>

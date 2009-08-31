@@ -58,7 +58,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)p12misc.c	1.2	06/02/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <strings.h>

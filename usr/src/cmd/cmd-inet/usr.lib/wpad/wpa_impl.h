@@ -11,7 +11,7 @@
 #ifndef __WPA_IMPL_H
 #define	__WPA_IMPL_H
 
-#pragma ident	"@(#)wpa_impl.h	1.2	08/01/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <net/wpa.h>
 #include <libdladm.h>

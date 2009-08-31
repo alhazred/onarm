@@ -26,7 +26,7 @@
 #ifndef	_SYS_USB_USBA_USBA_PRIVATE_H
 #define	_SYS_USB_USBA_USBA_PRIVATE_H
 
-#pragma ident	"@(#)usba_private.h	1.13	07/01/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sunndi.h>
 

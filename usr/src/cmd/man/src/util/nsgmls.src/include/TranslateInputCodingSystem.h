@@ -1,7 +1,7 @@
 #pragma ident	"@(#)TranslateInputCodingSystem.h	1.2	97/04/24 SMI"
 // Copyright (c) 1995 James Clark
 // See the file COPYING for copying permission.
-#pragma ident	"@(#)TranslateInputCodingSystem.h	1.4	00/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef TranslateInputCodingSystem_INCLUDED
 #define TranslateInputCodingSystem_INCLUDED 1

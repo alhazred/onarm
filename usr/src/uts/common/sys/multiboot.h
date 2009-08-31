@@ -27,7 +27,7 @@
 #ifndef	_MULTIBOOT_H
 #define	_MULTIBOOT_H
 
-#pragma ident	"@(#)multiboot.h	1.1	07/01/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

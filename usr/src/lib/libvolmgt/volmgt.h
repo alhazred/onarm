@@ -26,7 +26,7 @@
 #ifndef	_VOLMGT_H
 #define	_VOLMGT_H
 
-#pragma ident	"@(#)volmgt.h	1.9	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

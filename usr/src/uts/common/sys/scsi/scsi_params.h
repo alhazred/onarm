@@ -27,7 +27,7 @@
 #ifndef	_SYS_SCSI_SCSI_PARAMS_H
 #define	_SYS_SCSI_SCSI_PARAMS_H
 
-#pragma ident	"@(#)scsi_params.h	1.17	05/07/17 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

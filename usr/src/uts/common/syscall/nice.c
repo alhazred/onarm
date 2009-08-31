@@ -24,7 +24,7 @@
 /*	Copyright (c) 1994 Sun Microsystems, Inc. */
 
 
-#pragma ident	"@(#)nice.c	1.4	05/06/08 SMI"	/* from SVr4.0 1.15 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* from SVr4.0 1.15 */
 
 #include <sys/types.h>
 #include <sys/param.h>

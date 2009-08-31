@@ -27,7 +27,7 @@
 # Copyright (c) 2007-2008 NEC Corporation
 #
 
-# ident	"@(#)Makefile.com	1.3	06/05/19 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 
 CRTI = crti.o

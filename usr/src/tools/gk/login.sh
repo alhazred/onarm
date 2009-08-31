@@ -22,7 +22,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 # 
-#ident	"@(#)login.sh	1.3	06/06/28 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 # example .login for root build user (often 'gk').
 # sets up for potential dmake use in parallel-make mode

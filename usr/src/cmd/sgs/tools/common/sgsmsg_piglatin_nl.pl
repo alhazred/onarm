@@ -23,7 +23,7 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)sgsmsg_piglatin_nl.pl	1.1	07/09/18 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #

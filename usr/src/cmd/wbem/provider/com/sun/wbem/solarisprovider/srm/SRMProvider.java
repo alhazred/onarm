@@ -20,7 +20,7 @@
  * CDDL HEADER END
  */
 /*
- * ident	"@(#)SRMProvider.java	1.3	05/06/08 SMI"
+ * ident	"%Z%%M%	%I%	%E% SMI"
  *
  * Copyright (c) 2001 by Sun Microsystems, Inc.
  * All rights reserved.
@@ -51,7 +51,7 @@ import java.util.Vector;
  * contains several utility methods which may be useful to the individual
  * provider classes.
  * @author Sun Microsystems
- * @version 1.3 06/08/05
+ * @version %I% %G%
  */
 public abstract class SRMProvider
 	implements InstanceProvider, MethodProvider, SRMProviderProperties {

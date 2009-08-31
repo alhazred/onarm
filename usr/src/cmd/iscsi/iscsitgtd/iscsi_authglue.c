@@ -27,7 +27,7 @@
  * iSCSI Pseudo HBA Driver
  */
 
-#pragma ident	"@(#)iscsi_authglue.c	1.2	06/11/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/random.h>
 #include <sys/types.h>

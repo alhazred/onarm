@@ -30,7 +30,7 @@
 #ifndef _TIME_H
 #define	_TIME_H
 
-#pragma ident	"@(#)time.h	1.47	07/01/05 SMI"	/* SVr4.0 1.18 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.18 */
 
 #include <sys/feature_tests.h>
 #include <iso/time_iso.h>

@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)opteron_pcbe.c	1.19	07/10/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Performance Counter Back-End for AMD Opteron and AMD Athlon 64 processors.
@@ -668,7 +668,7 @@ opt_pcbe_free(void *config)
 
 static struct modlpcbe modlpcbe = {
 	&mod_pcbeops,
-	"AMD Performance Counters v1.19",
+	"AMD Performance Counters v%I%",
 	&opt_pcbe_ops
 };
 

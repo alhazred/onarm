@@ -25,7 +25,7 @@
  * Create unique plain files or directories.
  */
 
-#pragma ident	"@(#)mktemp.c	1.3	06/02/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <stdio.h>
 #include <stdlib.h>

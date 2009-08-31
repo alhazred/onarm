@@ -27,7 +27,7 @@
 #ifndef	_PARTBASEDON_DESCRIPTORS_H
 #define	_PARTBASEDON_DESCRIPTORS_H
 
-#pragma ident	"@(#)partbasedon_descriptors.h	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

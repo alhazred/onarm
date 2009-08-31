@@ -3,7 +3,7 @@
 #ifndef	_DEATTACK_H
 #define	_DEATTACK_H
 
-#pragma ident	"@(#)deattack.h	1.5	06/11/07 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

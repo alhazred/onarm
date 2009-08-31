@@ -1,4 +1,4 @@
-#pragma ident	"@(#)ldap_fetch_mkey.c	1.1	07/08/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * lib/kdb/kdb_ldap/ldap_fetch_mkey.c

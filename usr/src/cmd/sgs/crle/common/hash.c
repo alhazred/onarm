@@ -23,7 +23,7 @@
  * Copyright (c) 2000 by Sun Microsystems, Inc.
  * All rights reserved.
  */
-#pragma ident	"@(#)hash.c	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<stdio.h>
 #include	<stdlib.h>

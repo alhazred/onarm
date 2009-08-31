@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)agptarget.c	1.11	07/09/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/systm.h>
 #include <sys/conf.h>
@@ -783,7 +783,7 @@ static struct dev_ops agp_target_ops = {
 
 static  struct modldrv modldrv = {
 	&mod_driverops,
-	"AGP target driver v1.11",
+	"AGP target driver v%I%",
 	&agp_target_ops,
 };
 

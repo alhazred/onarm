@@ -169,7 +169,7 @@
 
 RCSID("$Id: loginrec.c,v 1.44 2002/09/26 00:38:49 tim Exp $");
 
-#pragma ident	"@(#)loginrec.c	1.3	07/09/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef HAVE_UTIL_H
 #  include <util.h>

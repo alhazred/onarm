@@ -28,7 +28,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)usbskel.c	1.14	05/11/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Sample skeleton USB driver.
@@ -177,7 +177,7 @@ static struct dev_ops usbskel_ops = {
 
 static struct modldrv usbskel_modldrv =	{
 	&mod_driverops,
-	"USB skeleton driver 1.14",
+	"USB skeleton driver %I%",
 	&usbskel_ops
 };
 

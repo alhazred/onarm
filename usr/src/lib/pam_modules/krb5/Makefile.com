@@ -25,7 +25,7 @@
 #
 # usr/src/lib/pam_modules/krb5/Makefile.com
 #
-# ident	"@(#)Makefile.com	1.16	05/12/17 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 LIBRARY=	pam_krb5.a
 VERS=		.1

@@ -29,7 +29,7 @@
 #ifndef _SSH_GSS_H
 #define	_SSH_GSS_H
 
-#pragma ident	"@(#)ssh-gss.h	1.2	08/01/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef GSSAPI
 

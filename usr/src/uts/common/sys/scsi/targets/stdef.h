@@ -26,7 +26,7 @@
 #ifndef	_SYS_SCSI_TARGETS_STDEF_H
 #define	_SYS_SCSI_TARGETS_STDEF_H
 
-#pragma ident	"@(#)stdef.h	1.108	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/sunddi.h>
 #include <sys/note.h>

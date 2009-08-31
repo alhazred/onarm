@@ -27,7 +27,7 @@
 #ifndef _PRINTFUNCS_H
 #define	_PRINTFUNCS_H
 
-#pragma ident	"@(#)printfuncs.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 #ifdef	__cplusplus

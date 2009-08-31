@@ -31,7 +31,7 @@
 #ifndef _SYS_UBERBLOCK_H
 #define	_SYS_UBERBLOCK_H
 
-#pragma ident	"@(#)uberblock.h	1.1	05/10/30 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/spa.h>
 #include <sys/vdev.h>

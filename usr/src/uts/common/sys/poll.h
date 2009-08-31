@@ -31,7 +31,7 @@
 #ifndef _SYS_POLL_H
 #define	_SYS_POLL_H
 
-#pragma ident	"@(#)poll.h	1.30	05/06/08 SMI"	/* SVr4.0 11.9 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 11.9 */
 
 #ifdef	__cplusplus
 extern "C" {

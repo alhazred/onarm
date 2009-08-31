@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getitimer.s	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"getitimer.s"
+	.file	"%M%"
 
 /* C library -- getgid						*/
 /* int getitimer (int, struct itimerval *value);		*/

@@ -1,5 +1,5 @@
 #ifndef lint
-#pragma ident	"@(#)openprom.c	1.13	05/08/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #endif
 
 /*

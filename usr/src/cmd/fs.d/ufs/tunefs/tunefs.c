@@ -36,7 +36,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)tunefs.c	1.27	05/12/05 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * tunefs: change layout parameters to an existing file system.

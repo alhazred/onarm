@@ -1,4 +1,4 @@
-#pragma ident	"@(#)dyn_realloc.c	1.1	01/03/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file is part of libdyn.a, the C Dynamic Object library.  It

@@ -27,7 +27,7 @@
 #ifndef	_GENERIC_H
 #define	_GENERIC_H
 
-#pragma ident	"@(#)generic.h	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

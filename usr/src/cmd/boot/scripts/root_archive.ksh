@@ -23,7 +23,7 @@
 # Copyright 2008 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-# ident	"@(#)root_archive.ksh	1.15	08/01/11 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 # utility to pack and unpack a boot/root archive
 # both ufs and hsfs (iso9660) format archives are unpacked

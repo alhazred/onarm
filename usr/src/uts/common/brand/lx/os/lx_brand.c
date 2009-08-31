@@ -27,7 +27,7 @@
  * Copyright (c) 2008 NEC Corporation
  */
 
-#pragma ident	"@(#)lx_brand.c	1.8	07/09/27 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/kmem.h>
@@ -129,7 +129,7 @@ struct brand lx_brand = {
 };
 
 static struct modlbrand modlbrand = {
-	&mod_brandops, "lx brand 1.8", &lx_brand
+	&mod_brandops, "lx brand %I%", &lx_brand
 };
 
 static struct modlinkage modlinkage = {

@@ -3,7 +3,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)surrendr.c	1.2	03/01/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /* Copyright (C) RSA Data Security, Inc. created 1992, 1996.  This is an
    unpublished work protected as such under copyright law.  This work

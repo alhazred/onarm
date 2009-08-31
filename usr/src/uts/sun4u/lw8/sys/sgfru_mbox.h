@@ -27,7 +27,7 @@
 #ifndef _SGFRU_MBOX_H
 #define	_SGFRU_MBOX_H
 
-#pragma ident	"@(#)sgfru_mbox.h	1.4	06/03/24 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)nlsadmin.h	1.4	05/06/08 SMI"	/* SVr4.0 1.15.1.3	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.15.1.3	*/
 
 /*
  * nlsadmin.h:  nlsadmin defines and structs

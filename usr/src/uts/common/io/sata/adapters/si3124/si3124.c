@@ -28,7 +28,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)si3124.c	1.5	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 
@@ -387,7 +387,7 @@ extern struct mod_ops mod_driverops;
 
 static  struct modldrv modldrv = {
 	&mod_driverops,	/* driverops */
-	"si3124 driver v1.5",
+	"si3124 driver v%I%",
 	&sictl_dev_ops,	/* driver ops */
 };
 

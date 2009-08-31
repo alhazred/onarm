@@ -33,7 +33,7 @@
  * under license from the Regents of the University of California.
  */
 
-#pragma ident	"@(#)des_soft.c	1.23	06/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Warning!  Things are arranged very carefully in this file to

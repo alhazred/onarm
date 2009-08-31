@@ -40,7 +40,7 @@
 #ifndef _NIS_CLNT_H
 #define	_NIS_CLNT_H
 
-#pragma ident	"@(#)nis_clnt.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

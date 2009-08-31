@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getpid.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"getpid.s"
+	.file	"%M%"
 
 /* C library -- getpid						*/
 /* pid_t getpid (void)						*/

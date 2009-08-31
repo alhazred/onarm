@@ -24,7 +24,7 @@
 # Use is subject to license terms.
 #
 
-# ident	"@(#)Makefile	1.1	06/11/21 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 
 #
 #	This file makes the atheros driver for an intel system

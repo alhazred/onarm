@@ -27,7 +27,7 @@
 #ifndef _ERROR_H
 #define	_ERROR_H
 
-#pragma ident	"@(#)error.h	1.6	05/08/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef  __cplusplus
 extern "C" {

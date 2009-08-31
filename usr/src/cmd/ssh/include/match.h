@@ -3,7 +3,7 @@
 #ifndef	_MATCH_H
 #define	_MATCH_H
 
-#pragma ident	"@(#)match.h	1.4	03/11/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

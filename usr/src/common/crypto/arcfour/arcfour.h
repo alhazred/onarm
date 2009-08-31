@@ -26,7 +26,7 @@
 #ifndef _ARCFOUR_H
 #define	_ARCFOUR_H
 
-#pragma ident	"@(#)arcfour.h	1.6	07/03/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

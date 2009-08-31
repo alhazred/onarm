@@ -26,7 +26,7 @@
 #ifndef	_SYS_IVINTR_H
 #define	_SYS_IVINTR_H
 
-#pragma ident	"@(#)ivintr.h	1.25	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

@@ -21,6 +21,6 @@
 #
 # CDDL HEADER END
 #
-#ident	"@(#)mapfile	1.1	07/09/18 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 hwcap_1 = fpu cmov mmx sse;

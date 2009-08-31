@@ -27,7 +27,7 @@
 #ifndef _UTIL_H
 #define	_UTIL_H
 
-#pragma ident	"@(#)util.h	1.4	07/05/09 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Utility functions and macros

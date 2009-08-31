@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)getpagesizes.c	1.1	07/10/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #pragma weak getpagesizes = _getpagesizes
 #pragma weak getpagesizes2 = _getpagesizes2

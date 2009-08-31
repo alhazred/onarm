@@ -34,7 +34,7 @@
 #ifndef _ONTARIO_H
 #define	_ONTARIO_H
 
-#pragma ident	"@(#)ontario.h	1.5	06/07/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

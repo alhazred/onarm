@@ -24,9 +24,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)resolvepath.s	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"resolvepath.s"
+	.file	"%M%"
 
 /* C library -- resolvepath					*/
 /* int resolvepath(const char *path, void *buf, int bufsiz)	*/

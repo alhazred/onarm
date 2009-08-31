@@ -26,7 +26,7 @@
 #ifndef _SYS_X86_ARCHEXT_H
 #define	_SYS_X86_ARCHEXT_H
 
-#pragma ident	"@(#)x86_archext.h	1.53	08/01/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if !defined(_ASM)
 #include <sys/regset.h>

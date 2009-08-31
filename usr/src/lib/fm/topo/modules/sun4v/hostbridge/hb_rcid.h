@@ -27,7 +27,7 @@
 #ifndef _HB_RCID_H
 #define	_HB_RCID_H
 
-#pragma ident	"@(#)hb_rcid.h	1.1	08/01/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

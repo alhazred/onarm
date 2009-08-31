@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)kwarnd_send.c	1.4	06/04/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<ctype.h>
 #include	<string.h>

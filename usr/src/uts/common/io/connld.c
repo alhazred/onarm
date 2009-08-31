@@ -31,7 +31,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)connld.c	1.38	05/06/08 SMI"	/* SVr4 1.8	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4 1.8 */
 
 /*
  * This module establishes a unique connection on

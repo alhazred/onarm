@@ -28,7 +28,7 @@
 #ifndef _INET_LED_H
 #define	_INET_LED_H
 
-#pragma ident	"@(#)led.h	1.38	05/10/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING: This file contains implementation-specific constants, typedefs

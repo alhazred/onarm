@@ -33,7 +33,7 @@
 #ifndef	_WIDEC_H
 #define	_WIDEC_H
 
-#pragma ident	"@(#)widec.h	1.26	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 

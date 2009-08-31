@@ -28,7 +28,7 @@
  *	All Rights Reserved
  */
 
-#ident	"@(#)obj_to_opt.c	1.7	05/06/08 SMI"       /* SVr4.0 1.4 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.4 */
 
 #include <stdio.h>
 #include <string.h>

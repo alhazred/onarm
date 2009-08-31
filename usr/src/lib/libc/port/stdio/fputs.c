@@ -27,7 +27,7 @@
 /*	Copyright (c) 1988 AT&T	*/
 /*	  All Rights Reserved  	*/
 
-#pragma ident	"@(#)fputs.c	1.25	08/01/03 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

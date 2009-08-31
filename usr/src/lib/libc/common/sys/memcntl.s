@@ -28,9 +28,9 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)memcntl.s	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
-	.file	"memcntl.s"
+	.file	"%M%"
 
 /* C library -- memcntl	*/
 /* int memcntl(caddr_t addr, size_t len, int cmd,

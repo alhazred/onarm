@@ -27,7 +27,7 @@
 #ifndef _CS_STRINGS_H
 #define	_CS_STRINGS_H
 
-#pragma ident	"@(#)cs_strings.h	1.16	05/06/08 SMI"
+#pragma ident	"%W%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

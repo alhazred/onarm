@@ -22,7 +22,7 @@
 # Copyright 2007 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)README.tools	1.18	07/10/23 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 This directory contains the tools used to do a full build of the
 OS/Net workspace.  They usually live in the /opt/onbld directory on build

@@ -31,7 +31,7 @@
 #ifndef	_SYS_SUNDDI_H
 #define	_SYS_SUNDDI_H
 
-#pragma ident	"@(#)sunddi.h	1.189	08/01/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Sun Specific DDI definitions

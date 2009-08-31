@@ -27,7 +27,7 @@
 #ifndef _SYS_PCATA_H
 #define	_SYS_PCATA_H
 
-#pragma ident	"@(#)pcata.h	1.15	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

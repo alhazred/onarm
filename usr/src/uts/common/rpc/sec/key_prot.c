@@ -29,7 +29,7 @@
  * It was generated using rpcgen.
  */
 
-#pragma ident	"@(#)key_prot.c	1.13	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <rpc/key_prot.h>
 /* @(#)key_prot.x	1.10 90/01/03 Copyright (c)  1990, 1991 SMI */

@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)xcalwd.c	1.5	05/10/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Excalibur fans watchdog module
@@ -133,7 +133,7 @@ static struct dev_ops xcalwd_dev_ops = {
  */
 static struct modldrv xcalwd_modldrv = {
 	&mod_driverops,			/* drv_modops */
-	"Excalibur watchdog timer v1.5 ",	/* drv_linkinfo */
+	"Excalibur watchdog timer v%I% ",	/* drv_linkinfo */
 	&xcalwd_dev_ops		/* drv_dev_ops */
 };
 

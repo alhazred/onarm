@@ -8,7 +8,7 @@
  *
  */
 
-#pragma ident	"@(#)util.c	1.1	07/02/01 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sm/gen.h>
 

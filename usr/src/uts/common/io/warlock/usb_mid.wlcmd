@@ -23,7 +23,7 @@
 # CDDL HEADER END
 #
 
-#ident	"@(#)usb_mid.wlcmd	1.8	06/11/15 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 one usb_mid
 one usba_device

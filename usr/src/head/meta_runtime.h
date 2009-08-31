@@ -27,7 +27,7 @@
 #ifndef _META_RUNTIME_H
 #define	_META_RUNTIME_H
 
-#pragma ident	"@(#)meta_runtime.h	2.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Declares functions that return the values of runtime

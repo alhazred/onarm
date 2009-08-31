@@ -45,7 +45,7 @@
 #ifndef	_NET_ROUTE_H
 #define	_NET_ROUTE_H
 
-#pragma ident	"@(#)route.h	1.24	07/08/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /* from UCB 8.5 (Berkeley) 2/8/95 */
 
 #include <sys/tsol/label.h>

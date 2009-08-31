@@ -26,7 +26,7 @@
 #ifndef _INETD_IMPL_H
 #define	_INETD_IMPL_H
 
-#pragma ident	"@(#)inetd_impl.h	1.12	08/02/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 
 /*

@@ -2,7 +2,7 @@
  * Copyright 1999 Sun Microsystems, Inc.  All rights reserved.
  * Use is subject to license terms.
  */
-#pragma ident	"@(#)parse.c	1.12	07/03/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /******************************************************************
 	Copyright 1989, 1991, 1992 by Carnegie Mellon University

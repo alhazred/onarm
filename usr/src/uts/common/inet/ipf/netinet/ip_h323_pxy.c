@@ -22,7 +22,7 @@
  *	ported to ipfilter 3.4.20 by Michael Grant mg-ipf@grant.org
  */
 
-#pragma ident	"@(#)ip_h323_pxy.c	1.3	07/01/19 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #if __FreeBSD_version >= 220000 && defined(_KERNEL)
 # include <sys/fcntl.h>

@@ -26,7 +26,7 @@
 #ifndef	_SYS_BOOTSTAT_H
 #define	_SYS_BOOTSTAT_H
 
-#pragma ident	"@(#)bootstat.h	1.3	07/11/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>
 

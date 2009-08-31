@@ -24,7 +24,7 @@
  *  Use is subject to license terms.
  */
 
-#pragma ident	"@(#)tnd.c	1.2	07/07/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <time.h>

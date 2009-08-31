@@ -28,7 +28,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#pragma ident	"@(#)msgs.c	1.15	06/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 # include	<stdarg.h>
 # include	<limits.h>

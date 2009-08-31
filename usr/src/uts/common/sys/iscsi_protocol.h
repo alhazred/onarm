@@ -26,7 +26,7 @@
 #ifndef _ISCSI_PROTOCOL_H
 #define	_ISCSI_PROTOCOL_H
 
-#pragma ident	"@(#)iscsi_protocol.h	1.1	06/06/20 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

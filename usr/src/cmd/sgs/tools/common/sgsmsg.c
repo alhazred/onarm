@@ -66,7 +66,7 @@
  *		the data array being built in msg.c.  The index into this array
  *		becomes the `message' identifier created in the msg.h file.
  */
-#pragma ident	"@(#)sgsmsg.c	1.18	08/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include	<fcntl.h>
 #include	<stdlib.h>

@@ -27,7 +27,7 @@
 #ifndef _SYS_SCSI_IMPL_USMP_H
 #define	_SYS_SCSI_IMPL_USMP_H
 
-#pragma ident	"@(#)usmp.h	1.1	07/12/28 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

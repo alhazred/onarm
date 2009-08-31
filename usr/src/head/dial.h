@@ -26,7 +26,7 @@
 #ifndef _DIAL_H
 #define	_DIAL_H
 
-#pragma ident	"@(#)dial.h	1.9	05/06/08 SMI"	/* SVr4.0 1.2	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.2	*/
 
 #ifndef IUCLC
 #include <sys/termio.h>

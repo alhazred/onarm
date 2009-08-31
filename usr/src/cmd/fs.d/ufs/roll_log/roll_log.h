@@ -27,7 +27,7 @@
 #ifndef	_ROLL_LOG_H
 #define	_ROLL_LOG_H
 
-#pragma ident	"@(#)roll_log.h	1.8	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/fs/ufs_fs.h>
 

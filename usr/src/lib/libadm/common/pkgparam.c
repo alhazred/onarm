@@ -26,7 +26,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)pkgparam.c	1.19	07/10/09 SMI"	/* SVr4.0 1.1 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.1 */
 /*LINTLIBRARY*/
 
 /*   5-20-92   newroot support added  */

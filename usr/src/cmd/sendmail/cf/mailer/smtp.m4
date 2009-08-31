@@ -10,7 +10,7 @@ PUSHDIVERT(-1)
 # forth in the LICENSE file which can be found at the top level of
 # the sendmail distribution.
 #
-#ident	"@(#)smtp.m4	1.10	01/08/27 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 #
 _DEFIFNOT(`_DEF_SMTP_MAILER_FLAGS', `mDFMuX')
 _DEFIFNOT(`SMTP_MAILER_FLAGS',`')

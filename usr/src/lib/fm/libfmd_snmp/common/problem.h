@@ -27,7 +27,7 @@
 #ifndef	_PROBLEM_H
 #define	_PROBLEM_H
 
-#pragma ident	"@(#)problem.h	1.1	06/01/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

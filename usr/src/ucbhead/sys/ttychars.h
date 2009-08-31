@@ -21,7 +21,7 @@
 #ifndef _SYS_TTYCHARS_H
 #define	_SYS_TTYCHARS_H
 
-#pragma ident	"@(#)ttychars.h	1.3	05/06/02 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

@@ -16,7 +16,7 @@ H
  * contributors.
  */
 
-#pragma ident	"@(#)termcap.ed	1.11	05/05/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Simulation of termcap using terminfo.

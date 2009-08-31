@@ -34,7 +34,7 @@
 #ifndef _SYS_DESDATA_H
 #define	_SYS_DESDATA_H
 
-#pragma ident	"@(#)desdata.h	1.12	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

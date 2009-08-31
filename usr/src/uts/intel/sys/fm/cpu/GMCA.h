@@ -27,7 +27,7 @@
 #ifndef	_SYS_FM_CPU_GMCA_H
 #define	_SYS_FM_CPU_GMCA_H
 
-#pragma ident	"@(#)GMCA.h	1.1	07/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef __cplusplus
 extern "C" {

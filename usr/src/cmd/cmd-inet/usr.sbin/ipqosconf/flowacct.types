@@ -23,7 +23,7 @@
 # CDDL HEADER END
 #
 
-#pragma ident	"@(#)flowacct.types	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 fmt_version 1.0
 mod_version 1.0

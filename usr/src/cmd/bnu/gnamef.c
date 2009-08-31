@@ -23,7 +23,7 @@
 /*	  All Rights Reserved  	*/
 
 
-#ident	"@(#)gnamef.c	1.7	05/06/08 SMI"	/* from SVR4 bnu:gnamef.c 2.6 */
+#ident	"%Z%%M%	%I%	%E% SMI"	/* from SVR4 bnu:gnamef.c 2.6 */
 
 #include "uucp.h"
 

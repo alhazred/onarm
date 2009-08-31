@@ -1,4 +1,4 @@
-#pragma ident	"@(#)chk_trans.c	1.5	05/09/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 /*
  * lib/krb5/krb/chk_trans.c
  *

@@ -27,7 +27,7 @@
 #ifndef	_SF880DRD_H
 #define	_SF880DRD_H
 
-#pragma ident	"@(#)sf880drd.h	1.4	05/08/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

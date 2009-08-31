@@ -27,7 +27,7 @@
 #ifndef _DHCP_SVC_PRIVATE_H
 #define	_DHCP_SVC_PRIVATE_H
 
-#pragma ident	"@(#)dhcp_svc_private.h	1.3	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Contains SMI-private interfaces to DHCP data service.  DO NOT SHIP!

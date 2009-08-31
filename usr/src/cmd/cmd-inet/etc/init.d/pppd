@@ -24,7 +24,7 @@
 # Copyright (c) 2000-2001 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#ident	"@(#)pppd	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 PATH=/sbin:/usr/bin:/usr/sbin; export PATH
 PPPDIR=/etc/ppp; export PPPDIR

@@ -19,7 +19,7 @@
 #
 # CDDL HEADER END
 #
-# ident	"@(#)vgrindefs.src	1.16	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 model|mod|m:\
 	:pb=^\d(space\d\p\drep)|(\p\dis|inline|public\dbeginproc):\

@@ -41,7 +41,7 @@
 #ifndef	_PRINT_H
 #define	_PRINT_H
 
-#pragma ident	"@(#)print.h	1.10	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifdef	__cplusplus
 extern "C" {

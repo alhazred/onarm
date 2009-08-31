@@ -26,7 +26,7 @@
 #ifndef _SYS_USB_USBSER_KEYSPAN_PIPE_H
 #define	_SYS_USB_USBSER_KEYSPAN_PIPE_H
 
-#pragma ident	"@(#)keyspan_pipe.h	1.2	06/08/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * USB pipe management (mostly device-neutral)

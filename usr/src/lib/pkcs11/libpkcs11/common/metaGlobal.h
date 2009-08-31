@@ -26,7 +26,7 @@
 #ifndef _METAGLOBAL_H
 #define	_METAGLOBAL_H
 
-#pragma ident	"@(#)metaGlobal.h	1.12	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains all the data structures used for the meta slot

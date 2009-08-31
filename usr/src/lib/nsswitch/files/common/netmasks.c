@@ -25,7 +25,7 @@
  * files/netmasks.c -- "files" backend for nsswitch "netmasks" database
  */
 
-#pragma ident	"@(#)netmasks.c	1.9	07/01/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * All routines necessary to deal with the file /etc/inet/netmasks.  The file

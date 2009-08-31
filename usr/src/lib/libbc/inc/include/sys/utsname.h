@@ -28,7 +28,7 @@
 /*        All Rights Reserved   */
 /*	from S5R2 6.1	*/
 
-#pragma ident	"@(#)utsname.h	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #ifndef	__sys_utsname_h
 #define	__sys_utsname_h

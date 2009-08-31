@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)usb_ac_dacf.c	1.17	07/01/15 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This is a dacf module for usb audio plumbing/unplumbing based
@@ -129,7 +129,7 @@ struct dacfsw usb_audio_dacfsw = {
 
 struct modldacf usb_audio_dacf = {
 	&mod_dacfops,	/* Type of module */
-	"USB_AC_DACF 1.17",
+	"USB_AC_DACF %I%",
 	&usb_audio_dacfsw
 };
 

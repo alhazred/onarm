@@ -26,7 +26,7 @@
 #ifndef _ACLUTILS_H
 #define	_ACLUTILS_H
 
-#pragma ident	"@(#)aclutils.h	1.7	07/11/13 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/acl.h>

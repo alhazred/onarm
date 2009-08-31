@@ -23,7 +23,7 @@
 # Use is subject to license terms.
 #
 
-#ident	"@(#)cron.xcl	1.3	07/06/18 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 msgid  ""
 msgid  "/etc/cron.d/at.allow"

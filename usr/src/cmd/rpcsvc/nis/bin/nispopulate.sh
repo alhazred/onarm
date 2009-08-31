@@ -24,7 +24,7 @@
 # Copyright (c) 1992-1997 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-# ident	"@(#)nispopulate.sh	1.17	05/06/08 SMI"
+# ident	"%Z%%M%	%I%	%E% SMI"
 #
 # nispopulate -- script to populate NIS+ tables
 

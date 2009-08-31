@@ -25,7 +25,7 @@
 #
 # usr/src/lib/pam_modules/deny/Makefile.com
 #
-#ident	"@(#)Makefile.com	1.2	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 LIBRARY=	pam_deny.a
 VERS=		.1

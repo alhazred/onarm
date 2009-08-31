@@ -29,7 +29,7 @@
  * Copyright (c) 2006 NEC Corporation
  */
 
-#pragma ident	"@(#)ptm.c	1.54	08/01/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * Pseudo Terminal Master Driver.
@@ -213,7 +213,7 @@ DDI_DEFINE_STREAM_OPS(ptm_ops, nulldev, nulldev, ptm_attach, ptm_detach,
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"Master streams driver 'ptm' 1.54",
+	"Master streams driver 'ptm' %I%",
 	&ptm_ops,	/* driver ops */
 };
 

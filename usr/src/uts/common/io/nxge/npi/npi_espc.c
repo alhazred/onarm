@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)npi_espc.c	1.4	07/07/04 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <npi_espc.h>
 #include <nxge_espc.h>

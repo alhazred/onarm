@@ -27,7 +27,7 @@
  *
  */
 
-#pragma ident	"@(#)crypto.c	1.5	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/note.h>
 #include "dh_gssapi.h"

@@ -27,7 +27,7 @@
 #	Copyright (c) 1999 by Sun Microsystems, Inc.
 #	All rights reserved.
 
-#ident	"@(#)calendar.sh	1.13	05/06/08 SMI"	/* SVr4.0 1.8	*/
+#ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.8	*/
 #	calendar.sh - calendar command, uses /usr/lib/calprog
 
 PATH=/usr/bin

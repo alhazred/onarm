@@ -28,7 +28,7 @@
  *      All rights reserved.
  */
 
-#pragma ident	"@(#)field_buf.c	1.7	05/06/08 SMI" /* SVr4.0 1.4 */
+#pragma ident	"%Z%%M%	%I%	%E% SMI" /* SVr4.0 1.4 */
 
 /*LINTLIBRARY*/
 

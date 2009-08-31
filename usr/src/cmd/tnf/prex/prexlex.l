@@ -23,7 +23,7 @@
  *	Copyright (c) 1994, by Sun Microsytems, Inc.
  */
 
-#pragma ident	"@(#)prexlex.l	1.20	05/06/10 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 %}
 
 %a 10000

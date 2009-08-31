@@ -32,7 +32,7 @@
  * Use is subject to license terms.
  */
 
-#ident	"@(#)chmod.c	1.4	05/06/08 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/isa_defs.h>

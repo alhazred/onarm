@@ -26,7 +26,7 @@
 #ifndef _ELF_H
 #define	_ELF_H
 
-#pragma ident	"@(#)elf.h	1.8	05/06/08 SMI"	/* SVr4.0 1.3	*/
+#pragma ident	"%Z%%M%	%I%	%E% SMI"	/* SVr4.0 1.3	*/
 
 #include <sys/elf.h>
 

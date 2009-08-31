@@ -26,7 +26,7 @@
  * Copyright (c) 1990 Mentat Inc.
  */
 
-#pragma ident	"@(#)ip6_ire.c	1.49	08/01/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains routines that manipulate Internet Routing Entries (IREs).

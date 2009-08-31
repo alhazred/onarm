@@ -24,7 +24,7 @@
 # Copyright (c) 1998 by Sun Microsystems, Inc.
 # All rights reserved.
 #
-#pragma ident	"@(#)gsscred_clean.ksh	1.4	05/06/08 SMI" 
+#pragma ident	"%Z%%M%	%I%	%E% SMI" 
 #
 # gsscred_db clean up script
 #

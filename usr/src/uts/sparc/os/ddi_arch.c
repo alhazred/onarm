@@ -25,7 +25,7 @@
  */
 
 
-#pragma ident	"@(#)ddi_arch.c	1.4	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * This file contains ddi functions common to sparc implementations

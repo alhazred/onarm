@@ -28,7 +28,7 @@
  *	All Rights Reserved
  */
 
-#ident	"@(#)exception.h	1.6	05/06/08 SMI"       /* SVr4.0 1.3 */
+#ident	"%Z%%M%	%I%	%E% SMI"       /* SVr4.0 1.3 */
 
 /*  include in .c file not in header file  abs 9/13/88
 #include	<termio.h>

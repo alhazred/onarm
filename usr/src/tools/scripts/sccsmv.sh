@@ -24,7 +24,7 @@
 # Copyright (c) 1993-1998 by Sun Microsystems, Inc.
 # All rights reserved.
 # 
-#pragma ident	"@(#)sccsmv.sh	1.2	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 #
 #	This script is to be used to move SCCS files and SCCS
 #	directories within a CodeManager workspace.  You 

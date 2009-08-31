@@ -37,7 +37,7 @@
  * contributors.
  */
 
-#pragma ident	"@(#)init_disp.c	1.7	05/06/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * init_disp contains the initialization code for the display package,

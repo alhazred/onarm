@@ -30,7 +30,7 @@
 #ifndef _UCONTEXT_H
 #define	_UCONTEXT_H
 
-#pragma ident	"@(#)ucontext.h	1.26	07/05/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/ucontext.h>
 

@@ -27,7 +27,7 @@
 #ifndef _GCPU_H
 #define	_GCPU_H
 
-#pragma ident	"@(#)gcpu.h	1.2	07/10/14 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <sys/cpu_module_impl.h>

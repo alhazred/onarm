@@ -31,7 +31,7 @@
 #ifndef	_XEN_SYS_PRIVCMD_H
 #define	_XEN_SYS_PRIVCMD_H
 
-#pragma ident	"@(#)privcmd.h	1.1	07/09/18 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * WARNING:

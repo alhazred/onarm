@@ -20,7 +20,7 @@
  * PERFORMANCE OF THIS SOFTWARE.
  */
 
-#pragma ident	"@(#)disp_status.c	1.5	07/08/06 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "gssapiP_krb5.h"
 #include "gss_libinit.h"

@@ -23,7 +23,7 @@
 # Copyright 2006 Sun Microsystems, Inc.  All rights reserved.
 # Use is subject to license terms.
 #
-#ident	"@(#)Makefile.com	1.5	06/02/11 SMI"
+#ident	"%Z%%M%	%I%	%E% SMI"
 
 .KEEP_STATE:
 .SUFFIXES:

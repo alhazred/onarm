@@ -27,7 +27,7 @@
  * Copyright (c) 2006-2008 NEC Corporation
  */
 
-#pragma ident	"@(#)sysmsg.c	1.15	07/10/25 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * System message redirection driver for Sun.
@@ -161,7 +161,7 @@ static boolean_t msglog_opened;
 
 static struct modldrv modldrv = {
 	&mod_driverops, /* Type of module.  This one is a pseudo driver */
-	"System message redirection (fanout) driver 1.15",
+	"System message redirection (fanout) driver %I%",
 	&sysm_ops,	/* driver ops */
 };
 

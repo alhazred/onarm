@@ -27,7 +27,7 @@
 #ifndef	_ZCONF_H
 #define	_ZCONF_H
 
-#pragma ident	"@(#)zconf.h	1.3	07/03/22 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/param.h>
 #include <sys/systm.h>

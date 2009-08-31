@@ -16,7 +16,7 @@
 /*	Portions Copyright(c) 1988, Sun Microsystems, Inc.	*/
 /*	All Rights Reserved.					*/
 
-#pragma ident	"@(#)script.c	1.13	05/08/08 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 /*
  * script: Produce a record of a terminal session.

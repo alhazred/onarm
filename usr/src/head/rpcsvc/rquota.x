@@ -23,7 +23,7 @@
  * Use is subject to license terms.
  */
 
-/* #ident	"@(#)rquota.x	1.4	05/06/10 SMI" */
+/* #ident	"%Z%%M%	%I%	%E% SMI" */
 
 /*
  * Remote quota protocol

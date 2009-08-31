@@ -30,7 +30,7 @@
 #ifndef _SPAWN_H
 #define	_SPAWN_H
 
-#pragma ident	"@(#)spawn.h	1.3	06/11/26 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/feature_tests.h>
 #include <sys/types.h>

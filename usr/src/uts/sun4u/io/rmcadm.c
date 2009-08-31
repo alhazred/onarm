@@ -24,7 +24,7 @@
  * Use is subject to license terms.
  */
 
-#pragma ident	"@(#)rmcadm.c	1.6	05/12/11 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/stat.h>
 #include <sys/conf.h>
@@ -94,7 +94,7 @@ extern struct mod_ops mod_driverops;
 
 static struct modldrv modldrv = {
 	&mod_driverops,			/* Type of module. This is a driver */
-	"rmcadm control driver v1.6",	/* Name of the module */
+	"rmcadm control driver v%I%",	/* Name of the module */
 	&rmcadm_ops			/* pointer to the dev_ops structure */
 };
 

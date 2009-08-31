@@ -26,7 +26,7 @@
 #ifndef	IPC_ACTION_H
 #define	IPC_ACTION_H
 
-#pragma ident	"@(#)ipc_action.h	1.5	07/01/16 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include <sys/types.h>
 #include <netinet/in.h>

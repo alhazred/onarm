@@ -39,7 +39,7 @@
  * Copied mostly from erstwhile lib/nametoaddr/tcpip/tcpip.c.
  */
 
-#pragma ident	"@(#)netdir_inet_sundry.c	1.32	05/06/29 SMI"
+#pragma ident	"%Z%%M%	%I%	%E% SMI"
 
 #include "mt.h"
 #include <stdlib.h>
