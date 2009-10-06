@@ -79,5 +79,14 @@ if (eval_option(WDT_ENABLE)) {
 	make_option("CORE_OBJS += wdt.o");
 }
 
+# TEM framework
+if (!eval_option(NO_TEM_FRAMEWORK)) {
+	make_option("CORE_OBJS += tem.o");
+	make_option("CORE_OBJS += tem_safe.o");
+	make_option("CORE_OBJS += 6x10.o");
+	make_option("CORE_OBJS += 7x14.o");
+	make_option("CORE_OBJS += 12x22.o");
+}
+
 # Never remove this line, and never put any character after this line.
 1;

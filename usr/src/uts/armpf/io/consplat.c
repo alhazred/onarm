@@ -104,6 +104,13 @@ plat_stdoutpath(void)
  * unused on ARM.
  */
 void
+plat_tem_get_inverses(int *inverse, int *inverse_screen)
+{
+	*inverse = 0;
+	*inverse_screen = 0;
+}
+
+void
 plat_tem_get_prom_font_size(int *charheight, int *windowtop)
 {
 	*charheight = 0;
