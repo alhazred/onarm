@@ -53,7 +53,7 @@ get_workspace_root()
 {
 	dir=`$PWD`
 	while [ ! -d $dir/usr -o ! -d $dir/usr/src -o \
-		! -f $dir/README.opensolaris ]; do
+		! -f $dir/usr/src/OPENSOLARIS.LICENSE ]; do
 	if [ $dir = "/" ]; then
 		echo "Can't detect workspace path." >&2
 		exit 1
