@@ -100,6 +100,7 @@ STRIP_COMMENTS=	$(INTERNAL_RELEASE_BUILD)
 # set __GNUC= in the environment to build 32-bit with the gcc compiler.
 # The default is to use the Sun Studio compiler for all processor types.
 __GNUC=		$(POUND_SIGN)
+$(__GNUC)__NON_GNUC     = $(POUND_SIGN)
 
 # set __GNUC64= in the environment to build 64-bit with the gcc compiler.
 # Inherit the __GNUC value by default, and if that is set to $(POUND_SIGN)
@@ -119,6 +120,7 @@ __SSNEXT=	$(POUND_SIGN)
 __GNU_LD=	$(POUND_SIGN)
 __GNULD=	$(POUND_SIGN)
 $(__GNU_LD)__GNULD=
+$(__GNULD)__NON_GNULD	= $(POUND_SIGN)
 
 # CLOSED is the root of the tree that contains source which isn't released
 # as open source
@@ -161,7 +163,6 @@ NAWK=		/usr/bin/nawk
 DD=		/usr/bin/dd
 CP=		/usr/bin/cp -f
 MCS=		/usr/ccs/bin/mcs
-ELFDUMP=	/usr/ccs/bin/elfdump
 CAT=            /usr/bin/cat
 ELFDUMP=	/usr/ccs/bin/elfdump
 M4=		/usr/ccs/bin/m4
@@ -169,7 +170,6 @@ STRIP=		/usr/ccs/bin/strip
 LEX=		/usr/ccs/bin/lex
 FLEX=		$(SFW_ROOT)/bin/flex
 YACC=		/usr/ccs/bin/yacc
-NM=		/usr/ccs/bin/nm
 CPP=		/usr/lib/cpp
 JAVAC=		$(JAVA_ROOT)/bin/javac
 JAVAH=		$(JAVA_ROOT)/bin/javah
@@ -506,6 +506,7 @@ sparc_IROPTFLAG		= -W2,-xwrap_int
 sparcv9_IROPTFLAG	= -W2,-xwrap_int
 i386_IROPTFLAG		=
 amd64_IROPTFLAG		=
+arm_IROPTFLAG		=
 
 IROPTFLAG		= $($(MACH)_IROPTFLAG)
 IROPTFLAG64		= $($(MACH64)_IROPTFLAG)
@@ -529,9 +530,12 @@ CFLAGS64=       $(COPTFLAG64) $($(MACH64)_CFLAGS) $(SPACEFLAG64) $(CCMODE64) \
 # Flags that are used to build parts of the code that are subsequently
 # run on the build machine (also known as the NATIVE_BUILD).
 #
-NATIVE_CFLAGS=	$(COPTFLAG) $($(NATIVE_MACH)_CFLAGS) $(CCMODE) \
+# NATIVE_CFLAGS=	$(COPTFLAG) $($(NATIVE_MACH)_CFLAGS) $(CCMODE) \
+#		$(ILDOFF) $(CERRWARN) $(C99MODE) $($(NATIVE_MACH)_CCUNBOUND) \
+#		$(IROPTFLAG) $(CGLOBALSTATIC)
+NATIVE_CFLAGS=	$($(NATIVE_MACH)_COPTFLAG) $($(NATIVE_MACH)_CFLAGS) $(CCMODE) \
 		$(ILDOFF) $(CERRWARN) $(C99MODE) $($(NATIVE_MACH)_CCUNBOUND) \
-		$(IROPTFLAG) $(CGLOBALSTATIC)
+		$($(NATIVE_MACH)_IROPTFLAG) $(CGLOBALSTATIC)
 
 DTEXTDOM=-DTEXT_DOMAIN=\"$(TEXT_DOMAIN)\"	# For messaging.
 DTS_ERRNO=-D_TS_ERRNO
@@ -1152,9 +1156,6 @@ CPPFORPO=$(COMPILE.cpp:\"$(TEXT_DOMAIN)\"=TEXT_DOMAIN)
 %_onc_plus:	%
 	@$(ECHO) "extracting code from $< ... "
 	sed -n -e '/ONC_PLUS EXTRACT START/,/ONC_PLUS EXTRACT END/p' $<  > $@
-
-$(__GNUC)__NON_GNUC	= $(POUND_SIGN)
-$(__GNULD)__NON_GNULD	= $(POUND_SIGN)
 
 STATIC_UNIX	= $(POUND_SIGN)
 USE_UTSTUNE	= $(POUND_SIGN)
