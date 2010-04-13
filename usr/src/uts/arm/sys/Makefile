@@ -29,9 +29,6 @@
 
 include ../../../Makefile.master
 
-# Remarks:
-#	localedef.h and lc_core.h was imported from i386 OpenSolaris.
-
 HDRS	=			\
 	archsystm.h		\
 	asm_linkage.h		\
@@ -50,8 +47,6 @@ HDRS	=			\
 	inline.h		\
 	kd.h			\
 	kdi_machimpl.h		\
-	lc_core.h		\
-	localedef.h		\
 	machelf.h		\
 	machlock.h		\
 	machsig.h		\
